@@ -1,0 +1,53 @@
+0.000000	7.254914	The Stern-Brocot tree is an idea in math.  It is like a Museum of Fractions that you can visit in your mind.
+7.254914	15.609852	An example of a fraction is one half, which is written as one over two, and is halfway between zero and one.
+15.609852	24.183352	All the positive fractions,  which are the all the fractions bounded between zero and infinity, can be found somewhere inside this museum.
+24.183352	29.217280	These boundaries also appear as fractions guarding the sides of the front door of the museum.
+29.217280	35.378399	To the left of the front door, zero is written as the lower boundary fraction zero over one.
+35.378399	41.616371	To the right of the front door, infinity is written as the upper boundary fraction one over zero.
+41.616371	48.200186	On the front door is written the symbol of the mediant.   It looks like a fraction of plus signs, plus over plus.
+48.200186	58.088718	To open the front door, first, we add across the top:  zero plus one equals one.  Then we add across the bottom:  one plus zero equals one.
+58.088718	65.940622	As the door opens, we see the fraction one over one,  also known as one itself, sitting in the middle of its room.
+65.940622	75.368030	When the door fully opens, we see two more doors with the symbol of the mediant, a door to the left and the other to the right of one over one.
+75.368030	78.903308	The boundary fractions get copied into the front room:
+78.903308	82.861282	zero over one is repeated to the left of the left door,
+82.861282	87.203526	and one over zero is repeated to the right of the right door.
+87.203526	92.327118	All the fractions between zero and one can be found somewhere behind the left door. 
+92.327118	97.860596	All the fractions between one and infinity can be found somewhere behind the right door.
+97.860596	102.945761	Both doors lead to a new and different room, deeper inside the museum.
+102.945761	108.863509	However the fraction we've just seen will never again appear in the middle of another room.
+108.863509	114.345752	To open the left door, we take the mediant of its boundary fractions, zero and one. 
+114.345752	117.804176	Adding across the top, zero plus one is one. 
+117.804176	121.608443	 Adding across the bottom, one plus one is two.
+121.608443	129.383493	As the door opens, we see the fraction one over two, also known as one half, sitting in the middle of its room.
+129.383493	135.045061	To open the right door, we take the mediant of its boundary fractions, one and infinity.
+135.045061	138.516294	Adding across the top, one plus one is two.
+138.516294	142.154044	Adding across the bottom, one plus zero is one.
+142.154044	149.416735	As the door opens, we see the fraction two over one, also known as two, sitting in the middle of its room.
+149.416735	154.476282	The boundary fractions get copied into the rooms we have just opened, same as before. 
+154.476282	160.867962	The middle fraction is to the right of the left door, so it becomes an upper boundary fraction in the left room.
+160.867962	166.593575	It's also to the left of the right door, so it becomes a lower boundary fraction in the right room.
+166.593575	175.290872	The two rooms we just opened each have two doors, for a total of four unopened doors. I'm going to open all four doors.
+175.290872	184.590190	The leftmost unopened door leads to all the fractions between zero and one half.  We open the door to find one over three, or one third.
+184.590190	192.813554	The next door leads to all the fractions between one half and one.   We open the door to find two over three, or two thirds.
+192.813554	200.550177	The next door leads to all the fractions between one and two, so we open the door to find three over two, or three halves
+200.550177	208.952867	The rightmost door leads to all the fractions between two and infinity, so we open the door to find three over one, or just three.
+208.952867	215.459829	In this garden of forking paths, the paths downward into the museum never ever come back together.
+215.459829	222.760946	No two doors lead to the same room, so behind each unopened door is a unique room we have not seen before.
+222.760946	234.788577	That room has two unseen doors, therefore every time we open a door, the number of unopened doors increases by two, in addition to decreasing by one for door we opened. 
+234.788577	241.935987	Two minus one is one, so the net effect is that the number of unopened doors increases by one.
+241.935987	248.314859	I had four unopened doors, and then I opened all four doors, so now I have eight unopened doors.
+248.314859	252.951709	After I open those eight doors, I will have sixteen unopened doors.
+252.951709	257.947210	And if I open those sixteen doors, I will have thirty-two unopened doors!
+257.947210	263.813723	We can explore this museum as long as we want and we will never run out of new rooms to explore.
+263.813723	267.886978	In fact, the more we explore, the more unopened doors we will have!
+267.886978	277.519330	Exploring one entire level of the museum before going deeper, like I am doing right now, is an example of a breadth-first search.
+277.519330	283.115252	Breadth-first search is a very important idea in computer science, math, and learning.
+283.115252	289.482916	A breadth-first search is a good way to learn what the museum looks like, because it doesn't skip any rooms.
+289.482916	295.451900	Because of this fact, and the fact that the the Stern-Brocot tree contains every fraction exactly once,
+295.451900	301.241558	we can find any fraction we want by exploring the museum long enough with a breadth-first search.
+301.241558	308.824473	But if we are looking for a specific fraction, a breadth-first search is very inefficient because it creates a lot of unnecessary work.
+308.824473	316.138400	It is a lot less work to walk directly to the room containing that fraction, only moving down and left, or down and right.
+316.138400	319.353454	That would be an example of a depth-first search.
+319.353454	324.938168	Depth-first search is another very important idea in computer science, math, and learning.
+324.938168	332.111196	These searches can skip rooms entirely,  which can make depth-first search efficient for finding something specific.
+332.111196	346.201179	In my next video, I will show you how to efficiently find the room of any specific fraction, using the Euclidean Algorithm as a guidebook to the museum of fractions that is the Stern-Brocot tree.
