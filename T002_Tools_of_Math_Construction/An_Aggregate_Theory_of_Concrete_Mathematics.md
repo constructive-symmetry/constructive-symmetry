@@ -3,7 +3,7 @@
 
 [Philosophy News Network: is Philosophy Useless?](https://existentialcomics.com/comic/365)
 
-In celebration of Rational Approximation Day 2022-07-22, and in the name of Reason and a Re-enlightenment, I offer this study guide. It is an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity. If you only ever read a single suggestion, I would ask that you read "Weapons of Math Destruction", as it is directly relevant to the state of the world today and the many contemporary challenges we face. I suspect a great many people should probably read "The Scout Mindset" first, as preparation. 
+In celebration of Rational Approximation Day 02022-07-22, and in the name of Reason and a Re-enlightenment, I offer this study guide. It is an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity. If you only ever read a single suggestion, I would ask that you read "Weapons of Math Destruction", as it is directly relevant to the state of the world today and the many contemporary challenges we face. I suspect a great many people should probably read "The Scout Mindset" first, as preparation. 
 
 My global suggestions consist of ten primary recommendations loosely divided into three major themes: inductive reasoning and self-awareness, ethics and morality, and the philosophy of math and science. These suggestions are "global" in the sense that I would recommend them to most people, with relatively few conditions or qualifications. 
 
@@ -17,12 +17,12 @@ Finally, in honor of my former classmate and dear friend Yuri Goldfeld, I extend
 
 This invitation extends to you personally, as well as the United States of America and all of human kind. Everybody deserves to be included in and benefit from math curriculum reform.
 
-In celebration of Rational Approximation Day 2022-07-22, I suggest cutting a pie into sevenths, and sharing it with six other friends, both new and old. May you have a blessed Rational Approximation Week, and a wonderful Rational Approximation Day.
+To celebrate, I suggest cutting a pie into sevenths, and sharing it with six other friends, both new and old. May you have a blessed Rational Approximation Week, and a wonderful Rational Approximation Day.
 
 [Philosophy News Network: Philosophy Solved](https://existentialcomics.com/comic/191)
 
 > Every difficult problem has a solution that is simple, neat, and wrong.
-
+>
 > paraphrased from H.L. Mencken
 
 ## Global Suggestions
@@ -61,24 +61,24 @@ For an invaluable overview of philosophy, I highly recommend "The Great Conversa
 The goal of my first theme is to introduce what George Pólya calls the _inductive attitude_:
 
 > In our personal life we often cling to illusions. That is, we do not dare to examine certain beliefs which could be easily contradicted by experience, because we are afraid of upsetting our emotional balance. There may be circumstances in which it is not unwise to cling to illusions, but in science we need a very different attitude, the _inductive attitude_. This attitude aims at adapting our beliefs to our experience as efficiently as possible. It requires a certain preference for what is matter of fact. It requires a ready ascent from observations to generalizations, and a ready descent from the highest generalizations to the most concrete observations. It requires saying "maybe" and "perhaps" in thousand different shades. It requires many other things, especially the following three. 
-
+>
 > First, we should be ready to revise any one of our beliefs.
-
+>
 > Second, we should change a belief when there is a compelling reason to change it.
-
+>
 > Third, we should not change a belief wantonly, without some good reason.
-
+>
 > These points sound pretty trivial. Yet one needs rather unusual qualities to live up to them.
-
+>
 > The first point needs "intellectual courage." You need courage to revise your beliefs. Galileo, challenging the prejudice of his contemporaries and the authority of Aristotle, is a great example of intellectual courage.
-
+>
 > The second point needs "intellectual honesty."  To stick to my conjecture that has been clearly contradicted by experience just because it is _my_ conjecture would be dishonest.
-
+>
 > The third point needs "wise restraint." To change a belief without serious examination, just for the sake of fashion, for example, would be foolish. Yet we have neither the time nor the strength to examine seriously all of our beliefs. Therefore it is wise to reserve the day's work, our questions, and our active doubts for such beliefs we can reasonably expect to amend. "Do not believe anything, but question only what is worth questioning."
-
+>
 > Intellectual courage, intellectual honesty, and wise restraint are the moral qualities of the scientist. 
-
-> G. Pólya, "Mathematics and Plausible Reasoning, Vol I: Induction and Analogy in Mathematics", Chapter 1, Section 4. See also "On Rearing Scholars" by Imre Lakatos, as translated by Ninon Leader as Appendix A of "For and Against Method" by Imre Lakatos and Paul Feyerabend, edited by Matteo Moterrelini.
+>
+> - G. Pólya, "Mathematics and Plausible Reasoning, Vol I: Induction and Analogy in Mathematics", Chapter 1, Section 4. See also "On Rearing Scholars" by Imre Lakatos, as translated by Ninon Leader as Appendix A of "For and Against Method" by Imre Lakatos and Paul Feyerabend, edited by Matteo Moterrelini.
 
 Properly respecting uncertainty and doubt, by learning how to hold onto uncertainty without unreasonably clinging to doubt, is a fundamental ingredient to making inductive reasoning work well. For a contemporary, easy to read, and compelling introduction to the _inductive attitude_, I highly recommend "The Scout Mindset" by Julia Galef. The author provides a brief video overview of her thesis in [Why you think you're right - even if you're wrong](https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong) TED talk.
 
@@ -133,19 +133,19 @@ I cannot imagine a more profound human tragedy than contemporary Christian escha
 On the topic of doughnuts, I suggest meditating on the Talmudic parable of The Oven of Akhnai, and "Sifting Through the Embers", a retelling of the fable of the Sibylline books found in Douglas Adams and Mark Carwardine's "Last Chance To See".  On the topic of meditations, I can't but help of thinking of Chidi's response to Simone's behavior in "The Good Place", and Yonatan Zunger's thoughtful essay "Tolerance is not a Moral Precept".
 
 > Chidi: No offense, but solipsism, as a philosophy, is pretty juvenile, especially for a person with multiple advanced degrees. And it's also impossible to refute, because everything you see is confirmed by your belief. However... [Chidi sticks his finger in Simone's frozen yogurt]
-
+>
 > Simone: Dude!
-
+>
 > Chidi: What? If none of this is real, then it really shouldn't matter, right? In fact... [Chidi boops her on the nose with his yogurty finger]
-
+>
 > Simone: Dude!
-
+>
 > Chidi: What? It's not real. None of this matters. Leave that on your nose for the rest of time.
-
+>
 > Simone: Fine. Point sort of taken.
-
+>
 > Chidi: You know, in a larger sense, if you go around acting like no one else matters, then you end up doing things like knocking over cakes, and pushing people into pools and just generally acting like a jerk. Why not treat them better, just in case they're real? I mean, what do you have to lose by treating people with kindness and respect?
-
+>
 > Simone: Okay. Keep talking, probably-fake but-maybe-real philosopher man.
 
 [The Philosophy Force Five vs the Scientismists](https://existentialcomics.com/comic/190)
@@ -225,7 +225,7 @@ For a more comprehensive, up-to-date resource about how to become a logician, I 
 [Good Cop, Pragmatist About the Nature of Truth Cop](https://existentialcomics.com/comic/115)
 
 > So you believe in that garbage, too—theories of knowledge, infinity, laws of probability. I can make no sense of it, and I don't believe you can either, and I don't think your god Peirce knew what he was talking about.
-
+>
 > - H.L. Mencken
 
 Charles Sanders Peirce was an American logician and philosopher in the pragmatist school of thought.  He was personally acquainted with William James and Bertrand Russell. He is also known for being an early pioneer in the philosophies of probability, statistics, and inductive logic. In the realm of deductive logic, Peirce's law `((A → B) → A) → A` is equivalent to the law of the excluded middle `A or not A`. Curiously, Scheme's `call-with-current-continuation` operator can be given a type that corresponds to Peirce's law.  This correspondence is part of the Curry-Howard isomorphism, named after Haskell Brooks Curry and William Alvin Howard.  The type theory of the simply typed lambda calculus corresponds to intuitionalistic logic. Thus, adding a typed `call/cc` to the underlying computational calculus results in a type theory that corresponds to classical logic.
@@ -276,19 +276,19 @@ Imre Lakatos's philosophy of science and mathematics is a rich source of wisdom,
 [Bertrand Russell Invents Analytic Philosophy](https://existentialcomics.com/comic/342) 
 
 > Language is the vehicle by which we express our thoughts, and the relation between those thoughts and our language is a subtle and involuted one. The nature of language actually shapes and models the way we think. [...]
-
+>
 > A language design should *at least* provide facilities which allow the comprehensible expression of algorithms: *at best* a language suggests better forms of expression. But language is *not* a panacea. A language cannot, for example, prevent the creation of obscure programs: the ingenious programmer can always find an infinite number of paths to obfuscation.
-
+>
 > - William Wulf (1977), via "Programming Language Concepts, 2/E" by Ghezzi and Jazayeri
 
 > In the best of worlds, an architecture emerges. Architects dig into the whys and wherefores and weigh the "what must be" against "what cannot be" until landscapes, or machinescapes, become evident, as with jigsaw puzzles. Then forms simply become obvious, the by-product of intent. A baseball is a near-perfect marriage of purpose and form. Its form suggests its use. A toddler finding a ball in his way will try and throw it. A cat will swat it.
-
+>
 > - Designing, in "The Limits of Software" by Robert Britcher
 
 > Caught in the middle are the ranks of humanities scholars who simply want to do good work in their fields; to read things, and think about what they mean; to tease out conclusions about the past and present through a careful analysis of evidence; to delve deeply into language, number, art, artifact, culture, and nature. This is what the arts have always been and done. This is what the university was established to do. [...]
-
+>
 > The confusion over the purpose of the humanities has nothing to do with their relevance. The humanities are no more or less relevant now than they ever were. It is not the humanities that we have lost faith in, but the economic, political, and social order that they have been made to serve. Perhaps we only demand a case for the humanities because we cannot fathom having to make a case for anything else.
-
+>
 > - Justin Stover, "There Is No Case for the Humanities"
 
 In this interlude I deconstruct an apocryphal proof of Bertrand Russell. I argue that even if an "argument from absurdity" is a formally correct material implication, the resulting theorem is itself often absurd in the dadaist non-sequitor sense of the word. Bertrand Russell is deservedly much more famous for _Russell's Paradox_, which revealed an inconsistency hidden inside Gottlob Frege's attempt at understanding mathematics in terms of a formal logic. Thus in a strict technical sense, Frege's first attempt at formal logic imploded into triviality, because Russell's Paradox provided the absurdity needed to prove every statement true, provided that it is syntactically correct. 
@@ -298,16 +298,16 @@ Two answers to Russell's paradox emerged: Russell's type theory, and Zermelo-Fra
 Kurt Gödel proved that it is impossible to definitively rule out the possibility of another black swan philosophical event like Russell's Paradox from occurring again in the future in most mathematical formalisms of interest, not least in ZFC set theory. Of course, such a black swan event may in fact be impossible, but we cannot ever know that for certain. As the language of naïve set theory is popular and used widely in modern mathematics, this leads some people, including my former self, to ask whether latent inconsistencies of the Russell-Gödelian type could cause modern mathematics to implode. However, my experience has lead me to embrace the Weak Paraconsistent Conjecture, which states that these concerns are implausible even if one assumes the existence of a latent inconsistency in ZFC set theory. So keep calm and carry on!
 
 > The story goes that Bertrand Russell, in a lecture on logic, mentioned that in the sense of material implication, a false proposition implies any proposition.
-
+>
 > A student raised his hand and said "In that case, given that 1 = 0, prove that you are the Pope."
-
+>
 > Russell immediately replied, "Add 1 to both sides of the equation: then we have 2 = 1. The set containing just me and the Pope has 2 members. But 2 = 1, so it has only 1 member; therefore, I am the Pope."
-
-> Taken from Andy Long's resources for learning MAT 385: Discrete Math at Northern Kentucky University, http://ceadserv1.nku.edu/longa/classes/mat385_resources/docs/russellpope.html  (2022-05-27)
+>
+> - Taken from [Andy Long's resources for learning MAT 385: Discrete Math at Northern Kentucky University](http://ceadserv1.nku.edu/longa/classes/mat385_resources/docs/russellpope.html)  (2022-05-27)
 
 > And I think that Russell was right, but that's irrelevant, friend.
-
-> Dessa, on the track "Low Light Low Life", on the album "Never Better" by P.O.S.
+>
+> - Dessa, on the track "Low Light Low Life", on the album "Never Better" by P.O.S.
 
 [Bertrand Russell Asks Out A Girl](https://existentialcomics.com/comic/416)
 
@@ -405,7 +405,7 @@ The long-term benefit to eliminating or reducing the relevance of "junk behavior
 
 Often, this philosophy seems to be practiced reasonably well in many of the programming language theory (PLT) communities notably including but not limited to Scheme, Haskell, and Rust.  However, this design philosophy seems widely neglected outside PLT: the Axiom computer algebra system, the PostgreSQL relational database system, and a handful of (mostly embedded) operating systems are a few notable examples that do quite well in this regard, relatively speaking.
 
-"Workflow" https://xkcd.com/1172/
+["Workflow"](https://xkcd.com/1172/)
 
 However, the fact is is that in any widely used software artifact, very few of those "junk" behaviors are entirely junk: eventually some other software developer starts relying on that specific behavior for the correct functioning of their own program. This can also be true of a "bug", which suggests a behavior deemed flatly incorrect, in contrast to "junk", which suggests a behavior deemed unintential. Then "fixing" or "eliminating" a bug or a junk behavior, can involve updating multiple downstream software artifacts, which in turn frequently involves stakeholders crossing many political and even temporal boundaries.
 
@@ -476,7 +476,7 @@ I'm pretty sure Leibniz's answer is "monads".
 [Good Omens meme]
 
 > Never forget in the story of Jesus, the hero was killed by the state
-
+>
 > - Dick Gregory, via Killer Mike, in "Walking in the Snow", on "Run The Jewels 4"
 
 I believe in the profoundly creative potential of taking two or more things that may initially seem to be contradictory, and instead of dismissing the combination outright, lean in to the contradiction and treat it like a riddle. You may come to believe that these two things aren't actually contradictory. Once in a while, you may even discover that these apparent contradictions are actually two sides of the same coin, and that there is insight to be gained by more deeply understanding their nuance and their interaction.
@@ -722,8 +722,8 @@ Perhaps this is part of the reason I have been slow to properly appreciate linea
 ## A research program for Aggregate Theories of Concrete Mathematics
 
 > The more ambitious plan may have a better chance of success.
-
-> George Pólya on the _Inventor's Paradox_, in "How to Solve It"
+>
+> - George Pólya on the _Inventor's Paradox_, in "How to Solve It"
 
 ### The initial core of the program
 
@@ -903,13 +903,13 @@ Among the theoretical possibilities in this category is a idea known as Objectiv
 So, could any or all of these theories contain elements of whatever it is that is ontologically real?  Each individual theory seems implausible, but stranger things have happened.
 
 > When I was young my father said to me: "Knowledge is Power... Francis Bacon"
-
+>
 > I understood it as "Knowledge is power, France is Bacon".
-
+>
 > For more than a decade I wondered over the meaning of the second part and what was the surreal linkage between the two? If I said the quote to someone, "Knowledge is power, France is Bacon" they nodded knowingly. Or someone might say, "Knowledge is power" and I'd finish the quote "France is Bacon" and they wouldn't look at me like I'd said something very odd but thoughtfully agree. I did ask a teacher what did "Knowledge is power, France is bacon" mean and got a full 10 minute explanation of the Knowledge is power bit but nothing on "France is bacon". When I prompted further explanation by saying "France is Bacon?" in a questioning tone I just got a "yes". At 12 I didn't have the confidence to press it further. I just accepted it as something I'd never understand.
-
+>
 > It wasn't until years later I saw it written down that the penny dropped.
-
+>
 > [Lard_Baron](https://franceisbacon.com)
 
 [The Life of Francis](https://existentialcomics.com/comic/183)
@@ -1435,9 +1435,9 @@ Peace out.
 [^sbt-undergraduate-retrospective]: In retrospect, I quite sure multiple people at Case, including Dr. Singer and Dr. Zhang, encouraged me to understand continued fractions, but I never did quite catch on. On the other hand, the Stern-Brocot tree is such a fertile idea that I can also easily imagine suggestions that in retrospect suggest it's connection to the Euclidean Algorithm, when there was no such intention behind the suggestion.
 
 [^barwiselakoff]:
-   Which is funny, because in Barwise and Moss's 1991 article on "Hypersets", Jon Barwise starts out by analogizing a hyperset with the continued fraction of the golden ratio. Amazingly, Lakoff and Núñez's "Where Mathematics Comes From" is a direct reason why I made this connection at all. I didn't review this book until I was deep into writing this study guide, and the bit about hypersets and continued fractions was the first page I accidentally turned to. Glancing at that, I immediately looked at the bibiliography and citations, followed the reference back, and reviewed Barwise and Moss's article for the first time.
+    Which is funny, because in Barwise and Moss's 1991 article on "Hypersets", Jon Barwise starts out by analogizing a hyperset with the continued fraction of the golden ratio. Amazingly, Lakoff and Núñez's "Where Mathematics Comes From" is a direct reason why I made this connection at all. I didn't review this book until I was deep into writing this study guide, and the bit about hypersets and continued fractions was the first page I accidentally turned to. Glancing at that, I immediately looked at the bibiliography and citations, followed the reference back, and reviewed Barwise and Moss's article for the first time.
 
-   It's really satisfying when ideas come back around full circle.  When I was struggling to get started with "Kevin Bacon and the Stern-Brocot tree", it wasn't until I really started thinking about George Lakoff's concepts of framing that I could find my voice.  I'm only referentially familiar with Lakoff's work on this matter, perhaps someday I'll get around to actually reading "Don't Think of an Elephant!"
+    It's really satisfying when ideas come back around full circle.  When I was struggling to get started with "Kevin Bacon and the Stern-Brocot tree", it wasn't until I really started thinking about George Lakoff's concepts of framing that I could find my voice.  I'm only referentially familiar with Lakoff's work on this matter, perhaps someday I'll get around to actually reading "Don't Think of an Elephant!"
 
 [^deductive-logic-and-the-aggregate-theory]:
     From a certain very strict notion of relevance that I have often worked from while writing this essay but can't quite explain, the six degrees of the primary aggregates (i.e. the tree, the triangle, and the square) doesn't seem to connect to formal logic until you get to graduate-level model theory and algebraic semantics. 

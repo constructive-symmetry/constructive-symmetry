@@ -1,28 +1,16 @@
-# Kevin Bacon and the Six Degrees of the Stern-Brocot tree
-# Paul Erdős and God's Textbook of Mathematics
-# An Aggregate theory of Concrete Mathematics; a computer-assisted human learning cadence
-# Symmetry as a Book of Algebra; Coding as the Art of Algorithms; Heuristics as a House of Wisdom
-# Stern-Brocot Museum of Fractions as a Rosetta Stone of Computer Science, Arithmetic, Algebra, Geometry, Calculus, and beyond.
-# Pascal's Triangle as a gateway to Statistics, Philosophy, and Science
-# The Consultant, the Genius, and Iterative Deepening: heuristics for efficient learning
-# Memory Tripods, Mnemonics and Spaced Repetition: heuristics for improving memory and recall
-# Creative Writing and Rhetoric: there is no Case for the Humanities!
+```
+   The Stern-Brocot tree as a Rosetta Stone between computer science, 
+         arithmetic, algebra, geometry, calculus, and beyond;
 
+            Translating New Math for Children (and Adults);
+  
+        Improving the foundation of the elementary curriculum:
 
+            An Aggregate Theory of Concrete Mathematics
+```
 
-
-
-
-
-# The Stern-Brocot tree as a Rosetta Stone between computer science, 
-#     arithmetic, algebra, geometry, calculus, and beyond;
-
-#        Translating New Math for Children (and Adults);
-
-#    Improving the foundation of the elementary curriculum:
-
-#         An Aggregate Theory of Concrete Mathematics
-
+| Concept | Metaphor | Historical Figures |
+| --- | --- | --- |
 | Stern-Brocot Tree | Museum of Fractions | Hermann Minkowski, Srinivasa Ramanujan |
 | Pascal's Triangle | Maze of Counting | Thomas Bayes, Paul Erdős |
 | Symmetry Group of the Square | Book of Algebra | W.K. Clifford, Emmy Noether |
@@ -31,9 +19,20 @@
 | Problem Solving | Project Euler | Leonhard Euler, Carl Fredrich Gauss |
 
 
-# Improving the content of the Elementary math curriculum:
-#  Sampling from the grand banquet of Modern Mathematics
+* Kevin Bacon and the Six Degrees of the Stern-Brocot tree
+* Paul Erdős and God's Textbook of Mathematics
+* An Aggregate theory of Concrete Mathematics; a computer-assisted human learning cadence
+* Symmetry as a Book of Algebra; Coding as the Art of Algorithms; Heuristics as a House of Wisdom
+* Stern-Brocot Museum of Fractions as a Rosetta Stone of Computer Science, Arithmetic, Algebra, Geometry, Calculus, and beyond.
+* Pascal's Triangle as a gateway to Statistics, Philosophy, and Science
+* The Consultant, the Genius, and Iterative Deepening: heuristics for efficient learning
+* Memory Tripods, Mnemonics and Spaced Repetition: heuristics for improving memory and recall
+* Creative Writing and Rhetoric: there is no Case for the Humanities!
 
+Improving the content of the Elementary math curriculum:  Sampling from the grand banquet of Modern Mathematics
+
+| Topic                   | Historical Figures |
+| --- | --- |
 | Units of Measurement    | James Clerk Maxwell, Lord Kelvin |
 | Dimensional Analysis    | Siméon Poisson, Joseph Fourier |
 | Types                   | Bertrand Russell, Alonzo Church, Haskell Curry, Robin Milner |
@@ -49,8 +48,6 @@
 | Computation             | Alonzo Church, Alan Turing, John von Neumann, Claude Shannon, Kurt Gödel |
 | Non-Euclidean Geometry  | Giovanni Saccheri, Gauss, Nikolai Lobachevsky, János Bolyai, Bernhard Reimann |
 | Mathematical Physics    | W.K. Clifford, Hendrik Lorentz, Henri Poincaré, Albert Einstein, Hermann Minkowski, Emmy Noether |
-
-
 | Modern Algebra           | Lagrange, Hamilton, Jordan, Klein, Abel, Emmy Noether |
 | Thermodynamics           | Sadi Carnot, William Thomson, Rudolf Clausius, James Maxwell, Luwig Boltzmann, Willard Gibbs, Gustav Zeuneur, Johannes van der Waals |
 | Statistical Mechanics    |  | 
@@ -66,8 +63,10 @@
 | Concurrency      | Carl Adam Petri, C.A.R. (Tony) Hoare, Robin Milner | 
 | Modern Logic     | Saul Kripke, André Joyal |
 
-# A very impressionistic sketch of my pre-calculus math curriculum
+A very impressionistic sketch of my pre-calculus math curriculum
 
+| Topic                   | Historical Figures |
+| --- | --- |
 | Arithmetic  | Euclid, Āryabhaṭa, al-Khwārizmī, Fibonacci, Sacrobosco, Stevinus, Napier |
 | Algebra     | al-Khwārizmī, Rafael Bombelli, Gottfried Wilhelm Leibniz |
 | Geometry    | Euclid, Āryabhaṭa, al-Khwārizmī, Abū al-Wafā, Rene Descartes, Leonhard Euler |
@@ -77,125 +76,13 @@
 | Permutations | Anuyogadvāra-sūtra, Sefer Yetzirah, Al-Khalīl | 
 | Combinations  | Pingala, Mahāvīra, Bhaṭṭotpala, Omar Khayyám, Yang Hui, Niccolò Fontana Tartaglia |
 
-
-# Symmetry Group of the Square
-   Basic Algebra
-      * D4 is not commutative, commutativity is not trivial or tautological
-      * D4 is associative, associativity is not the same thing as commutativity
-      * D4 among the simplest concrete examples of a non-abelian group
-      * Rotating a rectangle conserves area, commutativity of multiplication
-      * Rotating a brick conserves volume, associativity of multiplication
-      * implement D4 as a car on a circular track with four stops
-         * our first concrete examples of a:     
-            * semidirect product, Z_4 ⋊ {+,-}
-            * modular arithmetic (mod 4)
-         * generalizing to D_n, and Dih(Z)
-         * dihedral operator adds a hysteresis of orientation
-   Geometry, Linear Algebra
-      * cartesian coordinates, x-axis, y-axis
-      * linear transformations, rotations, trigonometric addition formulas
-      * D4 ≅ ({+,-} ⨯ {+,-}) ⋊ S_2
-      * group action of D4 on Z⨯Z
-      * implement D4's action as multiplication of 2⨯2 matrix with 2⨯1 vector 
-      * implement addition on D4 as 2⨯2 matrix multiplication
-      * determinants and orientation
-      * general linear transformations of the plane  GL(2,R)
-      * euclidean isometries of the grid,  Z^2 ⋊ D4
-      * affine transformations of the plane,  R^2 ⋊ GL(2,R)
-      * homogeneous coordinates, augmented matrices
-      * 3x3 matrix multiplication
-      * General Linear Groups
-      * Projective Geometry
-   Trigonometry
-      * cartesian coordinates, real-axis, imaginary-axis
-      * matrix arithmetic
-      * rotations
-      * complex arithmetic
-      * unit circle
-      * euler's identity, trigonometric addition formulas
-      * exponentials and logarithms
-   Euclidean Isometries
-      * Symmetries of Regular Polygons
-         * generalized dihedral operator, Dih(Z) = Z ⋊ {+,-}
-         * Dihedral Groups D_n ≅ Dih(Z_n)
-         * Modular Arithmetics Z_n = Z / nZ
-         * Quotient Algebras
-         * Dih(G) is not associative for non-abelian G
-      * Symmetries of the Line ≅ Dih(R)
-      * Symmetries of the Circle ≅ O(2) ≅ Dih(R / 2𝜋Z)
-         * Chaotic Dynamical Systems
-      * Symmetries of the Plane ≅ R^2 ⋊ O(2)
-      * Symmetries of the Cube, m3m
-         * octahedral group, O_h ≅ {+,-}^3 ⋊ S_3
-         * chirality, determinants
-         * wreath product  O_h ≅ {+,-} ≀ S_3
-            * D4 ≅ {+,-}^2 ⋊ S_2 = {+,-} ≀ S_2
-            * Lamplighter Group {+,-} ≀ Z
-      * Symmetries of 3D Euclidean Space ≅ R^3 ⋊ SO(3)
-   Abstract Symmetries
-      * Algebraic properties, e.g. 
-         * commutative
-         * associative
-         * distributive
-         * morphisms
-      * Permutations as Symmetries as Isomorphisms of Sets
-         * bijections, 1-1 correspondence, 1-1 and onto functions
-         * symmetric group S_n,  permutation group
-         * permutations, factorial
-         * combinations, binominal coefficients, Pascal's Triangle
-         * quotient algebras
-         * Cayley's Theorem, Yoneda's Lemma
-         * Cantor Equivalence, isomorphisms of infinite sets
-      * Symmetries of the Stern-Brocot tree
-         * loop invariants, coinduction over a coalgebra
-         * breadth-first search
-             * isomorphism of sets between Q and Z
-             * Stern-Brocot representations, SL(2,N) 
-         * left-right-reciprocal is an outer automorphism
-         * anti-diagonal transpose switches to Calkin-Wilf tree
-      * Symmetries of Pascal's Triangle
-         * swap left to right:  different room, same number
-         * binomial theorem, binomial series
-         * generating functions
-         * integer valued polynomials
-         * hypergeometric summation
-      * Automorphisms of D_4
-         * D_4 is isomorphic to it's own automorphism group
-         * This property isn't unusual
-         * D_4 and Dih(Z) are unusual examples of this property
-      * General Automorphisms
-         * Generalized Semidirect Products
-         * Outer vs Inner Automorphisms
-         * Complete Groups 
-         * D_4, Dih(Z), and S_6
-   Non-Euclidean Geometries
-      * The Stern-Brocot free monoid SL(2,N)
-      * The general linear group GL(2,Z)
-      * The modular group PSL(2,Z)
-      * The isometries of the hyperbolic plane PGL(2,R) 
-      * The Möbius transformations PGL(2,C) = PSL(2,C)
-   Abstract Geometries
-
-# Classical Roman liberal arts education
-   * Trivium
-      * Grammar  (Latin)
-      * Logic 
-      * Rhetoric
-   * Quadrivium
-      * Arithmetic
-      * Geometry
-      * Music
-      * Astronomy
-
 # The Six Degrees of Kevin Bacon
 
 You might be asking, why should we care about the Stern-Brocot tree?  Why should we care about this Museum of Fractions?
 
-Well, the Stern-Brocot tree is the Kevin Bacon of elementary arithmetic.[^Ramanujan]
+Well, the Stern-Brocot tree is the Kevin Bacon of elementary arithmetic.[^ramanujan]
 
 Or, as I imagine Paul Erdős might be saying, the Stern-Brocot tree is near the front of God's Textbook of Mathematics.
-
-20s
 
 I am referring to the Six Degrees of Kevin Bacon.  Kevin Bacon is a famous actor who has appeared on screen in many different productions, including the movie "Apollo 13", in which  Tom Hanks also appears.  So Tom Hanks and Kevin Bacon are linked via Apollo 13.
 
@@ -203,79 +90,43 @@ Tom Hanks also appeared in the movies "Who's Got Mail" with Meg Ryan,  and in "F
 
 Meg Ryan is also directly linked to Kevin Bacon, because they both appeared in the movie "In the Cut".  Robin Wright has many such indirect links of length 2 back to Kevin Bacon: for example, Robin Wright was in "Hurlyburly" with Meg Ryan, and in "The Princess Bride" with Wallace Shawn, who appeared in "Starting Over" with Kevin Bacon.
 
-57s
-
-The Oracle of Bacon is a website that tries to track every performer's connections via movies to every other performer.  It scrapes Wikipedia to obtain the data that it uses.  This oracle has no difficulty finding many such links of length two between Robin Wright and Kevin Bacon.  However, according the oracle, Robin Wright has no such direct link to Kevin Bacon at present. [^NewYorkILoveYou]
-
-1m23
+The Oracle of Bacon is a website that tries to track every performer's connections via movies to every other performer.  It scrapes Wikipedia to obtain the data that it uses.  This oracle has no difficulty finding many such links of length two between Robin Wright and Kevin Bacon.  However, according the oracle, Robin Wright has no such direct link to Kevin Bacon at present. [^newyorkiloveyou]
 
 So a performer's "Bacon Number" is the length of a shortest path from that performer back to Kevin Bacon.  Thus Kevin Bacon himself has a Bacon number of zero,  Tom Hanks, Meg Ryan, and Wallace Shawn have Bacon numbers of one, and Robin Wright has a Bacon number of two.
 
-1m41
-
 Of course, the selection of Kevin Bacon as the "root" of the Six Degrees is arbitrary, we could play the Six Degrees of Robin Wright just as easily.   In this game,  Robin Wright has a Wright Number of zero,  Tom Hanks, Meg Ryan, and Wallace Shawn have Wright numbers of one,  and Kevin Bacon has a Wright number of two.   If Kevin Bacon ever appears in a hypothetical future movie that Robin Wright also appears in,  then someday Kevin Bacon could also have a Wright number of one.
-
-2m11
 
 Part of the appeal of this game is that each link naturally combines three things together into a little story, which are built up into larger stories, which enhances memory and recall of a corpus of knowledge.  I call this a "Memory Tripod", but this is nothing new.  Greek and Roman philosophies have long recognized the value of various mnemonics and heuristics to enhance the art of memory.  In the study of Rhetoric, there is the Method of Loci, to enhance memory by a physical location, real or imagined. Today, sometimes this is called a memory palace.  These are examples of elaborative encoding.  Variations on elaborative encoding have long been widely appreciated, both in classical scholarship of Grammar and Rhetoric, two legs of the Trivium, and also in the modern departments of English and Creative Writing.
 
-2m39
-
-In the context of the Six Degrees, Kevin Bacon is a MacGuffin, a plot device to motivate the game.  The game should highlight just how connected we are to each other.  The Oracle of Bacon demonstrates that the overwhelming majority of cataloged performers, no matter how obscure, have a Bacon number of six or less.  When you extend the notion of what counts as a "connection" to social situations, you get a social game that, when at its best, should help us understand and appreciate how we are connected to each other.[^CradleOfKumankind]
-
-3m13
+In the context of the Six Degrees, Kevin Bacon is a MacGuffin, a plot device to motivate the game.  At it's best, the game highlights just how connected we are to each other.  The Oracle of Bacon demonstrates that the overwhelming majority of cataloged performers, no matter how obscure, have a Bacon number of six or less.  When you extend the notion of what counts as a "connection" to social situations, you get a social game that, when at its best, should help us understand and appreciate how we are connected to each other.[^cradleofhumankind]
 
 When it comes to choosing a MacGuffin for a Six Degrees game, not all choices are the same.  Not all choices are similar, either, but it wouldn't make much a difference to play the Six Degrees of Kevin Bacon or the Six Degrees of Robin Wright, or Wallace Shawn or Tom Hanks or Meg Ryan.  These are all high-profile, well-known performers.
 
-3m38
-
 Let's introduce a somewhat arbitrary statistic into our domain of discourse:  let's take each individual performer cataloged in the database, compute the Robin Wright number for each performer, and then average the Wright number among all those hundreds of thousands of performers.  Thus, in the Six Degrees of Robin Wright, the average Wright number is just over 3.  The other performers I've mentioned have a very similar statistic.  The actor with the smallest such statistic is Christopher Lee.  In the Six Degrees of Christopher Lee, the average Lee number is just under 3.  It's quite difficult to simply guess an actor with a high statistic:  even in the Six Degrees of Tommy Wiseau, the average performer has a Wiseau number just under 4.
-
-4m28
 
 But we should recognize that both this statistic and the Oracle of Bacon fail to provide any kind of definitive truth.  Rather, they provide a point of discovery.  The discovery is a starting point for lateral cross-checking and internal consistency-checking.   The discovery is a starting point for accounting honestly for the different types of uncertainty and doubt that we should or should not have regarding any conclusions we may wish to draw from the Oracle of Bacon.
 
-5m00
-
 These processes of discovery, investigation, lateral cross-checking, internal consistency-checking, and review are necessary for developing meaningful understandings of your domains of study.  And then, as I imagine the philosoper and mathematician William Kingdon Clifford might say, taking our epistemic responsibilities seriously require the wise application of logic, uncertainty, and doubt.  But of course, all the best tools that analytical philosophy and statistics have to offer are useless without starting with a commitment to honesty, and some understanding of all that entails.
-
-5m45
 
 # Paul Erdős and God's Textbook of Mathematics
 
 Paul Erdős was a famously eccentric mathematician who co-authored papers with a particularly large number of other people.  Just like Kevin Bacon and Robin Wright are good choices for the roots of a Six Degrees of Hollywood performers who have appeared in a movie together,  Paul Erdős is a good choice for a root of a Six Degrees of mathematicians who have published a paper together.   Much like the Six Degrees of Kevin Bacon is a whimsical social game, the Six Degrees of Paul Erdős is sometimes discussed among mathematicians and other researchers.  For example, my Erdős number is three, through Guo-Qiang Zhang and Rodney Canfield.
 
-40s
-
 Paul Erdős famously used "God's Book of Proofs" as a metaphor for a book containing the clearest, most concise, and most insightful proofs of every theorem.  I imagine God's Textbook of Mathematics as similarly fantastical book that understands exactly where a student is at, and rearranges itself to teach a student whatever the student wants to know in the most expedient fashion possible.  Alternatively, the textbook can suggest a topic to learn about, if the student so desires.
-
-1m11
 
 The closest approximation to interacting with God's Textbook that I have personally ever experienced, is talking with Dr. Julian Gevirtz, who is a teacher of mine I once had for Calculus at the Indiana Academy for Science, Mathematics, and the Humanities at Ball State University.  By saying "The Stern Brocot tree is near the front of God's Textbook of Mathematics", I'm stating a conjecture that if a student doesn't already know about the Stern-Brocot tree, then in the overwhelming majority of cases, that would soon change if the student was learning from the Textbook.
 
-1m48
-
 For an idea to be near the front of God's Textbook of Mathematics, it must be an ideal root for a Six Degrees game.  It must be a hypercollaborator, and well connected to diverse topics in higher mathematics.  Is the idea equally at home in both continuous _and_ discrete math classes?  Well, that's a hint we might be onto a hypercollaborator.  Does the idea tie together ideas from many different topics in unexpected ways?   That's some of the best evidence that we have indeed found a hypercollaborator!
-
-2m20
 
 For an idea to be near the front of God's Textbook of Mathematics, it should ideally be a "power tool" of elementary mathematics in its own right.  And it should invite students to pick up and play with some of the other key power tools of mathematics, especially in Computer Science and Discrete Math, Geometry and Linear Algebra, Probability and Statistics, and even Calculus and Number Theory. I fully endorse Arthur Benjamin's call to teach Statistics before Calculus.  We would do well to broaden the mathematical curriculum before we encourage our students to go deep, and it seems like a wise heuristic to encourage most students to go deeper into Statistics before we encourage them to go deeper into Calculus.
 
-3m00
-
-For a idea to be near the front of God's Textbook of Mathematics for most students, it must be plausibly comprehensible to most people interested in learning math, no matter the age, skill, background, or preexisting level of knowledge.  Therefore, the idea must be made concrete, and must not be treated abstractly.  It must be relatively "small", and not depend on complicated ideas and abstractions.  We as teachers must work diligently to apply Ardila's Axioms and the philosophy of Fred Rogers to our approach and presentation of the material.   And we as teachers must work hard to make the idea as tangible as possible using whatever linguistic metaphors and cultural artifacts that are available to the target audience.  Thus, the Stern-Brocot tree is like a Museum of Fractions,  Pascal's Triangle is like a Maze of Counting, and the Symmetry Group of the Square is like a Book of Algebra.  Choosing a metaphor is hard work.  Choose poorly, and the metaphor falls apart quickly,  but choose well, and the metaphor has a better chance of being durable enough to construct a memory tripod in the mind of a student.
-
-4m15
+For a idea to be near the front of God's Textbook of Mathematics for most students, it must be plausibly comprehensible to most people interested in learning math, no matter the age, skill, background, or preexisting level of knowledge.  Therefore, the idea must be made concrete, and must not be treated abstractly.  It must be relatively "small", and not depend on complicated ideas and abstractions.  We as teachers must work diligently to apply Ardila's Axioms[^ardilasaxioms] and the philosophy of Fred Rogers to our approach and presentation of the material.   And we as teachers must work hard to make the idea as tangible as possible using whatever linguistic metaphors and cultural artifacts that are available to the target audience.  Thus, the Stern-Brocot tree is like a Museum of Fractions,  Pascal's Triangle is like a Maze of Counting, and the Symmetry Group of the Square is like a Book of Algebra.  Choosing a metaphor is hard work.  Choose poorly, and the metaphor falls apart quickly,  but choose well, and the metaphor has a better chance of being durable enough to construct a memory tripod in the mind of a student.
 
 # An Aggregate Theory of Concrete Mathematics, and learning via a human-computer feedback loop
 
 The Museum of Fractions, the Maze of Counting, and the Book of Algebra are like the aggregates of concrete math.  Computer programming is like portland cement, and the water in this recipe is heuristics.
 
-12s
-
 Heuristics is wisdom that can help you analyze an issue and make more informed judgements about deciding which problem to solve, how to solve that problem, what to study next, and more.  A good heuristic is a wise rule of thumb, but no heuristic is an ironclad principle.  Heuristics can suggest a course of action, but they do not guarantee a solution.  Therefore a heurstic is not a proof, although they certainly lead to proofs.  A heuristic is not a discovery, though heuristics certainly lead to discoveries.
-
-50s 
 
 ## The beginning of God's Textbook?
 
@@ -289,23 +140,13 @@ Heuristics is wisdom that can help you analyze an issue and make more informed j
 
 Actually solving a problem yourself, often by writing short computer programs, is like mixing all these things together and pouring this hydrated mixture of concrete math into your mind.  Wait until the math hardens into a new understanding, and come back later and polish your understandings smooth with review and connect your understandings together with synthesis.  Do this enough times, and you will be left with a solid foundation in math, logic, statistics, and problem solving that can support deeper understandings of many things, not only science and mathematics, but also philosophy, astronomy, economics, history, business, accounting, ethics, medicine, and law.
 
-1m32
-
 This form of practice is often challenging, but potentially very enjoyable.  Writing short programs is an opportunity par excellence for active learning and inductive chain problem solving.  Project Euler is a internet-based problem set that is well known for promoting this method of learning.
-
-1m52
 
 Learning to pour your own concrete mathematics by writing computer programs enables a very powerful learning cadence built on a human-computer feedback loop.  I started typing programs written in BASIC into a Commodore 64 before kindergarden.  In elementary school, I would spend a lot of time in math class thinking about how to write programs, often related to the math that was being discussed.  Then I would go home and write programs in order to better understand what was being talked about in math class.
 
-2m25
-
 Playing computers and math off of each other is a methodology that can benefit many people, not only people perceived as smart.  If you put enough effort into this method to make it work, in the long run you can actually learn way more math with less effort.  In a very real sense, you can make yourself smarter.  A small difference in the rate of learning compounded over a decade or two of effort turns into huge differences in the end.  Thus, early exposure is preferred.
 
-3m00
-
 I believe that it is likely that this human-computer learning feedback loop can frequently get started in children far younger than we currently expect. In fact, I chose the aggregates I did by asking myself, what would I do if I had an hour to interact with myself as a 5-year old?   What about a day, or a week, possibly spaced over years?  Putting sensible, even austere limits on the scope of interventions under consideration certainly had a way of bringing priorities into sharp focus.
-
-3m30
 
 ## Part I: a computer-assisted human learning cadence
 
@@ -319,6 +160,7 @@ I believe that it is likely that this human-computer learning feedback loop can 
 8.  Repeat steps as appropriate.
 
 Mix it up:
+
    * find problems to solve
    * review past programs and solutions
    * make maps of things you might want to work on later
@@ -336,6 +178,7 @@ Mix it up:
 4. Heuristics are wise rules of thumb, not ironclad principles.  Break these rules as needed.
 
 Mix it up:
+
    * Have at least one uncommon tool in your toolbox of solutions
    * Have at least one uncommon question on your list of unsolved problems
 
@@ -361,27 +204,15 @@ Well, yes, yes I do, in the simplest and gentlest ways possible. I believe that 
 
 I do understand why these are common reactions, precisely because my eccentric points of view conflict with commonly held assumptions.  Learning math well often involves exposing hidden assumptions you may not have even been aware you were holding before the lesson began, finding ways to meaningfully modify those assumptions, and exploring the consequences of the new domain of discourse you find yourself in.
 
-55s
-
 Not only is this difficult mental work that can be quite exhausting, it can evoke strong reactions.  We all have some level of emotional attachment to our assumptions, and it's really difficult to be aware of the emotional attachments we have to the assumptions we aren't even aware that we are making.  It's not uncommon for students in this situation to react poorly, and I too have been that student.  On a few occasions, I have even witnessed good students react poorly.  So I understand.  Learning often involves extended periods of discomfort, especially when trying to establish a basic understanding of something new and very different from what you already know for the very first time.
-
-1m35s
 
 When I was a freshman in high school, on the first day of a mechanical drafting class, I remember my teacher Mr. Davis saying "a lot of people have asked me if geometry should be a prerequisite for drafting.  Well, my opinion is, if you've had geometry then that can help you in drafting, and if you've had drafting that can help you in geometry."  This comforted me, because I would not have geometry until the next year.
 
-2m05
-
 That was an idea that definitely stuck with me, and grew into the realization that when it comes to actual concepts, prerequisites are often much more ambiguous than they may seem at first.  Certain orderings of the material will lead to success more often than others, but there are almost always confounding variables that make careful comparisons difficult, even after the fact.  Even so, I would say my elementary education did a perfectly adequate job with sets, so thank you, new math efforts of the 1960s and 70s, your effects on my life is appreciated.[^counting]
-
-2m40
 
 In retrospect, I do believe mechanical drawing before geometry was the better choice:  taking drafting first allowed me to develop, practice, and hone my mental models for 3D geometry.  The drafting class focused on developing intuitive understandings, and provided several standard tricks from mechanical drawing that I found quite helpful in the much more proof-oriented (and two-dimensional) geometry class I had the next year.
 
-3m10
-
 This is an example of the more general heuristic that, as a rule of thumb, explanations should emphasize intuitive understandings of concrete examples in specific situations, and build towards more rigorous understandings of abstract examples in more general settings.[^exponential]
-
-3m30
 
 # The Book of Algebra: The Symmetry Group of the Square
 
@@ -389,19 +220,11 @@ By these criteria, we could do a much better job teaching the Symmetry Group of 
 
 But let's take this idea further: if we can figure out a way to teach D4 assuming nothing more than an intuition for the geometry of the physical world humanity inhabits, then we could push D4 much further down into the math curriculum.  Perhaps D4 could then be part of somebody's first introduction to the commutative property, cartesian coordinates and other basic concepts in algebra and geometry.  If this is to work, the standard circumlocutions typically used to introduce D4 have to be eliminated.  Years ago, I got very interested in simplifying this very explanation.  To solve that problem I ended up with a carefully designed visual pun.  Let me show you:
 
-1m20
-
 In order to understand a symmetry, sometimes you have to break it.  Start with a square piece of paper that is blank on both sides, like a book of algebra that is perfectly square.   Imagine a window over the 12 o'clock position on the book cover.  Draw a square in that window.  We'll call that square "the home square", and when the home square is in the 12 o'clock window, we'll say the piece of paper is in "home position".
-
-1m45
 
 Now, open the book.  Starting in home position, imagine the spine of an open book, running up and down vertically through the middle of the paper.  Now, flip the paper right-to-left around that vertical axis, almost like you were turning a page in that open book.  In the now-blank memory window, draw a square with a line down the middle for the spine.  The paper now remembers you opened it like a book.  Close the book by flipping the paper right-to-left around the vertical axis once more,  and double check that we are back in home position.
 
-2m20
-
 Next, rotate the paper 90 degrees clockwise, like the home square is an hour hand that now points to 3 o'clock.  The 12 o'clock window is now blank, so in the memory window we'll draw a square with a curved arrow pointing 90 degrees clockwise.  The paper now remembers how it got here, that you turned it 90 degrees clockwise away from home position.   Turn the paper back 90 degrees counterclockwise, and verify you are back in home position.
-
-2m50
 
 Repeat this process for the other three flips:  starting in home position, open the book like a legal-style notepad,  and flip the paper up-to-down around the horizontal axis.  Draw a memory in the window, a square with a horizontal line through it,  and then close the notepad using one smooth flip to get back to home position.  Then do the same for the two diagonal flips, and then for the other two rotations.   After you are done, you should have 8 depictions, one for each symmetry of the square, four on each side of the paper.
 
@@ -423,9 +246,8 @@ The second implementation of D4 is based on matrix multiplication.  I cannot ima
 
 #  Basic examples of mathematical operators of two parameters
 
-|-----------------|-------------------------|-------------------------------------------|
 |                 | Commutative             | Not Commutative                           |
-|-----------------|-------------------------|-------------------------------------------|
+| --------------- | ----------------------- | ----------------------------------------- |
 | Associative     | addition                | Q8, the quaternion group                  |
 |                 | multiplication          | D4, the symmetry group of the square      |
 |                 | vector addition         | matrix multiplication                     |
@@ -435,7 +257,6 @@ The second implementation of D4 is based on matrix multiplication.  I cannot ima
 |                 | boolean xnor gate       | S_n, the permutation group of n elements  |
 |                 | Z_n, modular arithmetic | S_6, the permutation group of 6 elements  |
 |                 | abelian groups          | non-abelian groups                        |
-|-----------------|-------------------------|-------------------------------------------|
 | Not Associative | boolean nand gate       | subtraction                               |
 |                 | boolean nor gate        | division                                  |
 |                 | rock-paper-scissors     | exponentiation                            |
@@ -445,7 +266,6 @@ The second implementation of D4 is based on matrix multiplication.  I cannot ima
 |                 |                         | abstract syntax trees                     |
 |                 |                         | Dih(G) for non-abelian group G            |
 |                 |                         | octonions                                 |
-|-----------------|-------------------------|-------------------------------------------|
                                                       
 addition, multiplication, subtraction, division, exponentiation on Z, Q, R, C (and quotient algebras thereof)
 
@@ -587,234 +407,245 @@ To the memory of Lois T. Clark (1922-2022), who had a heart and tongue of gold. 
 
 She enjoyed saying "Good, better, best. Never let it rest, until your good is better, and your better is best." I am blessed to be able to say that Lois is both a dear friend of mine, and also a personal friend of mine.
 
-# Footnotes
+# Notes 
 
-[^Ramanujan]:  Of course, associating Kevin Bacon with the Stern-Brocot tree is a totally arbitrary MacGuffin I'm using to tap into an existing cultural metaphor.  A historically meaningful metaphor would be remembering Srinivasa Ramanujan (1920) and Āryabhaṭa (circa 499 C.E.)  See my footnote on the video "A tour of the Stern-Brocot tree, a Museum of Fractions" for a more detailed historical overview.
+## Classical Roman liberal arts education
+   * Trivium
+      * Grammar  (Latin)
+      * Logic 
+      * Rhetoric
+   * Quadrivium
+      * Arithmetic
+      * Geometry
+      * Music
+      * Astronomy
 
-How many different ways are there to assign six performers to the six ingredients in my aggregate theory of mathematics, so that performers and ideas are put into an exact one-to-one correspondence?
-
-Rephrasing the above question in a more abstract and advanced way:  how many elements are there in the symmetric group of permutations S_6, the number of distinct bijections on a set of six elements?  It turns out that S_6 is the only finite permutation group that has an outer automorphism.  Understanding what that means and why that is, turns out to be very interesting.
-
-[^NewYorkILoveYou]:  Both Kevin Bacon and Robin Wright appeared in the film "New York I Love You", as it was screened at the 2008 Toronto Film Festival.  This film was an anthology of 14 short films, with Kevin Bacon and Robin Wright appearing in different shorts.  However, before it was released, several of the short films were cut, and the short that Kevin Bacon appeared in was among them.   The Oracle of Bacon does not recognize that Kevin Bacon is connected to "New York I Love You".  So, there is an argument that Kevin Bacon already has a Wright number of one, if we go by film festival screenings.
-
-On the other hand, Kevin Bacon's scene in "Starting Over", in which Wallace Shawn appeared, was also cut from the final release.  Kevin Bacon never actually appeared in the movie, although his name does appear in the credits, and this movie is the only movie that the Oracle of Bacon recognizes as a direct connection between Kevin Bacon and Wallace Shawn.  So there's an argument that this connection is kind of weak, and maybe Kevin Bacon shouldn't have a Shawn number of one.
-
-However, both Robin Wright and Wallace Shawn's Bacon numbers are certainly 2 or less.  For example, Robin Wright and Wallace Shawn were in the "Princess Bride" with Christopher Guest, who was in "A Few Good Men" with Kevin Bacon.
-
-There is no definitively "correct" answer to what Kevin Bacon's Wright number and Shawn number is, because that depends on the assumptions we are making about what counts as a "connection".  Should credits for appearances in scenes cut from release count?  What about uncredited appearances?  Should film festival screenings count?  Should film anthologies really be a connection between performers that appeared in different shorts?  If anthologies don't count, should any film "connect" two performers that don't share any screen time together?   What if the performers never even met on set?
-
-When playing Six Degrees as a social game, connections should of course be "allowed", though qualitative assessments of the connections can be interesting.  However, when it comes to creating, using, and supervising computer-based golems such as the Oracle of Bacon, its vitally important to discuss, understand and even be pendantic about what assumptions are being made.  Then you need wisdom and domain knowledge to assess whether those assumptions are a reasonable fit for a given context or application.
-
-Even if a database has clear rubrics for making careful, precise judgments, and the database is carefully curated, the real world is going to produce an edge case once in a while, and the answer may not be clear cut.  Sometime these edge cases can be a sign that the question itself needs to be revised, or eliminated.
-
-Every database of sufficient size is going to contain errors, and all rubrics are useless without curation.  What are the consequences of those errors?   We must be careful not to interpret the contents of a computer database, or the output of a fancy algorithm, as providing any kind of definitive truth about the world.  While many databases and algorithms are useful, nearly all of them have signficant limitations.
-
-I consider Cathy O'Neil's book "Weapons of Math Destruction" to be required reading to be an responsible and informed citizen or knowledge worker in today's world.  As William Kingdon Clifford just might say, the modern world would do well to learn to be less distracted by the blinkenlights, and take greater responsibility for the things we think, the things we do, and the things we say.
-
-[^CradleOfHumankind]: While I was writing this paragraph, I couldn't help but recall the song "Cradle of Humankind" by Flogging Molly.  Perhaps you would enjoy it.
-
-[^exponential]: Many people have advocated for the "concrete examples before abstract principles" heuristic to teaching mathematics.  Doron Zeilberger's Opinion 65 regarding Gelfand's principle has played a particularly strong role in my thinking about math pedagogy.  Daniel Friedman and Kent Dybvig have both themselves contributed strongly to my thinking.
-
-One likely exception to this rule of thumb is teaching exponentials and logarithms.  Young children certainly can get started with exponents and logarithms in terms of the integer powers of ten and the integer powers of two.  These are sufficient to introduce the terminology and give concrete examples of the basic algebraic properties these functions exhibit.
-
-Once it's time to extend the exponential and the logarithm to real numbers, I strongly suspect it's better to treat these operators abstractly, via their algebraic laws.  I suspect it's better to not get too caught up in how to rigorously define what's going on, or how to actually compute these functions.   At that point it's time to use the algebraic laws of exponentials and logarithms, play with a slide rule, and use a calculator or library routine, and call it a day.
-
-Or at least, that's what I believe in the context of the contemporary math curriculum.  I suspect that much like programming language design, curriculum design has choices with very non-linear consequences to contemplate.  I would say this assessment is very much worth reviewing, if someday the Stern-Brocot tree and computer programming becomes a mature part of the elementary curriculum.  After all, there are ways to calculate general exponentials using the Stern-Brocot tree that are conceptually simple, even if they are not efficient.  You certainly would not want to execute them by hand.
-
-Of course the unit circle and Euler's identity, and thus exponentials and complex arithmetic, are very important to trigonometry.  The same can be said of matrix arithmetic and a touch of linear algebra.
-
-Instead of postponing these ideas until later, I feel it's better to introduce matrix arithmetic and slide rules before trigonometry, and to introduce Euler's formula near the beginning of trigonometry, so that these ideas can be used when appropriate to simplify and accelerate the learning process.
-
-[^counting]:  The coverage of counting and combinatorics in my pre-calculus curriculum, on the other hand, left much to be desired.  Also, pretty much all of the history of combinatorics and counting is something I delved into myself, in the process of writing this video.  The standard curriculum often does a poor job regarding the history of mathematics in general, but the history of combinatorics is all but ignored.  But I was delighted when Emily Miller sent me a link to Victoria Hanna's song about the Sefer Yetzirah, which you might also enjoy.
-
-Although my elementary curriculum touched on combinatorics onced a while,  I almost feel like the often cursory coverage of counting, factorial, permutations, and combinations in Algebra 2 and pre-calc almost does more harm than good, as illustrated by the Bat, Buffalo, and Eagle problem I invented to highlight the issue:
-
-Say you have three US American quarters.  There are two sides to each quarter:  heads, which for the purposes of this problem are mutually indistinguishable among the three quarters, and then the tail sides consist of a bat, a buffalo, and an eagle.  How many different strings of three symbols can you make with those three quarters?
-
-This is not a particularly advanced counting problem, but it's got a complication that trips up many students who have only had the cursory (and inadequate) exposure to combinatorics typical of Algebra II and pre-calc classes in the United States circa the turn of the millenium.  But worse, many students apply what they think they know from those classes, attempt to solve the problem, and don't have a good enough feel for combinatorics to suspect that they are wrong,  and don't do enough critical examination of the answer to realize that they are wrong.
-
-I admit, I found combinatorics frustrating and yet exhilirating for years for this exact reason.  In combinatorics, not only is it easy to make mistakes, it can be difficult to understand that you made a mistake, let alone understand what that mistake is.  I overcame this hurdle via years of practice and a solid basis in discrete math, logic, set theory, and a touch of abstract algebra.   Still, I do think we can do a much better job than the approaches my classmates and I were taught.
- 
-This is undoubtably a complicated issue, and I'm not entirely satisfied with my own very incomplete ideas of how to introduce combinatorics.  But at the very least, Algebra II and Pre-Calc should better highlight the complications and pitfalls of the counting techniques they teach.
-
-But there is a very wise heuristic here:  you should not fully trust a concept or technique or model until you start to understand its limitations, until you start to understand the situations in which it doesn't apply.
-
-[^sternbrocotrepresentation]:  Note that while the conversion between matrices in SL(2,N) and a string-based Stern-Brocot representation can be efficiently computed,  the conversion itself is not necessarily efficient, because when converting from SL(2,N) to the Stern-Brocot string,  the output string can be exponentially bigger than the input.  For example, consider the SL(2,N) representation of say, a trillion, or 10^12.   While the matrix can be represented in less than 32 bytes,  the string would be one terabit, or 125 gigabytes long, as big as two and a half blu-ray movies.  This issue can be fixed by run-length encoding the Stern-Brocot representation,  essentially upgrading this representation to continued fractions.
-
-[^automorphisms]:  The matrices GL(2,Z) exactly represent automorphisms of the additive group Z^2.  These automorphisms are the most abstract and general notion of group symmetry available that preserves both the cartesian coordinate grid and the arithmetic of pointwise addition on integer vectors.  These automorphisms essentially tell us all the possible ways to extend Z^2 using a semidirect product and still be left with a group.  The semidirect product of Z^2 and GL(2,Z) can then be used to introduce affine transformations, homogenous coordinates, and projective geometry.
-
-[^modularforms]: The modular group PSL(2,Z) is also notable because of it's relationship to modular forms and the j-invariant, a complex holomorphic function first studied by Felix Klein.  These ideas are intimately related to elliptic curves.  Understanding this relationship more precisely is the Langlands program, one of the major research programs of contemporary modern mathematics.  Andrew Wiles' proof of Fermat's Last Theorem involved constructing and proving more precise understandings of a tiny part of this relationship.
-
-[^galilean]:  It's a bit more precisely accurate to say that a satellite's flight path is non-Galilean than it is to say it's non-Euclidean, but both statements are correct, and this is a rather non-trivial detail that's largely extraneous to the main argument being made.
-
-The Galilean group of Galilean transformations over a Euclidean spacetime is central to Newtonian mechanics, while the Lorentz and Poincaré groups of Lorentz transformations and translations of a Minkowski spacetime is central to the study of Relativity.
-
-We humans perceive the ground we stand on to be perfectly still, even though the Earth is moving through space while spinning on an axis.  Our perception of terra firma was behind the ancient Aristotalian justifications that the Earth was the unmoving center of the universe.  The Galilean transformation provides a justification of why this apparent contradiction from a common-sense logic that was well-regarded during the European renaissance, might not be a contradiction in fact.
-
-Galileo's (1564-1642) early work on the moons of Jupiter, which implied that Aristotelian physics is incorrect, was ultimately well received by Christopher Clavius (1538-1612).  Clavius was a Jesuit professor in the Collegio Romano, and the the most prominent astronomer and mathematician of the Catholic Church.  Clavius was well regarded at the time for his work on the Gregorian calendar reform, and notable even today for his tireless efforts in improving math education during the Renaissance.
-
-Galileo's later work involving a Copernican model of the solar system lead to two inquests by the Catholic Church, the first of which (1616) restricted his research and the second of which (1633) placed Galileo under house arrest for the remainder of his life, during which he wrote some of his most influential work.
-
-[^jesuitmathematics]: The anxiety that a mathematician would naturally feel while contemplating the possibility of an alternative to well-regarded theory is by no means the only plausible interpretation of Giovanni Sacherri's disclaimer.  Another is that Sacherri set aside his personal opinion on the matter, and felt such a disclaimer was necessitated by his elite position as a Jesuit priest.
-
-Any such anxiety about the possibility of hyperbolic geometry would clearly be amplified by Sacherri's priesthood, because in the context of Jesuit education of the early 18th century, contradicting Euclid was akin to contradicting God.  The reason goes back to the Reformation and Counter-Reformation, which saw the creation of the Society of Jesus, or Jesuits, as an order of the Roman Catholic Church.
-
-Christopher Clavius was an early member of the Collegio Romano and was responsible for making mathematics a respected part of the Jesuit educational curriculum.  Clavius himself set the first versions of exactly what math would and would not be taught at Jesuit institutions around the world.  As part of this project, Clavius used Euclidean geometry's apparent claim to "absolute truth", as an example of the "absolute truth" of (Roman Catholic) theology.
-
-The educational efforts of the Society of Jesus proved very popular and effective over the next few centuries, and Jesuit colleges became something the order was best known for.  Jesuit education spread this particular conflation between Euclid and theology widely around the world, and likely contributed to Carl Fredrich Gauss's reluctance to talk publicly about non-Euclidean geometry.  Carl Fredrich Gauss himself had a reputation as a land surveyor to uphold and defend.
-
-If Giovanni Sacherri considered the possibility of non-Euclidean geometry, then it seems rather plausible, perhaps even likely, that he never allowed himself to contemplate it deeply due to his institutional allegiance.
-
-For an introduction to Sacherri's political context, see Amir Alexander's "Infinitesimal: How a Dangereous Mathematical Theory Shaped the Modern World".  This book focuses on the conflicts that the Jesuits initially had with the early developments of calculus.   However, the book doesn't get as far as non-Euclidean geometry or Sacherri himself, as it focuses on the transition from the late Renaissance to the early Enlightmentment, from roughly 1500 to 1700.
-
-[^computerscience]: As I see computer science as a topic in mathematics, somewhat confusingly, I would include computer science in the list of things that are not necessarily scientific.
-
-Now, there are other opinions that I respect, and even agree with to varying degrees, advocating making the practice of mathematics more concrete, more experimental, and even more "scientific".  For example, Herbert Wilf's classic paper "Mathematics: An Experimental Science",  or some of Doron Zeilberger's opinions. 
-
-However I've seen a recurrent problem among mathematicians, computer scientists, and economists, who (quite correctly, in my opinion) see the rules of mathematics as quite arbitrary.  But a sizable subset of these overgeneralize the freedom that a mathematician has to choose their own rules, and apply that to scientific contexts.
-
-So, while the practice of mathematics certainly can be informed by the practice of science, and vice versa, I'm reluctant to call mathematics a "science" because we need to have a linguistic way to delineate the difference.  Clearly, science and mathematics are deeply related to each other!
-
-The thoughts inside our heads cannot be constrained by empirical realities. Mathematics must not be constrained by scientific realities.
-
-Conversely, neither the thoughts inside our heads nor the artifacts of our cultures have any causal effect on the rules of the universe.
-
-At it's best, mathematics is uncannily and peculiarly effective at understanding the rules of the universe, and some of the behaviors that can entail.
-
-Scientific contexts require a mindset that demand a more careful and critical empirical inspection of the assumptions required for a mathematical model to be ethical, desirable, and otherwise suitable for task.
-
-[^scientists]:  Although the misapplication of the trappings of science to faulty measurements and suspect contexts is indeed a real problem, a problem that I suspect is a significant driver of strife in our society, I would emphasize that it's often not professional scientists who are misapplying the notions of science.  (Though, clearly, sometimes it is.)
-
-
-# Less well edited notes
-
+## Integer Division
 Six answers to the question "What do you do with the result of an integer division?"
 
-1. The remainder _must_ be 0!
+1.  The remainder _must_ be 0!
 
-   Now, do you:
-   A. Ignore the quotient      B. Do something with the quotient
-      Divisibility                Reducing Fractions
-      Greatest Common Divisor
-      Relative Primality          Least Terms
-      Prime Numbers               Prime Factorizations
+    Now, do you:
 
-   The Euclidean Algorithm
-   |a * b| = lcm {a,b} * gcd {a,b}
-   Expanding fractions to like terms,  adding fractions
+    ```
+    A. Ignore the quotient      B. Do something with the quotient
+       Divisibility                Reducing Fractions
+       Greatest Common Divisor
+       Relative Primality          Least Terms
+       Prime Numbers               Prime Factorizations
+    ```
 
-   Sieve of Eratosthenes
-   Fundamental Theorem of Arithmetic
-   Naive Set Theory,  Propositional Logic
-   Multisets (or "bags")
+    The Euclidean Algorithm
+    |a * b| = lcm {a,b} * gcd {a,b}
+    Expanding fractions to like terms,  adding fractions
 
-   Partial Orders and Lattices, Meet and Join
-      divisibility is a partial order
-      greastest common divisor (gcd) is a meet
-      least common multiple (lcm) is a join
-      now we have a lattice over the positive integers
+    Sieve of Eratosthenes
+    Fundamental Theorem of Arithmetic
+    Naive Set Theory,  Propositional Logic
+    Multisets (or "bags")
 
-   Sieve Theory
+    Partial Orders and Lattices, Meet and Join
+       divisibility is a partial order
+       greastest common divisor (gcd) is a meet
+       least common multiple (lcm) is a join
+       now we have a lattice over the positive integers
 
-2. Carry the quotient, use the remainder as a digit
-   Multi-digit, place-value number systems
-   Efficient addition, subtraction, multiplication, and division algorithms
-   Binary arithmetic
-   Base-n arithmetic
-   p-adic arithmetics
+    Sieve Theory
 
-3. Keep the quotient, discard the remainder
-   Rounding
+2.  Carry the quotient, use the remainder as a digit
+    Multi-digit, place-value number systems
+    Efficient addition, subtraction, multiplication, and division algorithms
+    Binary arithmetic
+    Base-n arithmetic
+    p-adic arithmetics
 
-   approximate arithmetics
-      fixed-point
-      floating-point
-      unsigned machine words, modular arithmetic, 2s-complement signed arithmetic
-      saturating arithmetics
-      truncated continued fractions
-      convergents
-      semi-convergents
+3.  Keep the quotient, discard the remainder
+    Rounding
 
-   Numerical Analysis
+    approximate arithmetics
+       fixed-point
+       floating-point
+       unsigned machine words, modular arithmetic, 2s-complement signed arithmetic
+       saturating arithmetics
+       truncated continued fractions
+       convergents
+       semi-convergents
 
-4. Keep the quotient, treat the remainder like a numerator of a fraction
-   "mixed" versus "improper" fractions
-   decimalized fractions, De Thiende by Stevinus (1585 C.E.)
-   decimal-point arithmetic
-   binary radix-point arithmetic
-   binary fixed-point arithmetic
-   IEEE binary floating-point arithmetic
-   power series, place value, base-n radix-point arithmetic
-   power series approximations
+    Numerical Analysis
 
-5. Discard the quotient, pay attention only to the remainder
-   Unsigned machine words; 2s-complement arithmetic
-   Modular Arithmetic
-   Fermat's Little Theorem
-   Euler's Totient Function
-   Chinese Remainder Theorem
-   Extended Euclidean Algorithm
-   Bezout's Identity
-   Linear Diophantine equations
-   Quadratic Reciprocity
-   p-adic arithmetics
+4.  Keep the quotient, treat the remainder like a numerator of a fraction
+    "mixed" versus "improper" fractions
+    decimalized fractions, De Thiende by Stevinus (1585 C.E.)
+    decimal-point arithmetic
+    binary radix-point arithmetic
+    binary fixed-point arithmetic
+    IEEE binary floating-point arithmetic
+    power series, place value, base-n radix-point arithmetic
+    power series approximations
+
+5.  Discard the quotient, pay attention only to the remainder
+    Unsigned machine words; 2s-complement arithmetic
+    Modular Arithmetic
+    Fermat's Little Theorem
+    Euler's Totient Function
+    Chinese Remainder Theorem
+    Extended Euclidean Algorithm
+    Bezout's Identity
+    Linear Diophantine equations
+    Quadratic Reciprocity
+    p-adic arithmetics
   
-   Number Theory
-   Abstract Algebra
-   Cryptography
+    Number Theory
+    Abstract Algebra
+    Cryptography
 
 
-6. Keep the quotient, treat the remainder like the denominator of a fraction
-   The Euclidean Algorithm, The Stern-Brocot and Calkin-Wilf trees
-   binary search
-      * a naive Euclidean Algorithm
-      * rational approximation, aka diophantine approximation
-      * semi-convergents of _x_
-      * the Stern-Brocot representation
-      * rational numbers have one finite and two infinite reps
-      * irrational numbers have a unique infinite representation
-      * convergence and limits of Stern-Brocot sequences 
-   run-length encoding
-      * continued fractions, integer multiplication
-      * integer division, an efficient Euclidean Algorithm
-      * off-by-one errors
-      * convergents of _x_
-      * Dirichlet's Approximation Theorem
-      * Dynamical Systems
-      * Numerical Analysis
-   worst case analysis
-      * fibonacci numbers
-      * golden ratio
-      * Hurwitz's Theorem (of Number Theory)
-      * Thue-Siegel-Roth Theorem
-   breadth first search, first-in-first-out (FIFO) queues
-      * Cantor equivalence between Q+ and Z+
-      * binary numbers and the Stern-Brocot representation 
-      * hyperbinary numbers and the Calkin-Wilf tree
-      * Stern's Diatomic Sequence
-      * Dijkstra's fusc function
-      * Newman's rational counter
-   inorder traversal of a finite subgraph of the Stern-Brocot tree
-      * Farey Sequences
-      * depth-first search, last-in-first-out (LIFO) stacks
-      * backtracking
-      * stack-based recursion
-      * iterative deepening
-      * Riemann Hypothesis
-   Stern-Brocot representations
-      * Stern-Brocoot free monoid SL(2,N) of finite SB representations
-      * boundary matrices, determinants, diophantine linear equations
-      * The Calkin-Wilf tree
-   Gosper's algorithm for continued fraction arithmetic
-      * Macsyma / Maxima Computer Algebra System
+6.  Keep the quotient, treat the remainder like the denominator of a fraction
+    The Euclidean Algorithm, The Stern-Brocot and Calkin-Wilf trees
+    binary search
+       * a naive Euclidean Algorithm
+       * rational approximation, aka diophantine approximation
+       * semi-convergents of _x_
+       * the Stern-Brocot representation
+       * rational numbers have one finite and two infinite reps
+       * irrational numbers have a unique infinite representation
+       * convergence and limits of Stern-Brocot sequences 
+    run-length encoding
+       * continued fractions, integer multiplication
+       * integer division, an efficient Euclidean Algorithm
+       * off-by-one errors
+       * convergents of _x_
+       * Dirichlet's Approximation Theorem
+       * Dynamical Systems
+       * Numerical Analysis
+    worst case analysis
+       * fibonacci numbers
+       * golden ratio
+       * Hurwitz's Theorem (of Number Theory)
+       * Thue-Siegel-Roth Theorem
+    breadth first search, first-in-first-out (FIFO) queues
+       * Cantor equivalence between Q+ and Z+
+       * binary numbers and the Stern-Brocot representation 
+       * hyperbinary numbers and the Calkin-Wilf tree
+       * Stern's Diatomic Sequence
+       * Dijkstra's fusc function
+       * Newman's rational counter
+    inorder traversal of a finite subgraph of the Stern-Brocot tree
+       * Farey Sequences
+       * depth-first search, last-in-first-out (LIFO) stacks
+       * backtracking
+       * stack-based recursion
+       * iterative deepening
+       * Riemann Hypothesis
+    Stern-Brocot representations
+       * Stern-Brocoot free monoid SL(2,N) of finite SB representations
+       * boundary matrices, determinants, diophantine linear equations
+       * The Calkin-Wilf tree
+    Gosper's algorithm for continued fraction arithmetic
+       * Macsyma / Maxima Computer Algebra System
 
+## Symmetry Group of the Square
 
+* Basic Algebra
+   * D4 is not commutative, commutativity is not trivial or tautological
+   * D4 is associative, associativity is not the same thing as commutativity
+   * D4 among the simplest concrete examples of a non-abelian group
+   * Rotating a rectangle conserves area, commutativity of multiplication
+   * Rotating a brick conserves volume, associativity of multiplication
+   * implement D4 as a car on a circular track with four stops
+      * our first concrete examples of a:     
+         * semidirect product, Z_4 ⋊ {+,-}
+         * modular arithmetic (mod 4)
+      * generalizing to D_n, and Dih(Z)
+      * dihedral operator adds a hysteresis of orientation
+* Geometry, Linear Algebra
+   * cartesian coordinates, x-axis, y-axis
+   * linear transformations, rotations, trigonometric addition formulas
+   * D4 ≅ ({+,-} ⨯ {+,-}) ⋊ S_2
+   * group action of D4 on Z⨯Z
+   * implement D4's action as multiplication of 2⨯2 matrix with 2⨯1 vector 
+   * implement addition on D4 as 2⨯2 matrix multiplication
+   * determinants and orientation
+   * general linear transformations of the plane  GL(2,R)
+   * euclidean isometries of the grid,  Z^2 ⋊ D4
+   * affine transformations of the plane,  R^2 ⋊ GL(2,R)
+   * homogeneous coordinates, augmented matrices
+   * 3x3 matrix multiplication
+   * General Linear Groups
+   * Projective Geometry
+* Trigonometry
+   * cartesian coordinates, real-axis, imaginary-axis
+   * matrix arithmetic
+   * rotations
+   * complex arithmetic
+   * unit circle
+   * euler's identity, trigonometric addition formulas
+   * exponentials and logarithms
+* Euclidean Isometries
+   * Symmetries of Regular Polygons
+      * generalized dihedral operator, Dih(Z) = Z ⋊ {+,-}
+      * Dihedral Groups D_n ≅ Dih(Z_n)
+      * Modular Arithmetics Z_n = Z / nZ
+      * Quotient Algebras
+      * Dih(G) is not associative for non-abelian G
+   * Symmetries of the Line ≅ Dih(R)
+   * Symmetries of the Circle ≅ O(2) ≅ Dih(R / 2𝜋Z)
+      * Chaotic Dynamical Systems
+   * Symmetries of the Plane ≅ R^2 ⋊ O(2)
+   * Symmetries of the Cube, m3m
+      * octahedral group, O_h ≅ {+,-}^3 ⋊ S_3
+      * chirality, determinants
+      * wreath product  O_h ≅ {+,-} ≀ S_3
+         * D4 ≅ {+,-}^2 ⋊ S_2 = {+,-} ≀ S_2
+         * Lamplighter Group {+,-} ≀ Z
+   * Symmetries of 3D Euclidean Space ≅ R^3 ⋊ SO(3)
+* Abstract Symmetries
+   * Algebraic properties, e.g. 
+      * commutative
+      * associative
+      * distributive
+      * morphisms
+   * Permutations as Symmetries as Isomorphisms of Sets
+      * bijections, 1-1 correspondence, 1-1 and onto functions
+      * symmetric group S_n,  permutation group
+      * permutations, factorial
+      * combinations, binominal coefficients, Pascal's Triangle
+      * quotient algebras
+      * Cayley's Theorem, Yoneda's Lemma
+      * Cantor Equivalence, isomorphisms of infinite sets
+   * Symmetries of the Stern-Brocot tree
+      * loop invariants, coinduction over a coalgebra
+      * breadth-first search
+         * isomorphism of sets between Q and Z
+         * Stern-Brocot representations, SL(2,N) 
+      * left-right-reciprocal is an outer automorphism
+      * anti-diagonal transpose switches to Calkin-Wilf tree
+   * Symmetries of Pascal's Triangle
+      * swap left to right:  different room, same number
+      * binomial theorem, binomial series
+      * generating functions
+      * integer valued polynomials
+      * hypergeometric summation
+   * Automorphisms of D_4
+      * D_4 is isomorphic to it's own automorphism group
+      * This property isn't unusual
+      * D_4 and Dih(Z) are unusual examples of this property
+   * General Automorphisms
+      * Generalized Semidirect Products
+      * Outer vs Inner Automorphisms
+      * Complete Groups 
+      * D_4, Dih(Z), and S_6
+* Non-Euclidean Geometries
+   * The Stern-Brocot free monoid SL(2,N)
+   * The general linear group GL(2,Z)
+   * The modular group PSL(2,Z)
+   * The isometries of the hyperbolic plane PGL(2,R) 
+   * The Möbius transformations PGL(2,C) = PSL(2,C)
+* Abstract Geometries
       
 Unfortunately, contemporary mainstream math education focuses nearly all of it's time on answers #2 and #4, and maybe a little time on answer #1, whereas it's really worth spending time on each topic.
 
-
- 
-Pascal's Triangle
+## Pascal's Triangle
    n choose k 
    binomial coefficients
 
@@ -847,13 +678,7 @@ Pascal's Triangle
    Statistical Mechanics, Thermodynamics
    Bayesian Data Analysis, the Philosophy of Science
 
-
-
-
-
-
-
-Units of Measurement
+## Units of Measurement
    Unit Fractions
    Dimensional Analysis
    Commesurate Units
@@ -876,7 +701,7 @@ Units of Measurement
    force  = mass * length / time^2
    momentum = mass * length / time
 
-# Part III: Make a Map
+## Part III: Make a Map
 
 1. Be on the lookout (BOLO) for:
      * problems and problem sets, even if you don't plan on working on them.
@@ -899,4 +724,125 @@ Units of Measurement
 5. Sometimes incorrect solutions can be made correct with a nonobvious change in assumptions.
 
 6. Observation #5 is quite independent of #4.  All four combinations are possible. 
+
+# Footnotes
+
+[^ramanujan]:
+    Of course, associating Kevin Bacon with the Stern-Brocot tree is a totally arbitrary MacGuffin I'm using to tap into an existing cultural metaphor.  A historically meaningful metaphor would be remembering Srinivasa Ramanujan (1920) and Āryabhaṭa (circa 499 C.E.)  See my footnote on the video "A tour of the Stern-Brocot tree, a Museum of Fractions" for a more detailed historical overview.
+
+    How many different ways are there to assign six performers to the six ingredients in my aggregate theory of mathematics, so that performers and ideas are put into an exact one-to-one correspondence?
+
+    Rephrasing the above question in a more abstract and advanced way:  how many elements are there in the symmetric group of permutations S_6, the number of distinct bijections on a set of six elements?  It turns out that S_6 is the only finite permutation group that has an outer automorphism.  Understanding what that means and why that is, turns out to be very interesting.
+
+[^newyorkiloveyou]:
+    Both Kevin Bacon and Robin Wright appeared in the film "New York I Love You", as it was screened at the 2008 Toronto Film Festival.  This film was an anthology of 14 short films, with Kevin Bacon and Robin Wright appearing in different shorts.  However, before it was released, several of the short films were cut, and the short that Kevin Bacon appeared in was among them.   The Oracle of Bacon does not recognize that Kevin Bacon is connected to "New York I Love You".  So, there is an argument that Kevin Bacon already has a Wright number of one, if we go by film festival screenings.
+
+    On the other hand, Kevin Bacon's scene in "Starting Over", in which Wallace Shawn appeared, was also cut from the final release.  Kevin Bacon never actually appeared in the movie, although his name does appear in the credits, and this movie is the only movie that the Oracle of Bacon recognizes as a direct connection between Kevin Bacon and Wallace Shawn.  So there's an argument that this connection is kind of weak, and maybe Kevin Bacon shouldn't have a Shawn number of one.
+
+    However, both Robin Wright and Wallace Shawn's Bacon numbers are certainly 2 or less.  For example, Robin Wright and Wallace Shawn were in the "Princess Bride" with Christopher Guest, who was in "A Few Good Men" with Kevin Bacon.
+
+    There is no definitively "correct" answer to what Kevin Bacon's Wright number and Shawn number is, because that depends on the assumptions we are making about what counts as a "connection".  Should credits for appearances in scenes cut from release count?  What about uncredited appearances?  Should film festival screenings count?  Should film anthologies really be a connection between performers that appeared in different shorts?  If anthologies don't count, should any film "connect" two performers that don't share any screen time together?   What if the performers never even met on set?
+
+    When playing Six Degrees as a social game, connections should of course be "allowed", though qualitative assessments of the connections can be interesting.  However, when it comes to creating, using, and supervising computer-based golems such as the Oracle of Bacon, its vitally important to discuss, understand and even be pendantic about what assumptions are being made.  Then you need wisdom and domain knowledge to assess whether those assumptions are a reasonable fit for a given context or application.
+
+    Even if a database has clear rubrics for making careful, precise judgments, and the database is carefully curated, the real world is going to produce an edge case once in a while, and the answer may not be clear cut.  Sometime these edge cases can be a sign that the question itself needs to be revised, or eliminated.
+
+    Every database of sufficient size is going to contain errors, and all rubrics are useless without curation.  What are the consequences of those errors?   We must be careful not to interpret the contents of a computer database, or the output of a fancy algorithm, as providing any kind of definitive truth about the world.  While many databases and algorithms are useful, nearly all of them have signficant limitations.
+
+    I consider Cathy O'Neil's book "Weapons of Math Destruction" to be required reading to be an responsible and informed citizen or knowledge worker in today's world.  As William Kingdon Clifford just might say, the modern world would do well to learn to be less distracted by the blinkenlights, and take greater responsibility for the things we think, the things we do, and the things we say.
+
+[^cradleofhumankind]:
+    While I was writing this paragraph, I couldn't help but recall the song "Cradle of Humankind" by Flogging Molly.  Perhaps you would enjoy it.
+
+[^ardilasaxioms]:
+    Axiom 1. Mathematical potential is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.
+
+    Axiom 2. Everyone can have joyful, meaningful, and empowering mathematical experiences.
+
+    Axiom 3. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.
+
+    Axiom 4. Every student deserves to be treated with dignity and respect.
+
+    These statements should not sound revolutionary, but considering the current practices of the mathematical society, they are a pressing call to action.
+
+    - Taken from [federico ardila's personal academic webpage](http://math.sfsu.edu/federico/)
+
+[^exponential]:
+    Many people have advocated for the "concrete examples before abstract principles" heuristic to teaching mathematics.  Doron Zeilberger's Opinion 65 regarding Gelfand's principle has played a particularly strong role in my thinking about math pedagogy.  Daniel Friedman and Kent Dybvig have both themselves contributed strongly to my thinking.
+
+    One likely exception to this rule of thumb is teaching exponentials and logarithms.  Young children certainly can get started with exponents and logarithms in terms of the integer powers of ten and the integer powers of two.  These are sufficient to introduce the terminology and give concrete examples of the basic algebraic properties these functions exhibit.
+
+    Once it's time to extend the exponential and the logarithm to real numbers, I strongly suspect it's better to treat these operators abstractly, via their algebraic laws.  I suspect it's better to not get too caught up in how to rigorously define what's going on, or how to actually compute these functions.   At that point it's time to use the algebraic laws of exponentials and logarithms, play with a slide rule, and use a calculator or library routine, and call it a day.
+
+    Or at least, that's what I believe in the context of the contemporary math curriculum.  I suspect that much like programming language design, curriculum design has choices with very non-linear consequences to contemplate.  I would say this assessment is very much worth reviewing, if someday the Stern-Brocot tree and computer programming becomes a mature part of the elementary curriculum.  After all, there are ways to calculate general exponentials using the Stern-Brocot tree that are conceptually simple, even if they are not efficient.  You certainly would not want to execute them by hand.
+
+    Of course the unit circle and Euler's identity, and thus exponentials and complex arithmetic, are very important to trigonometry.  The same can be said of matrix arithmetic and a touch of linear algebra.
+
+    Instead of postponing these ideas until later, I feel it's better to introduce matrix arithmetic and slide rules before trigonometry, and to introduce Euler's formula near the beginning of trigonometry, so that these ideas can be used when appropriate to simplify and accelerate the learning process.
+
+[^counting]:
+    The coverage of counting and combinatorics in my pre-calculus curriculum, on the other hand, left much to be desired.  Also, pretty much all of the history of combinatorics and counting is something I delved into myself, in the process of writing this video.  The standard curriculum often does a poor job regarding the history of mathematics in general, but the history of combinatorics is all but ignored.  But I was delighted when Emily Miller sent me a link to Victoria Hanna's song about the Sefer Yetzirah, which you might also enjoy.
+
+    Although my elementary curriculum touched on combinatorics onced a while,  I almost feel like the often cursory coverage of counting, factorial, permutations, and combinations in Algebra 2 and pre-calc almost does more harm than good, as illustrated by the Bat, Buffalo, and Eagle problem I invented to highlight the issue:
+
+    Say you have three US American quarters.  There are two sides to each quarter:  heads, which for the purposes of this problem are mutually indistinguishable among the three quarters, and then the tail sides consist of a bat, a buffalo, and an eagle.  How many different strings of three symbols can you make with those three quarters?
+
+    This is not a particularly advanced counting problem, but it's got a complication that trips up many students who have only had the cursory (and inadequate) exposure to combinatorics typical of Algebra II and pre-calc classes in the United States circa the turn of the millenium.  But worse, many students apply what they think they know from those classes, attempt to solve the problem, and don't have a good enough feel for combinatorics to suspect that they are wrong,  and don't do enough critical examination of the answer to realize that they are wrong.
+
+    I admit, I found combinatorics frustrating and yet exhilirating for years for this exact reason.  In combinatorics, not only is it easy to make mistakes, it can be difficult to understand that you made a mistake, let alone understand what that mistake is.  I overcame this hurdle via years of practice and a solid basis in discrete math, logic, set theory, and a touch of abstract algebra.   Still, I do think we can do a much better job than the approaches my classmates and I were taught.
+
+    This is undoubtably a complicated issue, and I'm not entirely satisfied with my own very incomplete ideas of how to introduce combinatorics.  But at the very least, Algebra II and Pre-Calc should better highlight the complications and pitfalls of the counting techniques they teach.
+
+    But there is a very wise heuristic here:  you should not fully trust a concept or technique or model until you start to understand its limitations, until you start to understand the situations in which it doesn't apply.
+
+[^sternbrocotrepresentation]:  Note that while the conversion between matrices in SL(2,N) and a string-based Stern-Brocot representation can be efficiently computed,  the conversion itself is not necessarily efficient, because when converting from SL(2,N) to the Stern-Brocot string,  the output string can be exponentially bigger than the input.  For example, consider the SL(2,N) representation of say, a trillion, or 10^12.   While the matrix can be represented in less than 32 bytes,  the string would be one terabit, or 125 gigabytes long, as big as two and a half blu-ray movies.  This issue can be fixed by run-length encoding the Stern-Brocot representation,  essentially upgrading this representation to continued fractions.
+
+[^automorphisms]:  The matrices GL(2,Z) exactly represent automorphisms of the additive group Z^2.  These automorphisms are the most abstract and general notion of group symmetry available that preserves both the cartesian coordinate grid and the arithmetic of pointwise addition on integer vectors.  These automorphisms essentially tell us all the possible ways to extend Z^2 using a semidirect product and still be left with a group.  The semidirect product of Z^2 and GL(2,Z) can then be used to introduce affine transformations, homogenous coordinates, and projective geometry.
+
+[^modularforms]: The modular group PSL(2,Z) is also notable because of it's relationship to modular forms and the j-invariant, a complex holomorphic function first studied by Felix Klein.  These ideas are intimately related to elliptic curves.  Understanding this relationship more precisely is the Langlands program, one of the major research programs of contemporary modern mathematics.  Andrew Wiles' proof of Fermat's Last Theorem involved constructing and proving more precise understandings of a tiny part of this relationship.
+
+[^galilean]:
+    It's a bit more precisely accurate to say that a satellite's flight path is non-Galilean than it is to say it's non-Euclidean, but both statements are correct, and this is a rather non-trivial detail that's largely extraneous to the main argument being made.
+
+    The Galilean group of Galilean transformations over a Euclidean spacetime is central to Newtonian mechanics, while the Lorentz and Poincaré groups of Lorentz transformations and translations of a Minkowski spacetime is central to the study of Relativity.
+
+    We humans perceive the ground we stand on to be perfectly still, even though the Earth is moving through space while spinning on an axis.  Our perception of terra firma was behind the ancient Aristotalian justifications that the Earth was the unmoving center of the universe.  The Galilean transformation provides a justification of why this apparent contradiction from a common-sense logic that was well-regarded during the European renaissance, might not be a contradiction in fact.
+
+    Galileo's (1564-1642) early work on the moons of Jupiter, which implied that Aristotelian physics is incorrect, was ultimately well received by Christopher Clavius (1538-1612).  Clavius was a Jesuit professor in the Collegio Romano, and the the most prominent astronomer and mathematician of the Catholic Church.  Clavius was well regarded at the time for his work on the Gregorian calendar reform, and notable even today for his tireless efforts in improving math education during the Renaissance.
+
+    Galileo's later work involving a Copernican model of the solar system lead to two inquests by the Catholic Church, the first of which (1616) restricted his research and the second of which (1633) placed Galileo under house arrest for the remainder of his life, during which he wrote some of his most influential work.
+
+[^jesuitmathematics]:
+    The anxiety that a mathematician would naturally feel while contemplating the possibility of an alternative to well-regarded theory is by no means the only plausible interpretation of Giovanni Sacherri's disclaimer.  Another is that Sacherri set aside his personal opinion on the matter, and felt such a disclaimer was necessitated by his elite position as a Jesuit priest.
+
+    Any such anxiety about the possibility of hyperbolic geometry would clearly be amplified by Sacherri's priesthood, because in the context of Jesuit education of the early 18th century, contradicting Euclid was akin to contradicting God.  The reason goes back to the Reformation and Counter-Reformation, which saw the creation of the Society of Jesus, or Jesuits, as an order of the Roman Catholic Church.
+
+    Christopher Clavius was an early member of the Collegio Romano and was responsible for making mathematics a respected part of the Jesuit educational curriculum.  Clavius himself set the first versions of exactly what math would and would not be taught at Jesuit institutions around the world.  As part of this project, Clavius used Euclidean geometry's apparent claim to "absolute truth", as an example of the "absolute truth" of (Roman Catholic) theology.
+
+    The educational efforts of the Society of Jesus proved very popular and effective over the next few centuries, and Jesuit colleges became something the order was best known for.  Jesuit education spread this particular conflation between Euclid and theology widely around the world, and likely contributed to Carl Fredrich Gauss's reluctance to talk publicly about non-Euclidean geometry.  Carl Fredrich Gauss himself had a reputation as a land surveyor to uphold and defend.
+
+    If Giovanni Sacherri considered the possibility of non-Euclidean geometry, then it seems rather plausible, perhaps even likely, that he never allowed himself to contemplate it deeply due to his institutional allegiance.
+
+    For an introduction to Sacherri's political context, see Amir Alexander's "Infinitesimal: How a Dangereous Mathematical Theory Shaped the Modern World".  This book focuses on the conflicts that the Jesuits initially had with the early developments of calculus.   However, the book doesn't get as far as non-Euclidean geometry or Sacherri himself, as it focuses on the transition from the late Renaissance to the early Enlightmentment, from roughly 1500 to 1700.
+
+[^computerscience]:
+    As I see computer science as a topic in mathematics, somewhat confusingly, I would include computer science in the list of things that are not necessarily scientific.
+
+    Now, there are other opinions that I respect, and even agree with to varying degrees, advocating making the practice of mathematics more concrete, more experimental, and even more "scientific".  For example, Herbert Wilf's classic paper "Mathematics: An Experimental Science",  or some of Doron Zeilberger's opinions. 
+
+    However I've seen a recurrent problem among mathematicians, computer scientists, and economists, who (quite correctly, in my opinion) see the rules of mathematics as quite arbitrary.  But a sizable subset of these overgeneralize the freedom that a mathematician has to choose their own rules, and apply that to scientific contexts.
+
+    So, while the practice of mathematics certainly can be informed by the practice of science, and vice versa, I'm reluctant to call mathematics a "science" because we need to have a linguistic way to delineate the difference.  Clearly, science and mathematics are deeply related to each other!
+
+    The thoughts inside our heads cannot be constrained by empirical realities. Mathematics must not be constrained by scientific realities.
+
+    Conversely, neither the thoughts inside our heads nor the artifacts of our cultures have any causal effect on the rules of the universe.
+
+    At it's best, mathematics is uncannily and peculiarly effective at understanding the rules of the universe, and some of the behaviors that can entail.
+
+    Scientific contexts require a mindset that demand a more careful and critical empirical inspection of the assumptions required for a mathematical model to be ethical, desirable, and otherwise suitable for task.
+
+[^scientists]:  Although the misapplication of the trappings of science to faulty measurements and suspect contexts is indeed a real problem, a problem that I suspect is a significant driver of strife in our society, I would emphasize that it's often not professional scientists who are misapplying the notions of science.  (Though, clearly, sometimes it is.)
+
+
 
