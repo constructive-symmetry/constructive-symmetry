@@ -1,9 +1,12 @@
+#   Kevin Bacon and the Stern-Brocot Tree
+##  a Sermon on Rational Approximation
+
 ```
-   The Stern-Brocot tree as a Rosetta Stone between computer science, 
+   The Stern-Brocot tree as a Rosetta Stone between computer science,
          arithmetic, algebra, geometry, calculus, and beyond;
 
             Translating New Math for Children (and Adults);
-  
+
         Improving the foundation of the elementary curriculum:
 
             An Aggregate Theory of Concrete Mathematics
@@ -18,7 +21,6 @@
 | Heuristics | House of Wisdom | George Pólya, Judea Pearl |
 | Problem Solving | Project Euler | Leonhard Euler, Carl Fredrich Gauss |
 
-
 * Kevin Bacon and the Six Degrees of the Stern-Brocot tree
 * Paul Erdős and God's Textbook of Mathematics
 * An Aggregate theory of Concrete Mathematics; a computer-assisted human learning cadence
@@ -28,53 +30,6 @@
 * The Consultant, the Genius, and Iterative Deepening: heuristics for efficient learning
 * Memory Tripods, Mnemonics and Spaced Repetition: heuristics for improving memory and recall
 * Creative Writing and Rhetoric: there is no Case for the Humanities!
-
-Improving the content of the Elementary math curriculum:  Sampling from the grand banquet of Modern Mathematics
-
-| Topic                   | Historical Figures |
-| --- | --- |
-| Units of Measurement    | James Clerk Maxwell, Lord Kelvin |
-| Dimensional Analysis    | Siméon Poisson, Joseph Fourier |
-| Types                   | Bertrand Russell, Alonzo Church, Haskell Curry, Robin Milner |
-| Logic                   | George Boole, Benjamin Peirce, Gottlob Frege, David Hilbert, Kurt Gödel |
-| Sets, Data Structures   | Georg Cantor, Arthur Cayley, Donald Knuth |
-| Algorithms              | John Tukey, Robert Tarjan, Bill Gosper |
-| Combinatorics           | Paul Erdős, George Pólya, Ronald Graham |
-| Probability             | Gerolamo Cardano, Blaise Pascal, Pierre de Fermat |
-| Statistics              | Thomas Bayes, Ronald Fisher, Richard McElreath |
-| Number Theory           | Fermat, Euler, Gauss, Sophie Germain, Évariste Galois |
-| Calculus, Trig          | Mādhava of Sangamagrāma, Isaac Barrow, Isaac Newton, James Stirling, Leonhard Euler, Augustin-Louis Cauchy |
-| Linear Algebra          | Gottfried Leibniz, Pierre-Simon Laplace, Alexandre-Théophile Vandermonde, Arthur Cayley |
-| Computation             | Alonzo Church, Alan Turing, John von Neumann, Claude Shannon, Kurt Gödel |
-| Non-Euclidean Geometry  | Giovanni Saccheri, Gauss, Nikolai Lobachevsky, János Bolyai, Bernhard Reimann |
-| Mathematical Physics    | W.K. Clifford, Hendrik Lorentz, Henri Poincaré, Albert Einstein, Hermann Minkowski, Emmy Noether |
-| Modern Algebra           | Lagrange, Hamilton, Jordan, Klein, Abel, Emmy Noether |
-| Thermodynamics           | Sadi Carnot, William Thomson, Rudolf Clausius, James Maxwell, Luwig Boltzmann, Willard Gibbs, Gustav Zeuneur, Johannes van der Waals |
-| Statistical Mechanics    |  | 
-| Heterodox Economics      | William Stanley Jevons, Frederick Soddy, Kenneth Arrow, Amarya Sen, Elinor Ostrom |
-| Information Theory       | Claude Shannon, John von Neumann | 
-| Dynamical Systems, Chaos | Edward Lorenz |
-| Language and Automata    | Stephen Kleene, Noam Chomsky, John Hopcroft, Jeffery Ullman, Janusz Brzozowski |
-| Stochastic Processes   | Andrey Markov, John von Neumann, Stanislaw Ulam, Nicholas Metropolis, W.K. Hastings |
-| Queueing Theory  | Agner Krarup Erlang | 
-| Coding Theory    | Claude Shannon, Richard Hamming, Andrew Viterbi |
-| Cryptography     | Al-Khalīl, John Wallis | 
-| Control Theory   | Rudolf E. Kálmán |
-| Concurrency      | Carl Adam Petri, C.A.R. (Tony) Hoare, Robin Milner | 
-| Modern Logic     | Saul Kripke, André Joyal |
-
-A very impressionistic sketch of my pre-calculus math curriculum
-
-| Topic                   | Historical Figures |
-| --- | --- |
-| Arithmetic  | Euclid, Āryabhaṭa, al-Khwārizmī, Fibonacci, Sacrobosco, Stevinus, Napier |
-| Algebra     | al-Khwārizmī, Rafael Bombelli, Gottfried Wilhelm Leibniz |
-| Geometry    | Euclid, Āryabhaṭa, al-Khwārizmī, Abū al-Wafā, Rene Descartes, Leonhard Euler |
-| Sets, Types | Gottlob Frege, Georg Cantor, Bertrand Russell | 
-
-| Counting    | Levi ben Gershon, Blaise Pascal, Jacob Bernoulli |
-| Permutations | Anuyogadvāra-sūtra, Sefer Yetzirah, Al-Khalīl | 
-| Combinations  | Pingala, Mahāvīra, Bhaṭṭotpala, Omar Khayyám, Yang Hui, Niccolò Fontana Tartaglia |
 
 # The Six Degrees of Kevin Bacon
 
@@ -86,7 +41,7 @@ Or, as I imagine Paul Erdős might be saying, the Stern-Brocot tree is near the 
 
 I am referring to the Six Degrees of Kevin Bacon.  Kevin Bacon is a famous actor who has appeared on screen in many different productions, including the movie "Apollo 13", in which  Tom Hanks also appears.  So Tom Hanks and Kevin Bacon are linked via Apollo 13.
 
-Tom Hanks also appeared in the movies "Who's Got Mail" with Meg Ryan,  and in "Forrest Gump" with Robin Wright.   Thus Meg Ryan and Robin Wright are directly linked to Tom Hanks, and indirectly linked to Kevin Bacon through Tom Hanks. 
+Tom Hanks also appeared in the movies "Who's Got Mail" with Meg Ryan,  and in "Forrest Gump" with Robin Wright.   Thus Meg Ryan and Robin Wright are directly linked to Tom Hanks, and indirectly linked to Kevin Bacon through Tom Hanks.
 
 Meg Ryan is also directly linked to Kevin Bacon, because they both appeared in the movie "In the Cut".  Robin Wright has many such indirect links of length 2 back to Kevin Bacon: for example, Robin Wright was in "Hurlyburly" with Meg Ryan, and in "The Princess Bride" with Wallace Shawn, who appeared in "Starting Over" with Kevin Bacon.
 
@@ -118,25 +73,25 @@ The closest approximation to interacting with God's Textbook that I have persona
 
 For an idea to be near the front of God's Textbook of Mathematics, it must be an ideal root for a Six Degrees game.  It must be a hypercollaborator, and well connected to diverse topics in higher mathematics.  Is the idea equally at home in both continuous _and_ discrete math classes?  Well, that's a hint we might be onto a hypercollaborator.  Does the idea tie together ideas from many different topics in unexpected ways?   That's some of the best evidence that we have indeed found a hypercollaborator!
 
-For an idea to be near the front of God's Textbook of Mathematics, it should ideally be a "power tool" of elementary mathematics in its own right.  And it should invite students to pick up and play with some of the other key power tools of mathematics, especially in Computer Science and Discrete Math, Geometry and Linear Algebra, Probability and Statistics, and even Calculus and Number Theory. I fully endorse Arthur Benjamin's call to teach Statistics before Calculus.  We would do well to broaden the mathematical curriculum before we encourage our students to go deep, and it seems like a wise heuristic to encourage most students to go deeper into Statistics before we encourage them to go deeper into Calculus.
+For an idea to be near the front of God's Textbook of Mathematics, it should ideally be a "power tool" of elementary mathematics in its own right.  And it should invite students to pick up and play with some of the other key power tools of mathematics, especially in Computer Science and Discrete Math, Geometry and Linear Algebra, Probability and Statistics, and even Calculus and Number Theory. I fully endorse Arthur Benjamin's call to teach Statistics before Calculus.  We would do well to broaden the mathematical curriculum, and encourage our students to go broad before they go deep.  It seems like a wise heuristic to encourage most students to go deeper into Statistics before we encourage them to go deeper into Calculus.
 
 For a idea to be near the front of God's Textbook of Mathematics for most students, it must be plausibly comprehensible to most people interested in learning math, no matter the age, skill, background, or preexisting level of knowledge.  Therefore, the idea must be made concrete, and must not be treated abstractly.  It must be relatively "small", and not depend on complicated ideas and abstractions.  We as teachers must work diligently to apply Ardila's Axioms[^ardilasaxioms] and the philosophy of Fred Rogers to our approach and presentation of the material.   And we as teachers must work hard to make the idea as tangible as possible using whatever linguistic metaphors and cultural artifacts that are available to the target audience.  Thus, the Stern-Brocot tree is like a Museum of Fractions,  Pascal's Triangle is like a Maze of Counting, and the Symmetry Group of the Square is like a Book of Algebra.  Choosing a metaphor is hard work.  Choose poorly, and the metaphor falls apart quickly,  but choose well, and the metaphor has a better chance of being durable enough to construct a memory tripod in the mind of a student.
+
+| The beginning of God's Textbook? |
+| --- |
+| Counting to 4 and adding 2 + 2 |
+| The Number Line (of Whole, Natural Numbers) |
+| Stern-Brocot Tree and the Euclidean Algorithm |
+| Symmetry Group of the Square |
+| Cartesian Coordinates |
+| Adding and subtracting integers |
+| Using Pascal's Triangle to count paths, generate paths, and take random walks |
 
 # An Aggregate Theory of Concrete Mathematics, and learning via a human-computer feedback loop
 
 The Museum of Fractions, the Maze of Counting, and the Book of Algebra are like the aggregates of concrete math.  Computer programming is like portland cement, and the water in this recipe is heuristics.
 
 Heuristics is wisdom that can help you analyze an issue and make more informed judgements about deciding which problem to solve, how to solve that problem, what to study next, and more.  A good heuristic is a wise rule of thumb, but no heuristic is an ironclad principle.  Heuristics can suggest a course of action, but they do not guarantee a solution.  Therefore a heurstic is not a proof, although they certainly lead to proofs.  A heuristic is not a discovery, though heuristics certainly lead to discoveries.
-
-## The beginning of God's Textbook?
-
-   Counting to 4 and adding 2 + 2.
-   The Number Line (of Whole, Natural Numbers)
-   Stern-Brocot Tree and the Euclidean Algorithm
-   Symmetry Group of the Square
-   Cartesian Coordinates
-   Adding and subtracting integers 
-   Using Pascal's Triangle to count, generate, and take random walks on paths.
 
 Actually solving a problem yourself, often by writing short computer programs, is like mixing all these things together and pouring this hydrated mixture of concrete math into your mind.  Wait until the math hardens into a new understanding, and come back later and polish your understandings smooth with review and connect your understandings together with synthesis.  Do this enough times, and you will be left with a solid foundation in math, logic, statistics, and problem solving that can support deeper understandings of many things, not only science and mathematics, but also philosophy, astronomy, economics, history, business, accounting, ethics, medicine, and law.
 
@@ -148,7 +103,7 @@ Playing computers and math off of each other is a methodology that can benefit m
 
 I believe that it is likely that this human-computer learning feedback loop can frequently get started in children far younger than we currently expect. In fact, I chose the aggregates I did by asking myself, what would I do if I had an hour to interact with myself as a 5-year old?   What about a day, or a week, possibly spaced over years?  Putting sensible, even austere limits on the scope of interventions under consideration certainly had a way of bringing priorities into sharp focus.
 
-## Part I: a computer-assisted human learning cadence
+## How to Learn, Part I: a computer-assisted human learning cadence
 
 1.  Write a program yourself
 2.  Run your program on a computer
@@ -165,36 +120,6 @@ Mix it up:
    * review past programs and solutions
    * make maps of things you might want to work on later
    * explore alternative routes of learning
-
-## Part II: Review
-
-1. No math problem is ever truly exhausted, and no computer program is ever truly finished.
-   Review is often worthwhile.  Repeat steps.  Take this seriously.
-
-2. Don't fixate on one problem for too long.  Go broad, not deep.  Return to the problem later, especially after you've learned new things.
-
-3. Work on groups of related problems at once.  Try to keep your search local, not scattershot.
-
-4. Heuristics are wise rules of thumb, not ironclad principles.  Break these rules as needed.
-
-Mix it up:
-
-   * Have at least one uncommon tool in your toolbox of solutions
-   * Have at least one uncommon question on your list of unsolved problems
-
-## Part III: Alternative routes of learning
-
-1. Talk to other people interested in talking about math
-2. Watch videos and lectures about mathematics
-3. Study with groups of other people
-4. Read about mathematics: books, magazines, wikis, blog posts, etc.
-5. Pretend like you are going to teach something, and prepare an explanation
-6. Verbalize your explanation to a rubber duck
-7. Find a willing listener, and verbalize your explanation to another person
-8. Try inventing your own problems
-9. Try inventing your own problem sets
-10. Try putting two ideas together in weirdest ways you can imagine
-11. Experiment with your own learning heuristics, and review how they worked 
 
 # Hidden Assumptions and Prerequisites
 
@@ -234,17 +159,7 @@ Our paper, a Book of Algebra, is now a mechanical calculator for the symmetry gr
 
 In order to appreciate a symmetry, sometimes it really helps to break it.  Consider the commutativity laws for integers, fractions, and decimal numbers.   Many students struggle to understand why commutativity is not self-evident,  and D4 is a simple example that helps break through that mental block.  In the arithmetic of D4, x + y is not always equal to y + x,  and thus addition on D4 is not commutative.  Thus commutativity is not a mere tautology.
 
-Many students struggle to distinguish associativity and commutativity as fundamentally different things, because the examples they are taught are both associative and commutative.  D4 is among the simplest examples of a group that is associative but not commutative.  Of course, there are examples of binary operators that are commutative but not associative, and neither commutative nor associative, and all four quadrants have ideas well worth knowing.  D4 and boolean logic are two of the simplest topics that together cover all four quadrants.  Boolean logic is an essential substrate for computer programming, digital logic engineering, mathematical reasoning, analytical philosophy, and statistics.
-
-In order to appreciate a symmetry, sometimes you have to understand it in terms of another.   Many students struggle to connect the commutatitivy of multiplication on integers, fractions, and decimal numbers to the fact that rotation of a rectangle doesn't change it's area,  and struggle to connect associativity to the fact that the rotation of a brick doesn't change it's volume.  This approach to teaching D4 should help here, too, as this provides a simple concrete mental model for the Euclidean isometries these explanations depend upon.
-
-At some point, we should learn how to compute the arithmetic of D4 without the help of our mechanical number line.  Imagine a car on a circular track.  There are 4 stops around the track, at the 12 o'clock, 3 o'clock, 6 o'clock, and 9 o'clock positions.  In a single instruction,  you can tell the car to drive forward any number of stops, and then after the car stops, the instruction specifies whether the car turns around to change direction for the next instruction, or if instead the car continues on the same direction around the track.
-
-Arithmetic on this representation computes the combined effect of two of these instructions.  This provides simple, concrete example of a semidirect product and a modular arithmetic, and illustrates that the dihedral introduces a hystersis of orientation.  I would probably start with this implementation.
-
-The second implementation of D4 is based on matrix multiplication.  I cannot imagine a simpler or more ideal setting for gently introducing and motivating matrices and quickly tying their arithmetic to a memory tripod than the symmetry group of the square!   The first step is understanding D4's action on the cartesian coordinate grid Z⨯Z.   The second step is learning to implement D4's action on Z^2 by multiplying a 2⨯2 matrix with a 2⨯1 vector.   Finally, the third step is learning implement arithmetic on D4 as a full 2⨯2 matrix multiplication.  The determinant of these matrices is ±1, which corresponds to the orientation.  Linear algebra and geometric interpretations thereof certainly are topics that are easy to underappreciate, and this pedagogical route emphasizes this connection from the very start.
-
-#  Basic examples of mathematical operators of two parameters
+##  Basic examples of mathematical operators of two parameters
 
 |                 | Commutative             | Not Commutative                           |
 | --------------- | ----------------------- | ----------------------------------------- |
@@ -266,8 +181,20 @@ The second implementation of D4 is based on matrix multiplication.  I cannot ima
 |                 |                         | abstract syntax trees                     |
 |                 |                         | Dih(G) for non-abelian group G            |
 |                 |                         | octonions                                 |
-                                                      
+
 addition, multiplication, subtraction, division, exponentiation on Z, Q, R, C (and quotient algebras thereof)
+
+
+Many students struggle to distinguish associativity and commutativity as fundamentally different things, because the examples they are taught are both associative and commutative.  D4 is among the simplest examples of a group that is associative but not commutative.  Of course, there are examples of binary operators that are commutative but not associative, and neither commutative nor associative, and all four quadrants have ideas well worth knowing.  D4 and boolean logic are two of the simplest topics that together cover all four quadrants.  Boolean logic is an essential substrate for computer programming, digital logic engineering, mathematical reasoning, analytical philosophy, and statistics.
+
+In order to appreciate a symmetry, sometimes you have to understand it in terms of another.   Many students struggle to connect the commutatitivy of multiplication on integers, fractions, and decimal numbers to the fact that rotation of a rectangle doesn't change it's area,  and struggle to connect associativity to the fact that the rotation of a brick doesn't change it's volume.  This approach to teaching D4 should help here, too, as this provides a simple concrete mental model for the Euclidean isometries these explanations depend upon.
+
+At some point, we should learn how to compute the arithmetic of D4 without the help of our mechanical number line.  Imagine a car on a circular track.  There are 4 stops around the track, at the 12 o'clock, 3 o'clock, 6 o'clock, and 9 o'clock positions.  In a single instruction,  you can tell the car to drive forward any number of stops, and then after the car stops, the instruction specifies whether the car turns around to change direction for the next instruction, or if instead the car continues on the same direction around the track.
+
+Arithmetic on this representation computes the combined effect of two of these instructions.  This provides simple, concrete example of a semidirect product and a modular arithmetic, and illustrates that the dihedral introduces a hystersis of orientation.  I would probably start with this implementation.
+
+The second implementation of D4 is based on matrix multiplication.  I cannot imagine a simpler or more ideal setting for gently introducing and motivating matrices and quickly tying their arithmetic to a memory tripod than the symmetry group of the square!   The first step is understanding D4's action on the cartesian coordinate grid Z⨯Z.   The second step is learning to implement D4's action on Z^2 by multiplying a 2⨯2 matrix with a 2⨯1 vector.   Finally, the third step is learning implement arithmetic on D4 as a full 2⨯2 matrix multiplication.  The determinant of these matrices is ±1, which corresponds to the orientation.  Linear algebra and geometric interpretations thereof certainly are topics that are easy to underappreciate, and this pedagogical route emphasizes this connection from the very start.
+
 
 # The Stern-Brocot tree as a Rosetta Stone of computer science and mathematics
 
@@ -317,7 +244,7 @@ In fact, every 2⨯2 matrix in GL(2,Z) can be written in exactly four different 
 
 We can zoom in on the most interesting complication in this interaction by taking a look at the modular group PSL(2,Z), which is an example of a Fuchsian group because it can be interpreted as a discrete subgroup of the isometries of the hyperbolic plane.[^modularforms]  Hyperbolic geometry was the first example of a non-Euclidean geometry recognized as such by Gauss, Lobachevsky, and Bolyai.
 
-# Judging the applicability of assumptions to differing domains of discourse. 
+# Judging the applicability of assumptions to differing domains of discourse.
 
 Not only did Euclid give us the guidebook, the Museum of Fractions can lead us with reasonable efficiency to multiple different domains of discourse in which some of Euclid's assumptions fail to hold.  Sometimes an assumption is an excellent fit to a given context.  Sometimes an assumption is clearly rubbish, in a given context.  Often the suitability of an assumption for a context is far more ambiguous.
 
@@ -355,7 +282,7 @@ Noether's work continues to be a mainstay of mathematical physics and theoretica
 
 Today, physicists are keenly aware that Einstein's Relativity cannot explain everything we have observed about the universe, but pretty much every honest physicist believes that a more complete theory of the universe would have to explain why Einstein's Theory of General Relativity appears to be so very approximately correct in so many different contexts.
 
-The story of Relativity is a story of discovery.  Einstein's publication of the Theory of Relativity wasn't treated as truth, instead it was used as the starting point for the hard work of lateral cross-checking, internal consistency-checking, and honestly accounting for uncertainty and doubt. 
+The story of Relativity is a story of discovery.  Einstein's publication of the Theory of Relativity wasn't treated as truth, instead it was used as the starting point for the hard work of lateral cross-checking, internal consistency-checking, and honestly accounting for uncertainty and doubt.
 
 Each of these activities can be enormously difficult and time-consuming tasks in and of themselves, in the story of non-Euclidean geometry and the Theory of Relativity, people like Sacherri, Michelson, Morley, Einstein and Eddington devoted significant parts of their lives to one of these subtasks, work that continues to this very day.  You can get better at each subtask.  Mathematicians, computer scientists, logicians, statisticians, and philosophers have developed many tools and heuristics to help.
 
@@ -407,12 +334,12 @@ To the memory of Lois T. Clark (1922-2022), who had a heart and tongue of gold. 
 
 She enjoyed saying "Good, better, best. Never let it rest, until your good is better, and your better is best." I am blessed to be able to say that Lois is both a dear friend of mine, and also a personal friend of mine.
 
-# Notes 
+# Notes
 
 ## Classical Roman liberal arts education
    * Trivium
       * Grammar  (Latin)
-      * Logic 
+      * Logic
       * Rhetoric
    * Quadrivium
       * Arithmetic
@@ -494,7 +421,7 @@ Six answers to the question "What do you do with the result of an integer divisi
     Linear Diophantine equations
     Quadratic Reciprocity
     p-adic arithmetics
-  
+
     Number Theory
     Abstract Algebra
     Cryptography
@@ -509,7 +436,7 @@ Six answers to the question "What do you do with the result of an integer divisi
        * the Stern-Brocot representation
        * rational numbers have one finite and two infinite reps
        * irrational numbers have a unique infinite representation
-       * convergence and limits of Stern-Brocot sequences 
+       * convergence and limits of Stern-Brocot sequences
     run-length encoding
        * continued fractions, integer multiplication
        * integer division, an efficient Euclidean Algorithm
@@ -525,7 +452,7 @@ Six answers to the question "What do you do with the result of an integer divisi
        * Thue-Siegel-Roth Theorem
     breadth first search, first-in-first-out (FIFO) queues
        * Cantor equivalence between Q+ and Z+
-       * binary numbers and the Stern-Brocot representation 
+       * binary numbers and the Stern-Brocot representation
        * hyperbinary numbers and the Calkin-Wilf tree
        * Stern's Diatomic Sequence
        * Dijkstra's fusc function
@@ -553,7 +480,7 @@ Six answers to the question "What do you do with the result of an integer divisi
    * Rotating a rectangle conserves area, commutativity of multiplication
    * Rotating a brick conserves volume, associativity of multiplication
    * implement D4 as a car on a circular track with four stops
-      * our first concrete examples of a:     
+      * our first concrete examples of a:
          * semidirect product, Z_4 ⋊ {+,-}
          * modular arithmetic (mod 4)
       * generalizing to D_n, and Dih(Z)
@@ -563,7 +490,7 @@ Six answers to the question "What do you do with the result of an integer divisi
    * linear transformations, rotations, trigonometric addition formulas
    * D4 ≅ ({+,-} ⨯ {+,-}) ⋊ S_2
    * group action of D4 on Z⨯Z
-   * implement D4's action as multiplication of 2⨯2 matrix with 2⨯1 vector 
+   * implement D4's action as multiplication of 2⨯2 matrix with 2⨯1 vector
    * implement addition on D4 as 2⨯2 matrix multiplication
    * determinants and orientation
    * general linear transformations of the plane  GL(2,R)
@@ -600,7 +527,7 @@ Six answers to the question "What do you do with the result of an integer divisi
          * Lamplighter Group {+,-} ≀ Z
    * Symmetries of 3D Euclidean Space ≅ R^3 ⋊ SO(3)
 * Abstract Symmetries
-   * Algebraic properties, e.g. 
+   * Algebraic properties, e.g.
       * commutative
       * associative
       * distributive
@@ -617,7 +544,7 @@ Six answers to the question "What do you do with the result of an integer divisi
       * loop invariants, coinduction over a coalgebra
       * breadth-first search
          * isomorphism of sets between Q and Z
-         * Stern-Brocot representations, SL(2,N) 
+         * Stern-Brocot representations, SL(2,N)
       * left-right-reciprocal is an outer automorphism
       * anti-diagonal transpose switches to Calkin-Wilf tree
    * Symmetries of Pascal's Triangle
@@ -633,20 +560,20 @@ Six answers to the question "What do you do with the result of an integer divisi
    * General Automorphisms
       * Generalized Semidirect Products
       * Outer vs Inner Automorphisms
-      * Complete Groups 
+      * Complete Groups
       * D_4, Dih(Z), and S_6
 * Non-Euclidean Geometries
    * The Stern-Brocot free monoid SL(2,N)
    * The general linear group GL(2,Z)
    * The modular group PSL(2,Z)
-   * The isometries of the hyperbolic plane PGL(2,R) 
+   * The isometries of the hyperbolic plane PGL(2,R)
    * The Möbius transformations PGL(2,C) = PSL(2,C)
 * Abstract Geometries
-      
+
 Unfortunately, contemporary mainstream math education focuses nearly all of it's time on answers #2 and #4, and maybe a little time on answer #1, whereas it's really worth spending time on each topic.
 
 ## Pascal's Triangle
-   n choose k 
+   n choose k
    binomial coefficients
 
    look at the rows:
@@ -687,21 +614,52 @@ Unfortunately, contemporary mainstream math education focuses nearly all of it's
    Types
 
    length                   centimeter, inch, foot, yard, meter, kilometer, mile
-   area   = length^2        square centimeter, square foot, acre, hectare, square kilometer, square mile 
+   area   = length^2        square centimeter, square foot, acre, hectare, square kilometer, square mile
    volume = length^3        cubic centimeter, milliliter, liter, quart, gallon, cubic meter, kiloliter, megaliter, foot-acre
 
    time                     second, minute, hour, day, week, month, year
    speed  = length / time   miles per hour,  kilometers per hour, meters per second
             area / time     hectares per day, acres per year
    flow   = volume / time   gallons per hour,  liters per minute
-   
+
    acceleration = speed / time = length / time^2,  meters per second^2
 
    mass
    force  = mass * length / time^2
    momentum = mass * length / time
 
-## Part III: Make a Map
+## How to Learn Part II: Review
+
+1. No math problem is ever truly exhausted, and no computer program is ever truly finished.
+   Review is often worthwhile.  Repeat steps.  Take this seriously.
+
+2. Don't fixate on one problem for too long.  Go broad, not deep.  Return to the problem later, especially after you've learned new things.
+
+3. Work on groups of related problems at once.  Try to keep your search local, not scattershot.
+
+4. Heuristics are wise rules of thumb, not ironclad principles.  Break these rules as needed.
+
+Mix it up:
+
+   * Have at least one uncommon tool in your toolbox of solutions
+   * Have at least one uncommon question on your list of unsolved problems
+
+## How to Learn Part III: Alternative routes of learning
+
+1. Talk to other people interested in talking about math
+2. Watch videos and lectures about mathematics
+3. Study with groups of other people
+4. Read about mathematics: books, magazines, wikis, blog posts, etc.
+5. Pretend like you are going to teach something, and prepare an explanation
+6. Verbalize your explanation to a rubber duck
+7. Find a willing listener, and verbalize your explanation to another person
+8. Try inventing your own problems
+9. Try inventing your own problem sets
+10. Try putting two ideas together in weirdest ways you can imagine
+11. Experiment with your own learning heuristics, and review how they worked
+
+
+## How to Learn Part IV: Make a Map
 
 1. Be on the lookout (BOLO) for:
      * problems and problem sets, even if you don't plan on working on them.
@@ -723,7 +681,54 @@ Unfortunately, contemporary mainstream math education focuses nearly all of it's
 
 5. Sometimes incorrect solutions can be made correct with a nonobvious change in assumptions.
 
-6. Observation #5 is quite independent of #4.  All four combinations are possible. 
+6. Observation #5 is quite independent of #4.  All four combinations are possible.
+
+## A very impressionistic sketch of my pre-calculus math curriculum
+
+| Topic                   | Historical Figures |
+| --- | --- |
+| Arithmetic  | Euclid, Āryabhaṭa, al-Khwārizmī, Fibonacci, Sacrobosco, Clavius, Stevinus, Napier |
+| Algebra     | al-Khwārizmī, Rafael Bombelli, Gottfried Wilhelm Leibniz |
+| Geometry    | Euclid, Āryabhaṭa, al-Khwārizmī, Abū al-Wafā, Rene Descartes, Leonhard Euler |
+| Sets, Types | Gottlob Frege, Georg Cantor, Bertrand Russell |
+| Counting    | Levi ben Gershon, Blaise Pascal, Jacob Bernoulli |
+| Permutations | Anuyogadvāra-sūtra, Sefer Yetzirah, Al-Khalīl |
+| Combinations  | Pingala, Mahāvīra, Bhaṭṭotpala, Omar Khayyám, Yang Hui, Niccolò Fontana Tartaglia |
+
+## Sampling from the grand banquet of Modern Mathematics
+
+| Topic                   | Historical Figures |
+| --- | --- |
+| Units of Measurement    | James Clerk Maxwell, Lord Kelvin |
+| Dimensional Analysis    | Siméon Poisson, Joseph Fourier |
+| Types                   | Bertrand Russell, Alonzo Church, Haskell Curry, Robin Milner |
+| Logic                   | George Boole, Benjamin Peirce, Gottlob Frege, David Hilbert, Kurt Gödel |
+| Sets, Data Structures   | Georg Cantor, Arthur Cayley, Donald Knuth |
+| Algorithms              | John Tukey, Robert Tarjan, Bill Gosper |
+| Combinatorics           | Paul Erdős, George Pólya, Ronald Graham |
+| Probability             | Gerolamo Cardano, Blaise Pascal, Pierre de Fermat |
+| Statistics              | Thomas Bayes, Ronald Fisher, Richard McElreath |
+| Number Theory           | Fermat, Euler, Gauss, Sophie Germain, Évariste Galois |
+| Calculus, Trig          | Mādhava of Sangamagrāma, Isaac Barrow, Isaac Newton, James Stirling, Leonhard Euler, Augustin-Louis Cauchy |
+| Linear Algebra          | Gottfried Leibniz, Pierre-Simon Laplace, Alexandre-Théophile Vandermonde, Arthur Cayley |
+| Computation             | Alonzo Church, Alan Turing, John von Neumann, Claude Shannon, Kurt Gödel |
+| Non-Euclidean Geometry  | Giovanni Saccheri, Gauss, Nikolai Lobachevsky, János Bolyai, Bernhard Reimann |
+| Mathematical Physics    | W.K. Clifford, Hendrik Lorentz, Henri Poincaré, Albert Einstein, Hermann Minkowski, Emmy Noether |
+| Modern Algebra           | Lagrange, Hamilton, Jordan, Klein, Abel, Emmy Noether |
+| Thermodynamics           | Sadi Carnot, William Thomson, Rudolf Clausius, James Maxwell, Luwig Boltzmann, Willard Gibbs, Gustav Zeuneur, Johannes van der Waals |
+| Statistical Mechanics    |  |
+| Heterodox Economics      | William Stanley Jevons, Frederick Soddy, Kenneth Arrow, Amarya Sen, Elinor Ostrom |
+| Information Theory       | Claude Shannon, John von Neumann |
+| Dynamical Systems, Chaos | Edward Lorenz |
+| Language and Automata    | Stephen Kleene, Noam Chomsky, John Hopcroft, Jeffery Ullman, Janusz Brzozowski |
+| Stochastic Processes   | Andrey Markov, John von Neumann, Stanislaw Ulam, Nicholas Metropolis, W.K. Hastings |
+| Queueing Theory  | Agner Krarup Erlang |
+| Coding Theory    | Claude Shannon, Richard Hamming, Andrew Viterbi |
+| Cryptography     | Al-Khalīl, John Wallis |
+| Control Theory   | Rudolf E. Kálmán |
+| Concurrency      | Carl Adam Petri, C.A.R. (Tony) Hoare, Robin Milner |
+| Modern Logic     | Saul Kripke, André Joyal |
+
 
 # Footnotes
 
@@ -828,7 +833,7 @@ Unfortunately, contemporary mainstream math education focuses nearly all of it's
 [^computerscience]:
     As I see computer science as a topic in mathematics, somewhat confusingly, I would include computer science in the list of things that are not necessarily scientific.
 
-    Now, there are other opinions that I respect, and even agree with to varying degrees, advocating making the practice of mathematics more concrete, more experimental, and even more "scientific".  For example, Herbert Wilf's classic paper "Mathematics: An Experimental Science",  or some of Doron Zeilberger's opinions. 
+    Now, there are other opinions that I respect, and even agree with to varying degrees, advocating making the practice of mathematics more concrete, more experimental, and even more "scientific".  For example, Herbert Wilf's classic paper "Mathematics: An Experimental Science",  or some of Doron Zeilberger's opinions.
 
     However I've seen a recurrent problem among mathematicians, computer scientists, and economists, who (quite correctly, in my opinion) see the rules of mathematics as quite arbitrary.  But a sizable subset of these overgeneralize the freedom that a mathematician has to choose their own rules, and apply that to scientific contexts.
 
