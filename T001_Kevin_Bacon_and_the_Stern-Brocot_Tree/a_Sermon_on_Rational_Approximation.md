@@ -75,7 +75,7 @@ For an idea to be near the front of God's Textbook of Mathematics, it must be an
 
 For an idea to be near the front of God's Textbook of Mathematics, it should ideally be a "power tool" of elementary mathematics in its own right.  And it should invite students to pick up and play with some of the other key power tools of mathematics, especially in Computer Science and Discrete Math, Geometry and Linear Algebra, Probability and Statistics, and even Calculus and Number Theory. I fully endorse Arthur Benjamin's call to teach Statistics before Calculus.  We would do well to broaden the mathematical curriculum, and encourage our students to go broad before they go deep.  It seems like a wise heuristic to encourage most students to go deeper into Statistics before we encourage them to go deeper into Calculus.
 
-For a idea to be near the front of God's Textbook of Mathematics for most students, it must be plausibly comprehensible to most people interested in learning math, no matter the age, skill, background, or preexisting level of knowledge.  Therefore, the idea must be made concrete, and must not be treated abstractly.  It must be relatively "small", and not depend on complicated ideas and abstractions.  We as teachers must work diligently to apply Ardila's Axioms[^ardilasaxioms] and the philosophy of Fred Rogers to our approach and presentation of the material.
+For a idea to be near the front of God's Textbook of Mathematics for most students, it must be plausibly comprehensible to most people interested in learning math, no matter the age, skill, background, or preexisting level of knowledge.  Therefore, the idea must be made concrete, and must not be treated abstractly.  It must be relatively "small", and not depend on complicated ideas and abstractions.  We as teachers must work diligently to apply Ardila's Axioms[^ardilasaxioms] and the philosophy of Fred Rogers[^fredrogers] to our approach and presentation of the material.
 
 We as teachers must work hard to make the idea as tangible as possible using whatever linguistic metaphors and cultural artifacts that are available to the target audience.  Thus, the Stern-Brocot tree is like a Museum of Fractions, Pascal's Triangle is like a Maze of Counting, and the Symmetry Group of the Square is like a Book of Algebra.
 
@@ -354,126 +354,131 @@ She enjoyed saying "Good, better, best. Never let it rest, until your good is be
 ## Integer Division
 Six answers to the question "What do you do with the result of an integer division?"
 
-1.  The remainder _must_ be 0!
+1. The remainder _must_ be 0!
 
-    Now, do you:
+   With the quotient, do you:
 
-    ```
-    A. Ignore the quotient      B. Do something with the quotient
-       Divisibility                Reducing Fractions
-       Greatest Common Divisor
-       Relative Primality          Least Terms
-       Prime Numbers               Prime Factorizations
-    ```
+   | Ignore it  | Do something with it |
+   | --- | --- |
+   | Divisibility | Reducing Fractions |
+   | Greatest Common Divisor | |
+   | Relative Primality | Least Terms |
+   | Prime Numbers | Prime Factorizations |
 
-    The Euclidean Algorithm
-    |a * b| = lcm {a,b} * gcd {a,b}
-    Expanding fractions to like terms,  adding fractions
+   * The Euclidean Algorithm
+   * |a * b| = lcm {a,b} * gcd {a,b}
+   * Expanding fractions to like terms,  adding fractions
 
-    Sieve of Eratosthenes
-    Fundamental Theorem of Arithmetic
-    Naive Set Theory,  Propositional Logic
-    Multisets (or "bags")
+   * Sieve of Eratosthenes
+   * Fundamental Theorem of Arithmetic
+   * Naive Set Theory,  Propositional Logic
+   * Multisets (or "bags")
 
-    Partial Orders and Lattices, Meet and Join
-       divisibility is a partial order
-       greastest common divisor (gcd) is a meet
-       least common multiple (lcm) is a join
-       now we have a lattice over the positive integers
+   * Partial Orders and Lattices, Meet and Join
+      * divisibility is a partial order
+      * greastest common divisor (gcd) is a meet
+      * least common multiple (lcm) is a join
+      * now we have a lattice over the positive integers
 
-    Sieve Theory
+   * Sieve Theory
 
-2.  Carry the quotient, use the remainder as a digit
-    Multi-digit, place-value number systems
-    Efficient addition, subtraction, multiplication, and division algorithms
-    Binary arithmetic
-    Base-n arithmetic
-    p-adic arithmetics
+2. Carry the quotient, use the remainder as a digit
 
-3.  Keep the quotient, discard the remainder
-    Rounding
+   * Multi-digit, place-value number systems
+   * Efficient addition, subtraction, multiplication, and division algorithms
+   * Binary arithmetic
+   * Base-n arithmetic
+   * p-adic arithmetics
 
-    approximate arithmetics
-       fixed-point
-       floating-point
-       unsigned machine words, modular arithmetic, 2s-complement signed arithmetic
-       saturating arithmetics
-       truncated continued fractions
-       convergents
-       semi-convergents
+3. Keep the quotient, discard the remainder
 
-    Numerical Analysis
+   * Rounding
 
-4.  Keep the quotient, treat the remainder like a numerator of a fraction
-    "mixed" versus "improper" fractions
-    decimalized fractions, De Thiende by Stevinus (1585 C.E.)
-    decimal-point arithmetic
-    binary radix-point arithmetic
-    binary fixed-point arithmetic
-    IEEE binary floating-point arithmetic
-    power series, place value, base-n radix-point arithmetic
-    power series approximations
+   * approximate arithmetics
+      * fixed-point
+      * floating-point
+      * unsigned machine words, modular arithmetic, 2s-complement signed arithmetic
+      * saturating arithmetics
+      * truncated continued fractions
+      * convergents
+      * semi-convergents
+      * Diophatine approximation
+  
+   * Numerical Analysis
 
-5.  Discard the quotient, pay attention only to the remainder
-    Unsigned machine words; 2s-complement arithmetic
-    Modular Arithmetic
-    Fermat's Little Theorem
-    Euler's Totient Function
-    Chinese Remainder Theorem
-    Extended Euclidean Algorithm
-    Bezout's Identity
-    Linear Diophantine equations
-    Quadratic Reciprocity
-    p-adic arithmetics
+4. Keep the quotient, treat the remainder like a numerator of a fraction
 
-    Number Theory
-    Abstract Algebra
-    Cryptography
+   * "mixed" versus "improper" fractions
+   * decimalized fractions, De Thiende by Stevinus (1585 C.E.)
+   * decimal-point arithmetic
+   * binary radix-point arithmetic
+   * binary fixed-point arithmetic
+   * IEEE binary floating-point arithmetic
+   * power series, place value, base-n radix-point arithmetic
+   * power series approximations
+
+5. Discard the quotient, pay attention only to the remainder
+
+   * Unsigned machine words; 2s-complement arithmetic
+   * Modular Arithmetic
+   * Fermat's Little Theorem
+   * Euler's Totient Function
+   * Chinese Remainder Theorem
+   * Extended Euclidean Algorithm
+   * Bezout's Identity
+   * Linear Diophantine equations
+   * Quadratic Reciprocity
+   * p-adic arithmetics
+
+   * Number Theory
+   * Abstract Algebra
+   * Cryptography
 
 
-6.  Keep the quotient, treat the remainder like the denominator of a fraction
-    The Euclidean Algorithm, The Stern-Brocot and Calkin-Wilf trees
-    binary search
-       * a naive Euclidean Algorithm
-       * rational approximation, aka diophantine approximation
-       * semi-convergents of _x_
-       * the Stern-Brocot representation
-       * rational numbers have one finite and two infinite reps
-       * irrational numbers have a unique infinite representation
-       * convergence and limits of Stern-Brocot sequences
-    run-length encoding
-       * continued fractions, integer multiplication
-       * integer division, an efficient Euclidean Algorithm
-       * off-by-one errors
-       * convergents of _x_
-       * Dirichlet's Approximation Theorem
-       * Dynamical Systems
-       * Numerical Analysis
-    worst case analysis
-       * fibonacci numbers
-       * golden ratio
-       * Hurwitz's Theorem (of Number Theory)
-       * Thue-Siegel-Roth Theorem
-    breadth first search, first-in-first-out (FIFO) queues
-       * Cantor equivalence between Q+ and Z+
-       * binary numbers and the Stern-Brocot representation
-       * hyperbinary numbers and the Calkin-Wilf tree
-       * Stern's Diatomic Sequence
-       * Dijkstra's fusc function
-       * Newman's rational counter
-    inorder traversal of a finite subgraph of the Stern-Brocot tree
-       * Farey Sequences
-       * depth-first search, last-in-first-out (LIFO) stacks
-       * backtracking
-       * stack-based recursion
-       * iterative deepening
-       * Riemann Hypothesis
-    Stern-Brocot representations
-       * Stern-Brocoot free monoid SL(2,N) of finite SB representations
-       * boundary matrices, determinants, diophantine linear equations
-       * The Calkin-Wilf tree
-    Gosper's algorithm for continued fraction arithmetic
-       * Macsyma / Maxima Computer Algebra System
+6. Keep the quotient, treat the remainder like the denominator of a fraction
+
+   * The Euclidean Algorithm, The Stern-Brocot and Calkin-Wilf trees
+   * binary search
+      * a naive Euclidean Algorithm
+      * rational approximation, aka diophantine approximation
+      * semi-convergents of _x_
+      * the Stern-Brocot representation
+      * rational numbers have one finite and two infinite reps
+      * irrational numbers have a unique infinite representation
+      * convergence and limits of Stern-Brocot sequences
+   * run-length encoding
+      * continued fractions, integer multiplication
+      * integer division, an efficient Euclidean Algorithm
+      * off-by-one errors
+      * convergents of _x_
+      * Dirichlet's Approximation Theorem
+      * Dynamical Systems
+      * Numerical Analysis
+   * worst case analysis
+      * fibonacci numbers
+      * golden ratio
+      * Hurwitz's Theorem (of Number Theory)
+      * Thue-Siegel-Roth Theorem
+   * breadth first search, first-in-first-out (FIFO) queues
+      * Cantor equivalence between Q+ and Z+
+      * binary numbers and the Stern-Brocot representation
+      * hyperbinary numbers and the Calkin-Wilf tree
+      * Stern's Diatomic Sequence
+      * Dijkstra's fusc function
+      * Newman's rational counter
+   * inorder traversal of a finite subgraph of the Stern-Brocot tree
+      * Farey Sequences
+      * depth-first search, last-in-first-out (LIFO) stacks
+      * backtracking
+      * stack-based recursion
+      * iterative deepening
+      * Riemann Hypothesis
+   * Stern-Brocot representations
+      * Stern-Brocoot free monoid SL(2,N) of finite SB representations
+      * boundary matrices, determinants, diophantine linear equations
+      * The Calkin-Wilf tree
+   * Gosper's algorithm for continued fraction arithmetic
+      * Macsyma / Maxima Computer Algebra System
 
 ## Symmetry Group of the Square
 
@@ -577,60 +582,57 @@ Six answers to the question "What do you do with the result of an integer divisi
 Unfortunately, contemporary mainstream math education focuses nearly all of it's time on answers #2 and #4, and maybe a little time on answer #1, whereas it's really worth spending time on each topic.
 
 ## Pascal's Triangle
-   n choose k
-   binomial coefficients
 
-   look at the rows:
-      binomial theorem
-      Bezier curves, vector graphics
-      binomial series, Newton's power series for pi
-      normal distributions
-      binomial probability distributions
-      generating functions, random walks
-      maximal entropy
-
-   look at the diagonals:
-      discrete summation
-      discrete difference
-      integer-valued polynomials
-      Vandermonde matrices
-      basis for the vector space of polynomials
-
-   hypergeometric probability distributions
-   hypergeometric functions
-   hypergeometric summation
-      Gosper's algorithm
-      Zeilberger's algorithm
-      Wilf-Zeilberger pairs
-
-   Combinatorics
-   Probability and Statistics
-   Stochastics, Monte Carlo Methods
-   Statistical Mechanics, Thermodynamics
-   Bayesian Data Analysis, the Philosophy of Science
+* n choose k
+* binomial coefficients
+* look at the rows:
+   * binomial theorem
+   * Bezier curves, vector graphics
+   * binomial series, Newton's power series for pi
+   * normal distributions
+      * binomial probability distributions
+      * generating functions, random walks
+      * maximal entropy
+* look at the diagonals:
+   * discrete summation
+   * discrete difference
+   * integer-valued polynomials
+   * Vandermonde matrices
+   * basis for the vector space of polynomials
+* hypergeometric probability distributions
+* hypergeometric functions
+* hypergeometric summation
+   * Gosper's algorithm
+   * Zeilberger's algorithm
+   * Wilf-Zeilberger pairs
+* Combinatorics
+* Probability and Statistics
+* Stochastics, Monte Carlo Methods
+* Statistical Mechanics, Thermodynamics
+* Bayesian Data Analysis, the Philosophy of Science
 
 ## Units of Measurement
-   Unit Fractions
-   Dimensional Analysis
-   Commesurate Units
-   Like
-   The correct way to add fractions
-   Types
+   
+* Unit Fractions
+* Dimensional Analysis
+* Commesurate Units
+* Like Terms
+* The correct way to add fractions
+* Types
 
-   length                   centimeter, inch, foot, yard, meter, kilometer, mile
-   area   = length^2        square centimeter, square foot, acre, hectare, square kilometer, square mile
-   volume = length^3        cubic centimeter, milliliter, liter, quart, gallon, cubic meter, kiloliter, megaliter, foot-acre
-
-   time                     second, minute, hour, day, week, month, year
-   speed  = length / time   miles per hour,  kilometers per hour, meters per second
-            area / time     hectares per day, acres per year
-   flow   = volume / time   gallons per hour,  liters per minute
-
-   acceleration = speed / time = length / time^2,  meters per second^2
-
-   mass
-   force  = mass * length / time^2
-   momentum = mass * length / time
+| dimension | example units | 
+| --- | --- |
+| length | | centimeter, inch, foot, yard, meter, kilometer, mile
+| area   = length^2 | square centimeter, square foot, acre, hectare, square kilometer, square mile |
+| volume = length^3 | cubic centimeter, milliliter, liter, quart, gallon, cubic meter, kiloliter, megaliter, foot-acre |
+| time | second, minute, hour, day, week, month, year |
+| speed = length / time | miles per hour,  kilometers per hour, meters per second |
+| area / time = length^2 / time| hectares per day, acres per year |
+| flow = volume / time = length^3 / time| gallons per hour, liters per minute |
+| acceleration = speed / time = length / time^2 | meters per second^2 |
+| mass | kilograms, grams|
+| force  = mass * acceleration = mass * length / time^2 | newtons |
+| momentum = mass * speed = mass * length / time | |
 
 ## How to Learn Part II: Review
 
@@ -775,6 +777,9 @@ Mix it up:
     These statements should not sound revolutionary, but considering the current practices of the mathematical society, they are a pressing call to action.
 
     - Taken from [federico ardila's personal academic webpage](http://math.sfsu.edu/federico/)
+
+[^fredrogers]:
+    See for example [Mister Rogers Had A Simple Set of Rules for Talking to Children](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/), or [Mr Rogers Nine Rules for Speaking to Children](https://www.openculture.com/2019/05/mr-rogers-nine-rules-for-speaking-to-children-1977.html), or "The Good Neighbor: The Life and Work of Fred Rogers" by Maxwell King
 
 [^exponential]:
     Many people have advocated for the "concrete examples before abstract principles" heuristic to teaching mathematics.  Doron Zeilberger's Opinion 65 regarding Gelfand's principle has played a particularly strong role in my thinking about math pedagogy.  Daniel Friedman and Kent Dybvig have both themselves contributed strongly to my thinking.
