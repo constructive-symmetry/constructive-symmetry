@@ -153,7 +153,7 @@ Rounding out a crash-course in the moral dimensions of our current situation, I 
 
 I cannot imagine a more profound human tragedy than contemporary Christian eschatological fantasies enmeshed with the delusions of today's economic orthodoxy becoming a self-fullfilling prophecy. It would be a profound failure of humanity's moral imagination if we never even seriously attempted to address these issues. Unfortunately, this scenario is an objectively live option in the real world today. I highly recommend Timothy Beal's "When Time Is Short: Finding Our Way in the Anthropocene", as an attempt to answer the question why we don't look up. We as human societies also need to quickly figure out how to break out of a self-destructive fixation on GDP growth.  Elinor Ostrom's "Governing the Commons" and Kate Raworth's "Doughnut Economics" seems like promising starts.
 
-On the topic of doughnuts, I suggest meditating on the Talmudic parable of The Oven of Akhnai, and "Sifting Through the Embers", a retelling of the fable of the Sibylline books found in Douglas Adams and Mark Carwardine's "Last Chance To See".  On the topic of meditations, I can't but help of thinking of Chidi's response to Simone's behavior in "The Good Place", and Yonatan Zunger's thoughtful essay "Tolerance is not a Moral Precept".
+On the topic of doughnuts, I suggest meditating on the Talmudic parable of The Oven of Akhnai, and "Sifting Through the Embers", a retelling of the fable of the Sibylline books found in Douglas Adams and Mark Carwardine's "Last Chance To See".  On the topic of meditations, I can't but help of thinking of Chidi's response to Simone's behavior in "The Good Place", and Yonatan Zunger's thoughtful essay "[Tolerance is not a Moral Precept](https://extranewsfeed.com/tolerance-is-not-a-moral-precept-1af7007d6376)".
 
 > Chidi: No offense, but solipsism, as a philosophy, is pretty juvenile, especially for a person with multiple advanced degrees. And it's also impossible to refute, because everything you see is confirmed by your belief. However... [Chidi sticks his finger in Simone's frozen yogurt]
 >
@@ -587,7 +587,7 @@ I hope that you will grow to appreciate some of the many contradictions that can
 [![img](external-assets/static.existentialcomics.com/comics/barFight1.png)](https://existentialcomics.com/comic/146)
 [![img](external-assets/static.existentialcomics.com/comics/barFight2.png)](https://existentialcomics.com/comic/146)
 
-3. Tolerance is Not a Moral Precept, by Yonatan Zunger
+3. [Tolerance is Not a Moral Precept, by Yonatan Zunger](https://extranewsfeed.com/tolerance-is-not-a-moral-precept-1af7007d6376)
 
    Best counterpoint I know of to "The Kingdom of God is Within You", I like to re-read this short, thoughtful and informative essay every few years.
 
