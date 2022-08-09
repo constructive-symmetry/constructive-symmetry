@@ -3,6 +3,9 @@
 
 [Philosophy News Network: is Philosophy Useless?](https://existentialcomics.com/comic/365)
 
+[![img](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless1.png)](https://existentialcomics.com/comic/365)
+[![img](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless2.png)](https://existentialcomics.com/comic/365)
+
 In celebration of Rational Approximation Day 02022-07-22, and in the name of Reason and a Re-enlightenment, I offer this study guide. It is an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity. If you only ever read a single suggestion, I would ask that you read "Weapons of Math Destruction", as it is directly relevant to the state of the world today and the many contemporary challenges we face. I suspect a great many people should probably read "The Scout Mindset" first, as preparation.
 
 My global suggestions consist of ten primary recommendations loosely divided into three major themes: inductive reasoning and self-awareness, ethics and morality, and the philosophy of math and science. These suggestions are "global" in the sense that I would recommend them to most people, with relatively few conditions or qualifications.
@@ -20,6 +23,9 @@ This invitation extends to you personally, as well as the United States of Ameri
 To celebrate, I suggest cutting a pie into sevenths, and sharing it with six other friends, both new and old. May you have a blessed Rational Approximation Week, and a wonderful Rational Approximation Day.
 
 [Philosophy News Network: Philosophy Solved](https://existentialcomics.com/comic/191)
+
+[![img](external-assets/static.existentialcomics.com/comics/PNNphilosophySolved1.png)](https://existentialcomics.com/comic/191)
+[![img](external-assets/static.existentialcomics.com/comics/PNNphilosophySolved2.png)](https://existentialcomics.com/comic/191)
 
 > Every difficult problem has a solution that is simple, neat, and wrong.
 >
@@ -54,9 +60,14 @@ For an invaluable overview of philosophy, I highly recommend "The Great Conversa
 
 [Wittgenstein Revises His Thesis](https://www.existentialcomics.com/comic/292)
 
+[![img](external-assets/static.existentialcomics.com/comics/WittgensteinRevisesThesis.png)](https://www.existentialcomics.com/comic/292)
+
 ## Self-aware, Inductive Reasoning
 
 [Star Trek: but instead of normal, it's with philosophers](https://existentialcomics.com/comic/92)
+
+[![img](external-assets/static.existentialcomics.com/comics/starTrek1.jpg)](https://existentialcomics.com/comic/92)
+[![img](external-assets/static.existentialcomics.com/comics/starTrek2.jpg)](https://existentialcomics.com/comic/92)
 
 The goal of my first theme is to introduce what George Pólya calls the _inductive attitude_:
 
@@ -102,6 +113,10 @@ See also "Not Born Yesterday" by Hugo Mercier, which reflects upon the nature of
 
 [Gottfried Leibniz and the Quest for the Holy Grail](https://existentialcomics.com/comic/108)
 
+[![img](external-assets/static.existentialcomics.com/comics/montyPython1.png)](https://existentialcomics.com/comic/108)
+[![img](external-assets/static.existentialcomics.com/comics/montyPython2.png)](https://existentialcomics.com/comic/108)
+[![img](external-assets/static.existentialcomics.com/comics/montyPython3.png)](https://existentialcomics.com/comic/108)
+
 I've read translations of Leibniz's Monadology a couple of times, including when attending lectures of Larry Moss's. I don't know how the Monadology relates to those lectures, except by the shallowest of puns, or a perspective that includes metaphysical discussion the of lectures and its participants themselves (which might or might not include  the content of said lecture).
 
 The Monadology is pretty short, but it is decidedly not easy reading. I've yet to understand most of it. Existential Comics provides their own original summary for this comic on their site.  This summary gave me a reason to reread the Monadology again. Check it out!
@@ -110,9 +125,15 @@ The Monadology is pretty short, but it is decidedly not easy reading. I've yet t
 
 [An Ethical Dilemma Finally Resolved](https://existentialcomics.com/comic/258)
 
+[![img](external-assets/static.existentialcomics.com/comics/ethicalDilemmaResolved1.png)](https://existentialcomics.com/comic/258)
+[![img](external-assets/static.existentialcomics.com/comics/ethicalDilemmaResolved2.png)](https://existentialcomics.com/comic/258)
+
 This would be an example of a just act. See also ["What I Think About Atlas Shrugged" by John Scalzi](https://whatever.scalzi.com/2010/10/01/what-i-think-about-atlas-shrugged/), and "The Common Good" by Robert Reich.
 
 [Philosophy News Network: Strike](https://existentialcomics.com/comic/199)
+
+[![img](external-assets/static.existentialcomics.com/comics/PNNstrike1.png)](https://existentialcomics.com/comic/199)
+[![img](external-assets/static.existentialcomics.com/comics/PNNstrike2.png)](https://existentialcomics.com/comic/199)
 
 John Rawls is known for "A Theory of Justice". Lawrence Krauss is known for "The Physics of Star Trek". Simone de Beauvoir is known for "All Men Are Mortal".
 
@@ -150,6 +171,10 @@ On the topic of doughnuts, I suggest meditating on the Talmudic parable of The O
 
 [The Philosophy Force Five vs the Scientismists](https://existentialcomics.com/comic/190)
 
+[![img](external-assets/static.existentialcomics.com/comics/philosophyForceFive1.png)](https://existentialcomics.com/comic/190)
+[![img](external-assets/static.existentialcomics.com/comics/philosophyForceFive2.png)](https://existentialcomics.com/comic/190)
+[![img](external-assets/static.existentialcomics.com/comics/philosophyForceFive3.png)](https://existentialcomics.com/comic/190)
+
 I agree with the original summary provided by Existential Comics: in ways relevant to this essay, Neil deGrasse Tyson certainly seems ontologically distinct from the rest of the men depicted in this comic. I very much look forward to reading "Starry Messenger: Cosmic Perspectives on Civilization".
 
 Gertrude Elizabeth Margaret (G.E.M.) Anscombe is well known as a moral philosopher in the analytic tradition, and for being a student, close friend, and translator of Ludwig Wittgenstein. She is strongly associated in my mind with "Anscombe's Paradox": the observation that if at least 5 electors vote on least 3 proposals passed by simple majority, and you consider the set of electors who voted against a majority of the proposals that passed, then that set might constitute a majority of the electors. It's not hard to synthesize a hypothetical example: it's essentially the same as "packing and cracking" in gerrymandering. Try it!
@@ -161,6 +186,9 @@ On the topic of practical social choice theory, in particular I support approval
 ## The Philosophy of Math (and Science)
 
 [Pride and Prejudice and Logical Positivism](https://existentialcomics.com/comic/413)
+
+[![img](external-assets/static.existentialcomics.com/comics/PrideandPrejudiceandLogicalPositivism1.png)](https://existentialcomics.com/comic/413)
+[![img](external-assets/static.existentialcomics.com/comics/PrideandPrejudiceandLogicalPositivism2.png)](https://existentialcomics.com/comic/413)
 
 "Proofs and Refutations: The Logic of Mathematical Discovery" by Imre Lakatos is an unusual book, not least because it explicitly argues in favor of informal mathematics. One of Judea Pearl's theses in "The Book of Why" is that discussing and formalizing causal inference has been so difficult, even controversial, precisely because we are naturally pretty good at it. By analogy, I suspect that discussing[^formalizinginformalmath] the philosophy of informal mathematics is in a similar situation. By constrast, classical statistics, deductive logic, and algebra come far less naturally to the human mind, which in some ways makes it easier to appreciate why they are important and interesting ideas to hold on to.
 
@@ -196,6 +224,10 @@ However, the modern world has already provided alternative options for learning 
 
 [Philosophy Network News: Derrida Arrested!](https://existentialcomics.com/comic/185)
 
+[![img](external-assets/static.existentialcomics.com/comics/PNNderrida1.png)](https://existentialcomics.com/comic/185)
+
+[![img](external-assets/static.existentialcomics.com/comics/PNNderrida2.png)](https://existentialcomics.com/comic/185)
+
 "Language, Proof and Logic" is an introduction to formal deductive logic and model theory, and seems well suited for self study via computer-based exercises and online lectures. From the introduction, the sections "The special role of logic in rational inquiry", "Why learn an artificial language?", and "Consequence and proof" are particularly well worth reading sooner than later.
 
 The title invokes "Language, Truth, and Logic" by A.J. Ayer, which was a popular English-language introduction to the logical positivism of Rudolph Carnap and the Vienna Circle. Bertrand Russell, Ludwig Wittgenstein, G.E.M. Anscombe, and Willard Van Orman Quine are other high-profile analytical philosophers whom appear in the Existential Comics I reference in this document. Logical positivism was an early form of analytical philosophy, which has grown into a workhorse of science, math, and computer engineering.
@@ -224,6 +256,9 @@ For a more comprehensive, up-to-date resource about how to become a logician, I 
 
 [Good Cop, Pragmatist About the Nature of Truth Cop](https://existentialcomics.com/comic/115)
 
+[![img](external-assets/static.existentialcomics.com/comics/goodCopPragmatistCop1.png)](https://existentialcomics.com/comic/115)
+[![img](external-assets/static.existentialcomics.com/comics/goodCopPragmatistCop2.png)](https://existentialcomics.com/comic/115)
+
 > So you believe in that garbage, too—theories of knowledge, infinity, laws of probability. I can make no sense of it, and I don't believe you can either, and I don't think your god Peirce knew what he was talking about.
 >
 > - H.L. Mencken
@@ -237,14 +272,19 @@ Charles Sanders Peirce was an American logician and philosopher in the pragmatis
 
 [The Sighting](https://existentialcomics.com/comic/36)
 
+[![img](external-assets/static.existentialcomics.com/comics/platonicNumbers1.jpg)](https://existentialcomics.com/comic/36)
+[![img](external-assets/static.existentialcomics.com/comics/platonicNumbers2.jpg)](https://existentialcomics.com/comic/36)
+
 * "Lectures on the Philosophy of Mathematics" by Joel David Hamkins
-* Gowers
-* Wilf
-* Zeilberger
+* "The Two Cultures of Mathematics" by W. T. Gowers
+* "Mathematics: an Experimental Science", by Herbert S. Wilf
+* "Enumerative and Algebraic Combinatorics", by Doron Zeilberger
 * "Where Mathematics Comes From" by George Lakoff and Rafael E. Núñez
 * "The Logical Syntax of Language" by Rudolph Carnap
 
 [On The Usefulness of Philosophy](https://existentialcomics.com/comic/408)
+
+[![img](external-assets/static.existentialcomics.com/comics/OnTheUsefulnessofPhilosophy.png)](https://existentialcomics.com/comic/408)
 
 * [What is Inductive Logic?](https://www.youtube.com/watch?v=4ZKa1S1wPy4) by Kevin deLaplante
 * "The Emergence of Probability", by Ian Hacking
@@ -259,6 +299,8 @@ Charles Sanders Peirce was an American logician and philosopher in the pragmatis
 
 [The Three Little Philosophers of Science](https://existentialcomics.com/comic/358)
 
+[![img](external-assets/static.existentialcomics.com/comics/ThreeLittlePhilosophersofScience.png)](https://existentialcomics.com/comic/358)
+
 * "The Logical Foundations of Probability" by Rudolph Carnap
 * "Conjectures and Refutations" by Karl Popper
 * "The Structure of Scientific Revolutions" by Thomas Kuhn
@@ -271,9 +313,13 @@ Imre Lakatos's philosophy of science and mathematics is a rich source of wisdom,
 
 [Fireworks and a theory of language](https://existentialcomics.com/comic/381)
 
+[![img](external-assets/static.existentialcomics.com/comics/FireworksandaTheoryofLanguage.png)](https://existentialcomics.com/comic/381)
+
 ## Deconstructing Bertrand Russell
 
 [Bertrand Russell Invents Analytic Philosophy](https://existentialcomics.com/comic/342)
+
+[![img](external-assets/static.existentialcomics.com/comics/BertrandRussellInventsAnalyticPhilosophy.png)](https://existentialcomics.com/comic/342)
 
 > Language is the vehicle by which we express our thoughts, and the relation between those thoughts and our language is a subtle and involuted one. The nature of language actually shapes and models the way we think. [...]
 >
@@ -303,7 +349,7 @@ Kurt Gödel proved that it is impossible to definitively rule out the possibilit
 >
 > Russell immediately replied, "Add 1 to both sides of the equation: then we have 2 = 1. The set containing just me and the Pope has 2 members. But 2 = 1, so it has only 1 member; therefore, I am the Pope."
 >
-> - Taken from [Andy Long's resources for learning MAT 385: Discrete Math at Northern Kentucky University](http://ceadserv1.nku.edu/longa/classes/mat385_resources/docs/russellpope.html)  (2022-05-27)
+> - Taken from [Andy Long's resources for learning MAT 385: Discrete Math at Northern Kentucky University](http://ceadserv1.nku.edu/longa/classes/mat385_resources/docs/russellpope.html)
 
 > And I think that Russell was right, but that's irrelevant, friend.
 >
@@ -311,9 +357,13 @@ Kurt Gödel proved that it is impossible to definitively rule out the possibilit
 
 [Bertrand Russell Asks Out A Girl](https://existentialcomics.com/comic/416)
 
+[![img](external-assets/static.existentialcomics.com/comics/InWhichBertrandRussellAsksOutaGirl.png)](https://existentialcomics.com/comic/416)
+
 If you want another take on the "what's the worst that can happen" joke, Tucker & Dale vs. Evil is a comedy horror film that you might enjoy.
 
 [Why Learn Math?](https://www.existentialcomics.com/comic/449)
+
+[![img](external-assets/static.existentialcomics.com/comics/WhyLearnMath.png)](https://www.existentialcomics.com/comic/449)
 
 Of course, here the comic depicts John Rawls using an _original position_ type thought experiment in an attempt to justify society's need to teach mathematics.  John Rawls is addressing his argument to a less-than-enthusiastic math student, whereas Justin Stover's quote is in the context of school and government administrators among others demanding a justification for the existence of humanities scholars.
 
@@ -407,6 +457,8 @@ Often, this philosophy seems to be practiced reasonably well in many of the prog
 
 ["Workflow"](https://xkcd.com/1172/)
 
+[![img](external-assets/imgs.xkcd.com/comics/workflow.png)](https://xkcd.com/1172/)
+
 However, the fact is is that in any widely used software artifact, very few of those "junk" behaviors are entirely junk: eventually some other software developer starts relying on that specific behavior for the correct functioning of their own program. This can also be true of a "bug", which suggests a behavior deemed flatly incorrect, in contrast to "junk", which suggests a behavior deemed unintential. Then "fixing" or "eliminating" a bug or a junk behavior, can involve updating multiple downstream software artifacts, which in turn frequently involves stakeholders crossing many political and even temporal boundaries.
 
 In most cases, a geniune bug fix has fewer and smaller downstream impacts on clients. XKCD's comic uses a highly implausible scenario as an dadaist element of humor, but it hits upon a fundamental truth. I've received requests to mitigate a change that seemed outlandish to me. I'm sure I've made such requests that seemed outlandish to those receiving them. I strongly prefer to make decisions that avoid creating either kind of situation in the future.  For example I wouldn't want to end up depending on the rise of CPU temperature to do anything that is irrelevant to that specific situation, for the simple reason that I prefer not to be that guy, that longtime user depicted in the comic once the CPU temperature issue is fixed or improved.
@@ -453,9 +505,15 @@ In any case, I do highly recommend reading the entirety of Justin Stover's excel
 
 [Wittgenstein's Monster](https://existentialcomics.com/comic/117)
 
+[![img](external-assets/static.existentialcomics.com/comics/wittgensteinsMonster1.png)](https://existentialcomics.com/comic/117)
+[![img](external-assets/static.existentialcomics.com/comics/wittgensteinsMonster2.png)](https://existentialcomics.com/comic/117)
+
 Of course, the classic novel "Frankenstein" was written by Mary Shelley, who was Mary Wollstonecraft's daughter. Ludwig Wittgenstein is famous for writing the "Tractatus Logico-Philosophicus". In his later lectures, Wittgenstein came to disagree with his past work. His rebuttal can be found in "Philosophical Investigations", which was translated to English by G.E.M. Anscombe and first published after Wittgenstein's death.
 
 [Bertrand Russell on the Job Market](https://existentialcomics.com/comic/149)
+
+[![img](external-assets/static.existentialcomics.com/comics/unemployedRussell1.png)](https://existentialcomics.com/comic/149)
+[![img](external-assets/static.existentialcomics.com/comics/unemployedRussell2.png)](https://existentialcomics.com/comic/149)
 
 "The Hegel Myths and Legends" by Jon Stewart et al, contains essential supplemental readings for those who have read or plan to read Bertrand Russell's "A History of Western Philosophy" or Karl Popper's "The Open Society and Its Enemies", among many other English-language discussions of Georg Wilhelm Friedrich Hegel.  Debunking the myths and legends that surround the Anglo-Saxon interpretations of Hegel can make for some interesting reading otherwise, if one is so inclined.
 
@@ -463,7 +521,12 @@ For an alternative to Russell's history, I recommend "The Great Conversation: A 
 
 [Philosopher's Cookoff](https://existentialcomics.com/comic/405)
 
+[![img](external-assets/static.existentialcomics.com/comics/PhilosophersCookoff1.png)](https://existentialcomics.com/comic/405)
+[![img](external-assets/static.existentialcomics.com/comics/PhilosophersCookoff2.png)](https://existentialcomics.com/comic/405)
+
 [Bertrand Russell has a Near Death Experience](https://existentialcomics.com/comic/304)
+
+[![img](external-assets/static.existentialcomics.com/comics/BertrandRussellNearDeath.png)](https://existentialcomics.com/comic/304)
 
 The joke's on Existential Comics, I want types and dimensional analysis early and often in elementary math education!  Specifically, I want simple, concrete examples of types, such whole numbers, fractions, Cartesian coordinates, and units of measurement. I want simple, concrete examples of dimensional analysis, such as length, position, area, volume, ratios, and rates of change. I want demonstrations and discussions of how these ideas inform problem solving heuristics. I also want some of that analytical philosophy as well... later.
 
@@ -472,6 +535,8 @@ The joke's on Existential Comics, I want types and dimensional analysis early an
 [Hume and Avicenna](https://existentialcomics.com/comic/267)
 
 [![I'm pretty sure Leibniz's answer is "monads".](external-assets/static.existentialcomics.com/comics/humeAndAvicenna.png)](https://existentialcomics.com/comic/267)
+
+I'm pretty sure Leibniz's answer is "monads".
 
 ![Good Omens meme](external-assets/GoodOmens-Quotes-s01e03.webp)
 
@@ -490,6 +555,9 @@ I hope that you will grow to appreciate some of the many contradictions that can
 
 [Wittgenstein's Lion](https://existentialcomics.com/comic/245)
 
+[![img](external-assets/static.existentialcomics.com/comics/wittgensteinsLion.png)](https://existentialcomics.com/comic/245)
+
+
 1. The Good Place, created by Michael Schur
 
    I was raised in the Church of the Brethren, which claims Alexander Mack as a founder and early leader. From what I understand of Mack's worldview and theology, I believe that he would be delighted by "The Good Place".
@@ -500,12 +568,19 @@ I hope that you will grow to appreciate some of the many contradictions that can
 
 [Objection!](https://existentialcomics.com/comic/107)
 
+[![img](external-assets/static.existentialcomics.com/comics/objection1.png)](https://existentialcomics.com/comic/107)
+[![img](external-assets/static.existentialcomics.com/comics/objection2.png)](https://existentialcomics.com/comic/107)
+
+
 2. The Kingdom of God is Within You, by Leo Tolstoy
 
    I have been deeply exposed to the philosophies mentioned and advocated in this book, and for that I am profoundly grateful. This is a difficult and challenging book, and that is a signficant part of the reason I suggest it.
    * See also: [MCC and National Socialism](https://mcc.org/media/resources/10441)
 
 [The Bar Fight](https://existentialcomics.com/comic/146)
+
+[![img](external-assets/static.existentialcomics.com/comics/barFight1.png)](https://existentialcomics.com/comic/146)
+[![img](external-assets/static.existentialcomics.com/comics/barFight2.png)](https://existentialcomics.com/comic/146)
 
 3. Tolerance is Not a Moral Precept, by Yonatan Zunger
 
@@ -562,6 +637,8 @@ I hope that you will grow to appreciate some of the many contradictions that can
 
 [John Rawls and the Original Position](https://existentialcomics.com/comic/350)
 
+[![img](external-assets/static.existentialcomics.com/comics/JohnRawlsandtheOriginalPosition.png)](https://existentialcomics.com/comic/350)
+
 25. A Theory of Justice, by John Rawls
 
 26. What We Owe to Each Other, by T.M. Scanlon
@@ -577,7 +654,15 @@ I hope that you will grow to appreciate some of the many contradictions that can
    I found both a degree of solace and a writing voice in both William Deal's and Timothy Beal's classes on religion and comparative ethics at Case Western Reserve University, in which I occasionally trialled arguments that informed my sermon on rational approximation and this study guide. I bought this book as I was broadening my literature search, and it turned out to be unexpectly very useful. I had considered using the word "simulacrum", but when researching the cultural context surrounding this word, decided against it, in part to my difficulty understanding the basics of Jean Baudrillard. This book was invaluable to the reversal of that decision.
 
 [Existential Office](https://existentialcomics.com/comic/79)
+
+[![img](external-assets/static.existentialcomics.com/comics/existentialOffice.jpg)](https://existentialcomics.com/comic/79)
+[![img](external-assets/static.existentialcomics.com/comics/existentialOffice2.jpg)](https://existentialcomics.com/comic/79)
+[![img](external-assets/static.existentialcomics.com/comics/existentialOffice3.jpg)](https://existentialcomics.com/comic/79)
+
 [Analytic Office](https://existentialcomics.com/comic/89)
+
+[![img](external-assets/static.existentialcomics.com/comics/analyticOffice1.jpg)](https://existentialcomics.com/comic/89)
+[![img](external-assets/static.existentialcomics.com/comics/analyticOffice2.jpg)](https://existentialcomics.com/comic/89)
 
 Mathematicians are a flock of odd birds. Does that make existential philosophers a herd of cats?
 
@@ -882,6 +967,8 @@ Game Theory
 
 [A Brief History of Metaphysics](https://existentialcomics.com/comic/250)
 
+[![img](external-assets/static.existentialcomics.com/comics/historyOfMetaphysics.png)](https://existentialcomics.com/comic/250)
+
 In an essay that is constantly using a cartoons of Wittgenstein as frequent comic relief, it would be remiss to fail to respond to this comic by mentioning Hugh Everett, one of the truly great metaphysical philosophers of the 20th century. He first formulated the many-worlds interpretation of a quantum multiverse as a possible alternative to the Copenhagen interpretation.
 
 Understanding the linearity of quantum mechanics is key to gaining insight into these alternatives: if quantum mechanics is perfectly linear, then no experiment will ever distinguish between the multiverse and the Copenhagen interpretation.  Hugh Everett will forever remain a remarkable metaphysical philosopher, a legend for asking a very remarkable question that would unfortunately be totally unanswerable from our perspective in this universe.
@@ -897,6 +984,9 @@ In a many-worlds interpretation, every timeline would be constantly branching an
 If we can interact with parallel timelines, then it seems wise to start by assuming that we can only interact with timelines that are somehow "near" to us, and not those that are "far". Our current best guess suggests we would be able to empirically interact only with those timelines that are decohering away from the experiment. In this scenario, managing to open a communications channel to a parallel timeline wouldn't seem to be overly useful for exploring alternative histories the way many science fiction writers would like to do.  Whomever you are communicating with should have perceived the exact same timeline, up until the moment the experiment started.  Still... even that would be a truly remarkable accomplishment.
 
 [Philosophy News Network: Large Idea Collider](https://existentialcomics.com/comic/83)
+
+[![img](external-assets/static.existentialcomics.com/comics/philosophyNewsNetwork1.jpg)](https://existentialcomics.com/comic/83)
+[![img](external-assets/static.existentialcomics.com/comics/philosophyNewsNetwork2.jpg)](https://existentialcomics.com/comic/83)
 
 Alternatively, if the observed non-linear quantum phenomenon supports a theory closer to the Copenhagen interpretation, then warp drives and time travel might be legitimate possibilities. So yes, it certainly seems possible that we could actually be living in a Star Trek universe. Keep in mind that possible does not imply practical, let alone sufficiently practical to enable economies based on the interstellar trade of material goods. Honestly that fantasy commonly found in science fiction does seem rather implausible to me.
 
@@ -915,6 +1005,11 @@ So, could any or all of these theories contain elements of whatever it is that i
 > [Lard_Baron](https://franceisbacon.com)
 
 [The Life of Francis](https://existentialcomics.com/comic/183)
+
+[![img](external-assets/static.existentialcomics.com/comics/lifeOfFrancis1.png)](https://existentialcomics.com/comic/183)
+[![img](external-assets/static.existentialcomics.com/comics/lifeOfFrancis2.png)](https://existentialcomics.com/comic/183)
+[![img](external-assets/static.existentialcomics.com/comics/lifeOfFrancis3.png)](https://existentialcomics.com/comic/183)
+[![img](external-assets/static.existentialcomics.com/comics/lifeOfFrancis4.png)](https://existentialcomics.com/comic/183)
 
 This joke is based on the fact that "France is bacon" is a homophone of "Francis Bacon". When audibly verbalized in English, it's easy to confuse one phrase for the other, especially if spoken quickly. Of course, the usual interpretations of "Francis Bacon" and "France is bacon" are sufficiently far apart in English that most people with any awareness that Francis Bacon was a man will automatically choose the correct interpretation based on context, and will often do so unconsciously.
 
@@ -947,6 +1042,8 @@ In th realm of blockchain,  when you "send" cryptocurrency to another person, yo
 Sometimes the sharing of a public key is totally under the control of software. For example, if you are using a FIDO U2F token, then the public key is automatically shared with the authentication server you are enrolling the token in. This does seem a perfectly natural fit to the intended purpose, but sometimes users do need to be able to manage these details themselves, and sometimes software makes that very difficult to accomplish.
 
 [XKCD's Exploits of a Mom](https://xkcd.com/327/)
+
+[![img](external-assets/imgs.xkcd.com/comics/exploits_of_a_mom.png)](https://xkcd.com/327/)
 
 However, solving these two particular low-level problems, while both amazing foundational bits of technology in and of themselves, is not a holistic foundation for a communications system.  For that we also need to delve into the semantics and effectiveness of the application-layer communication protocols.
 
@@ -1019,6 +1116,10 @@ As the physical layer of APRS is a 1200 baud modem signal that is transmitted vi
 I believe that APRS should inspire a next-generation amateur radio protocol and software stack aimed at a more ambitious vision of a distributed, local bulletin board. With significant effort, we could build a next-generation APRS that builds upon Bob Bruninga's vision, one that's more reliable, easier to use, and all-arond more compelling.
 
 [Dungeons & Dragons & Philosophers II: The Analytic Turn](https://existentialcomics.com/comic/28)
+
+[![img](external-assets/static.existentialcomics.com/comics/dndAnalytic1.jpg)](https://existentialcomics.com/comic/28)
+[![img](external-assets/static.existentialcomics.com/comics/dndAnalytic2.jpg)](https://existentialcomics.com/comic/28)
+[![img](external-assets/static.existentialcomics.com/comics/dndAnalytic3.jpg)](https://existentialcomics.com/comic/28)
 
 ## A statement on the 2022 California Math Curriculum reform controversy
 
@@ -1155,6 +1256,9 @@ Iterative Systems, Bourbon, Indiana  (02022-07-22)
 
 [Is a Hotdog a Sandwich? A Definitive Study.](https://existentialcomics.com/comic/268)
 
+[![img](external-assets/static.existentialcomics.com/comics/hotdogSandwich1.png)](https://existentialcomics.com/comic/268)
+[![img](external-assets/static.existentialcomics.com/comics/hotdogSandwich2.png)](https://existentialcomics.com/comic/268)
+
 On the topic of sevenths of a circular pie, assuming the pie is like a cake and wants a bit of sawing motion to get a clean cut, and assuming you care about trying to make seven nearly-identical wedge pieces... then I think you'd be best off by puncturing a circular hole in the center of the pie, topologically transforming the pie into a donut. That donut can then be neatly sliced into seven wedges, which you could share with six friends.
 
 Other kinds of pie will at least afford and possibly require radically different pie-cutting solutions! What about a pizza pie, which tends to cut better with a rolling slice? What about asymmetric cuts? What about fair division? What about social choice? The possibilities for new and interesting questions are endless!
@@ -1166,6 +1270,9 @@ In any case, remember to share pie with friends, both new and old. May all y'all
 ## Author Bio
 
 [Philosophy Infomercial](https://existentialcomics.com/comic/196)
+
+[![img](external-assets/static.existentialcomics.com/comics/philosophyInfomercial1.png)](https://existentialcomics.com/comic/196)
+[![img](external-assets/static.existentialcomics.com/comics/philosophyInfomercial2.png)](https://existentialcomics.com/comic/196)
 
 Leon P Smith is a longtime enthusiast of computer science, programming languages and math education, especially concurrency, communication, semantics, queuing, Haskell, discrete mathematics, abstract algebra, and (semi-)formal methods. He is also an armchair cosmologist, a professional calendar nerd, and an aspiring time nut. As a software engineer, he is best known for postgresql-simple, which was part of a software system that assisted dispatchers in the process of answering and responding to emergency 911 calls in Parke County, Indiana. As a result of being a popular open source library, it is currently in use in countless publically unknown contexts all over the world.
 
@@ -1234,6 +1341,10 @@ Limits of Software: People, Projects, and Perspectives, by Robert N. Britcher
 ## Words of Gratitude
 
 [Hypatia of Alexandria and the Seven Presocratics](https://existentialcomics.com/comic/95)
+
+[![img](external-assets/static.existentialcomics.com/comics/hypatiaOfAlexandria1.png)](https://existentialcomics.com/comic/95)
+[![img](external-assets/static.existentialcomics.com/comics/hypatiaOfAlexandria2.png)](https://existentialcomics.com/comic/95)
+[![img](external-assets/static.existentialcomics.com/comics/hypatiaOfAlexandria3.png)](https://existentialcomics.com/comic/95)
 
 To Imre Lakatos and Ayn Rand, two very different yet both deeply flawed human beings, of the type that should make you turn your head and go "Holy Shit!"
 
@@ -1362,6 +1473,8 @@ May everybody have a blessed Rational Approximation Week, and a wonderful Ration
 Peace out.
 
 [The Ultimate Secret of Philosophy](https://existentialcomics.com/comic/437)
+
+[![img](external-assets/static.existentialcomics.com/comics/TheUltimateSecretofPhilosophy.png)](https://existentialcomics.com/comic/437)
 
 ## (currently woefully incomplete) Bibiliography:
 
