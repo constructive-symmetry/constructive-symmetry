@@ -50,7 +50,7 @@ In my next video, I will show you how to efficiently find the room of any specif
 
     However, in the context of boundary fractions on the Stern-Brocot tree, it works to equate infinity with the pseudofraction 1/0.  This equivalence might not work out nicely in other contexts.  One or both the concepts of 1/0 and infinity may fail to make any sense in other contexts.  Even if they both make sense, they may or may not correspond to each other.
 
-    Once we get to adding fractions, we will see that the usual addition rule cannot be used to add a pseudofraction 1/0 to any other fraction, because there is no way to expand the pseudofraction 1/0 so that it can be written in like terms with another fraction, because expanding the pseudofraction 1/0 will always leave zero in the denominator.  
+    While we can take the mediant of the pseudofraction 1/0 and another fraction,  we cannot properly add the pseudofraction 1/0 to any other fraction. Expanding 1/0 will always leave zero in the denominator, thus it is impossible to write 1/0 in like terms with any fraction.
 
 [^mediant]:
     The mediant is sometimes known as "the wrong way to add fractions".  While the mediant is certainly not addition, the mediant is not inherently _wrong_: rather, when used in appropriate contexts, the mediant is _useful_.
