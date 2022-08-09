@@ -43,7 +43,7 @@ In my next video, I will show you how to efficiently find the room of any specif
 [^motivation]:
     One of my more eccentric beliefs is that the Stern-Brocot tree should be introduced as gently as possible and as soon as possible to young children, soon after they develop a notion of counting and addition of small nonnegative integers.  Note the most difficult addition problem in this whole video is 2+3=5. (!) My guess is that this should be introduced shortly after introducing the number line, another fundamental mental model in arithmetic and geometry.  I believe this because the Stern-Brocot tree is a useful, concrete example and teaching device across a surprisingly wide swath of mathematics from elementary school all the way through postgraduate studies and beyond.  It has a uncanny knack for tying together fundamental and widely useful concepts in seemingly disparate areas of computer science and mathematics, and an uncanny knack for appearing to the solutions of problems in the most suprising ways.
 
-    On the other hand, I am probably not the first person to ever hold this eccentric belief, judging from Neil Calkin and Herbert Wilf's classic paper, Recounting the Rationals.  See history[^history] and related concepts[^related] below.
+    On the other hand, I am probably not the first person to ever hold this eccentric belief, judging from Neil Calkin and Herbert Wilf's classic paper, Recounting the Rationals.  See historical notes[^history], a note on mechanical engineering[^mechanical], related concepts[^related], and credits[^credits] below.
 
 [^infinity]:
     Infinity is a weird and tricky concept, and we need to be careful what we say about it and how we use it.  Strictly speaking, infinity is not a fraction, 1/0 is not a fraction, and the pseudofraction 1/0 is not necessarily the same thing as infinity.  Keep in mind that this lesson uses the pseudofraction 1/0 only as a "boundary" fraction;  it never appears in the middle of its own room, and it's not one of "all of the positive fractions" that are greater than zero and _strictly less_ than infinity.  
@@ -60,7 +60,7 @@ In my next video, I will show you how to efficiently find the room of any specif
     Introducing the mediant also sets up a later lesson about well-definedness, as the mediant is an example of a useful function that is not a well-defined function of fractions.  This contrasts nicely with addition, which is a well-defined function of fractions.  Learning modular arithmetic well, largely comes down to fully owning and utilizing the concept of well-definedness.
 
 [^history]:
-    The Āryabhaṭīya is a Indian text on astronomy and mathematics written in Sanskrit circa 499 CE.  It attempted to find solutions of the linear diophantine equation Ax = By + C,  for positive A, B, C, using a solution that, although the method itself seems unclear at least to the English-reading scholars, seems clearly related to continued fractions.  The Stern-Brocot tree is essentially equivalent to the modern notion of "simple continued fractions".
+    The Āryabhaṭīya is a Indian text on astronomy and mathematics written in Sanskrit circa 499 CE.  It attempted to find solutions of the linear diophantine equation Ax = By + C,  for positive A, B, C, using a solution that, although the method itself seems unclear to scholars who have worked on or from English translations, seems clearly related to continued fractions. Linear diophantine equations can indeed be solved using continued fractions! The Stern-Brocot tree is essentially equivalent to the modern notion of "simple continued fractions".
 
     However the Stern-Brocot tree is conceptually easier to grasp for the first time, and can be used to motivate learning about integer multiplication and division, which in turn leads to simple continued fractions.  Moreover, the Stern-Brocot tree continues to be a useful mental model for simple continued fractions even after a student of mathematics starts to understand continued fractions.  The Indian mathematician Srinivasa Ramanujan (1887-1920) is particularly famous for his understanding of continued fractions, and various generalizations thereof.
 
@@ -76,18 +76,16 @@ In my next video, I will show you how to efficiently find the room of any specif
 
     "Concrete Mathematics" credits Moritz Stern (1858) and Achille Brocot (1861) for the discovery of the Stern-Brocot tree, and mentions that Hermann Minkowski presented a lecture on the Stern-Brocot representation to the International Congress of Mathematicans in Heidelberg in 1904.  Hermann Minkowski is better known for his 1907 publication of the first mathematical models that conformed to Albert Einstein's Theory of Special Relativity, now termed Minkowski spaces in his honor.  
 
-    Moritz Stern (1807-1894) was a professor of mathematics at Göttingen University, Germany.   Moritz Stern was the first Jewish full professor at any German university who obtained the position without first converting to Christianity.  He the first person to be promoted to Carl Fredrich Gauss's professorship after Gauss's death.  Moritz Stern was a teacher of Bernhard Riemann, who formulated the Riemann Hypothesis.  Bernhard Riemann might have anticipated the possibility that the geometry of universe is non-Euclidean, anticipating a key aspect of the Theory of Relativity.
+    Moritz Stern (1807-1894) was a professor of mathematics at Göttingen University, Germany.   Moritz Stern was the first Jewish full professor at any German university who obtained the position without first converting to Christianity.  He was the first person to be promoted to Carl Fredrich Gauss's professorship after Gauss's death.  Moritz Stern was a teacher of Bernhard Riemann, who formulated the Riemann Hypothesis.  Bernhard Riemann might have anticipated the possibility that the geometry of universe is non-Euclidean, anticipating a key aspect of the Theory of Relativity.
 
-    Achille Brocot (1817-1878) was a French clockmaker and partner in the a small clockmaking company "Brocot et Delettrez" in Paris.  The Stern-Brocot tree was used to help select gear ratios in some of their mechanical clocks.[^mechanicalengineering]  Over 100 years later, in 1971 the Hafele–Keating experiment would use cesium beam atomic clocks, the most precise clocks available at the time, to directly test time dilation predictions of the Theory of Relativity for the first time.
+    Achille Brocot (1817-1878) was a French clockmaker and partner in the a small clockmaking company "Brocot et Delettrez" in Paris.  The Stern-Brocot tree was used to help select gear ratios in some of their mechanical clocks.[^mechanical] Over 100 years later, in 1971 the Hafele–Keating experiment would use cesium beam atomic clocks, the most precise clocks available at the time, to directly test time dilation predictions of the Theory of Relativity for the first time.
 
-[^mechanicalengineering]:
+[^mechanical]:
     It is true that the Stern-Brocot tree leads to all the "best" rational approximations of some target.  However, the exact particular notion of "best" that corresponds to the Stern-Brocot tree is too simplistic for the purposes of selecting gear ratios in mechanical engineering.
 
-    In this context, a "best" rational approximation is any fraction that either has a smaller denominator, or is closer to the target, than any other fraction.  Performing a binary search on the Stern-Brocot tree will lead you past every single fraction that is a "best" rational approximation.
+    In this context, a "best" rational approximation is any fraction that either has a smaller denominator, or is closer to the target, than any other fraction.  Performing a binary search on the Stern-Brocot tree will lead you past every single fraction that is a "best" rational approximation, though not every fraction you pass by will be a "best" rational approximation.
 
-    In mechanical engineering, a reasonable rule of thumb is that a gear should typically have less than about 100 teeth. Any more than that, and the teeth get very tiny, which can compromise mechanical strength, or the gear starts getting very big and heavy.   Not to mention the manufacturing expense of such a complicated gear with more than 100 teeth.
-
-    Thus this simplistic notion of "best", while of supreme importance in mathematics, is not always of direct relevance to approximating gear ratios in mechanical engineering. It's often better to find an approximation of the desired gearing ratio as a gear train of 2-4 links, with no gear having more than about 100 teeth.
+    This notion of "best", while of great importance in mathematics, is too simplistic to always be directly relevant to approximating gear ratios in mechanical engineering. In mechanical engineering, a reasonable rule of thumb is that a gear should typically have less than about 100 teeth. Any more than that, and the teeth get very tiny, which can compromise mechanical strength, or the gear starts getting very big and heavy. Not to mention the manufacturing expense of such a complicated gear with more than 100 teeth! It's often better to find an approximation of the desired gearing ratio as a gear train of 2-4 links.
     
     For a more in-depth look at these issues, I highly recommend the article ["Stern-Brocot Tree and Gearing" on the Engineering Commons website](https://www.engineeringcommons.org/stern-brocot-tree).
 
@@ -177,6 +175,7 @@ In my next video, I will show you how to efficiently find the room of any specif
         * Minkowski spacetime, Einstein's special relativity
         * Mathematical Physics
 
+[^credits]:
     The primary influences on this video are:
 
     Gibbons, Jeremy & Lester, David & Bird, Richard. (2006). Functional Pearl: Enumerating the rationals. J. Funct. Program.. 16. 281-291. 10.1017/S0956796806005880. 
@@ -186,4 +185,3 @@ In my next video, I will show you how to efficiently find the room of any specif
     Graham, Ronald & Knuth, Donald & Patashnik, Oren. (1994). Concrete Mathematics: A Foundation for Computer Science (2nd. ed.). Addison-Wesley Longman Publishing Co., Inc., USA.
 
     Project Euler https://projecteuler.net
-
