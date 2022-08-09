@@ -3,9 +3,9 @@
 
 [Philosophy News Network: is Philosophy Useless?](https://existentialcomics.com/comic/365)
 
-In celebration of Rational Approximation Day 02022-07-22, and in the name of Reason and a Re-enlightenment, I offer this study guide. It is an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity. If you only ever read a single suggestion, I would ask that you read "Weapons of Math Destruction", as it is directly relevant to the state of the world today and the many contemporary challenges we face. I suspect a great many people should probably read "The Scout Mindset" first, as preparation. 
+In celebration of Rational Approximation Day 02022-07-22, and in the name of Reason and a Re-enlightenment, I offer this study guide. It is an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity. If you only ever read a single suggestion, I would ask that you read "Weapons of Math Destruction", as it is directly relevant to the state of the world today and the many contemporary challenges we face. I suspect a great many people should probably read "The Scout Mindset" first, as preparation.
 
-My global suggestions consist of ten primary recommendations loosely divided into three major themes: inductive reasoning and self-awareness, ethics and morality, and the philosophy of math and science. These suggestions are "global" in the sense that I would recommend them to most people, with relatively few conditions or qualifications. 
+My global suggestions consist of ten primary recommendations loosely divided into three major themes: inductive reasoning and self-awareness, ethics and morality, and the philosophy of math and science. These suggestions are "global" in the sense that I would recommend them to most people, with relatively few conditions or qualifications.
 
 This study guide was written as a companion to "Kevin Bacon and the Stern-Brocot Tree: a Sermon on Rational Approximation." Within, I deconstruct Bertrand Russell and endorse the Weak Paraconsistent Conjecture in memory of Jon Michael Dunn.
 
@@ -60,7 +60,7 @@ For an invaluable overview of philosophy, I highly recommend "The Great Conversa
 
 The goal of my first theme is to introduce what George Pólya calls the _inductive attitude_:
 
-> In our personal life we often cling to illusions. That is, we do not dare to examine certain beliefs which could be easily contradicted by experience, because we are afraid of upsetting our emotional balance. There may be circumstances in which it is not unwise to cling to illusions, but in science we need a very different attitude, the _inductive attitude_. This attitude aims at adapting our beliefs to our experience as efficiently as possible. It requires a certain preference for what is matter of fact. It requires a ready ascent from observations to generalizations, and a ready descent from the highest generalizations to the most concrete observations. It requires saying "maybe" and "perhaps" in thousand different shades. It requires many other things, especially the following three. 
+> In our personal life we often cling to illusions. That is, we do not dare to examine certain beliefs which could be easily contradicted by experience, because we are afraid of upsetting our emotional balance. There may be circumstances in which it is not unwise to cling to illusions, but in science we need a very different attitude, the _inductive attitude_. This attitude aims at adapting our beliefs to our experience as efficiently as possible. It requires a certain preference for what is matter of fact. It requires a ready ascent from observations to generalizations, and a ready descent from the highest generalizations to the most concrete observations. It requires saying "maybe" and "perhaps" in thousand different shades. It requires many other things, especially the following three.
 >
 > First, we should be ready to revise any one of our beliefs.
 >
@@ -76,14 +76,14 @@ The goal of my first theme is to introduce what George Pólya calls the _inducti
 >
 > The third point needs "wise restraint." To change a belief without serious examination, just for the sake of fashion, for example, would be foolish. Yet we have neither the time nor the strength to examine seriously all of our beliefs. Therefore it is wise to reserve the day's work, our questions, and our active doubts for such beliefs we can reasonably expect to amend. "Do not believe anything, but question only what is worth questioning."
 >
-> Intellectual courage, intellectual honesty, and wise restraint are the moral qualities of the scientist. 
+> Intellectual courage, intellectual honesty, and wise restraint are the moral qualities of the scientist.
 >
 > - G. Pólya, "Mathematics and Plausible Reasoning, Vol I: Induction and Analogy in Mathematics", Chapter 1, Section 4. See also "On Rearing Scholars" by Imre Lakatos, as translated by Ninon Leader as Appendix A of "For and Against Method" by Imre Lakatos and Paul Feyerabend, edited by Matteo Moterrelini.
 
 Properly respecting uncertainty and doubt, by learning how to hold onto uncertainty without unreasonably clinging to doubt, is a fundamental ingredient to making inductive reasoning work well. For a contemporary, easy to read, and compelling introduction to the _inductive attitude_, I highly recommend "The Scout Mindset" by Julia Galef. The author provides a brief video overview of her thesis in [Why you think you're right - even if you're wrong](https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong) TED talk.
 
-From watching "Benjamin Franklin, A Film by Ken Burns", I believe that this founding father was frequently a master practitioner of the scout mindset throughout his life. Of course there are cases, even in this documentary, where Benjamin Franklin didn't live up to this ethos very well. It's important to remember that the inductive attitude is a process, not a destination. Past performance does not determine future outcomes. The Scout Mindset is not a label to be acquired or trophy to be won. Instead, the scout mindset is an often deteriorating state of being that can always be improved upon and can only be re-earned. The scout mindset has very little to with where you currently are at, and a lot to do with your attitude about where to go next. Compare this to "Don't Label Me" by Irshad Manji, and NBC's philosophical comedy "The Good Place". 
- 
+From watching "Benjamin Franklin, A Film by Ken Burns", I believe that this founding father was frequently a master practitioner of the scout mindset throughout his life. Of course there are cases, even in this documentary, where Benjamin Franklin didn't live up to this ethos very well. It's important to remember that the inductive attitude is a process, not a destination. Past performance does not determine future outcomes. The Scout Mindset is not a label to be acquired or trophy to be won. Instead, the scout mindset is an often deteriorating state of being that can always be improved upon and can only be re-earned. The scout mindset has very little to with where you currently are at, and a lot to do with your attitude about where to go next. Compare this to "Don't Label Me" by Irshad Manji, and NBC's philosophical comedy "The Good Place".
+
 George Pólya observed that we "have neither the time nor the strength" to carefully examine everything we believe. In "The Knowledge Illusion", Steven Sloman and Philip Fernbach expand on this idea in at least two ways. Firstly, the authors draw a distinction between the things of which we have direct, immediate knowledge, and the things of which we have indirect, referential knowledge. Secondly, they argue that people have a cognitive bias to believe that they have direct knowledge of a topic in cases where their knowledge is in fact referential. Kevin deLaplante provides a very nice introduction and summary of [The Knowledge Illusion](https://www.youtube.com/watch?v=LC6O_2vDDwc) on his YouTube channel.
 
 I believe it likely that we, as a society, stand to all substantially benefit by being more honest about referential knowledge. Making that a reality would seem to involve at least three ingredients. Firstly, large numbers of individuals need to make fewer mistakes of confusing confusing their own referential knowledge for direct knowledge. Secondly, we need commonly understood linguistic cues that succinctly communicate whether the knowledge you claim to have is referential or direct. Thirdly, we all need to live in a society of peers with a keener understanding of both the value and the limitations that referential knowledge represents. After all, if we as a society routinely dismiss the referential knowledge of others out of hand, then future conversations are less likely to be had, and the linguistic cues are less likely to be used. All three steps promote a common theme: raising the self-awareness of all the individuals of a society.
@@ -96,7 +96,7 @@ The tools of causal inference can be used to turn hypothetical models of relevan
 
 A conterfactual question is a "what if" question.  Formal counterfactual reasoning can be used to study the plausibility of the many different possible answers to such a question, all at the same time.  This uses a process that is repeatable, understandable, and can produce formal justifications for the answers that the model can represent.
 
-Some level of awareness, either consciously, unconciously, by design, and/or by evolution, seems to be an essential ingredient in inductive and counterfactual reasoning. Self-awareness seems to be especially fundamental to making informal inductive reasoning work well in humans. Daniel Kahneman's "Thinking, Fast and Slow" reflects on a number of cognitive biases we all exhibit to varying degrees. Kahneman, Sibony, and Susstein's "Noise: A Flaw in Human Judgement" delves deeper into the cognitive mistakes humans naturally make and that groups sometimes amplify. 
+Some level of awareness, either consciously, unconciously, by design, and/or by evolution, seems to be an essential ingredient in inductive and counterfactual reasoning. Self-awareness seems to be especially fundamental to making informal inductive reasoning work well in humans. Daniel Kahneman's "Thinking, Fast and Slow" reflects on a number of cognitive biases we all exhibit to varying degrees. Kahneman, Sibony, and Susstein's "Noise: A Flaw in Human Judgement" delves deeper into the cognitive mistakes humans naturally make and that groups sometimes amplify.
 
 See also "Not Born Yesterday" by Hugo Mercier, which reflects upon the nature of persuasion, skepticism, and belief in individuals and societies. Douglas Hofstadter's "Gödel, Escher, Bach: a Eternal Golden Braid" is in part a speculative thesis on how human self-awareness might arise from strange loops, and in part an informal introduction to metamathematics and the art of self-reference.
 
@@ -120,12 +120,12 @@ My second theme is ethics and moral philosophy, of the kinds most immediately re
 
 William Kingdon Clifford famously wrote about epistemic responsibility in his classic short essay "The Ethics of Belief". It is best known for fable about ship's owner being recklessly optimistic about the seaworthiness of his vessel. I am very much convinced by Clifford's fable that epistemic responsibility exists,  even if I remain unconvinced by Clifford's attempt to extrapolate a more general theory of epistemic responsibility from his fable. For a discussion of the meaning of the word "reckless", and an introduction to the concept of _mens rea_ in general, I recommend [The Illustrated Guide to Law, by Nathan Burney](https://lawcomic.net). I found parts of Clifford's essay quite difficult to read, so I highly recommend [a short video on epistemic responsibility from Crash Course Philosophy](https://www.youtube.com/watch?v=AYkhlXronNk), which highlights William James' similarly important short essay "The Will to Believe" as the classic counterpoint to Clifford.
 
-In terms of our moral, ethical, and epistemic responsibilities, the information technology sector is currently an disaster area to an apocalyptic degree. I very much hope that you do read Cathy O'Neil's "Weapons of Math Destruction". Further assessments can be found in "Algorithms of Oppression" by Safiya Umoja Noble, "Automating Inequality" by Virginia Eubanks, and "The Loop" by Jacob Ward. Significant social problems arising from the misuse of information technology were anticipated in the final chapter of the 1999 book "The Limits of Software" by Robert Britcher. 
+In terms of our moral, ethical, and epistemic responsibilities, the information technology sector is currently an disaster area to an apocalyptic degree. I very much hope that you do read Cathy O'Neil's "Weapons of Math Destruction". Further assessments can be found in "Algorithms of Oppression" by Safiya Umoja Noble, "Automating Inequality" by Virginia Eubanks, and "The Loop" by Jacob Ward. Significant social problems arising from the misuse of information technology were anticipated in the final chapter of the 1999 book "The Limits of Software" by Robert Britcher.
 
 This phenomenon of highly problematic, suspect uses of "math", "science" and "reason" is not new:  see "The Mismeasure of Man" by Stephen Jay Gould for examples that predate modern information technology, such as phrenology. In fact, much of the earliest work on inductive logic, correlation, and statistics by Charles Sanders Peirce, Francis Galton, Karl Pearson, Ronald A Fisher and others was in fact motivated at least in part by trying to provide a justification for slavery, social Darwinism, class inequality, eugenics, and/or scientific racism.
 
 While these motivations should rightly be recognized as moral refutations produced by our very human history, these delusions also produced geniune insight as a byproduct.  It would also be a mistake to dismiss that insight. However, please recognize that this is not a "Get Out of Jail free" card. Even today, issues that rhyme with these moral refutations continue to echo and to be recreated afresh under different guises. We very much still do need to address issues of how to use statistical ovens appropriately and how to interpret their estimates wisely.
- 
+
 Rounding out a crash-course in the moral dimensions of our current situation, I highly recommend Vaclav Smil's book "How the World Really Works", as well as Tom Murphy's blog "Do The Math" and his textbook "Energy and Human Ambitions on a Finite Planet: Assessing and Adapting to Planetary Limits". An evaluation of the thermodynamic bases of the economies of ancient cultures can be found in a number of Jared Diamond's books, including "Guns, Germs and Steel" and "Collapse". I admire the IPCC and the Long Now Foundation, and the work of Stewart Brand, James Hansen, and Michael Mann among many others.
 
 I cannot imagine a more profound human tragedy than contemporary Christian eschatological fantasies enmeshed with the delusions of today's economic orthodoxy becoming a self-fullfilling prophecy. It would be a profound failure of humanity's moral imagination if we never even seriously attempted to address these issues. Unfortunately, this scenario is an objectively live option in the real world today. I highly recommend Timothy Beal's "When Time Is Short: Finding Our Way in the Anthropocene", as an attempt to answer the question why we don't look up. We as human societies also need to quickly figure out how to break out of a self-destructive fixation on GDP growth.  Elinor Ostrom's "Governing the Commons" and Kate Raworth's "Doughnut Economics" seems like promising starts.
@@ -151,12 +151,12 @@ On the topic of doughnuts, I suggest meditating on the Talmudic parable of The O
 [The Philosophy Force Five vs the Scientismists](https://existentialcomics.com/comic/190)
 
 I agree with the original summary provided by Existential Comics: in ways relevant to this essay, Neil deGrasse Tyson certainly seems ontologically distinct from the rest of the men depicted in this comic. I very much look forward to reading "Starry Messenger: Cosmic Perspectives on Civilization".
- 
+
 Gertrude Elizabeth Margaret (G.E.M.) Anscombe is well known as a moral philosopher in the analytic tradition, and for being a student, close friend, and translator of Ludwig Wittgenstein. She is strongly associated in my mind with "Anscombe's Paradox": the observation that if at least 5 electors vote on least 3 proposals passed by simple majority, and you consider the set of electors who voted against a majority of the proposals that passed, then that set might constitute a majority of the electors. It's not hard to synthesize a hypothetical example: it's essentially the same as "packing and cracking" in gerrymandering. Try it!
 
 Elizabeth Anscombe pointed out this paradox, and demonstrated that if you try to use a supermajority rule to eliminate any possibility of this ever occurring, then a 3/4 supermajority is both a necessary and sufficient threshold. Any threshold less than 75% could theoretically allow this paradox to occur in some cases, though it certainly won't occur in all cases: with enough electors voting in increasingly specific ways, this outcome is an _a posteri_ empirical possibility, however unlikely. Whereas a 75% threshold would rule out any possibility of this outcome _a priori_, with the sole empirical assumption being that the rules are ultimately respected. We should realize by now that this is not always a safe assumption.
 
-On the topic of practical social choice theory, in particular I support approval voting for single-winner elections and proportional representation for multi-winner legislature races.  I enthusiastically endorse the Center for Election Science, as well as "Gaming the Vote" by William Poundstone.  Among others I particularly admire the work of Birch Bayh, Rob Richie, John Anderson, Ka-Ping Yee, Brian Olson, Warren Smith, Aaron Hamlin, Jameson Quinn, J. Alex Halderman, Kenneth Arrow, Amarya Sen, and Elinor Ostrom. 
+On the topic of practical social choice theory, in particular I support approval voting for single-winner elections and proportional representation for multi-winner legislature races.  I enthusiastically endorse the Center for Election Science, as well as "Gaming the Vote" by William Poundstone.  Among others I particularly admire the work of Birch Bayh, Rob Richie, John Anderson, Ka-Ping Yee, Brian Olson, Warren Smith, Aaron Hamlin, Jameson Quinn, J. Alex Halderman, Kenneth Arrow, Amarya Sen, and Elinor Ostrom.
 
 ## The Philosophy of Math (and Science)
 
@@ -172,17 +172,17 @@ In fact, I was provided a very important lesson about the limitations of formal 
 
 These informal interpretations can be subtly incorrect in ways that can be infuriatingly difficult to detect. Informal reasoning can be done well or it can be done poorly, but to some degree or another, informal reasoning is _inescapable_. So an aspiring mathematician might as well embrace the situation and learn to do it well.
 
-The good news is, with some basic social skills, a wise teacher or two, and few good role models, learning informal mathematics really isn't really that hard for most people most of the time.  I believe this fact explains why, most of the time, mathematicians can get away with pretending that we don't ever do informal mathematics.  I believe it explains why, most of the time, our pretensions seem to have little consequence. The consequences of these pretensions are much more subtle, and can be supremely difficult to disentangle from other causes when breakdowns do occur. This makes it very difficult to fully diagnose and easy to even outright misdiagnose the root causes of such a breakdown. 
+The good news is, with some basic social skills, a wise teacher or two, and few good role models, learning informal mathematics really isn't really that hard for most people most of the time.  I believe this fact explains why, most of the time, mathematicians can get away with pretending that we don't ever do informal mathematics.  I believe it explains why, most of the time, our pretensions seem to have little consequence. The consequences of these pretensions are much more subtle, and can be supremely difficult to disentangle from other causes when breakdowns do occur. This makes it very difficult to fully diagnose and easy to even outright misdiagnose the root causes of such a breakdown.
 
 What I am saying should not to be misconstrued. To clarify, learning about a new-to-you mathematical idea in an informal way can be difficult, and is often very much so!  Rather, I am saying that learning the practice of informal mathematics is not so difficult _most_ of the time, because we do informal mathematics instinctively. In general, I recommend trying to always be open to learning how to improve your informal reasoning. The goal of informal reasoning is to become less wrong, and the very heart of informal reasoning is the _inductive attitude_.
 
-However, inductive reasoning alone isn't nearly enough, especially not informal inductive reasoning such as the _inductive attitude_. Inductive reasoning must be formalized in order to truly come into its own. Formal inductive reasoning requires understandings of probability, statistics, and causal inference.  Formal inductive reasoning often requires careful experimental design that intervenes in the world in some way, and observes the results of that intervention.  
+However, inductive reasoning alone isn't nearly enough, especially not informal inductive reasoning such as the _inductive attitude_. Inductive reasoning must be formalized in order to truly come into its own. Formal inductive reasoning requires understandings of probability, statistics, and causal inference.  Formal inductive reasoning often requires careful experimental design that intervenes in the world in some way, and observes the results of that intervention.
 
 Before we can reasonably do all of this, we need deductive reasoning, which gives us the tools to preserve truth, to justify truth, and to reliably reproduce truth.  Humanity's first introduction to deductive reasoning came to us via Euclidean geometry.  Here informal deductive logic proved very useful despite the fact that, by modern standards, the explication of deductive logic wasn't entirely clear and complete. As a result mathematicians were prone to making subtle deductive errors, falling short of modern standards of formality and rigor.
 
 Yet at the same time, informal deductive reasoning was useful enough that the results were truly revolutionary, and maybe a little _too_ revolutionary in some ways. Among Western philosophers, Euclidean geometry became the received wisdom for more than two thousand years, before we took some Arabic and Semitic influences and Galileo started to push beyond Euclidean geometry with early investigations into the continuum and Calculus circa 1600.
 
-It wasn't until 1830s or so until non-Euclidean geometry was commonly recognized as a logical possibility by well-informed mathematicians.  Work by Boole, Frege, Whitehead, Russell, and others from 1848-1917 that brought formal deductive reasoning up to modern standards of clarity and rigor.  This facilitated a revolution in metamathematics, computation, and algorithms by Gödel, Church, and Turing, among many other crucially important contributors. 
+It wasn't until 1830s or so until non-Euclidean geometry was commonly recognized as a logical possibility by well-informed mathematicians.  Work by Boole, Frege, Whitehead, Russell, and others from 1848-1917 that brought formal deductive reasoning up to modern standards of clarity and rigor.  This facilitated a revolution in metamathematics, computation, and algorithms by Gödel, Church, and Turing, among many other crucially important contributors.
 
 And yet, the facade of mathematical dogmatism has stayed quite intact to this very day.  I believe it's possible, perhaps even plausible, that automated deductive theorem proving could enable and motivate a new golden era of informal mathematics.  Why, you might ask?
 
@@ -273,7 +273,7 @@ Imre Lakatos's philosophy of science and mathematics is a rich source of wisdom,
 
 ## Deconstructing Bertrand Russell
 
-[Bertrand Russell Invents Analytic Philosophy](https://existentialcomics.com/comic/342) 
+[Bertrand Russell Invents Analytic Philosophy](https://existentialcomics.com/comic/342)
 
 > Language is the vehicle by which we express our thoughts, and the relation between those thoughts and our language is a subtle and involuted one. The nature of language actually shapes and models the way we think. [...]
 >
@@ -291,7 +291,7 @@ Imre Lakatos's philosophy of science and mathematics is a rich source of wisdom,
 >
 > - Justin Stover, "There Is No Case for the Humanities"
 
-In this interlude I deconstruct an apocryphal proof of Bertrand Russell. I argue that even if an "argument from absurdity" is a formally correct material implication, the resulting theorem is itself often absurd in the dadaist non-sequitor sense of the word. Bertrand Russell is deservedly much more famous for _Russell's Paradox_, which revealed an inconsistency hidden inside Gottlob Frege's attempt at understanding mathematics in terms of a formal logic. Thus in a strict technical sense, Frege's first attempt at formal logic imploded into triviality, because Russell's Paradox provided the absurdity needed to prove every statement true, provided that it is syntactically correct. 
+In this interlude I deconstruct an apocryphal proof of Bertrand Russell. I argue that even if an "argument from absurdity" is a formally correct material implication, the resulting theorem is itself often absurd in the dadaist non-sequitor sense of the word. Bertrand Russell is deservedly much more famous for _Russell's Paradox_, which revealed an inconsistency hidden inside Gottlob Frege's attempt at understanding mathematics in terms of a formal logic. Thus in a strict technical sense, Frege's first attempt at formal logic imploded into triviality, because Russell's Paradox provided the absurdity needed to prove every statement true, provided that it is syntactically correct.
 
 Two answers to Russell's paradox emerged: Russell's type theory, and Zermelo-Frankel (ZFC) set theory, though other variant logics have also been studied. Among those are a family of variants known as paraconsistent logics; such ideas can be found in Paul Feyerabend's book "Against Method". Among paraconsistent logics there is a subfamily of variants known as relevance logics, a topic that J. Michael Dunn was particularly interested in. His Ph.D. dissertation "The Algebra of Intensional Logics" provided relevance logic with an algebraic semantics, which is a type of formal model of logic.
 
@@ -331,7 +331,7 @@ Pearson v Wright successfully suppressed Sewall Wright's work on path analysis o
 
 Fisher v Bayes needlessly discouraged a large number of mathematicians from even considering non-frequentist interpretations of probability and statistics, impacting the reception of fuzzy logic, as documented in Bart Kosko's "Fuzzy Thinking."  I myself fell into this category for a few years. This is one of the examples I was specifically alluding to in "Kevin Bacon and the Stern-Brocot Tree" of an example of where I as a student reacted poorly to a topic by dismissing it outright. Even today it can occasionally be difficult to talk about alternative interpretations, though Bayesian statistics is pretty non-controversial among an increasingly broad spectrum of professionals these days.
 
-For a humorous and decidedly more hopeful look at the way mathematics could be practiced, Imre Lakatos's "Proofs and Refutations" is indispensible. Jim Al-Khalili's "House of Wisdom" tells stories of intellectual creation during the golden age of Arabic scholarship that are often happier than the stories of the Renaissance. For a modern and ongoing controversy, consider paraconsistent logic and the philosophical writings of Paul Feyerabend in "Against Method". 
+For a humorous and decidedly more hopeful look at the way mathematics could be practiced, Imre Lakatos's "Proofs and Refutations" is indispensible. Jim Al-Khalili's "House of Wisdom" tells stories of intellectual creation during the golden age of Arabic scholarship that are often happier than the stories of the Renaissance. For a modern and ongoing controversy, consider paraconsistent logic and the philosophical writings of Paul Feyerabend in "Against Method".
 
 That is part of the joke of my selection of the "Derrida Arrested!" cartoon to introduce analytical philosophy in the previous section.  Willard Van Orman Quine is a high-profile analytical philosopher who argued against "deviant logics" and Carnap's Principle of Tolerance. In this context, "deviant logic" is referring to non-classical logics,  variant systems of logic that differ from the classical logic commonly used by nearly all mathematicians today. Rudolph Carnap was deeply curious about these non-classical logics, and how they might be useful in various contexts. Quine was curious too, though he argued against deviant logics on largely pragmatic grounds, arguing that the costs that they necessarily impose had yet to be justified by a clearly demonstrated benefit to reasoning within a context.
 
@@ -357,17 +357,17 @@ A deeper proof analysis suggests that Russell's proof consists largely of what L
 
 In the opening chapter of "Against Method", Paul Feyerabend calls attention to the rhetorical elements sometimes found in a supposedly mathematical proof, and provides a clear statement of a paraconsistent thesis:  "Considerations such as these are usually criticized by the childish remark that a contradiction 'entails' everything. But contradictions do not 'entail' anything unless people use them in certain ways. And people will only accept them as entailing everything only if they accept some rather simple-minded rules of derivation."[^againstmethod_paraconsistent]  I first heard a ever so slightly stronger (or at least, more concretely instantiated) version of this argument in lectures of Jon Michael Dunn. He argued that in practice, entailment is not used in this way by working mathematicians except as a joke, which certainly comports to my own experience.
 
-This proof analysis reveals that Russell's proof, by itself, is far less interesting than Russell's Paradox, which Bertrand Russell is better known for, and deservedly so. The actual content of the proof is simply a formally correct _material implication_, and contains little to no further content. Material implication an inherent consequence of classical formal deductive logic, yet, if taken literally, and used with impunity, material implication seems to lead to absurd, dadaist reasoning. 
+This proof analysis reveals that Russell's proof, by itself, is far less interesting than Russell's Paradox, which Bertrand Russell is better known for, and deservedly so. The actual content of the proof is simply a formally correct _material implication_, and contains little to no further content. Material implication an inherent consequence of classical formal deductive logic, yet, if taken literally, and used with impunity, material implication seems to lead to absurd, dadaist reasoning.
 
-From a paraconsistent perspective, these absurdist uses of material implication are dubbed "explosive", and thus "material implication" is dubbed "the principle of explosion". The Weak Paraconsistent Conjecture amounts to the observation that all observed uses of material implication by working mathematicians are non-explosive in context, in large part because explosions seem to destroy something fundamental about what makes a proof interesting. Whichever synonym you choose, the _principle of explosion_ is an indelible part of classical formal deductive logic, and many non-classical variants as well. If we acknowledge these issues and replace rhetoric with content,  Russell's proof turns into something far more interesting. 
+From a paraconsistent perspective, these absurdist uses of material implication are dubbed "explosive", and thus "material implication" is dubbed "the principle of explosion". The Weak Paraconsistent Conjecture amounts to the observation that all observed uses of material implication by working mathematicians are non-explosive in context, in large part because explosions seem to destroy something fundamental about what makes a proof interesting. Whichever synonym you choose, the _principle of explosion_ is an indelible part of classical formal deductive logic, and many non-classical variants as well. If we acknowledge these issues and replace rhetoric with content,  Russell's proof turns into something far more interesting.
 
-As Peter Smith explains in his excellent study guide, the _principle of explosion_ is a consequence of insisting on the principles _disjunctive syllogism is valid_, and _entailment is transitive_. In stark contrast to explosive uses of material implication, working mathematicians appeal to these two properties all the time! That's quite a riddle! Perhaps there are non-obvious restriction(s) on the ways we apply _disjunctive syllogism is valid_ and/or _entailment is transitive_ in practice? This give some clues of how we might proceed, if we wish to develop deeper insight into this phenomenon that seems to be already present (in possibly differing forms) in human reasoning. 
+As Peter Smith explains in his excellent study guide, the _principle of explosion_ is a consequence of insisting on the principles _disjunctive syllogism is valid_, and _entailment is transitive_. In stark contrast to explosive uses of material implication, working mathematicians appeal to these two properties all the time! That's quite a riddle! Perhaps there are non-obvious restriction(s) on the ways we apply _disjunctive syllogism is valid_ and/or _entailment is transitive_ in practice? This give some clues of how we might proceed, if we wish to develop deeper insight into this phenomenon that seems to be already present (in possibly differing forms) in human reasoning.
 
 Why might somebody want to formalize this aspect of reasoning?  To me, the result of this proof analysis is reminscient of the "junk theorems" that naturally arise when we model mathematical phenomena in a formal language, such as modelling the natural numbers in set theory.[^hamkins]  Analogously, "junk behaviors" arise all the time in software. This is unavoidable to some degree, and it is important to remember that not all junk behaviors are created equal. Some are quite benign, while others can be far more pernicious. Every combination and shade thereof is certainly possible, and wisely judging whether a junk behavior is benign or pernicious can be rather non-obvious and context-dependent.
 
 For example, C and C++ are absolutely riddled with _undefined behavior_, a particularly pernicious form of junk behavior in any context. Surprisingly many professional C and C++ programmers are completely unaware of this situation, let alone how these issues endlessly create frustratingly obscure security vulnerabilities and other bugs, which endlessly suck up time and resources, all for shockingly little long-term benefit in most cases.
 
-There are many ways to tell me you don't know C, without telling me you don't know C. Examples include 1. "K&R is sufficient to write C competently",  2. "if you don't know how some part of C works, you can figure it out by experimentation",  3. "const doesn't matter: the most it gives you is a warning, which you don't need to worry about anyway",  4. "coding is just a tool, don't learn any more than you have to". 
+There are many ways to tell me you don't know C, without telling me you don't know C. Examples include 1. "K&R is sufficient to write C competently",  2. "if you don't know how some part of C works, you can figure it out by experimentation",  3. "const doesn't matter: the most it gives you is a warning, which you don't need to worry about anyway",  4. "coding is just a tool, don't learn any more than you have to".
 
 Honestly, the fact that modern software even vaguely works at all, when so many of its creators don't even know basic fundamental facts about the _public interfaces_ of the tools they use and so often mindlessly defend, seems to me to be compelling evidence for the plausibility of the Weak Paraconsistent Conjecture.
 
@@ -375,21 +375,21 @@ Debunking the first example, Kernighan and Ritchie's "The C Programming Language
 
 Debunking the second example, unconditionally adopting this attitude will lead you astray. It often a great idea to perform experiments in order to develop understandings of a C codebase. But it is important to be aware of the limitations of experimentation, especially when it comes to the C language itself. Some familiarity with and the ability to read and carefully interpret Harbison and Steele's "C: A Reference Manual", as well as relevant language standards and compiler documentation, is an absolutely necessary skill needed to use C competently.  You should always know the limits of your tools. In this case, you need to know the limits of learning C (and C++ and Fortran) by experiment.
 
-Most other programming languages can much more readily be used via understandings obtained via experimentation. The C and C++ languages are notably exceptional in this respect, due to the existence of undefined behavior. Fortran makes a different assumption with similar implications. Fortran assumes that memory aliasing doesn't exist, and no two pointers reference the same block of memory. 
+Most other programming languages can much more readily be used via understandings obtained via experimentation. The C and C++ languages are notably exceptional in this respect, due to the existence of undefined behavior. Fortran makes a different assumption with similar implications. Fortran assumes that memory aliasing doesn't exist, and no two pointers reference the same block of memory.
 
 This assumption allows the Fortran compiler to make more aggressive and predictable optimizations of kinds often useful for high-performance numerical code, but it can lead to similarly subtle and unpredictable bugs when aliasing does in fact occur. The difficulty arises because the overall correctness of some of those optimizations depend on executions of the source code being alias-free. If this assumption is violated in the execution of an actual program, the precise result can be extremely difficult to predict, due to extremely intricate interactions with the optimizations applied by a particular version of a particular Fortran compiler with particular option flags set. On the other hand, my impression has been that Fortran still leads the pack regarding automatic vectorization of computer code, and I can believe that this Faustian bargain is a causal factor.
 
-If you dereference these examples and learn about them yourself, it should become obvious that ignoring undefined behavior in C or pointer aliasing in Fortran will almost certainly turn out to be an eternal wellspring of bugs and security vulnerabilities. For the time being, it's suprisingly easy to find examples of experienced, professional programmers who aren't overly aware of these facts, even though they personally use these tools all the time at work! 
+If you dereference these examples and learn about them yourself, it should become obvious that ignoring undefined behavior in C or pointer aliasing in Fortran will almost certainly turn out to be an eternal wellspring of bugs and security vulnerabilities. For the time being, it's suprisingly easy to find examples of experienced, professional programmers who aren't overly aware of these facts, even though they personally use these tools all the time at work!
 
 Moreover, the resulting bugs can be so incredibly subtle and frustratingly obscure that those who aren't aware of these issues are highly unlikely to ever fully diagnose the resulting bug correctly via experimentation alone.  In these cases, there is no substitute for knowing the fundamentals of your tools.
 
 Debunking the third example, the third attitude towards `const` is particularly ill-advised, for three reasons. Firstly, using `const` helps the compiler generate better machine code. Writing _const-correct_ code is invaluable for documenting aspects of the semantics of a C subroutine, for helping the human to write more efficient source code, and for sanity checking your design and your code.
 
-Secondly, updating something labelled "const" is undefined behavior. If undefined behavior actually does happen in an execution, the compiler is at that point under no obligation to have generated code that does any particular thing, even if it impacts something that happened "before" the undefined behavior occurred. At that point, anything goes. The compiler can still legitimately say it's compliant with the relevant language standards. 
+Secondly, updating something labelled "const" is undefined behavior. If undefined behavior actually does happen in an execution, the compiler is at that point under no obligation to have generated code that does any particular thing, even if it impacts something that happened "before" the undefined behavior occurred. At that point, anything goes. The compiler can still legitimately say it's compliant with the relevant language standards.
 
 Warnings in C are the equivalent of brown M&Ms. Warnings are a signpost marking the start of a trail that leads to hostile inputs invoking undefined behaviors latent in the C code, possibly resulting in a security vulnerability. Warnings in code you write should always be investigated and eliminated, or at least documented.  Warnings in other codebases should be investigated, especially if that codebase is of unknown quality.
 
-However, keep in mind that if you keep the codebase exactly the same, and change compilers, you can see a different list of warnings. Also, time and care must be taken to understand the foreign codebase extremely carefully. This includes understanding any relevant domains of discourse. For example, there was a rather famous Debian bug, where somebody unfamiliar with the foibles of cryptographic code, accidentally eliminated the entropy for a cryptographic random number generator. Documenting the warning would have likely prevented this accident.  
+However, keep in mind that if you keep the codebase exactly the same, and change compilers, you can see a different list of warnings. Also, time and care must be taken to understand the foreign codebase extremely carefully. This includes understanding any relevant domains of discourse. For example, there was a rather famous Debian bug, where somebody unfamiliar with the foibles of cryptographic code, accidentally eliminated the entropy for a cryptographic random number generator. Documenting the warning would have likely prevented this accident.
 
 I have frequently observed the fourth attitude in the electrical engineering and embedded programming communities.  Often, I hear "coding is just a tool", often to discourage delving deeper into the art of computer programming.  Nothing could be further from the truth!  Is painting just a tool to paint things?  I agree that paintbrush is "just" a tool, as is a computer, but using a paintbrush to paint or a computer to calculate can demonstrate great creativity, artistry, and/or mastery of a body of knowledge.
 
@@ -401,7 +401,7 @@ For better results, I encourage software developers to be more curious in genera
 
 And lastly, while certain elements of coding are fundamentally difficult, coding should not typically be difficult in the ways imposed by C and C++'s undefined behaviors. In fact, this sentiment is a major motivating factor driving interest in the Rust programming language today.
 
-The long-term benefit to eliminating or reducing the relevance of "junk behaviors" exhibited by widely-used software artifacts can be substantial, even transformative. That's especially true when that artifact is a widely-used programming language, communications protocol, operating system, database engine, computer algebra system, library, framework, or subroutine. Understanding this is a fundmental part of good design philosophy. 
+The long-term benefit to eliminating or reducing the relevance of "junk behaviors" exhibited by widely-used software artifacts can be substantial, even transformative. That's especially true when that artifact is a widely-used programming language, communications protocol, operating system, database engine, computer algebra system, library, framework, or subroutine. Understanding this is a fundmental part of good design philosophy.
 
 Often, this philosophy seems to be practiced reasonably well in many of the programming language theory (PLT) communities notably including but not limited to Scheme, Haskell, and Rust.  However, this design philosophy seems widely neglected outside PLT: the Axiom computer algebra system, the PostgreSQL relational database system, and a handful of (mostly embedded) operating systems are a few notable examples that do quite well in this regard, relatively speaking.
 
@@ -415,7 +415,7 @@ Cleaning up junk, on the other hand, tends to involve renegotiating an interface
 
 Only the largest software companies, notably Google, have thus far been overly successful at making a go at this latter approach. The difficulty of the approach and extreme cost overheads it imposes has thus far made it economically impractical in small companies. Even then, Google has incurred other less-obvious costs imposed by the "clean it up" culture this enables.  Furthermore, I'm not aware of an open-source effort along these lines, where a community might share an economy of scale. Any adoption of this methodology would require an understanding of, and answer for, the practical implications of the political borders within the community. This problem seems far more difficult in an open-source community in comparison to a relatively monolithic corporation.
 
-These political borders mean that some software artifacts never get updated. This is especially true when people and companies that created a software artifact move on, creating a temporal boundary between the client of an interface and the provider. Sometimes this creates intense motivation to build "bugwardly" compatible re-implementations of a software artifact that is widely depended upon. 
+These political borders mean that some software artifacts never get updated. This is especially true when people and companies that created a software artifact move on, creating a temporal boundary between the client of an interface and the provider. Sometimes this creates intense motivation to build "bugwardly" compatible re-implementations of a software artifact that is widely depended upon.
 
 In these scenarios, specifications are secondary. Instead, duplicating the undocumented behaviors of another implementation is paramount, regardless of whether the specifications are written well, written poorly, or even exist at all. This often requires time to carefully reverse-engineer the implementation, hopefully resulting in a revised specification that clarifies the original and carefully documents the junk behaviors required.  A second approach is to run the two implementations in parallel for an extended period of time, with the reimplementation acting as a mock understudy, carefully noting any differences in behavior. These approaches aren't mutually exclusive, and in fact complement each other very nicely.
 
@@ -423,7 +423,7 @@ Reimplementing these junk behaviors can substantially reduce the degrees of free
 
 For example, consider Postel's Law. This "Robustness Principle" is a maxim about computer communication protocols to be strict in what you send and tolerant in what you receive. The cost this design philosophy often imposes, is that under certain common conditions, it induces demand for bugwardly compatible reimplementations while simultaneously making the exuberant creation and proliferation of junk behaviors practically inevitable. This is especially true when the initially popular implementation lacked good design discipline up front, as was the case with HTML and JavaScript, and is often the case elsewhere. These costs are becoming more widely appreciated, see for example the recent IETF draft "The Harmful Consequences of the Robustness Principle".
 
-It's important to remember that these labels involve judgement calls, and people can legitimately disagree whether or not a behavior is a bug, is pernicious junk, is benign junk, or is in fact a desirable behavior. There's a stereotype that the Haskell and OCaml communities are inclined to try to prohibit junk,  whereas the Lisp and Scheme communities are inclined to try to spin junk into gold. Neither is a complete answer in and of itself, but it is deeply satisfying to take behavior commonly deemed "junk", and find changes in perspectives and/or implementations that make that behavior desirable. 
+It's important to remember that these labels involve judgement calls, and people can legitimately disagree whether or not a behavior is a bug, is pernicious junk, is benign junk, or is in fact a desirable behavior. There's a stereotype that the Haskell and OCaml communities are inclined to try to prohibit junk,  whereas the Lisp and Scheme communities are inclined to try to spin junk into gold. Neither is a complete answer in and of itself, but it is deeply satisfying to take behavior commonly deemed "junk", and find changes in perspectives and/or implementations that make that behavior desirable.
 
 While the benefits of eliminating or transmuting junk behaviors are often vastly underestimated or even plainly ignored, occasionally software programmers will instead vastly underestimate the costs of change, which leads to sagas like Perl 6 (now Raku), Python 3, Haskell, and more than a few SQL migration projects.  Moreover, these path dependent costs of change has made deep investigations into alternative operating systems designs often impossible in practice, outside a handful of heroic efforts like Plan 9, academic attempts such as SPIN, and a few special contexts such as embedded programming and Tock OS.
 
@@ -441,7 +441,7 @@ For the time being, I'm not aware of an obviously practical application of parac
 
 Does the semantic web and non-monotonic logic have a germ of an idea that might possibly help lead humanity out of our current epistemic crisis? Well, that's a very complicated question Guo-Qiang Zhang was interested in when I was an undergraduate; I guess I am still deeply skeptical, but I have come to keely appreciate the relevance of such a research program. We could all undoubtly benefit from some high quality design efforts put into practical epistemic engineering right about now.
 
-Paraconsistent logic can undoubtly be a difficult subject. Some years ago, I was at a conference chatting with Reid Barton over dinner, and the topic of relevance logic came up. Dr. Barton admitted he had looked at it, and couldn't make the slightest bit of sense out of it. I admitted I had looked at it more, and couldn't make much sense of it either, but I did at least very much understand (and am largely sympathetic with) some of the underlying motives and goals. And, I remember talking about a log anomaly I had recently investigated and documented, during which paraconsistent logic almost started making sense to me.  
+Paraconsistent logic can undoubtly be a difficult subject. Some years ago, I was at a conference chatting with Reid Barton over dinner, and the topic of relevance logic came up. Dr. Barton admitted he had looked at it, and couldn't make the slightest bit of sense out of it. I admitted I had looked at it more, and couldn't make much sense of it either, but I did at least very much understand (and am largely sympathetic with) some of the underlying motives and goals. And, I remember talking about a log anomaly I had recently investigated and documented, during which paraconsistent logic almost started making sense to me.
 
 I myself certainly do not understand paraconsistent logic in any formal sense. Peter Smith's opinion is that mathematical logicians can cheerfully skip it. That seems perfectly reasonable to me, but also in the spirit of J. Michael Dunn and Paul Feyerabend, I do believe that a steady trickle of students need to keep taking up this banner. If you might be one of those students, be aware that paraconsistent logic does seem like a rabbit hole, and you almost certainly want to spend plenty of time working on other things too. In any case, whatever choices you make, I hope you enjoy yourself and have fun!
 
@@ -471,9 +471,9 @@ The joke's on Existential Comics, I want types and dimensional analysis early an
 
 [Hume and Avicenna](https://existentialcomics.com/comic/267)
 
-I'm pretty sure Leibniz's answer is "monads".
+[![I'm pretty sure Leibniz's answer is "monads".](external-assets/static.existentialcomics.com/comics/humeAndAvicenna.png)](https://existentialcomics.com/comic/267)
 
-[Good Omens meme]
+![Good Omens meme](external-assets/GoodOmens-Quotes-s01e03.webp)
 
 > Never forget in the story of Jesus, the hero was killed by the state
 >
@@ -491,15 +491,17 @@ I hope that you will grow to appreciate some of the many contradictions that can
 [Wittgenstein's Lion](https://existentialcomics.com/comic/245)
 
 1. The Good Place, created by Michael Schur
+
    I was raised in the Church of the Brethren, which claims Alexander Mack as a founder and early leader. From what I understand of Mack's worldview and theology, I believe that he would be delighted by "The Good Place".
    * We need more optimistic, non-dystopian fiction, like the original Star Trek.
    * See "Ted Lasso", compare to Monty Python's "Philosophers' Football Match"
-   * See "Manifest" 
+   * See "Manifest"
    * https://www.jacobinmag.com/2022/04/parks-and-recreation-good-place-how-to-be-perfect-michael-schur-book-review
 
 [Objection!](https://existentialcomics.com/comic/107)
 
 2. The Kingdom of God is Within You, by Leo Tolstoy
+
    I have been deeply exposed to the philosophies mentioned and advocated in this book, and for that I am profoundly grateful. This is a difficult and challenging book, and that is a signficant part of the reason I suggest it.
    * See also: [MCC and National Socialism](https://mcc.org/media/resources/10441)
 
@@ -603,7 +605,7 @@ Mathematicians are a flock of odd birds. Does that make existential philosophers
 
 * Concrete Mathematics (2nd Ed.), by Ronald L Graham, Donald E Knuth, and Oren Patashnik
   * Exercise 4.4: Depends on interpretation.
-     * if interpreted as pair, then (1,1) /= (-1,-1), and 
+     * if interpreted as pair, then (1,1) /= (-1,-1), and
           * then it's four of the eight lobes of the group SL(2,Z)
           * SL(2,Z) is the transitive closure of these lobes under group multiplication.
      * if interpreted as ratio, then 1/1 == (-1)/(-1), and
@@ -612,7 +614,7 @@ Mathematicians are a flock of odd birds. Does that make existential philosophers
      * the function \x -> x * ((0 1)(-1 0)) is a bijection between the provided lobes and the missing lobes
   * see scanned notes
   * should rewrite essay in TeX to expand on this answer.
-     * a free presentation of the modular group based on pointwise product of D_4 * SL(2,N) * D_4 
+     * a free presentation of the modular group based on pointwise product of D_4 * SL(2,N) * D_4
      * syntactic correspondence (computable by a small and simple Mealy-type finite-state machine) of the _coproduct_ (also known as the _free product_) of Z_3 and Z_2
      * include a more careful writeup of the results in my notes, alluded to in KB&SBT and the tribute that follows
   * Synthesizing this answer with "Algebra: Chapter 0" by Paolo Aluffi should be a very fertile exercise.
@@ -631,7 +633,7 @@ Around that time I first read Dr. Doron Zeilberger's Opinion #65 on Gelfand's Pr
 
 With this in mind, for the specific problem I was seeking to address, I wanted the simplest, most naturally motivated, most interesting example of something that was associative, but not commutative.[^nandnor]  So I thought back to my class with Dr. Dong Hoon Lee, taught from Fraleigh's abstract algebra book. I wanted a simple non-abelian group I could conceivably use. I quickly focused my attention on D_4, the symmetry group of the square, because rotating the the area of a rectangle explains why multiplication is commutative, well within the wheelhouse of the class I was planning this lesson for.[^alternatives]  In fact, these lessons could even be adjacent to each other, and hopefully reinforce each other.
 
-I was also attracted to D_4 because of it's particularly simple action on the cartesian coordinates, which lead to particularly simple and pleasing connections to graphing equations, the unit circle, complex arithmetic, and trigonometry, all well within my longer-term college-prep target. I was keenly aware that attempting to teach D_4 the way it was taught to me, in the class I was contemplating using it in, was an absolute non-starter. So I started relearning the symmetry group of the square again for the first time. 
+I was also attracted to D_4 because of it's particularly simple action on the cartesian coordinates, which lead to particularly simple and pleasing connections to graphing equations, the unit circle, complex arithmetic, and trigonometry, all well within my longer-term college-prep target. I was keenly aware that attempting to teach D_4 the way it was taught to me, in the class I was contemplating using it in, was an absolute non-starter. So I started relearning the symmetry group of the square again for the first time.
 
 A year or so later I demonstrated my explanation of D_4's action on the cartesian coordinates to Larry Moss. He was amused, laughed, and said "Oh you've got your linear transformations right there!"  I was struck with the force of revelation, because in my mind I had written down anonymous functions. In retrospect the connection was so blindingly obvious that I was amazed that I had overlooked it.
 
@@ -641,9 +643,9 @@ One of the first things I remember Dan Friedman telling me was that whenever you
 
 At the time, I was well aware of the Extended Euclidean Algorithm from David Singer's number theory class, which can very reasonably be said to "undo" the Euclidean Algorithm in the sense I was looking for. However, the more obvious connection is number-theoretic. The connection to the continuum of the real number line is much less obvious, unless you are clued into continued fractions and/or the Stern-Brocot tree.[^sbt-undergraduate-retrospective]
 
-In elementary school,  I loved the ideas that surrounded greatest common divisors and the reduction of fractions to least terms, but I hated the fiddly nature of actually doing it. Around third grade I wrote a BASIC program to reduce fractions for me. It wasn't pretty, I'm pretty sure it involved a nested loop, expressed as a bowl of spaghetti code. I clearly remember being forced to think carefully about whether to use "and" or "or" to combine boolean expressions. But it worked, and I saved it to diskette and used it as much as possible for math homework after that. 
+In elementary school,  I loved the ideas that surrounded greatest common divisors and the reduction of fractions to least terms, but I hated the fiddly nature of actually doing it. Around third grade I wrote a BASIC program to reduce fractions for me. It wasn't pretty, I'm pretty sure it involved a nested loop, expressed as a bowl of spaghetti code. I clearly remember being forced to think carefully about whether to use "and" or "or" to combine boolean expressions. But it worked, and I saved it to diskette and used it as much as possible for math homework after that.
 
-I first developed an appreciation for the Euclidean Algorithm in Grade 7, by reading a side-box blurb from a math textbook we were using. I then rewrote my fraction-reducing program with this in mind, and marvelled at how much shorter and clearer and more insightful the Euclidean Algorithm was compared to my previous mess. This was a seminal event in building my intuition for loop invariants and how to write programs well. 
+I first developed an appreciation for the Euclidean Algorithm in Grade 7, by reading a side-box blurb from a math textbook we were using. I then rewrote my fraction-reducing program with this in mind, and marvelled at how much shorter and clearer and more insightful the Euclidean Algorithm was compared to my previous mess. This was a seminal event in building my intuition for loop invariants and how to write programs well.
 
 Around this time I recall seeing continued fractions once in a great while, never with much explanation, in what seemed to be weird disjointed contexts. Continued fractions seemed strange and incomprehensible. Little did I know that they are just the other side of the Euclidean coin, intimately connected to one of my favorite algorithms!
 
@@ -653,9 +655,9 @@ Days after that, I was reading the then-recent paper "Functional Pearl: Enumerat
 
 I was struck with this force of revelation for four reasons: first of all, The Stern-Brocot tree provides a very appealing mental model for thinking about continued fractions. Now I believed I could successfully introduce these ideas to my five-year old self. Being able to increase my bid from "my Junior High self" to "my 5-year old self" was _extremely_ interesting.
 
-Second, the Stern-Brocot tree is a naturally motivated demonstration that the "wrong way to add fractions" is useful. The mediant very nicely illustrates and motivates the property of being well-defined, because it is not a well-defined "function", and this demonstrates that these "functions", while not functions in the strictest sense of the word, can still in fact be very useful, which is a wonderful thing to learn early.   
+Second, the Stern-Brocot tree is a naturally motivated demonstration that the "wrong way to add fractions" is useful. The mediant very nicely illustrates and motivates the property of being well-defined, because it is not a well-defined "function", and this demonstrates that these "functions", while not functions in the strictest sense of the word, can still in fact be very useful, which is a wonderful thing to learn early.
 
-Thirdly, the simplification from continued fractions to the Stern-Brocot tree nicely comported with the philosophy exemplified by Dan Friedman to first write a program in the simplest, most natural way possible, and then strive to  derive more efficient versions from that. This is something that I would probably still benefit from putting in into practice more often. 
+Thirdly, the simplification from continued fractions to the Stern-Brocot tree nicely comported with the philosophy exemplified by Dan Friedman to first write a program in the simplest, most natural way possible, and then strive to  derive more efficient versions from that. This is something that I would probably still benefit from putting in into practice more often.
 
 Translating this philosophy into the realm of math education, that means we can introduce the Stern-Brocot tree and the Euclidean algorithm before any discussion of integer multiplication or integer division. Then, we can connect multiplication and division to repeated addition and repeated subtraction, run-length encoding and continued fractions. Instead of spending years drilling boring multiplication and division before we get to the interesting stuff, we could go the straight to interesting stuff first and use it to motivate the introduction of multiplication and division! This is great, not least because integer division had long been a particularly fascinating nexus in my memory palace of mathematics, and now it just got far more interesting!
 
@@ -697,7 +699,7 @@ So I posted, and I was soon treated to a response in which I was a attacked for 
 
 The thing is, I don't specifically recall hearing about "the modular group, PSL(2,Z)" before this event. Reading the wikipedia article he sent me, I was immediately struck with the force of revelation, but this time looking outward from the shoulders of linear algebra. I immediately understood that the Stern-Brocot tree was somehow embedded within the modular group, because both things corresponded to 2x2 matrices of determinant one. And there was a connection to complex analysis!
 
-I was completely lost in complex analysis, but I did take away three things, first a real admiration for Tristan Needham's "Visual Complex Analysis", secondly the beginnings of my awareness of the weaknesses and limitations of formalist mathematics,  and thirdly, having enthusiastically taken up what Sir Michael Atiyah deems the Faustian bargain that algebra offers, I realized I should have invested more into the study of geometry. In my research program for math education, finding pathways into classes where I previously had trouble, is always very interesting. 
+I was completely lost in complex analysis, but I did take away three things, first a real admiration for Tristan Needham's "Visual Complex Analysis", secondly the beginnings of my awareness of the weaknesses and limitations of formalist mathematics,  and thirdly, having enthusiastically taken up what Sir Michael Atiyah deems the Faustian bargain that algebra offers, I realized I should have invested more into the study of geometry. In my research program for math education, finding pathways into classes where I previously had trouble, is always very interesting.
 
 This was all very amazing!  I thanked my sparring partner for the link, and ended the conversation. I do geniunely mean that: if you are the person of whom I speak, and you ever read this, thank you!  For me myself personally, this has been the only time this kind of sparring has ever paid off in a really big way. It most certainly was a momentous experience!
 
@@ -736,7 +738,7 @@ Apply iterative deepening depth first searches to the following starting points:
 5. Pascal's Triangle
 6. Symmetry Group of the Square
 
-As soon as practical, mix in practices that exercise the inductive attitude, computer programming, problem solving, heuristics, self-awareness, self-control, and social skills. 
+As soon as practical, mix in practices that exercise the inductive attitude, computer programming, problem solving, heuristics, self-awareness, self-control, and social skills.
 
 Teachers need to keep in mind major milestones that should be achieved, including computer programming,, Boolean logic, binary numbers, types, Cartesian coordinates, geometric modelling, dimensional analysis, the arithmetic of fractions, binary search, depth-first search, breadth-first search, iterative deepening, radix-point arithmetic, limits of Stern-Brocot sequences, divergent sequences, counting combinatorially, matrix arithmetic, probability, statistics, inductive reasoning, deductive reasoning, recursion, syntax and parsing, and proof by induction. Teachers need to assist reaching simple milestones in these topics as early as is reasonable.
 
@@ -744,9 +746,9 @@ A first exposure to an idea or concept need not be a deep exposure: it only need
 
 Letting some period of time elapse before introducing the next big idea in a progression is a good thing.  Doing so will be an excuse to relearn the previous lesson.  It's okay if sometimes those periods of time are extended: for example, I expect the course of study outlined in Kevin Bacon and the Stern-Brocot tree to unfold over years for most children and younger teens, while they learn and practice plenty of other mathematical ideas and concepts too.  Spaced repetition is a proven memory enhancement heuristic for building long-term memories that are easily recalled.
 
-### Robotics and The Third Little Induction 
+### Robotics and The Third Little Induction
 
-This essay started out by discussing inductive reasoning, in particular informal inductive reasoning via the inductive attitude.  Secondly I mentioned in passing that all-important deductive proof by induction, often first introduced in discrete math.   Robotics brings a third kind of induction: electrical induction.  I highly recommend early childhood exposure to simple electronics and robotics work, such as building computer-controlled LEDs, relays, actuators and motors via Arduino and Raspberry Pi types of devices. 
+This essay started out by discussing inductive reasoning, in particular informal inductive reasoning via the inductive attitude.  Secondly I mentioned in passing that all-important deductive proof by induction, often first introduced in discrete math.   Robotics brings a third kind of induction: electrical induction.  I highly recommend early childhood exposure to simple electronics and robotics work, such as building computer-controlled LEDs, relays, actuators and motors via Arduino and Raspberry Pi types of devices.
 
 We will focus on computer-controlled relays for a moment, because the common general-purpose relay's solenoid is an example of an inductive load that can result in damaged electronics projects if this is not taken into account. The relay's solenoid is a coil of wire that acts like an electromagnet: the magnet is turned on and attracts the relay's arm if there is electrical current flowing through the solenoid's coil. If there is no current flowing through the solenoid, then the magnet turns off, and a spring pushes the relay's arm away from the electromagnet.
 
@@ -756,7 +758,7 @@ But the second half of our problem has another issue lurking: solenoids are exam
 
 Similarly, the magnetic field stores a small amont of potential energy, and when you turn off the solenoid, the magnetic field starts collapsing.  This changing magnetic field keeps pushing the electrons in the coil along. This creates a reactive current that continues to flow for a short while even after the voltage potential goes away. This is an example of back-EMF, short for electromotive force. Left unchecked, back-EMF can create voltage spikes much higher than the voltage you energized the coil with, and those voltage spikes can damage or destroy equipment. Sometimes the failure might happen after one or two cycles, and sometimes it takes tens or hundreds or more cycles before the equipment stops working and it becomes apparent that there is a problem.
 
-Handling back-EMF is a whole topic in and of itself. On the more sophisticated end of spectrum, all modern electric vehicles, some modern electric golf carts, and a few e-bikes implement regenerative breaking, using the abundance of back-EMF in this operating mode in order to charge the vehicle's batteries a little bit while breaking, thus extending range.  
+Handling back-EMF is a whole topic in and of itself. On the more sophisticated end of spectrum, all modern electric vehicles, some modern electric golf carts, and a few e-bikes implement regenerative breaking, using the abundance of back-EMF in this operating mode in order to charge the vehicle's batteries a little bit while breaking, thus extending range.
 
 But we are dealing with small, common, general-purpose relays in our scenario. In this context, a common solution is to use a flyback diode to diffuse the kick of the back-EMF before it can build up into a damaging spike in voltage. A nice breadboard demonstration of a flyback diode in action is to use a light-emitting diode as the flyback diode of a relay, and have the relay's solenoid controlled by a push-button.  Properly done, the relay will actuate when you hold the button down, and the LED will flash when you release it.
 
@@ -765,14 +767,14 @@ Setting up a breadboard and demonstrating this effect, followed up by building a
 There's far more that can be done along these lines, from amateur radio, 3D printing, playing with small robotic cars, robotic arms, CNC machines, etc. The material cost (both recurring and capital) of providing these sorts of activities, and doing so in a relatively hands-on way, is quite inexpensive relative to what has been possible in the past. We can afford to provide these interventions to everybody, and to encourage the development of the moral courage to make friends with rivals and to become better people. The main missing ingredients are human capital, payroll, and the will to make it happen.
 
 ### Details left to be worked out
- 
+
 What milestones should a college-prep K-12 curriculum starting from this point try to include?  This level of curriculum reorganization allows for surprising new pedagogical avenues, so deep re-examinations are very much warranted.  It's well worth looking at advanced books like Tristan Needham's Visual Differential Geometry and Forms in order to find clues about which ideas might be worth incorporating into the K-12 curriculum in order to prepare students to later study these books as effectively as possible.
 
 For example, I'd love to hear more about Tristan Needham's use of ultimate equality in a first year calculus course.  Ultimate equality is the propositional statement that the limit of the ratio of two sequences is equal to one.  I would love for somebody to engineer a way to introduce and motivate ultimate equality, or at least introduce hints towards ultimate equality, in the K-12 curriculum. Automatic Differentiation is another strong candidate for this sort of treatment, which is an underappreciated, relatively recent technique detailed in "Software Design for Flexibility" by Chris Hanson and Gerald Jay Sussman.
 
 Understanding the design philosophy of the Aggregate Theory is really appreciating the non-linear design gestalt behind the wisdom that is learning how to play the Six Degrees of the Square, Triangle, and Tree very well indeed.  This is a shockingly effective heuristic for discovering how to connect any particular idea to this new curriculum.
 
-I mean, one of my goals for the design was to be able to trace out plausible paths, ideally short and simple paths, to teaching and learning as many different ideas as possible. For example, I very much want to see a particularly nice introduction to the Fourier transform in high school.  
+I mean, one of my goals for the design was to be able to trace out plausible paths, ideally short and simple paths, to teaching and learning as many different ideas as possible. For example, I very much want to see a particularly nice introduction to the Fourier transform in high school.
 
 It's ok if the approach to the Fourier transform is primarily intuitive, informal, and applied; in fact that's all I personally have. I don't (yet?) have a deep theoretical understanding of the Fourier Transform.  Of course, I would very much like to see many hints towards this latter understanding worked into the informal, more applied introduction.  But that's definitely outside my wheelhouse, at least for the time being.
 
@@ -780,7 +782,7 @@ I am, however, supremely confident that such a plan can be created. As an obviou
 
 This larger category covers pretty much the entire core of a mainstream undergraduate mathematics curriculum, as well as some advanced undergraduate and early graduate-level topics that have been demonstrated to have great strategic value. But what if you don't even have a vague idea of how to incorporate an idea into your theory of mathematics?
 
-You can always add that idea as a primary or secondary or tertiary starting poing for your personal theory of mathematics.  I suggest starting from the aggregate theory of concrete mathematics, and build on it and customize it.  Take any mathematical idea at all, and try to find answers about how it connects to the six degrees of your theory.  If you can find a connection (or two, or three, or...), great, you are starting to build your memory palace! 
+You can always add that idea as a primary or secondary or tertiary starting poing for your personal theory of mathematics.  I suggest starting from the aggregate theory of concrete mathematics, and build on it and customize it.  Take any mathematical idea at all, and try to find answers about how it connects to the six degrees of your theory.  If you can find a connection (or two, or three, or...), great, you are starting to build your memory palace!
 
 It's well worth the effort to aggressively combine, simplify, split, prune and compress the starting points of your personal aggregate theory.  Can one idea replace several others?  Of course, the ideas being removed from your starting points should still be remembered.  You aren't forgetting about them, you are just moving them to your memory palace.  They are part of your museum of mathematics, they just aren't a starting point for your theory of mathematics.
 
@@ -802,14 +804,14 @@ The Haskell Road to Logic, Maths, and Programming, by Kees Doets and Jan van Eij
       * IVPs are well connected to combinatorics and linear algebra, with hints towards functional analysis
       * IVPs are an object specifically of interest in algebraic topology (But I don't understand why, yet.)
   * The binomal theorem used in the book precedes Sir Issac Newton.  Calling it "Newton's Binomial Theorem" without generalizing the binomial coefficients to the real numbers is definitely weird; I decidely do not like that linguistic precedent.  On the other hand, my rewrite would most definitely include at least a blurb about Newton's Binomal Theorem, and a mention of hypergeometric summation.
-  * Chapter 10 is absolutely brilliant, and I'm sure my understanding of it could be deeper. 
-  * Chapter 10, Douglas McIlroy's "Music of Streams", and Project Euler demonstrates that a simplified, applied introduction to generating functions via combinatorics, formal power series, and lazy evaluation can be very approachable. 
+  * Chapter 10 is absolutely brilliant, and I'm sure my understanding of it could be deeper.
+  * Chapter 10, Douglas McIlroy's "Music of Streams", and Project Euler demonstrates that a simplified, applied introduction to generating functions via combinatorics, formal power series, and lazy evaluation can be very approachable.
   * Personally, I would love to see an introduction to generating functions in high school. This book hints at an approach that seems promising.
   * See also "Discrete Mathematics with Ducks" for an attempt of comprehensive coverage of the ACM SIGCSE approved curriculum.
   * See "Concrete Mathematics", as a natural followup.
 
 Structure and Interpretation of Computer Programs, by Harold Abelson and Gerald Jay Sussman
-  * The Reasoned Schemer, by Daniel P Friedman 
+  * The Reasoned Schemer, by Daniel P Friedman
   * Essentials of Programming Languages, by Daniel P Friedman and Mitchell Wand
   * Software Design for Flexibility, by Chris Hanson and Gerald Jay Sussman
 
@@ -821,7 +823,7 @@ Order Theory and Lattices
   * Galois connections on partially ordered sets (posets) have a large number of applications:
      * Data Compression, Succinct Data Structures
      * Machine Learning, Formal Concept Analysis, Ontological Discovery
-     * Programming language semantics 
+     * Programming language semantics
         * domain theory
         * abstract interpretation
      * Logic, Model Theory, Topoi
@@ -835,7 +837,7 @@ Visual Group Theory by Nathan Carter
   * Lovely effort to make abstract algebra more accessible
   * nicely thought out problem sets!
   * I believe I would have learned more abstract algebra more rapidly had this book been available
-  * This book is very complementary to my own ideas along the same lines 
+  * This book is very complementary to my own ideas along the same lines
   * If VGT is a introduction/adjunct to Fraleigh and Hungerford, I think the Aggregate Theory of Concrete Mathematics can readily produce an introduction/adjunct to Visual Group Theory.
   * Paolo Aluffi's "Algebra: Notes from the Underground" seems like a potentially interesting followup.
   * For a deeper look at quaternions, see "Geometry: Plane and Fancy", "Introduction to the Theory of Numbers", and some abstract algebra books.  Most introductory abstract algebra books only cover the finite quaterion group, though.
@@ -844,8 +846,8 @@ Neverending Fractions, An Introduction to Continued Fractions, by Jonathan Borwe
    * Standard introduction to continued fractions, alongside an eclectic mix of less common applications.
    * I remember playing with Somos sequences via OEIS, but I never did anything very interesting with them.
    * See also Linas Vepstas's fascinating expository efforts to discuss this material in relatively accessible ways, often with an eye towards analysis and measure theory
- 
-An Introduction to the Theory of Numbers (6th Ed.) by 
+
+An Introduction to the Theory of Numbers (6th Ed.) by
    * should do deeper review of this book
    * KB&SBT mentions that the converse of theorem 28 is also true, which isn't clearly mentioned in the book
    * theorem 29 is more general that what I had known to be true after writing KB&SBT
@@ -857,10 +859,10 @@ Geometry of Continued Fractions, by Oleg Karpenkov
    * Integral Matrices, by Morris Newman
    * Topics in Geometric Group Theory, by Pierre de la Harpe
    * Automorphic Forms and Even Unimodular Lattices, by Chenevier and Lannes
-       
+
 Proofs from THE BOOK
 
-Game Theory 
+Game Theory
    * We need an excuse to play games in the math classroom
    * The goal should be to develop good, sometimes rigorous understandings of strategy
    * Need programming environments to be able to develop strategies and play-test them against each other tens of thousands of times.
@@ -924,7 +926,7 @@ One primary use case for Shannon's theory is to investigate the probability of a
 
 A communications channel is sort of like a noisy room. If you are having difficulty being understood, you can talk louder, increasing the power and amplitude of the signal, and possibly raising the noise level experienced other conversations in the room. Or you can move to a quiter room, decreasing the power and amplitude of the noise.  Both these steps improve the signal-to-noise ratio of the communications channel, and improve the likelihood of communicating successfully.
 
-A third option is to use an error correcting code (ECC), which encode redundancy into the message. This increases the probability of the successful communication of an abstract symbol or idea, or at least increases the possibility of detecting when miscommunication is likely to have occurred.  This increases the effective signal-to-noise ratio of the overall communications system without increasing the amplitude of the signal, or reducing the noise of the channel. And in doing so, it also constructs a foundation on which Wittgenstein's higher-level issues as they apply to computer communications protocols can be addressed. 
+A third option is to use an error correcting code (ECC), which encode redundancy into the message. This increases the probability of the successful communication of an abstract symbol or idea, or at least increases the possibility of detecting when miscommunication is likely to have occurred.  This increases the effective signal-to-noise ratio of the overall communications system without increasing the amplitude of the signal, or reducing the noise of the channel. And in doing so, it also constructs a foundation on which Wittgenstein's higher-level issues as they apply to computer communications protocols can be addressed.
 
 I find it very interesting that natural languages, have evolved highly imperfect error-correcting codes through grammatical redundancy. It is far from perfect, and from the perspective of ECC codes used in the physical layers of communications, storage, and QR codes, these natural-language error correcting schemes are positively unworkable. Yet these natural-language solutions are surprisingly effective, most of the time, and I suspect this was unappreciated and overlooked by James Cooke Brown when he invented Loglan, which attempted to engineer a natural language. Conversely, attempting to model the very high-level semantic error correcting schemes that occurs in natural-language communications is far more difficult and tricky to formally model than the computer-to-computer error correcting codes.
 
@@ -936,9 +938,9 @@ It's very important to notice that I'm not talking about encryption here, I'm ta
 
 When you, as a computer user, get started with digital signatures, the first thing the computer (or hardware token) will do for you is pick a private key. From the perspectivev of mathematical correctness of the digital signature algorithm, the private key can be anything. From the perspective of operational security, the private key really needs to be chosen securely using cryptographically secure (pseudo-)random methods. That's why the computer does it for you.
 
-The public key is then derived from the private key. The public key can then be shared with whomever you like, even if you wouldn't trust that person with your private key.  You should not ever share private keys with anyone or anything without first thinking very carefully about an answer to one of the two questions: "Why not two seperate private keys?", or "By publishing this private key, do I want to wreck the ability of the corresponding public key to authenticate the provenance of any of its signatures, even those signatures that have already been created?" 
+The public key is then derived from the private key. The public key can then be shared with whomever you like, even if you wouldn't trust that person with your private key.  You should not ever share private keys with anyone or anything without first thinking very carefully about an answer to one of the two questions: "Why not two seperate private keys?", or "By publishing this private key, do I want to wreck the ability of the corresponding public key to authenticate the provenance of any of its signatures, even those signatures that have already been created?"
 
-Or, you can keep your public key to yourself, and then only you can verify any signatures you produce with your private key. You need the public key to verify a signature, but you need the private key to create a signature.  Do not forget that a message with a valid signature does not inherently mean the message is "more authentic"! Rather, a valid signature connects the provenance of the message to the public key, nothing more, and nothing less.  Anybody who wants to understand the provenance of a properly signed message must investigate and understand the provenance of the corresponding public key.  
+Or, you can keep your public key to yourself, and then only you can verify any signatures you produce with your private key. You need the public key to verify a signature, but you need the private key to create a signature.  Do not forget that a message with a valid signature does not inherently mean the message is "more authentic"! Rather, a valid signature connects the provenance of the message to the public key, nothing more, and nothing less.  Anybody who wants to understand the provenance of a properly signed message must investigate and understand the provenance of the corresponding public key.
 
 In th realm of blockchain,  when you "send" cryptocurrency to another person, you are metaphorically signing a check and then publishing it to the entire world.  The recipient line of the check is another public key, which is then recognized by others as being authorized to sign another check for the same amount to other public keys.
 
@@ -946,23 +948,23 @@ Sometimes the sharing of a public key is totally under the control of software. 
 
 [XKCD's Exploits of a Mom](https://xkcd.com/327/)
 
-However, solving these two particular low-level problems, while both amazing foundational bits of technology in and of themselves, is not a holistic foundation for a communications system.  For that we also need to delve into the semantics and effectiveness of the application-layer communication protocols.  
+However, solving these two particular low-level problems, while both amazing foundational bits of technology in and of themselves, is not a holistic foundation for a communications system.  For that we also need to delve into the semantics and effectiveness of the application-layer communication protocols.
 
 These high-level breakdowns in the overall communications protocol can most certainly have safety engineering implications.  A relevant case study is the Clayton Tunnel rail crash of 1861, where an unusual and anomalous situation involving concurrency and the state of the tunnel lead to an inability for the watchmen and signal operators to communicate effectively via an early needle telegraph. This in turn lead to the unsafe operation of the tunnel, which was a contributing factor in a fatal train crash.
 
 Alhough modern error correcting codes are capable of all but eliminating homophones in the physical communication layer, both design and implementation bugs can reintroduce homophones into the overall system. This can happen at any and all levels of the overall system, from the physical layer, to the application layer, to the users themselves.
 
-For example, if you are video chatting with your friend and they say "Francis Bacon", the computer can't stop you from interpreting that in your mind as "France is bacon". In fact, the computer probably won't ever know, let alone care. On the other hand, there exist homophones that computers hear and that humans don't, and these very often lead _injection vulnerabilities_, which are sometimes also known as a _shellcode vulnerabilities_. 
+For example, if you are video chatting with your friend and they say "Francis Bacon", the computer can't stop you from interpreting that in your mind as "France is bacon". In fact, the computer probably won't ever know, let alone care. On the other hand, there exist homophones that computers hear and that humans don't, and these very often lead _injection vulnerabilities_, which are sometimes also known as a _shellcode vulnerabilities_.
 
 For example, consider a network server written in C. Undefined behaviors latent in the C code often lead to buffer overflows. Buffer overflows often create highly non-obvious homophones. Those homophones often enable an attacker to inject their own machine code into the server's process memory. This machine code can corrupt the server, and convince the server to take an action it has the privileges to perform, but the attacker does not. This escalation of privilege is the classic scenario of the confused deputy problem.
 
-I assure you that today, the exact day that you personally are reading this sentence, the world will discover many untold thousands of latent buffer overflows, and perhaps we will create twice as many more.  C might well be the Stern-Brocot tree of buffer overflows!  Some will invite an engineering response and receive a fix. A select few make international news, if the vulnerabilities uncovered are severe enough, and the vulnerable code is popular enough. 
+I assure you that today, the exact day that you personally are reading this sentence, the world will discover many untold thousands of latent buffer overflows, and perhaps we will create twice as many more.  C might well be the Stern-Brocot tree of buffer overflows!  Some will invite an engineering response and receive a fix. A select few make international news, if the vulnerabilities uncovered are severe enough, and the vulnerable code is popular enough.
 
 Many, however, are very likely to simply be ignored, especially because that is actually not an entirely irrational course of action in certain types of larger, highly dysfunctional IT situations that themselves are depressingly altogether too common.
 
 Notice that even though this is a injection of machine code, neither the machine code itself nor the design of the assembly language can possibly be directly responsible for introducting the homophone. Rather these homophones are caused by undefined behavior in C. At this point, I know that many will then sneer, "well then, don't do undefined behaviors in C", well, I do very much try hard not to, believe me! At the very least, undefined behavior is itself one of the primary causal factors, if not the singular primary causal factor, of this particular kind of homophone.
 
-On the other hand, the design of the assembly language does exert causal effects on the resulting vulnerability. Thus it is a causal factor of the injection vulnerability, even if it cannot possibly be the sole primary causal factor of the homophone that enables the injection.  Not only is this true of the design of the assembly language, it is also true the implementation of the CPU that interprets the resulting machine code, the design of the C programming language, 
+On the other hand, the design of the assembly language does exert causal effects on the resulting vulnerability. Thus it is a causal factor of the injection vulnerability, even if it cannot possibly be the sole primary causal factor of the homophone that enables the injection.  Not only is this true of the design of the assembly language, it is also true the implementation of the CPU that interprets the resulting machine code, the design of the C programming language,
 
 Any one or all of these factors can dramaticatically change the severity of the vulnerability for the better or worse, and this intricacy is why the result of undefined behavior is practically impossible for most humans to predict.  All of these factors are relevant to the nature of the vulnerability, even if only a few of them are relevant to the existence of a vulnerability.
 
@@ -974,7 +976,7 @@ Then there are JavaScript injections, CSS injections, HTML injections, HTTP inje
 
 There are many engineers working on or with application-layer communications protocols, who aren't even aware that these concerns are very much entailed by their job responsibilities, tasks, and goals. Most of these engineers need to know little, if anything about Shannon's theory. They might need to understand how to use the modem correctly, they don't need to know exactly how it works. However, all abstractions are leaky, and it's pretty much always true that understanding certain things about the implementation often allows you to make use of it far more effectively than you could otherwise, even while staying within the confines of the abstraction.
 
-For example, a really good application engineer might need to know about how their usage of network communications impacts the modem's power consumption, so they can implement their application in such a way that extends battery life. A really good systems-level communications engineer definitely needs to understand if the modem uses any error-correcting codes, and if so, how effective they are in catching data corruption and how those conditions are signalled. And let's be honest, a bit of additional sanity-checking built into the application layer adds a great deal of resilience to the overall system, even if your modem has excellent error detection and correction. 
+For example, a really good application engineer might need to know about how their usage of network communications impacts the modem's power consumption, so they can implement their application in such a way that extends battery life. A really good systems-level communications engineer definitely needs to understand if the modem uses any error-correcting codes, and if so, how effective they are in catching data corruption and how those conditions are signalled. And let's be honest, a bit of additional sanity-checking built into the application layer adds a great deal of resilience to the overall system, even if your modem has excellent error detection and correction.
 
 A really good communications engineer should probably understand a high-level overview of the _queueing discipline_ that a modem uses to send and receive data.  Ethernet has a more complicated queuing discipline than say, RS-232 serial communications. WSPR is an example of an amateur radio protocol that imposes a highly unusual queueing discipline. It provides an ultra-low power, ultra-long range, many-to-one/one-to-many unidirectional beacons.
 
@@ -1006,7 +1008,7 @@ APRS is another amateur radio protocol pioneered by Bob Bruninga, WB4APR. I find
 
 A next-gen APRS should automate consensus-building suitable for task.  The Two Generals Problem is highly relevant, however I doubt we need to worry about Byzantine Generals. A conflict-free replicated data type (CRDT) seems like a technique likely to lead to a good result, provided one takes the design process behind this specialized technique seriously, and arrive at a carefully considered design of the application-layer protocol.  Designing, implementing, and verifying a CRDT can be a rather resource-intensive process.
 
-I do believe that a solution should incorporate cryptographic authentication.  Done correctly, this adds a great deal of robustness to the application layer protocol and limits the abuse the service. However, as this protocol should be dedicated to amateur radio and _perhaps_ aspire to be used on the Multi-Use Radio Service (MURS) and Family Radio Service, encryption should be left out entirely. 
+I do believe that a solution should incorporate cryptographic authentication.  Done correctly, this adds a great deal of robustness to the application layer protocol and limits the abuse the service. However, as this protocol should be dedicated to amateur radio and _perhaps_ aspire to be used on the Multi-Use Radio Service (MURS) and Family Radio Service, encryption should be left out entirely.
 
 Because of the dedication to amateur radio, the transport protocol should include call signs on every packet, even when the application layer protocol is sending and receiving arbitrary data.  Given the need for call signs, and the differences in queuing discipline that this communications topology implies, I strongly suspect there is significant opporunity for meaningful innovation in the process of deconstructing existing transport-layer protocols and reconstructing them to fit this specific context.
 
@@ -1036,9 +1038,9 @@ Let the result set up and harden for a while, and come back and polish your new 
 
 The Symmetry Group of the Square leads very naturally to cartesian coordinates, computer graphics, and linear algebra. Pascal's Triangle leads very naturally to counting, probability, and statistics. The Stern-Brocot Tree is like a Rosetta Stone, translating between computer science, arithmetic, algebra, geometry, calculus and beyond, taking us into the unknown.
 
-An Aggregate Theory of Concrete Mathematics is an introduction to constructive symmetry, computer programming, rational approximation, communications, signals, semantics, consensus, blockchain, radios, robots, relays, and induction. 
+An Aggregate Theory of Concrete Mathematics is an introduction to constructive symmetry, computer programming, rational approximation, communications, signals, semantics, consensus, blockchain, radios, robots, relays, and induction.
 
-I can already hear you asking "but what shall we cut?!!" I would cut fractions, of course! Or rather, fractions are still very much right there, in the Museum of Fractions. Our current approach to teaching fractions is very much analogous to Roman numerals.  
+I can already hear you asking "but what shall we cut?!!" I would cut fractions, of course! Or rather, fractions are still very much right there, in the Museum of Fractions. Our current approach to teaching fractions is very much analogous to Roman numerals.
 
 From a modern perspective, the way we currently teach how to add and reduce fractions wastes many years of supremely valuable elementary math lessons. I enthusiastically endorse Dennis DeTurck's most excellent thesis, "Down With Fractions!", with my main rebuttal being the Stern-Brocot Museum of Fractions.
 
@@ -1048,7 +1050,7 @@ If you look more closely, nothing relevant has been removed. I'm just clearing u
 
 Let's ensure that every child gets the best practical start in life that we can plausibly manage. We can do a lot better! I am personally inviting you to be better. I am inviting all of us to be better, together.
 
-The State of California really can have its cake and eat it too on the topic of the currently ongoing controversy. I endorse the Brown University Bootstrap Project, and I endorse ["Calculus isn’t the only option. Let’s broaden and update the current math curriculum" by Jesús A. De Loera and Francis Su](https://www.sacbee.com/opinion/op-ed/article260529232.html). 
+The State of California really can have its cake and eat it too on the topic of the currently ongoing controversy. I endorse the Brown University Bootstrap Project, and I endorse ["Calculus isn’t the only option. Let’s broaden and update the current math curriculum" by Jesús A. De Loera and Francis Su](https://www.sacbee.com/opinion/op-ed/article260529232.html).
 
 This letter is also an acknowledgement of the social issues raised not only by the reform attempt, but also by Michael Render in the song "Walking in the Snow".  Math tests and scores are frequently used to deny people education and jobs in ways that often are of no relevance.
 
@@ -1058,13 +1060,13 @@ At the same time, there will always be students that outpace the rest. Everybody
 
 I myself was first introduced to Algebra I as a freshman at Triton High School. Thanks to the Indiana Academy for Science, Mathematics, and the Humanities, I graduated high school having successfully completed AP Calculus BC, Multivariable Calculus, Differential Equations, Discrete Mathematics, Linear Algebra, and Probability.
 
-This was a life-changing experience for me. I had a lot of fun travelling to Ames City, Iowa with other top math students from across the state of Indiana, many of whom were smarter, and most of whom were far better prepared than I. We represented Indiana in the 1997 and 1998 American Regional Mathematics League contests. I was introduced to the writings of Karl Popper on the philosophy of science, an unexpectedly remarkable surprise. And I met a worthy and longstanding rival, my very dear friend Yuri Goldfeld. 
+This was a life-changing experience for me. I had a lot of fun travelling to Ames City, Iowa with other top math students from across the state of Indiana, many of whom were smarter, and most of whom were far better prepared than I. We represented Indiana in the 1997 and 1998 American Regional Mathematics League contests. I was introduced to the writings of Karl Popper on the philosophy of science, an unexpectedly remarkable surprise. And I met a worthy and longstanding rival, my very dear friend Yuri Goldfeld.
 
 Yuri brought the current controversy to my attention last year, and helped provoke this reponse. In response to Yuri, and in the name of Reason, Rationality, and a Re-Enlightenment, I offer everybody my love letters from this pandemic.
 
 In the Aggregate Theory, fractions have been reconstructed into a new and more potent form. This form can plausibly be introduced at an even earlier age with the same or better chance of success. Learning how to reduce and add fractions becomes fundamentally easier and more interesting, when you have the Stern-Brocot Museum of Fractions and it's guidebook, the Euclidean Algorithm, to work from.  Furthermore, we can use the Stern-Brocot and Calkin-Wilf trees, and the Euclidean Algorithm, to playfully motivate introductions to integer multiplication, integer division, run-length encoding, and so very much more.
 
-We shouldn't be spending more than a few days a month practicing how to add and reduce fractions by hand. I very much do encourage hand computation, you can certainly learn a lot that way. I know I did, and I still do. But there absolutely no reason to spend every day on that. That's boring and unproductive. 
+We shouldn't be spending more than a few days a month practicing how to add and reduce fractions by hand. I very much do encourage hand computation, you can certainly learn a lot that way. I know I did, and I still do. But there absolutely no reason to spend every day on that. That's boring and unproductive.
 
 It's much more exciting to learn how to teach a computer to add and reduce fractions for you. Creating those computer programs are not much harder than playing chopsticks on the piano; it'll be hard at first, and you can always get better at it, but neither failure nor the fear of failure should stop you from trying and trying again, _especially_ with the tree, the square, and the triangle.
 
@@ -1096,7 +1098,7 @@ Instead, I am supremely interested in figuring out how to best use the strengths
 
 Significant reforms to the elementary mathematical curriculum do pose numerous practical difficulties, and we should expect significant teething problems. Not least of these is an initial reactive resistance to new ideas that aren't commonly known or understood in the general population. These reactions frequently cause parents to transmit negative attitudes and teach outright misconceptions about new math to their children, which can make the teacher's job way more difficult. In many cases, this can shut down the conversation, making the teacher's job practically impossible. Moreover, finding teachers who can teach the new material itself poses a natural chicken-and-egg problem.
 
-This chicken-and-egg problem has been severely complicated in the US by the fact that mathematics has historically been taught by generalist elementary teachers. As a practical matter, enacting deep reform for the entire state of California would almost certainly require hiring tens of thousands of teachers specializing in early childhood math education, and trained to the new curriculum. 
+This chicken-and-egg problem has been severely complicated in the US by the fact that mathematics has historically been taught by generalist elementary teachers. As a practical matter, enacting deep reform for the entire state of California would almost certainly require hiring tens of thousands of teachers specializing in early childhood math education, and trained to the new curriculum.
 
 Ideally, every elementary student would be in math class taught by a specialist two or three days a week. Perhaps some of this time could be given back to the homeroom teacher for other purposes, but the homeroom teacher must be regularly included in the classes taught by the specialist. For starters, this presents an opportunity for the homeroom teacher to get comfortable with the new curriculum. This way, the homeroom teacher can learn how to better supervise the time allocated to mathematical practice and play on the other days of the week.
 
@@ -1127,7 +1129,7 @@ My father Byron Smith taught computer science at Manchester University. He earne
 My uncle Hugh Rettinger was the high school guidance counselor. Together, we supervise the counting of money, and help supervise elections. My cousin Wes Rettinger is a former math teacher, and is currently on the school board of Triton School Corporation. My grandfather Donald Rettinger was a longtime member of the Triton school board.
 
 You could say education runs in the family.
- 
+
 The question "Algebra I. Grade eight or nine?" is a trifling concern, and one with deadly serious social consequences. If the State of California were to seriously fund practical interventions into enriching the mathematical curriculum, we can soon be looking backwards and be wondering why that question seemed relevant to anybody.
 
 My assessment of the situation is that we are primarily lacking the human capital, the payroll, and the will to make it so.
@@ -1177,9 +1179,9 @@ If you'd like to understand a bit more about me, here's a review of books that h
 
 Oh! Pascal! (3rd Ed.) by Doug Cooper
   * Junior High through High School, occasionally (but rarely) referenced this book as an undergraduate.
-  * Exceptional for a number of reasons, but especially the attention to detail and creativity of the examples 
+  * Exceptional for a number of reasons, but especially the attention to detail and creativity of the examples
   * Write down the story of senior year research colloquium final project and Dr. Fakhruddin
-  * Book made the trip to undergrad and back. 
+  * Book made the trip to undergrad and back.
   * If you are a student learning to program, this book probably isn't terribly relevant due to Turbo Pascal 6.0
   * If you are considering writing an introductory book on computer programming, well worth drawing inspiration from
   * Had some simpler fractals, reminscent of "Indra's Pearls: the Vision of Felix Klein".  The mathematical explanations are far deeper and more refined in Indra's Pearls, though.  "Oh! Pascal!" wasn't really enough to "sell" me on the study of fractals.
@@ -1195,7 +1197,7 @@ Programming Language Concepts (2nd Ed.) by Carlo Ghezzi and Mehdi Jazayeri
 Programming with Standard ML by Colin Myers, Chris Clack, and Ellen Poon
   * While I was a student at the Indiana Academy, I spent quite a bit of time conducting a fairly exhaustive literature search through the programming-language related books in the Computer Science stacks at Bracken Library.
   * I thought I was gathering raw data to make my own programming language.  Little did I know I was actually searching for this book.
-  * I found this book the fall of my senior year of high school. It was certainly one of the momentous moments of my life. 
+  * I found this book the fall of my senior year of high school. It was certainly one of the momentous moments of my life.
   * Checked it out and read it cover to cover within the next 36 hours or so, was immediately sold on functional programming
   * It took a year and a half and considerable effort to start to actually get good at FP.
   * at first, I was learning SML and Haskell in parallel, alongside the "Gentle Introduction to Haskell"
@@ -1247,13 +1249,13 @@ To Ozgun Ataman, for being a friend, for providing profound contributions to pos
 
 To Donald Knuth, Haskell Brooks Curry, Gerald Sussman, Guy Steele, Daniel Friedman, Kent Dybvig, David Wise, Simon Peyton-Jones, Simon Marlow, Jon Barwise and so many countless others, for making my work on UTOPIA 84 even possible.
 
-To my father Byron Smith, Carlo Ghezzi, and Mehdi Jazayeri for inspiring this quest. To William Wulf and George Lakoff for framing the goals for me. To Colin Myers, Chris Clack, and Ellen Poon for opening the first very remarkable door for me. 
+To my father Byron Smith, Carlo Ghezzi, and Mehdi Jazayeri for inspiring this quest. To William Wulf and George Lakoff for framing the goals for me. To Colin Myers, Chris Clack, and Ellen Poon for opening the first very remarkable door for me.
 
-To Richard Bird and Chris Okasaki for dereferencing my understanding of functional programming. To Jeremy Gibbons, Richard Bird, and David Lester for giving me the frontispiece to my answer. 
+To Richard Bird and Chris Okasaki for dereferencing my understanding of functional programming. To Jeremy Gibbons, Richard Bird, and David Lester for giving me the frontispiece to my answer.
 
 To Julian Gevirtz, Kimberly Foltz, John Racja, and Franklin Shobe, teachers of mine at the Indiana Academy, for teaching me Mathematics, and shaping and broadening the goals of this quest.
 
-To Case Western Reserve University and the Indiana Academy, for deepening my appreciation for Science and the Humanities. 
+To Case Western Reserve University and the Indiana Academy, for deepening my appreciation for Science and the Humanities.
 
 To William Deal, Timothy Beal, Marty Grundy, and the Cleveland Meeting of the Religious Society of Friends, for helping me to clarify my thoughts and for helping me to find my writing voice.
 
@@ -1275,7 +1277,7 @@ To Edward Kmett, an elemental wizard of heuristics, level unknown. Edward is pla
 
 To Doron Zeilberger and Ryan Trinkle, also for helping me achieve a much deeper practical appreciation for heuristics.
 
-To Lee White and Steven D. Johnson, two first-rate philosophers of design. Thank you for sharing your deep insights into software, hardware, and safety engineering with me.  
+To Lee White and Steven D. Johnson, two first-rate philosophers of design. Thank you for sharing your deep insights into software, hardware, and safety engineering with me.
 
 To Daniel Friedman and Kent Dybvig, for sharing your deep insights into the philosophy of education and design with me.
 
@@ -1361,7 +1363,7 @@ Peace out.
 
 [The Ultimate Secret of Philosophy](https://existentialcomics.com/comic/437)
 
-## (currently woefully incomplete) Bibiliography:  
+## (currently woefully incomplete) Bibiliography:
 
 1. The Scout Mindset: Why Some People See Things Clearly and Others Don't, by Julia Galef
 2. Benjamin Franklin: A Film by Ken Burns
@@ -1378,7 +1380,7 @@ Peace out.
     * [Anti-Vaxxers, Conspiracy Theories, & Epistemic Responsibility: Crash Course Philosophy #14](https://www.youtube.com/watch?v=AYkhlXronNk)
     * The Illustrated Guide to Law, by Nathan Burney:  https://lawcomic.net
 6. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, by Cathy O'Neil
-    * Algorithms of Oppression: How Search Engines Reinforce Racism by Safiya Umoja Noble 
+    * Algorithms of Oppression: How Search Engines Reinforce Racism by Safiya Umoja Noble
     * Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor by Virginia Eubanks
     * The Loop: How Technology is Creating a World Without Choices and How to Fight Back by Jacob Ward
     * The Mismeasure of Man, by Stephen Jay Gould
@@ -1399,7 +1401,7 @@ Peace out.
 10. Statistical Rethinking: A Bayesian Course with Examples in R and Stan (2nd Ed.), by Richard McElreath
     * "The Logical Syntax of Language" by Rudolph Carnaph
     * "Conjectures and Refutations" by Karl Popper
-    * "The Logic of Scientific Discovery" by Karl Popper 
+    * "The Logic of Scientific Discovery" by Karl Popper
     * "The Structure of Scientific Revolutions" by Thomas Kuhn
     * "The methodology of scientific research programmes" by Imre Lakatos
     * "Against Method" by Paul Feyerabend
@@ -1409,7 +1411,7 @@ Peace out.
 
 [^auxiliary-topics-for-deductive-logic]: Thus, we should have a banquet of options for learning deductive logic, whether that's the very traditional geometry, or the somewhat more modern logic puzzles, or the relatively recent discrete math, to suit many tastes and interests. There are almost certainly large numbers of alternative auxiliary topics for teaching deductive logic that are worth exploring and developing.
 
-[^proofsandrefutations_logic]: Ever notice the intuitionalistic logic joke on page 47 of "Proofs and Refutations", near where footnote 60 is cited in the section "proof analysis and global counterexample"? 
+[^proofsandrefutations_logic]: Ever notice the intuitionalistic logic joke on page 47 of "Proofs and Refutations", near where footnote 60 is cited in the section "proof analysis and global counterexample"?
 
 [^iep-paraconsistent]: see for example, the Internet Encyclopedia of Philosophy's article https://iep.utm.edu/para-log/, for a discussion of weak paraconsistency. Every part of this conjecture seems to be reasonably widespread in the mathematical and computer science communities; but I'm not specifically aware of anybody else who has rolled these parts up into a singular name, which I feel is overdue. My interactions with J. Michael Dunn, along with Larry Moss, Guo-Qiang Zhang, David Singer, Amr Sabry, and Steven D. Johnson informed my current view of this niche topic.
 
@@ -1421,7 +1423,7 @@ Peace out.
 
 [^hamkins]:  see e.g. Chapter 1 p 18 in "Lectures on the Philosophy of Mathematics" by Joel David Hamkins
 
-[^graphicallinearalgebra]: 
+[^graphicallinearalgebra]:
     I suggest reading the post [Makélélé and Linear Algebra](https://graphicallinearalgebra.net/2015/04/23/makelele-and-linear-algebra/), which states things quite nicely. See also "How Not to Be Wrong", by Jordan Ellenberg. I also really appreciated [Why string diagrams?](https://graphicallinearalgebra.net/2017/04/24/why-string-diagrams/), which I found to contain a nice acknowledgement of the difference between _pedagogical_ versus _motivating_ examples.
 
     For example, the Stern-Brocot tree is an excellent _pedagogical example_ for the study of coalegbra and coinduction, in the sense that if a student is interested in these topics, I wouldn't hesitate to recommend the Stern-Brocot tree, as it's a relatively simple and hopefully illuminating example for learning about coalgeba. Perhaps it provides enough intellectual texture to break syntactic illusions and more easily discover what makes coalgebra interesting, but at the very least I hope it provides a bit of gas to stimulate the imagination.
@@ -1440,7 +1442,7 @@ Peace out.
     It's really satisfying when ideas come back around full circle.  When I was struggling to get started with "Kevin Bacon and the Stern-Brocot tree", it wasn't until I really started thinking about George Lakoff's concepts of framing that I could find my voice.  I'm only referentially familiar with Lakoff's work on this matter, perhaps someday I'll get around to actually reading "Don't Think of an Elephant!"
 
 [^deductive-logic-and-the-aggregate-theory]:
-    From a certain very strict notion of relevance that I have often worked from while writing this essay but can't quite explain, the six degrees of the primary aggregates (i.e. the tree, the triangle, and the square) doesn't seem to connect to formal logic until you get to graduate-level model theory and algebraic semantics. 
+    From a certain very strict notion of relevance that I have often worked from while writing this essay but can't quite explain, the six degrees of the primary aggregates (i.e. the tree, the triangle, and the square) doesn't seem to connect to formal logic until you get to graduate-level model theory and algebraic semantics.
 
     Even then, the connections still seem secondary and indirect, using the aggregates as pedagogical devices to introduce algebra, partial orders, and topology. I'm still not aware that the aggregates are directly relevant to a goal of learning graduate-level model theory, though I am certainly interested in having my mind changed on this topic.
 
