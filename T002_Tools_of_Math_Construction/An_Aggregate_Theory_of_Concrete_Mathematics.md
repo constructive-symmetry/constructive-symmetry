@@ -1,12 +1,14 @@
 # Tools of Math Construction: An Aggregate Theory of Concrete Mathematics
 # by Leon P Smith, Iterative Systems
 
+In celebration of Rational Approximation Day 02022-07-22, and in the name of Reason and a Re-enlightenment, I offer you this study guide. It is an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity.
+
 [Philosophy News Network: is Philosophy Useless?](https://existentialcomics.com/comic/365)
 
 [![img](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless1.png)](https://existentialcomics.com/comic/365)
 [![img](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless2.png)](https://existentialcomics.com/comic/365)
 
-In celebration of Rational Approximation Day 02022-07-22, and in the name of Reason and a Re-enlightenment, I offer this study guide. It is an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity. If you only ever read a single suggestion, I would ask that you read "Weapons of Math Destruction", as it is directly relevant to the state of the world today and the many contemporary challenges we face. I suspect a great many people should probably read "The Scout Mindset" first, as preparation.
+If you only ever read a single suggestion, I would ask that you read "Weapons of Math Destruction", as it is directly relevant to the state of the world today and the many contemporary challenges we face. I suspect a great many people should probably read "The Scout Mindset" first, as preparation.
 
 My global suggestions consist of ten primary recommendations loosely divided into three major themes: inductive reasoning and self-awareness, ethics and morality, and the philosophy of math and science. These suggestions are "global" in the sense that I would recommend them to most people, with relatively few conditions or qualifications.
 
@@ -572,8 +574,11 @@ I hope that you will grow to appreciate some of the many contradictions that can
 [![img](external-assets/static.existentialcomics.com/comics/objection2.png)](https://existentialcomics.com/comic/107)
 
 
-2. The Kingdom of God is Within You, by Leo Tolstoy
+2. Царство Божие внутри вас (Лев Николаевич Толстой) ([epub](external-assets/Leo_Tolstoy/RU/%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%91%D0%BE%D0%B6%D0%B8%D0%B5_%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8_%D0%B2%D0%B0%D1%81_(%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9).epub), [wikisource](https://ru.wikisource.org/wiki/%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%91%D0%BE%D0%B6%D0%B8%D0%B5_%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8_%D0%B2%D0%B0%D1%81_(%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9)))
 
+   The Kingdom of God is Within You, by Leo Tolstoy ([epub](external-assets/Leo_Tolstoy/EN/The_Kingdom_of_God_is_Within_You.epub), [txt](external-assets/Leo_Tolstoy/EN/The_Kingdom_of_God_is_Within_You.txt.gz), [wiki](https://en.wikipedia.org/wiki/The_Kingdom_of_God_Is_Within_You))
+
+      
    I have been deeply exposed to the philosophies mentioned and advocated in this book, and for that I am profoundly grateful. This is a difficult and challenging book, and that is a signficant part of the reason I suggest it.
    * See also: [MCC and National Socialism](https://mcc.org/media/resources/10441)
 
