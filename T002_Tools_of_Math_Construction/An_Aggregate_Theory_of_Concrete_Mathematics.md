@@ -1262,7 +1262,7 @@ Vicious Circles, by Jon Barwise and Lawrence Moss
   * When I described the axiom of foundation and hypersets to David Singer,  he thought that was an incredibly bizzare and esoteric idea. Dr. Singer's obvious skill as a mathematician and lack of knowledge of axiomatic set theory was a data point that injected skepticism into my thinking, which helped me to start to differentiate the philosophy of mathematics from programming language theory in my mind, and later helped establish my belief in the Weak Paraconsistent Conjecture.
   * later met Dr Moss and attended a number of lectures
   * This esoteric interest helped me notice that the Stern-Brocot tree is a particularly fertile example
-  * This book inspired "Lloyd Allison's Corecursive Queues" and "Fun with the Lazy State Monad"
+  * This book inspired "[Lloyd Allison's Corecursive Queues](https://hackage.haskell.org/package/control-monad-queue)" and "Fun with the Lazy State Monad"
 
 Essentials of Programming Languages (2nd Ed.), by Daniel Friedman, Mitchell Wand, and Chris Haynes
   * also spent a fair bit of time with this book as an undergraduate
