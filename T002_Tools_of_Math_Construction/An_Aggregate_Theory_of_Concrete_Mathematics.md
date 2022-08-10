@@ -1,7 +1,7 @@
 # Tools of Math Construction: An Aggregate Theory of Concrete Mathematics
 # by Leon P Smith, Iterative Systems
 
-In celebration of Rational Approximation Day 02022-07-22, and in the name of Reason and a Re-enlightenment, I offer you this study guide. It is an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity.
+In celebration of Rational Approximation Day 02022-07-22, and in the name of Reason and a Re-enlightenment, I offer this apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity.  This study guide is a companion to [_Kevin Bacon and the Stern Brocot Tree: a Sermon on Rational Approximation_](../T001_Kevin_Bacon_and_the_Stern-Brocot_Tree/a_Sermon_on_Rational_Approximation.md)
 
 [Philosophy News Network: is Philosophy Useless?](https://existentialcomics.com/comic/365)
 
@@ -12,9 +12,9 @@ If you only ever read a single suggestion, I would ask that you read "Weapons of
 
 My global suggestions consist of ten primary recommendations loosely divided into three major themes: inductive reasoning and self-awareness, ethics and morality, and the philosophy of math and science. These suggestions are "global" in the sense that I would recommend them to most people, with relatively few conditions or qualifications.
 
-This study guide was written as a companion to "Kevin Bacon and the Stern-Brocot Tree: a Sermon on Rational Approximation." Within, I deconstruct Bertrand Russell and endorse the Weak Paraconsistent Conjecture in memory of Jon Michael Dunn.
+Later, I deconstruct Bertrand Russell and endorse the Weak Paraconsistent Conjecture in memory of Jon Michael Dunn.
 
-Later I share an intellectual history of my thinking on an Aggregate Theory of Concrete Mathematics. These are stories of creative interactions between myself and others that contributed to my learning and occasional re-discovery of some well-known yet widely underappreciated results. These results deserve a much broader audience. This intellectual history doubles as a tribute to Linear Algebra and the memory of Elizabeth Meckes.
+Then I share an intellectual history of my thinking on an Aggregate Theory of Concrete Mathematics. These are stories of creative interactions between myself and others that contributed to my learning and occasional re-discovery of some well-known yet widely underappreciated results. These results deserve a much broader audience. This intellectual history doubles as a tribute to Linear Algebra and the memory of Elizabeth Meckes.
 
 In Physics and Metaphones, I share a modern, popularized account of Claude Shannon's Theory of Communication, a modern take on Ludwig Wittgenstein's semantics of language, and engineering considerations for practical implementations. This explores issues of noise, authentication, queueing, protocol, and consensus, and how they relate to things such as amateur radio, emergency management, cryptography, and blockchain. It attempts to provide a holistic summary of several relatively conventional takes on the modern philosophies of the design of communications systems. I deconstruct APRS, the Automatic Packet Reporting System, suggesting that it should inspire a next-generation amateur radio protocol intended towards disaster relief, as a tribute to the memory of the silent key Bob Bruninga, WB4APR.
 
