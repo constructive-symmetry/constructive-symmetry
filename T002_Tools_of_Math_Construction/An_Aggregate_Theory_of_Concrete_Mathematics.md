@@ -1,7 +1,7 @@
 # Tools of Math Construction: An Aggregate Theory of Concrete Mathematics
 # by Leon P Smith, Iterative Systems
 
-In celebration of Rational Approximation Day 02022-07-22, and in the name of Reason and a Reënlightenment, I offer an apology for the Indiana Pi Bill, and offer an Apology for Science, Faith, Reason, and Humanity.  This study guide is a companion to [_Kevin Bacon and the Stern Brocot Tree: a Sermon on Rational Approximation_](../T001_Kevin_Bacon_and_the_Stern-Brocot_Tree/a_Sermon_on_Rational_Approximation.md)
+In celebration of Rational Approximation Day 02022-07-22, and in the name of Reason and a Reënlightenment, I offer an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity.  This study guide is a companion to [_Kevin Bacon and the Stern Brocot Tree: a Sermon on Rational Approximation_](../T001_Kevin_Bacon_and_the_Stern-Brocot_Tree/a_Sermon_on_Rational_Approximation.md)
 
 [![Philosophy News Network: is Philosophy Useless?](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless1.png)](https://existentialcomics.com/comic/365)
 [![Philosophy News Network: is Philosophy Useless?](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless2.png)](https://existentialcomics.com/comic/365)
