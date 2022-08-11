@@ -1064,11 +1064,17 @@ I believe that APRS should inspire a next-generation amateur radio protocol and 
 
 In celebration of Rational Approximation Day, 02022-07-22, I would like to offer "Tools of Math Construction: an Aggregate Theory of Concrete Mathematics" to the State of California as a means for building up the foundation of the elementary math curriculum.
 
-It is an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity. It includes the script "Kevin Bacon and the Stern-Brocot Tree: a Sermon on Rational Approximation". It introduces a new game to play: the Six Degrees of the Tree, the Triangle, and the Square. The Stern-Brocot Tree is like a Museum of Fractions. Pascal's Triangle is like a Maze of Counting. The Symmetry Group of the Square is like an entire Book of Algebra!
+It is an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity. It includes the script "Kevin Bacon and the Stern-Brocot Tree: a Sermon on Rational Approximation".
 
-These core concepts are carefully curated to be very simple, yet also very powerful. If you can count to four and add two plus two, then I have tried to find simple explanations of these core concepts that I hope you find relatively easy to understand.  At the same time, all of the core concepts have suprising, highly non-obvious implications and generalizations that you could spend an entire mathematical career studying, if you so choose. My hope is that these core concepts can ease your path to a personal understanding of advanced mathematics.
+It introduces a new game to play: the Six Degrees of the Tree, the Triangle, and the Square. The Stern-Brocot Tree is like a Museum of Fractions. Pascal's Triangle is like a Maze of Counting. The Symmetry Group of the Square is like an entire Book of Algebra!
 
-For example, did you know you can use the Stern-Brocot tree to round 3.14 to 22/7? Well, now you have referential knowledge of it! Let's recognize March 14 as Pi Day, and July 22 as Rational Approximation Day. Taking the first steps towards making that knowledge more directly your own is just a few suprisingly short and easy lessons away. Taking a free tour of the Stern-Brocot Museum of Fractions offers a new and exciting way to reduce fractions that even many college math professors don't yet know about! You can learn to contradict Euclid, all while learning to use the Euclidean Algorithm to navigate the Museum of Fractions!
+These core concepts are carefully curated to be very simple, yet also very powerful. If you can count to four and add two plus two, then I have tried hard to find simple explanations of these core concepts that I hope you find intruiging.
+
+At the same time, all of the core concepts have suprising, highly non-obvious implications and generalizations that you could spend an entire mathematical career studying, if you so choose. My hope is that these core concepts can ease your path to a personal understanding of advanced mathematics.
+
+For example, did you know you can use the Stern-Brocot tree to round 3.14 to 22/7? Well, now you have referential knowledge of it! Let's recognize March 14 as Pi Day, and July 22 as Rational Approximation Day. Taking the first steps towards making that knowledge more directly your own is just a few suprisingly short and easy lessons away.
+
+Taking a free tour of the Stern-Brocot Museum of Fractions offers a new and exciting way to reduce fractions that even many college math professors don't yet know about! You can learn to contradict Euclid, all while learning to use the Euclidean Algorithm to navigate the Museum of Fractions!
 
 The Tools of Math Construction are specifically designed to provoke vigorous growth in knowledge, intellect, wisdom, kindness, and courage. It aspires to efficiently and enjoyably prepare students for as wide a swath of advanced math classes as I could muster, including plausible educational paths to Bayesian networks, non-Euclidean geometry, and elliptic curve cryptography.
 
@@ -1092,7 +1098,7 @@ Let's ensure that every child gets the best practical start in life that we can 
 
 The State of California really can have its cake and eat it too on the topic of the currently ongoing controversy. I endorse the Brown University Bootstrap Project, and I endorse ["Calculus isn’t the only option. Let’s broaden and update the current math curriculum" by Jesús A. De Loera and Francis Su](https://www.sacbee.com/opinion/op-ed/article260529232.html).
 
-This letter is also an acknowledgement of the social issues raised not only by the reform attempt, but also by Michael Render in the song "Walking in the Snow".  Math tests and scores are frequently used to deny people education and jobs in ways that often are of no relevance.
+This letter is also an acknowledgement of the social issues raised by the reform attempt, and also by Michael Render. Math tests and scores are frequently used to deny people education and jobs in ways that often are of no relevance.
 
 A cousin of mine wanted to be an elementary school art teacher. She had great results during her student teaching. In one of the tragedies of life, she was denied certification due to an inability to pass a math test. Once, she came within one question of passing. I can't help but wonder how many students she would have touched, but now will not, because of this unnecessary and irrelevant means of exclusion.
 
