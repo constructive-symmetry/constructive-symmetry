@@ -1,7 +1,7 @@
 # Tools of Math Construction: An Aggregate Theory of Concrete Mathematics
 # by Leon P Smith, Iterative Systems
 
-In celebration of Rational Approximation Day 02022-07-22, and in the name of Reason and a Re-enlightenment, I offer this apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity.  This study guide is a companion to [_Kevin Bacon and the Stern Brocot Tree: a Sermon on Rational Approximation_](../T001_Kevin_Bacon_and_the_Stern-Brocot_Tree/a_Sermon_on_Rational_Approximation.md)
+In celebration of Rational Approximation Day 02022-07-22, and in the name of Reason and a Reënlightenment, I offer an apology for the Indiana Pi Bill, and offer an Apology for Science, Faith, Reason, and Humanity.  This study guide is a companion to [_Kevin Bacon and the Stern Brocot Tree: a Sermon on Rational Approximation_](../T001_Kevin_Bacon_and_the_Stern-Brocot_Tree/a_Sermon_on_Rational_Approximation.md)
 
 [![Philosophy News Network: is Philosophy Useless?](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless1.png)](https://existentialcomics.com/comic/365)
 [![Philosophy News Network: is Philosophy Useless?](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless2.png)](https://existentialcomics.com/comic/365)
@@ -20,7 +20,7 @@ Finally, in honor of my former classmate and dear friend Yuri Goldfeld, I extend
 
 This invitation extends to you personally, as well as the United States of America and all of human kind. Everybody deserves to be included in and benefit from math curriculum reform.
 
-To celebrate, I suggest cutting a pie into sevenths, and sharing it with six other friends, both new and old. May you have a blessed Rational Approximation Week, and a wonderful Rational Approximation Day.
+To celebrate, I suggest cutting a pie into sevenths, and sharing it with a circle of six other friends, both new and old. May you have a blessed Rational Approximation Week, and a wonderful Rational Approximation Day.
 
 [![Philosophy News Network: Philosophy Solved](external-assets/static.existentialcomics.com/comics/PNNphilosophySolved1.png)](https://existentialcomics.com/comic/191)
 [![Philosophy News Network: Philosophy Solved](external-assets/static.existentialcomics.com/comics/PNNphilosophySolved2.png)](https://existentialcomics.com/comic/191)
@@ -1102,7 +1102,7 @@ I myself was first introduced to Algebra I as a freshman at Triton High School. 
 
 This was a life-changing experience for me. I had a lot of fun travelling to Ames City, Iowa with other top math students from across the state of Indiana, many of whom were smarter, and most of whom were far better prepared than I. We represented Indiana in the 1997 and 1998 American Regional Mathematics League contests. I was introduced to the writings of Karl Popper on the philosophy of science, an unexpectedly remarkable surprise. And I met a worthy and longstanding rival, my very dear friend Yuri Goldfeld.
 
-Yuri brought the current controversy to my attention last year, and helped provoke this reponse. In response to Yuri, and in the name of Reason, Rationality, and a Re-Enlightenment, I offer everybody my love letters from this pandemic.
+Yuri brought the current controversy to my attention last year, and helped provoke this reponse. In response to Yuri, and in the name of Reason, Rationality, and a Reënlightenment, I offer everybody my love letters from this pandemic.
 
 In the Aggregate Theory, fractions have been reconstructed into a new and more potent form. This form can plausibly be introduced at an even earlier age with the same or better chance of success. Learning how to reduce and add fractions becomes fundamentally easier and more interesting, when you have the Stern-Brocot Museum of Fractions and it's guidebook, the Euclidean Algorithm, to work from.  Furthermore, we can use the Stern-Brocot and Calkin-Wilf trees, and the Euclidean Algorithm, to playfully motivate introductions to integer multiplication, integer division, run-length encoding, and so very much more.
 
@@ -1180,7 +1180,7 @@ Grant those engineers the wisdom of statistical rethinking and causal inference.
 
 In celebration of Rational Approximation Day 2022, Friday, July 22, 02022-07-22, I personally invite you, no matter who you are, to start learning how to find your way around inside this Museum of Fractions, and to start learning how to play the Six Degrees of the Triangle, the Square, and the Tree.
 
-To celebrate, I suggest cutting a pie into sevenths and sharing it with six friends, both new and old.
+To celebrate, I suggest cutting a pie into sevenths and sharing it with a circle of six other friends, both new and old.
 
 I do sincerely hope the State of California takes me up on my invitation.
 
@@ -1193,18 +1193,16 @@ Iterative Systems, Bourbon, Indiana  (02022-07-22)
 
 ## Sharing Pie with a Circle of Friends
 
-[Is a Hotdog a Sandwich? A Definitive Study.](https://existentialcomics.com/comic/268)
+[![Is a Hotdog a Sandwich? A Definitive Study](external-assets/static.existentialcomics.com/comics/hotdogSandwich1.png)](https://existentialcomics.com/comic/268)
+[![Is a Hotdog a Sandwich? A Definitive Study](external-assets/static.existentialcomics.com/comics/hotdogSandwich2.png)](https://existentialcomics.com/comic/268)
 
-[![img](external-assets/static.existentialcomics.com/comics/hotdogSandwich1.png)](https://existentialcomics.com/comic/268)
-[![img](external-assets/static.existentialcomics.com/comics/hotdogSandwich2.png)](https://existentialcomics.com/comic/268)
-
-On the topic of sevenths of a circular pie, assuming the pie is like a cake and wants a bit of sawing motion to get a clean cut, and assuming you care about trying to make seven nearly-identical wedge pieces... then I think you'd be best off by puncturing a circular hole in the center of the pie, topologically transforming the pie into a donut. That donut can then be neatly sliced into seven wedges, which you could share with six friends.
+On the topic of sevenths of a circular pie, assuming the pie is like a cake and wants a bit of sawing motion to get a clean cut, and assuming you care about trying to make seven nearly-identical wedge pieces... then I think you'd be best off by puncturing a circular hole in the center of the pie, topologically transforming the pie into a donut. That donut can then be neatly sliced into seven wedges, which you could share with a circle of six other friends.
 
 Other kinds of pie will at least afford and possibly require radically different pie-cutting solutions! What about a pizza pie, which tends to cut better with a rolling slice? What about asymmetric cuts? What about fair division? What about social choice? The possibilities for new and interesting questions are endless!
 
-The symmetric group of permutations of six elements, is a finite group with 6! = 720 permutations. This group, S_6, is exceptional because is the only such group that has an outer automorphism! See John Baez's post ["Some Thoughts on the Number 6"](https://math.ucr.edu/home/baez/six.html) if you would like to try to understand what that even means.
+The symmetric group of permutations of six elements, is a finite group with 6! = 720 permutations. This group, S_6, is exceptional because is the only finite symmetric group that has an outer automorphism! See John Baez's post ["Some Thoughts on the Number 6"](https://math.ucr.edu/home/baez/six.html) if you would like to try to understand what that even means.
 
-In any case, remember to share pie with friends, both new and old. May all y'all have a blessed Rational Approximation Week, and a wonderful Rational Approximation Day!
+In any case, remember to share pie with a circle of friends, both new and old. May all y'all have a blessed Rational Approximation Week, and a wonderful Rational Approximation Day!
 
 ## Author Bio
 
