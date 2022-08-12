@@ -93,7 +93,7 @@ From watching "Benjamin Franklin, A Film by Ken Burns", I believe that this foun
 
 George Pólya observed that we "have neither the time nor the strength" to carefully examine everything we believe. In "The Knowledge Illusion", Steven Sloman and Philip Fernbach expand on this idea in at least two ways. Firstly, the authors draw a distinction between the things of which we have direct, immediate knowledge, and the things of which we have indirect, referential knowledge. Secondly, they argue that people have a cognitive bias to believe that they have direct knowledge of a topic in cases where their knowledge is in fact referential. Kevin deLaplante provides a very nice introduction and summary of [The Knowledge Illusion](https://www.youtube.com/watch?v=LC6O_2vDDwc) on his YouTube channel.
 
-I believe it likely that we, as a society, stand to all substantially benefit by being more honest about referential knowledge. Making that a reality would seem to involve at least three ingredients. Firstly, large numbers of individuals need to make fewer mistakes of confusing confusing their own referential knowledge for direct knowledge. Secondly, we need commonly understood linguistic cues that succinctly communicate whether the knowledge you claim to have is referential or direct. Thirdly, we all need to live in a society of peers with a keener understanding of both the value and the limitations that referential knowledge represents. After all, if we as a society routinely dismiss the referential knowledge of others out of hand, then future conversations are less likely to be had, and the linguistic cues are less likely to be used. All three steps promote a common theme: raising the self-awareness of all the individuals of a society.
+I believe it likely that we, as a society, stand to all substantially benefit by being more honest about referential knowledge. Making that a reality would seem to involve at least three ingredients. Firstly, large numbers of individuals need to make fewer mistakes of confusing their own referential knowledge for direct knowledge. Secondly, we need commonly understood linguistic cues that succinctly communicate whether the knowledge you claim to have is referential or direct. Thirdly, we all need to live in a society of peers with a keener understanding of both the value and the limitations that referential knowledge represents. After all, if we as a society routinely dismiss the referential knowledge of others out of hand, then future conversations are less likely to be had, and the linguistic cues are less likely to be used. All three steps promote a common theme: raising the self-awareness of all the individuals of a society.
 
 Note that "direct knowledge" versus "referential knowledge" is my own terminology, not used by the authors. My thinking is by analogy to the theory of computer programming languages. For example, in some programming languages like C or Pascal, arguments to a procedure may be passed directly, or by reference. This particular distinction becomes semantically meaningless in purely functional programming such as Haskell, yet there are other analogous notions of "direct, immediate" versus "indirect, referential" that are relevant. Extending the analogy, "dereferencing" would be taking referential knowledge and turning it into direct knowledge, by the process of learning it for yourself.
 
@@ -125,7 +125,7 @@ This would be an example of a just act. See also ["What I Think About Atlas Shru
 [![Philosophy News Network: Strike](external-assets/static.existentialcomics.com/comics/PNNstrike1.png)](https://existentialcomics.com/comic/199)
 [![Philosophy News Network: Strike](external-assets/static.existentialcomics.com/comics/PNNstrike2.png)](https://existentialcomics.com/comic/199)
 
-John Rawls is known for "A Theory of Justice". Lawrence Krauss is known for "The Physics of Star Trek". Simone de Beauvoir is known for "All Men Are Mortal".
+John Rawls is known for "A Theory of Justice". Lawrence Krauss is known for "The Physics of Star Trek". Simone de Beauvoir is known for "All Men Are Mortal".  Hannah Arendt is known for "The Human Condition".
 
 My second theme is ethics and moral philosophy, of the kinds most immediately relevant to the difficulties we currently face. Philosophy, science, and mathematics are tools of criticism and analysis. Although these tools are frequently capable of informing what we believe and how we behave in valuable ways, they are capable of compelling neither belief nor action. At the same time, what we believe impacts how we act, and how we act impacts the real world in tangible ways, thus creating _epistemic responsibility_: our moral responsibilities about the things we believe to be true.
 
@@ -528,7 +528,7 @@ I hope that you will grow to appreciate some of the many contradictions that can
 
    The Kingdom of God is Within You, by Leo Tolstoy ([epub](external-assets/Leo_Tolstoy/EN/The_Kingdom_of_God_is_Within_You.epub), [txt](external-assets/Leo_Tolstoy/EN/The_Kingdom_of_God_is_Within_You.txt.gz), [wiki](https://en.wikipedia.org/wiki/The_Kingdom_of_God_Is_Within_You))
 
-      
+
    I have been deeply exposed to the philosophies mentioned and advocated in this book, and for that I am profoundly grateful. This is a difficult and challenging book, and that is a signficant part of the reason I suggest it.
    * See also: [MCC and National Socialism](https://mcc.org/media/resources/10441)
 
@@ -608,10 +608,10 @@ I hope that you will grow to appreciate some of the many contradictions that can
 [![Existential Office](external-assets/static.existentialcomics.com/comics/existentialOffice2.jpg)](https://existentialcomics.com/comic/79)
 [![Existential Office](external-assets/static.existentialcomics.com/comics/existentialOffice3.jpg)](https://existentialcomics.com/comic/79)
 
+Mathematicians are a flock of odd birds. Does that make existential philosophers a herd of cats?
+
 [![Analytic Office](external-assets/static.existentialcomics.com/comics/analyticOffice1.jpg)](https://existentialcomics.com/comic/89)
 [![Analytic Office](external-assets/static.existentialcomics.com/comics/analyticOffice2.jpg)](https://existentialcomics.com/comic/89)
-
-Mathematicians are a flock of odd birds. Does that make existential philosophers a herd of cats?
 
 ## Suggestions for Studies in Mathematics:
 
@@ -926,7 +926,7 @@ Of course, relatively plausible conceptions of a quantum multiverse looks nothin
 
 In a many-worlds interpretation, every timeline would be constantly branching and spawning countless sub-timelines, with limited (if any) ability for parallel timelines to interact with each other at macroscopic scales. The nature of the possible interactions would be determined by the precise nature of our hypothetical non-linear quantum effect. If there is an empirical reality to this idea, it seems implausible (and likely unproductive!) to assume that arbitrary interactions are possible. For example, we probably couldn't travel to a parallel timeline, though perhaps we could build a metaphorical telephone to "communicate" with some of them.
 
-If we can interact with parallel timelines, then it seems wise to start by assuming that we can only interact with timelines that are somehow "near" to us, and not those that are "far". Our current best guess suggests we would be able to empirically interact only with those timelines that are decohering away from the experiment. In this scenario, managing to open a communications channel to a parallel timeline wouldn't seem to be overly useful for exploring alternative histories the way many science fiction writers would like to do.  Whomever you are communicating with should have perceived the exact same timeline, up until the moment the experiment started.  
+If we can interact with parallel timelines, then it seems wise to start by assuming that we can only interact with timelines that are somehow "near" to us, and not those that are "far". Our current best guess suggests we would be able to empirically interact only with those timelines that are decohering away from the experiment. In this scenario, managing to open a communications channel to a parallel timeline wouldn't seem to be overly useful for exploring alternative histories the way many science fiction writers would like to do.  Whomever you are communicating with should have perceived the exact same timeline, up until the moment the experiment started.
 
 However, even this is probably too much, our "interaction" with the multiverse might only be able to be detected as a strange statstical anomaly largely confined to the nanoscopic world of quantum phenomenon. Still... detecting that would be a truly remarkable accomplishment.
 
@@ -974,7 +974,7 @@ You can protect the channel from malicious noise by adding a message authenticat
 
 It's very important to notice that I'm not talking about encryption here, I'm talking about authentication. They are orthogonal concepts. You can have one, the other, both, or none. In fact, operating with authentication but specifically without encryption is one of the key enabling ideas behind blockchains. In the next few paragraphs, I will provide a quick conceptual overview of cryptographic signatures.
 
-When you, as a computer user, get started with digital signatures, the first thing the computer (or hardware token) will do for you is pick a private key. From the perspectivev of mathematical correctness of the digital signature algorithm, the private key can be anything. From the perspective of operational security, the private key really needs to be chosen securely using cryptographically secure (pseudo-)random methods. That's why the computer does it for you.
+When you, as a computer user, get started with digital signatures, the first thing the computer (or hardware token) will do for you is pick a private key. From the perspective of mathematical correctness of the digital signature algorithm, the private key can be anything. From the perspective of operational security, the private key really needs to be chosen securely using cryptographically secure (pseudo-)random methods. That's why the computer does it for you.
 
 The public key is then derived from the private key. The public key can then be shared with whomever you like, even if you wouldn't trust that person with your private key.  You should not ever share private keys with anyone or anything without first thinking very carefully about an answer to one of the two questions: "Why not two seperate private keys?", or "By publishing this private key, do I want to wreck the ability of the corresponding public key to authenticate the provenance of any of its signatures, even those signatures that have already been created?"
 
@@ -1002,21 +1002,33 @@ Many, however, are very likely to simply be ignored, especially because that is 
 
 Notice that even though this is a injection of machine code, neither the machine code itself nor the design of the assembly language can possibly be directly responsible for introducting the homophone. Rather these homophones are caused by undefined behavior in C. At this point, I know that many will then sneer, "well then, don't do undefined behaviors in C", well, I do very much try hard not to, believe me! At the very least, undefined behavior is itself one of the primary causal factors, if not the singular primary causal factor, of this particular kind of homophone.
 
-On the other hand, the design of the assembly language does exert causal effects on the resulting vulnerability. Thus it is a causal factor of the injection vulnerability, even if it cannot possibly be the sole primary causal factor of the homophone that enables the injection.  Not only is this true of the design of the assembly language, it is also true the implementation of the CPU that interprets the resulting machine code, the design of the C programming language,
+On the other hand, the design of the assembly language does exert causal effects on the resulting vulnerability. Thus it is a causal factor of the injection vulnerability, even if it cannot possibly be the sole primary causal factor of the homophone that enables the injection.  The situation is similar with respect to the implementation of the CPU that interprets the resulting machine code, and the design of the C programming language,
 
-Any one or all of these factors can dramaticatically change the severity of the vulnerability for the better or worse, and this intricacy is why the result of undefined behavior is practically impossible for most humans to predict.  All of these factors are relevant to the nature of the vulnerability, even if only a few of them are relevant to the existence of a vulnerability.
+Any one or all of these factors can dramaticatically change the severity of the vulnerability for the better or worse, and this intricacy is why the result of undefined behavior is practically impossible for most humans to predict.  All of these factors are relevant to the nature of the vulnerability, even if only a few of them could possibly be a primary causal factor in the existence of a vulnerability.
 
 Thus, nearly anything can be implicated in an injection vulnerability, even if there must exist another causal factor. A recent high profile Minecraft security vulnerability was caused by an injection in Log4J's formatting function. Log formatting injections are uncommon, but far from unknown, and have created security bugs in more than one Intrusion Detection System.
 
-XKCD's "Little Bobby Tables" references SQL injection, though I disagree with the recommended solution. "Sanatizing inputs" suggests to me that you should examine the data to determine if it would be a homophone before you send it to the database, which is silly. Properly quoting data values to ensure they are correctly interpreted in their entirety and don't spill over into something else is a far better solution. It's far more robust to always properly quote values to avoid homophones, whether the quoting is achieved by substituting special characters with escape sequences as necessary, or by passing the data as a length-delimited string of bytes, or via other means.  Any reasonable database access library supports this exact use case, and should make it the natural and easy and obvious thing to do.
+XKCD's "Little Bobby Tables" references SQL injection, though I disagree with the recommended solution. "Sanatizing inputs" suggests to me that you should examine the data to determine if it would be a homophone before you send it to the database, which is silly. Properly quoting or framing data values to ensure they are correctly interpreted in their entirety and cannot spill over into something else is a far better solution.
+
+It's far more robust to prevent values from ever creating homophones, whether the quoting is achieved by substituting special characters with escape sequences as necessary, or by framing the message as a length-delimited string of bytes, or via other means. Any reasonable database access library supports this exact use case.  Any good database access library makes this approach the natural and easy and obvious thing to do.
 
 Then there are JavaScript injections, CSS injections, HTML injections, HTTP injections, and much much more.  Historically, phone phreaking relied a great deal on control tone injections. All of these vulnerabilities have a highly relevant homophone somewhere in the causal factors. And yet we've barely scratched security vulnerabilities, not all of which are injections. Yet there are plenty of ways that a communications system can break down, even outside the realm of security vulnerabilities.
 
-There are many engineers working on or with application-layer communications protocols, who aren't even aware that these concerns are very much entailed by their job responsibilities, tasks, and goals. Most of these engineers need to know little, if anything about Shannon's theory. They might need to understand how to use the modem correctly, they don't need to know exactly how it works. However, all abstractions are leaky, and it's pretty much always true that understanding certain things about the implementation often allows you to make use of it far more effectively than you could otherwise, even while staying within the confines of the abstraction.
+There are many engineers working on or with application-layer communications protocols, who aren't even aware that these concerns are very much entailed by their job responsibilities, tasks, and goals.
 
-For example, a really good application engineer might need to know about how their usage of network communications impacts the modem's power consumption, so they can implement their application in such a way that extends battery life. A really good systems-level communications engineer definitely needs to understand if the modem uses any error-correcting codes, and if so, how effective they are in catching data corruption and how those conditions are signalled. And let's be honest, a bit of additional sanity-checking built into the application layer adds a great deal of resilience to the overall system, even if your modem has excellent error detection and correction.
+Most of these application-layer engineers need to know little, if anything about Shannon's theory. They might need to understand how to use the modem correctly, they don't need to know exactly how it works.
 
-A really good communications engineer should probably understand a high-level overview of the _queueing discipline_ that a modem uses to send and receive data.  Ethernet has a more complicated queuing discipline than say, RS-232 serial communications. WSPR is an example of an amateur radio protocol that imposes a highly unusual queueing discipline. It provides an ultra-low power, ultra-long range, many-to-one/one-to-many unidirectional beacons.
+However, all abstractions are leaky, and it's pretty much always true that understanding certain things about the implementation allows you to make use of it far more effectively than you could otherwise, even while staying within the confines of the abstraction.
+
+For example, a really good application engineer might need to know about how their usage of network communications impacts the modem's power consumption, so they can implement their application in such a way that extends battery life.
+
+A really good systems-level communications engineer might need to understand if the modem uses any error-correcting codes, and if so, how effective they are in catching data corruption and how those conditions are signalled.
+
+But let's be honest, a bit of additional sanity-checking built into the application layer adds a great deal of resilience to the overall system, even if your modem has excellent error detection and correction.
+
+A really good communications engineer probably needs to understand a high-level overview of the _queueing discipline_ that a modem uses to send and receive data.  Ethernet has a more complicated queuing discipline than say, RS-232 serial communications.
+
+WSPR is an example of an amateur radio protocol that imposes a highly unusual queueing discipline. It provides an ultra-low power, ultra-long range, many-to-one/one-to-many unidirectional beacons.
 
 There's a WSPR timeslot every two minutes, synced to UTC. During each timeslot you can either transmit or listen. If you spend the slot listening, you are likely to hear a lot of other people who are transmitting. If you spend it transmitting, you are likely to be heard by a lot of other people who are listening. You shouldn't be transmit more than a few beacons per hour.  Although sending a beacon requires constantly transmitting a very low-power signal for nearly the full two minutes, the beacon itself contains only 50 bits for data, with no room in the message for arbitrary data. It is primarily intended to test and monitor the constantly changing propagation characteristics of the Earth's atmosphere.
 
@@ -1024,7 +1036,9 @@ WSPR includes a large proportion of redundant error-correcting bits to make this
 
 The designer of WSPR, Joe Taylor, is rather famous for WSJT.  This fascinating suite of radio protocols are all specifically optimized for esoteric propogation modes.  For example, FT65 is well suited to Moonbounce EME communication, where two radio operators exchange greetings with each other by bouncing a radio signal off the surface of the moon.
 
-The WSJT protocols are all superbly designed by modern standards of holistic communications systems design.  Two radio operators using these protocols can greet each other on the air in such a way that both operators can be left confident that a greeting has been exchanged without being corrupted by noise or partial failure. The exact nature of the consensus provided by FT65 is very weak, but it happens to fit the use case perfectly: it should be highly likely that both operators agree that an exchange has (or has not) taken place.   It should be unlikely that one operator believes that an exchange has taken place, and the other does not.
+The WSJT protocols are all superbly designed by modern standards of holistic communications systems design.  Two radio operators using these protocols can greet each other on the air in such a way that both operators can be left confident that a greeting has been exchanged without being corrupted by noise or partial failure.
+
+The exact nature of the consensus provided by FT65 is very weak, but it happens to fit the use case perfectly: it should be highly likely that both operators agree that an exchange has (or has not) taken place. It should be unlikely that one operator believes that an exchange has taken place, and the other does not
 
 Solving the Two Generals Problem builds a stronger form of consensus: here, two cooperating parties need to come to an agreement whether or not a specific message in the conversation has been successfully communicated. The difference is subtle but profound, and represents a substantial step up in engineering difficulty.
 
@@ -1301,7 +1315,7 @@ To Judea Pearl, Doron Zeilberger, and Yuri Goldfeld, three dear friends of mine.
 
 To Ozgun Ataman, for being a friend, for providing profound contributions to postgresql-simple, and for recommending Statistical Rethinking by Richard McIlreath to me.
 
-To Donald Knuth, Haskell Brooks Curry, Gerald Sussman, Guy Steele, Daniel Friedman, Kent Dybvig, David Wise, Simon Peyton-Jones, Simon Marlow, Jon Barwise and so many countless others, for making my work on UTOPIA 84 even possible.
+To Donald Knuth, Haskell Brooks Curry, Douglas McIlroy, Gerald Sussman, Guy Steele, Daniel Friedman, Kent Dybvig, David Wise, Simon Peyton-Jones, Simon Marlow, Jon Barwise and so many countless others, for making my work on UTOPIA 84 even possible.
 
 To my father Byron Smith, Carlo Ghezzi, and Mehdi Jazayeri for inspiring this quest. To William Wulf and George Lakoff for framing the goals for me. To Colin Myers, Chris Clack, and Ellen Poon for opening the first very remarkable door for me.
 
