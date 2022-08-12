@@ -354,13 +354,15 @@ Let us all strive to confront dishonesty with integrity and compassion, whether 
 
 To Vladimir Kara-Murza, for standing against the dishonesty of men.
 
+To Julian Gevirtz, for inspiring the metaphor of "God's Textbook of Mathematics".
+
 To Case Western Reserve University and the Indiana Academy, for deepening my appreciation of the Humanities.
 
 To Justin Stover, for "There is no Case for the Humanities".
 
-To the memory of Richard Bird (1943-2022), whose words and ideas profoundly contributed to this essay along multiple axes. Thank you for your work on Haskell, and your work on popularizing the Stern-Brocot tree.
+To the memory of Richard Bird (1943-2022), whose words and ideas profoundly contributed to this essay along multiple axes. Thank you for your work on teaching and popularizing Haskell and the Stern-Brocot tree.
 
-To the memory of Lois T. Clark (1922-2022), who had a heart and tongue of gold.  She encouraged and helped heal so many people.  First and foremost, her primary desire was giving all children the best possible practical start in life.
+To the memory of Lois T. Clark (1922-2022), who had a heart and tongue of gold.  She encouraged and helped heal so many people around her.  First and foremost, her primary desire was giving all children the best possible practical start in life.
 
 She enjoyed saying "Good, better, best. Never let it rest, until your good is better, and your better is best." I am blessed to be able to say that Lois is both a dear friend of mine, and also a personal friend of mine.
 
@@ -842,15 +844,15 @@ Mix it up:
 
     While the content of the Stern-Brocot tree itself was extraneous to the paper, and I'm very unsure of the importance of the techniques explored in the paper,  I "superfluously" used the Stern-Brocot tree because it was an idea worth spreading, and because it was a gift to my future self for when I finally got around trying to explain my philosophy of math education.  
 
-    Incidentally, in "Fun with the Lazy State Monad" I managed to repeat a trick in "Lloyd Allison's Corecursive Queue", and turn the "Breadth-First Numbering with Lazy Evaluation" appendix of the first paper into a reusable library.
+    Incidentally, in "Fun with the Lazy State Monad" I managed to repeat a trick in "Lloyd Allison's Corecursive Queue", and turned the "Breadth-First Numbering with Lazy Evaluation" appendix of the first paper into a reusable library.
 
-    I was very interested in circular, corecursive programming for nearly 10 years. While it is a curious niche topic, it also doesn't seem fertile: algorithms are hard to come by, and I only know of two interesting examples: queues and breadth-first numbering.  
+    I was very interested in circular, corecursive programming for nearly 10 years. While it is a curious niche topic, it also feels like sporadic, and does not seem fertile: algorithms are hard to come by, and I only know of two interesting examples: queues and breadth-first relabelling.
     
-    I'm not aware that any of these curious examples of circular programming are naturally motivated.  I'm not sure why they might be on interest to the working software engineer or the working mathematician.   
+    I'm not aware that either example is naturally motivated.  I don't know why these curiosities might be on interest to the working software engineer or the working mathematician.   
     
     By contrast, corecursion (minus the circular peculiarities I was fixated on) leads to far more fertile examples in mathematics, particularly the Stern-Brocot tree and generating functions.  
     
-    An introduction generating functions can be made suprisingly accessible using combinatorics, formal power series, and lazy evaluation.  This approach is nicely covered in chapter 10 of "The Haskell Road to Logic, Maths and Programming" by Jan Eijck and Kees Doets, as well as the very remarkable paper "[The Music of Streams](https://www.cs.dartmouth.edu/~doug/music.ps.gz)" by Douglas McIlroy. Thanks to this work, an introduction to generating functions seem to me to be high school material in a post-reform curriculum.
+    An introduction generating functions can be made suprisingly accessible using combinatorics, formal power series, and lazy evaluation.  This approach is nicely covered in chapter 10 of "The Haskell Road to Logic, Maths and Programming" by Jan Eijck and Kees Doets, as well as the very remarkable paper "[The Music of Streams](https://www.cs.dartmouth.edu/~doug/music.ps.gz)" by Douglas McIlroy. Thanks to this work, in a post-reform curriculum an introduction to generating functions seem to be high school material.
 
 [^continuedfractions]:
     Note that while the conversion between matrix representation and the string representation of SL(2,N) can be efficiently computed, the conversion itself is not necessarily efficient, essentially because the string representation is like unary notation, and can be exponentially bigger than the input.
