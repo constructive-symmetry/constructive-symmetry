@@ -334,7 +334,7 @@ People care about things that are not scientific, like religion, philosophy, mat
 
 Things can be honest and truthful despite not being literally true in the scientific sense.  Performance art and creative writing and ideas in mathematics don't have to be well-connected to be interesting.  Philosophy and religion don't have to be scientific to have meaning.  And most importantly, people don't have to be measured to have value!
 
-Some people are deeply invested into being measured, and so they want to apply the trappings of science to the measurements of people and ideas.  Concrete examples include taking the Six Degrees of Kevin Bacon, Erdős numbers, or measures of "centrality" too seriously,  or using my rhetorical metaphor of "ideas near the front of God's Textbook" to dismiss legitimate mathematical ideas.
+Some people are deeply invested into being measured, and so they want to apply the trappings of science to the measurements of people and ideas.  Concrete examples include taking School and University rankings too seriously, or the Six Degrees of Kevin Bacon, or Erdős numbers, or measures of "centrality" of a subject or idea too seriously.  It's inappropriate to use my rhetorical metaphor of "ideas near the front of God's Textbook" to dismiss legitimate mathematical ideas!
 
 Some people apply the trappings of science to nonsense, so that they may feel important, or so that they may make money selling nonsense.  Both are mistakes.  You are important!  But selling nonsense is wrong, and science is real, even if there are things that are pretending to be scientific that aren't.
 
