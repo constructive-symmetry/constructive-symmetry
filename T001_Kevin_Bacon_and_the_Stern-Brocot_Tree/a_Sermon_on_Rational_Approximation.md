@@ -240,9 +240,9 @@ Circa 1874, Georg Cantor was the first to recognize that the integers are equinu
 
 If you have any doubts about this reasoning, this 1-1 correspondence can be efficiently computed!  It's amazing that the Stern-Brocot Museum of Fraction so readily allows us to "contradict" Euclid, teaching us how to push beyond Euclid's mathematics.  It's poetic justice that Euclid himself unknowningly provided us with the guidebook to the Museum,  the Euclidean Algorithm.  
 
-The Euclidean Algorithm is what is what allows us to efficiently compute this isomorphism of sets between the rationals and integers.  It takes any rational number as an input, and outputs a path to the unique room on the Stern-Brocot tree that contains that fraction in already least terms.
+The Euclidean Algorithm is what is what allows us to efficiently[^continuedfractions] compute this isomorphism of sets between the rationals and integers.  It takes any rational number as an input, and outputs a path to the unique room on the Stern-Brocot tree that contains that fraction in already least terms.
 
-This path is known as the Stern-Brocot representation. We can think of it like a string in computer programming, a finite string consisting of solely of 'L's and 'R's.  We can use the Stern-Brocot representation of a fraction to efficiently compute the room number of that fraction, and vice-versa: just change the 'L's to 0 and the 'R's to 1,  and put another '1' in front, and interpret the result as a binary number.  This process is reversable.[^sternbrocotrepresentation]
+This path is known as the Stern-Brocot representation. We can think of it like a string in computer programming, a finite string consisting of solely of 'L's and 'R's.  We can use the Stern-Brocot representation of a fraction to efficiently compute the room number of that fraction, and vice-versa: just change the 'L's to 0 and the 'R's to 1,  and put another '1' in front, and interpret the result as a binary number.  This process is reversible.
 
 Every room in the Stern-Brocot tree has a boundary matrix.  The boundary fractions of a room on the Stern-Brocot tree exactly correspond to a 2x2 matrix with nonnegative integer entries, and with determinant equal to one.  The converse is also true, a result in linear Diophantine equations.
 
@@ -837,10 +837,25 @@ Mix it up:
 
     But there is a very wise heuristic here:  you should not fully trust a concept or technique or model until you start to understand its limitations, until you start to understand the situations in which it doesn't apply.
 
-[^sternbrocotrepresentation]:
-   Note that while the conversion between matrix representation and the string representation of SL(2,N) can be efficiently computed, the conversion itself is not necessarily efficient, essentially because the string representation is like unary notation, and can be exponentially bigger than the input.
+[^breadthfirstnumbering]: 
+    See for example, "[Breadth-First Numbering: Lessons from a Small Exercise in Algorithm Design](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.30.342)" by Chris Okasaki. This was also a topic in my own paper "[Lloyd Allison's Corecursive Queue: Why Continuations Matter](https://hackage.haskell.org/package/control-monad-queue)", which used the renumbering problem on Stern-Brocot tree as a MacGuffin to explore the limits of Haskell's computational calculus.
 
-   For example, consider the SL(2,N) representation of say, 1.4 trillion.  While this matrix can be represented in less than 32 bytes,  the string would be 1.4 terabits long.  That's as big as seven blu-ray movies! This issue can be fixed by run-length encoding the Stern-Brocot representation,  essentially upgrading the Stern-Brocot representation to continued fractions.
+    While the content of the Stern-Brocot tree itself was extraneous to the paper, and I'm very unsure of the importance of the techniques explored in the paper,  I "superfluously" used the Stern-Brocot tree because it was an idea worth spreading, and because it was a gift to my future self for when I finally got around trying to explain my philosophy of math education.  
+
+    Incidentally, in "Fun with the Lazy State Monad" I managed to repeat a trick in "Lloyd Allison's Corecursive Queue", and turn the "Breadth-First Numbering with Lazy Evaluation" appendix of the first paper into a reusable library.
+
+    I was very interested in circular, corecursive programming for nearly 10 years. While it is a curious niche topic, it also doesn't seem fertile: algorithms are hard to come by, and I only know of two interesting examples: queues and breadth-first numbering.  
+    
+    I'm not aware that any of these curious examples of circular programming are naturally motivated.  I'm not sure why they might be on interest to the working software engineer or the working mathematician.   
+    
+    By contrast, corecursion (minus the circular peculiarities I was fixated on) leads to far more fertile examples in mathematics, particularly the Stern-Brocot tree and generating functions.  
+    
+    An introduction generating functions can be made suprisingly accessible using combinatorics, formal power series, and lazy evaluation.  This approach is nicely covered in chapter 10 of "The Haskell Road to Logic, Maths and Programming" by Jan Eijck and Kees Doets, as well as the very remarkable paper "[The Music of Streams](https://www.cs.dartmouth.edu/~doug/music.ps.gz)" by Douglas McIlroy. Thanks to this work, an introduction to generating functions seem to me to be high school material in a post-reform curriculum.
+
+[^continuedfractions]:
+    Note that while the conversion between matrix representation and the string representation of SL(2,N) can be efficiently computed, the conversion itself is not necessarily efficient, essentially because the string representation is like unary notation, and can be exponentially bigger than the input.
+
+    For example, consider the SL(2,N) representation of say, 1.4 trillion.  While this matrix can be represented in less than 32 bytes,  the string would be 1.4 terabits long.  That's as big as seven blu-ray movies! This issue can be fixed by run-length encoding the Stern-Brocot representation,  essentially upgrading the Stern-Brocot representation to continued fractions.
 
 [^automorphisms]:  The matrices GL(2,Z) exactly represent automorphisms of the additive group Z^2.  These automorphisms are the most abstract and general notion of group symmetry available that preserves both the cartesian coordinate grid and the arithmetic of pointwise addition on integer vectors.  These automorphisms essentially tell us all the possible ways to extend Z^2 using a semidirect product and still be left with a group.  The semidirect product of Z^2 and GL(2,Z) can then be used to introduce affine transformations, homogenous coordinates, and projective geometry.
 
