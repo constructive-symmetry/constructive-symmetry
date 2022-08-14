@@ -19,11 +19,11 @@ In Part 3, the focus is on [an Aggregate Theory of Concrete Mathematics](./Part0
 
 In Part 4: [Physics and Metaphones](./Part04_Physics_and_Metaphones.md), I share a modern, popularized account of Claude Shannon's Theory of Communication, a modern take on Ludwig Wittgenstein's semantics of language, and engineering considerations for practical implementations. This explores issues of noise, authentication, queueing, protocol, and consensus, and how they relate to things such as amateur radio, emergency management, cryptography, and blockchain. It attempts to provide a holistic summary of several relatively conventional takes on the modern philosophies of the design of communications systems. I deconstruct APRS, the Automatic Packet Reporting System, suggesting that it should inspire a next-generation amateur radio protocol intended towards disaster relief, as a tribute to the memory of the silent key Bob Bruninga, WB4APR.
 
-In Part 5, I extend an [invitation to the State of California](./Part05_California_Math_Curriculum_02022.md) to strengthen the foundation of the elementary mathematical curriculum with the Six Degrees of the Square, the Triangle, and the Tree, constructive symmetry, computer programming, rational approximation, robotics, and induction.
+In Part 5, I extend an [invitation to the State of California](./Part05_an_Invitation_to_the_State_of_California.md#an-invitation-to-the-state-of-california) to strengthen the foundation of the elementary mathematical curriculum with the Six Degrees of the Square, the Triangle, and the Tree, constructive symmetry, computer programming, rational approximation, robotics, and induction.
 
 This invitation extends to you personally, as well as the United States of America and all of human kind. Everybody deserves to be included in and benefit from math curriculum reform.
 
-To celebrate, I suggest [cutting a pie into sevenths, and sharing it with a circle of six other friends](./Part05_California_Math_Curriculum_02022.md#sharing-pie-with-a-circle-of-friends), both new and old. May you have a blessed Rational Approximation Week, and a wonderful Rational Approximation Day.
+To celebrate, I suggest [cutting a pie into sevenths, and sharing it with a circle of six other friends](./Part05_an_Invitation_to_the_State_of_California.md#sharing-pie-with-a-circle-of-friends), both new and old. May you have a blessed Rational Approximation Week, and a wonderful Rational Approximation Day.
 
 [![Philosophy News Network: Philosophy Solved](external-assets/static.existentialcomics.com/comics/PNNphilosophySolved1.png)](https://existentialcomics.com/comic/191)
 [![Philosophy News Network: Philosophy Solved](external-assets/static.existentialcomics.com/comics/PNNphilosophySolved2.png)](https://existentialcomics.com/comic/191)
@@ -34,24 +34,24 @@ To celebrate, I suggest [cutting a pie into sevenths, and sharing it with a circ
 
 ## Global Suggestions
 
-* Self-aware, Inductive Reasoning:
+[**Self-aware, Inductive Reasoning:**](#self-aware-inductive-reasoning)
 
-    1. The Scout Mindset: Why Some People See Things Clearly and Others Don't, by Julia Galef
-    2. Benjamin Franklin: A Film by Ken Burns
-    3. The Knowledge Illusion: Why We Never Think Alone, by Steven Sloman and Philip Fernbach
-    4. The Book of Why: The New Science of Cause and Effect, by Judea Pearl and Dana Mackenzie
+1. The Scout Mindset: Why Some People See Things Clearly and Others Don't, by Julia Galef
+2. Benjamin Franklin: A Film by Ken Burns
+3. The Knowledge Illusion: Why We Never Think Alone, by Steven Sloman and Philip Fernbach
+4. The Book of Why: The New Science of Cause and Effect, by Judea Pearl and Dana Mackenzie
 
-* Ethics and Moral Philosophy:
+[**Ethics and Moral Philosophy:**](#ethics-and-moral-philosophy)
 
-    5. The Ethics of Belief, by William Kingdon Clifford
-    6. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, by Cathy O'Neil
-    7. When Time Is Short: Finding Our Way in the Anthropocene, by Timothy Beal
+5. The Ethics of Belief, by William Kingdon Clifford
+6. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, by Cathy O'Neil
+7. When Time Is Short: Finding Our Way in the Anthropocene, by Timothy Beal
 
-* Philosophy of Math (and Science):
+[**Philosophy of Math (and Science):**](#the-philosophy-of-math-and-science)
 
-    8. Proofs and Refutations: The Logic of Mathematical Discovery, by Imre Lakatos
-    9. Language, Proof and Logic (2nd Ed.), by Dave Barker-Plummer, Jon Barwise, and John Etchemendy
-    10. Statistical Rethinking: A Bayesian Course with Examples in R and Stan (2nd Ed.), by Richard McElreath
+8. Proofs and Refutations: The Logic of Mathematical Discovery, by Imre Lakatos
+9. Language, Proof and Logic (2nd Ed.), by Dave Barker-Plummer, Jon Barwise, and John Etchemendy
+10. Statistical Rethinking: A Bayesian Course with Examples in R and Stan (2nd Ed.), by Richard McElreath
 
 Our contemporary culture likes to talk about, use, misuse and abuse math and science a lot, but what are these things, really?  Where does science come from?  What makes science "true"? Does mathematics provide "absolute" truth? What is "truth", anyway?  What are the differences between math and science, and how are they related? What are the material conditions in which math and science are conducted? What responsibilities do we have regarding what we believe to be true?
 
