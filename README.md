@@ -1,6 +1,6 @@
 This respository explicates [_an Aggregate Theory of Concrete Mathematics_](./T002_Tools_of_Math_Construction/An_Aggregate_Theory_of_Concrete_Mathematics.md). It is a philosophy of math and computer science education with practical aspirations on the elementary (K-6) curriculum, and beyond.
 
-In addition to these materials, I highly recommend taking a look at the [Brown University Bootstrap Project](https://bootstrapworld.org/), Chris D Smith's [Code World](https://code.world), as well as [Raspberry Pi](https://www.raspberrypi.org/) and [Arduino](https://arduino.cc).
+In addition to these materials, I highly recommend taking a look at the [National Centre for Computing Education](https://computingeducation.org.uk/), the [Brown University Bootstrap Project](https://bootstrapworld.org/), Chris D Smith's [Code World](https://code.world), as well as [Raspberry Pi](https://www.raspberrypi.org/) and [Arduino](https://arduino.cc).
 
 Currently, this repository contains several different media assets.
 
