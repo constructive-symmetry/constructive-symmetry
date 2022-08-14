@@ -28,15 +28,25 @@ To open the right door, we take the mediant of its boundary fractions, one and i
 
 The boundary fractions get copied into the rooms we have just opened, same as before.  The middle fraction is to the right of the left door, so it becomes an upper boundary fraction in the left room.  It's also to the left of the right door, so it becomes a lower boundary fraction in the right room.
 
-There are two doors in each of the two rooms we've just opened, for a total of four doors we have seen but have not opened. The paths downward into the museum never ever come back together, so behind each unopened door is a new and unique room with two more unopened doors.  Every time I open a door, the number of doors I've seen but have left unopened increases by one.
+The two rooms we just opened each have two doors, for a total of four unopened doors. I'm going to open all four doors.  The leftmost unopened door leads to all the fractions between zero and one half.  We open the door to find one over three, or one third.  The next door leads to all the fractions between one half and one.  We open the door to find two over three, or two thirds.
 
-So now I will open all four unopened doors, from left to right.  The leftmost unopened door leads to all the fractions between zero and one half.  We open the door to find one over three, or one third.  The next door leads to all the fractions between one half and one.   We open the door to find two over three, or two thirds.   The next door leads to all the fractions between one and two, so we open the door to find three over two, or three halves.  The rightmost door leads to all the fractions between two and infinity, so we open the door to find three over one, or just three. 
+The next door leads to all the fractions between one and two, so we open the door to find three over two, or three halves.  The rightmost door leads to all the fractions between two and infinity, so we open the door to find three over one, or just three.
 
-Since I've opened those four doors, I now have eight unopened doors.  After I open those eight doors,  I will have sixteen unopened doors.  And if I open those sixteen doors,  I will have thirty-two unopened doors! 
+In this garden of forking paths, the paths downward into the museum never ever come back together.
 
-Exploring entire levels of the museum before going deeper, like I am doing right now, is an example of a breadth-first search.   Breadth-first search is an important concept in computer science, math, and learning.  A breadth-first search is a good way to learn what the museum looks like, because it doesn't skip any rooms.  Because of this fact, and the fact that the Stern-Brocot tree contains every fraction exactly once, we can find any fraction we want by exploring the museum long enough with a breadth-first search.
+No two doors lead to the same room, so behind each unopened door is a unique room we have not seen before.  That room has two unseen doors, therefore every time we open a door, the number of unopened doors increases by two, in addition to decreasing by one for door we opened.
 
-If we are looking for a specific fraction, a breadth-first search is inefficient because it creates a lot of work that is not needed.  It is a lot less work to walk directly to the room containing that fraction, only moving left or right and never moving upwards or backtracking.   That would be an example of a depth-first search, another important idea in computer science, math, and learning.  These searches can skip rooms entirely,  which makes depth-first search efficient for finding something specific.
+Two minus one is one, so the net effect is that the number of unopened doors increases by one.  I had four unopened doors, and then I opened all four doors, so now I have eight unopened doors.  After I open those eight doors, I will have sixteen unopened doors.  And if I open those sixteen doors, I will have thirty-two unopened doors!
+
+Two minus one is one, so the net effect is that the number of unopened doors increases by one.  I had four unopened doors, and then I opened all four doors, so now I have eight unopened doors.  After I open those eight doors, I will have sixteen unopened doors.  And if I open those sixteen doors, I will have thirty-two unopened doors!
+
+Exploring one entire level of the museum before going deeper, like I am doing right now, is an example of a breadth-first search.  Breadth-first search is a very important idea in computer science, math, and learning.
+
+A breadth-first search is a good way to learn what the museum looks like, because it doesn't skip any rooms.  Because of this fact, and the fact that the Stern-Brocot tree contains every fraction exactly once, we can find any fraction we want by exploring the museum long enough with a breadth-first search.
+
+But if we are looking for a specific fraction, a breadth-first search is very inefficient because it creates a lot of unnecessary work. It is a lot less work to walk directly to the room containing that fraction, only moving down and left, or down and right. That would be an example of a depth-first search.
+
+Depth-first search is another very important idea in computer science, math, and learning. These searches can skip rooms entirely,  which can make depth-first search efficient for finding something specific.
 
 In my next video, I will show you how to efficiently find the room of any specific fraction, using the Euclidean Algorithm as a guidebook to the museum of fractions that is the Stern-Brocot tree.
 
