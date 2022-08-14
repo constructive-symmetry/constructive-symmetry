@@ -1,4 +1,8 @@
-# Suggestions for Studies in Mathematics:
+[Back to Part 2: Deconstructing Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md#navigation). Up next, Part 3:
+
+
+# an Aggregate Theory of Concrete Mathematics
+## Suggestions for Further Study
 
 * Indra's Pearls: The Vision of Felix Klein, by David Mumford, Caroline Series, and David Wright
   * A state-of-the-art introduction to computer graphics, fractals, mathematics, and much more.
@@ -36,8 +40,8 @@
      * include a more careful writeup of the results in my notes, alluded to in KB&SBT and the tribute that follows
   * Synthesizing this answer with "Algebra: Chapter 0" by Paolo Aluffi should be a very fertile exercise.
 
-## An intellectual history of the Aggregate Theory of Concrete Mathematics:
-### a tribute to linear algebra and Dr. Elizabeth Meckes
+# An intellectual history of an Aggregate Theory
+## A tribute to linear algebra and Dr. Elizabeth Meckes
 
 I knew Elizabeth and Mark from my undergraduate days at Case Western Reserve University when we were all students. As an undergrad, I was often overly fixated on the decidedly non-linear design problems that programming languages pose, which was extremely weird for the department. I stumbled my way to a math major, and earned a computer science minor about three times over.
 
@@ -296,7 +300,22 @@ Game Theory
    * "Winning Ways for Your Mathematical Plays", by Elwyn R. Berlekamp, John H. Conway, and Richard K. Guy
    * "Chance, Strategy, and Choice", by Samuel Bruce Smith
 
-[Part 4: Physics and Metaphones](./Part04_Physics_and_Metaphones.md)
+# Navigation
+
+[Part 4: Physics and Metaphones](./Part04_Physics_and_Metaphones.md#physics-and-metaphones)
+
+[Part 5: an Invitation to the State of California](./Part05_an_Invitation_to_the_State_of_California.md#an-invitation-to-the-state-of-california)
+
+[Author Bio](./Part05_an_Invitation_to_the_State_of_California.md#author-bio)
+
+[Bibliography](./Bibliography.md)
+
+[Part 1: Global Suggestions](./An_Aggregate_Theory_of_Concrete_Mathematics.md#tools-of-math-construction)
+
+[Part 2: Deconstructing Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md#deconstructing-bertrand-russell)
+
+[Part 3: an Aggregate Theory of Concrete Mathematics](./Part03_Aggregate_Theory.md#suggestions-for-further-study)
+
 
 [^graphicallinearalgebra]:
     I suggest reading the post [Makélélé and Linear Algebra](https://graphicallinearalgebra.net/2015/04/23/makelele-and-linear-algebra/), which states things quite nicely. See also "How Not to Be Wrong", by Jordan Ellenberg. I also really appreciated [Why string diagrams?](https://graphicallinearalgebra.net/2017/04/24/why-string-diagrams/), which I found to contain a nice acknowledgement of the difference between _pedagogical_ versus _motivating_ examples.

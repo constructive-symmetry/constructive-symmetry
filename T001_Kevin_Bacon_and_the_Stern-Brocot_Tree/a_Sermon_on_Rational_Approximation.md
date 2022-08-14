@@ -1,6 +1,8 @@
 #   Kevin Bacon and the Stern-Brocot Tree
 ##  a Sermon on Rational Approximation
 
+Note that this is intended to be a script for a future video. For an overview of the larger project, see the top level [README](../README.md). For the companion study guide, see the [Tools of Math Construction](../T002_Tools_of_Math_Construction/An_Aggregate_Theory_of_Concrete_Mathematics.md)
+
 ```
    The Stern-Brocot tree as a Rosetta Stone between computer science,
          arithmetic, algebra, geometry, calculus, and beyond;

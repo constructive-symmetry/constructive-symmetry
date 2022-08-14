@@ -1,22 +1,25 @@
-# Tools of Math Construction: An Aggregate Theory of Concrete Mathematics
-# by Leon P Smith, Iterative Systems
+# Tools of Math Construction
+## an Aggregate Theory of Concrete Mathematics
+## by Leon P Smith, Iterative Systems
 
 In celebration of Rational Approximation Day 02022-07-22, and in the name of Reason and a Reënlightenment, I offer an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity.  This study guide is a companion to [_Kevin Bacon and the Stern Brocot Tree: a Sermon on Rational Approximation_](../T001_Kevin_Bacon_and_the_Stern-Brocot_Tree/a_Sermon_on_Rational_Approximation.md)
 
 [![Philosophy News Network: is Philosophy Useless?](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless1.png)](https://existentialcomics.com/comic/365)
 [![Philosophy News Network: is Philosophy Useless?](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless2.png)](https://existentialcomics.com/comic/365)
 
-If you only ever read a single suggestion, I would ask that you read "Weapons of Math Destruction", as it is directly relevant to the state of the world today and the many contemporary challenges we face. I suspect a great many people should probably read "The Scout Mindset" first, as preparation.
+If you only ever read a single suggestion, I would ask that you read "Weapons of Math Destruction" by Cathy O'Neil, as it is directly relevant to the state of the world today and the many contemporary challenges we face. I suspect a great many people should probably read "The Scout Mindset" by Julia Galef first, as preparation.
 
-My global suggestions consist of ten primary recommendations loosely divided into three major themes: inductive reasoning and self-awareness, ethics and morality, and the philosophy of math and science. These suggestions are "global" in the sense that I would recommend them to most people, with relatively few conditions or qualifications.
+## Analytical Contents
 
-Later, I [deconstruct Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md) and endorse the Weak Paraconsistent Conjecture in memory of Jon Michael Dunn.
+My [global suggestions](./An_Aggregate_Theory_of_Concrete_Mathematics.md#global-suggestions) consist of ten primary recommendations loosely divided into three major themes: [inductive reasoning and self-awareness](#self-aware-inductive-reasoning), [ethics and morality](#ethics-and-moral-philosophy), and the [philosophy of math (and science)](#the-philosophy-of-math-and-science). These suggestions are "global" in the sense that I would recommend them to most people, with relatively few conditions or qualifications.
 
-Then I share an intellectual history of my thinking on [an Aggregate Theory of Concrete Mathematics](./Part03_Aggregate_Theory.md). These are stories of creative interactions between myself and others that contributed to my learning and occasional re-discovery of some well-known yet widely underappreciated results. These results deserve a much broader audience. This intellectual history doubles as a tribute to Linear Algebra and the memory of Elizabeth Meckes.
+In Part 2, I [deconstruct Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md) and endorse the Weak Paraconsistent Conjecture in memory of Jon Michael Dunn.
 
-In [Physics and Metaphones](./Part04_Physics_and_Metaphones.md), I share a modern, popularized account of Claude Shannon's Theory of Communication, a modern take on Ludwig Wittgenstein's semantics of language, and engineering considerations for practical implementations. This explores issues of noise, authentication, queueing, protocol, and consensus, and how they relate to things such as amateur radio, emergency management, cryptography, and blockchain. It attempts to provide a holistic summary of several relatively conventional takes on the modern philosophies of the design of communications systems. I deconstruct APRS, the Automatic Packet Reporting System, suggesting that it should inspire a next-generation amateur radio protocol intended towards disaster relief, as a tribute to the memory of the silent key Bob Bruninga, WB4APR.
+In Part 3, the focus is on [an Aggregate Theory of Concrete Mathematics](./Part03_Aggregate_Theory.md). This includes an intellectual history of my thinking on _an Aggregate Theory_.  These are a collection of stories of creative interactions between myself and others that contributed to my learning and occasional re-discovery of some well-known yet widely underappreciated results. These results deserve a much broader audience. This history doubles as a tribute to Linear Algebra and the memory of Elizabeth Meckes.
 
-Finally, in honor of my former classmate and dear friend Yuri Goldfeld, I extend an [invitation to the State of California](./Part05_California_Math_Curriculum_02022.md) to strengthen the foundation of the elementary mathematical curriculum with the Six Degrees of the Square, the Triangle, and the Tree, constructive symmetry, computer programming, rational approximation, robotics, and induction.
+In Part 4: [Physics and Metaphones](./Part04_Physics_and_Metaphones.md), I share a modern, popularized account of Claude Shannon's Theory of Communication, a modern take on Ludwig Wittgenstein's semantics of language, and engineering considerations for practical implementations. This explores issues of noise, authentication, queueing, protocol, and consensus, and how they relate to things such as amateur radio, emergency management, cryptography, and blockchain. It attempts to provide a holistic summary of several relatively conventional takes on the modern philosophies of the design of communications systems. I deconstruct APRS, the Automatic Packet Reporting System, suggesting that it should inspire a next-generation amateur radio protocol intended towards disaster relief, as a tribute to the memory of the silent key Bob Bruninga, WB4APR.
+
+In Part 5, I extend an [invitation to the State of California](./Part05_California_Math_Curriculum_02022.md) to strengthen the foundation of the elementary mathematical curriculum with the Six Degrees of the Square, the Triangle, and the Tree, constructive symmetry, computer programming, rational approximation, robotics, and induction.
 
 This invitation extends to you personally, as well as the United States of America and all of human kind. Everybody deserves to be included in and benefit from math curriculum reform.
 
@@ -289,7 +292,22 @@ Imre Lakatos's philosophy of science and mathematics is a rich source of wisdom,
 
 [![Fireworks and a theory of language](external-assets/static.existentialcomics.com/comics/FireworksandaTheoryofLanguage.png)](https://existentialcomics.com/comic/381)
 
-[Part II: Deconstructing Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md)
+# Navigation
+
+[Part 02: Deconstructing Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md#deconstructing-bertrand-russell)
+
+[Part 03: an Aggregate Theory of Concrete Mathematics](./Part03_Aggregate_Theory.md#suggestions-for-further-study)
+
+[Part 04: Physics and Metaphones](./Part04_Physics_and_Metaphones.md#physics-and-metaphones)
+
+[Part 05: an Invitation to the State of California](./Part05_an_Invitation_to_the_State_of_California.md#an-invitation-to-the-state-of-california)
+
+[Author Bio](./Part05_an_Invitation_to_the_State_of_California.md#author-bio)
+
+[Bibliography](./Bibliography.md)
+
+[Part 01: Global Suggestions](./An_Aggregate_Theory_of_Concrete_Mathematics.md#tools-of-math-construction)
+
 
 [^formalizinginformalmath]: Completing the analogy, can informal mathematics be formalized?  Despite being an apparent contradiction in terms, this idea certainly does not seem immediately implausible to me, though I don't know how this idea might be plausible either. I'm not even sure how one might try to proceed if one were to try to write the book on formal informal math. Perhaps it would help if we had more "Proofs and Refutations" style rational reconstructions of the historical development of important mathematical concepts?  That seems potentially quite useful it it's own right, at least. I'm under no illusion that formalizing informal mathematics would eliminate informality: to some degree or another informal mathmatics is unavoidable! Rather, perhaps such an effort would shift the informalities used in practice in useful ways into roles that are hopefully more satisfying and pleasing to the participants involved. Even if such an effort is unworkable, at the very least, informal mathematics and formal mathematics do need to remain well-informed of developments in the each other's fields.
 

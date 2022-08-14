@@ -1,4 +1,6 @@
-## Deconstructing Bertrand Russell
+[Back to Part 1: Global Suggestions](./An_Aggregate_Theory_of_Concrete_Mathematics.md#navigation). Up next, Part 2:
+
+# Deconstructing Bertrand Russell
 
 [![Bertrand Russell Invents Analytic Philosophy](external-assets/static.existentialcomics.com/comics/BertrandRussellInventsAnalyticPhilosophy.png)](https://existentialcomics.com/comic/342)
 
@@ -358,7 +360,21 @@ Mathematicians are a flock of odd birds. Does that make existential philosophers
 [![Analytic Office](external-assets/static.existentialcomics.com/comics/analyticOffice1.jpg)](https://existentialcomics.com/comic/89)
 [![Analytic Office](external-assets/static.existentialcomics.com/comics/analyticOffice2.jpg)](https://existentialcomics.com/comic/89)
 
-[Part 3: an Aggregate Theory of Concrete Mathematics](./Part03_Aggregate_Theory.md)
+# Navigation
+
+[Part 3: an Aggregate Theory of Concrete Mathematics](./Part03_Aggregate_Theory.md#suggestions-for-further-study)
+
+[Part 4: Physics and Metaphones](./Part04_Physics_and_Metaphones.md#physics-and-metaphones)
+
+[Part 5: an Invitation to the State of California](./Part05_an_Invitation_to_the_State_of_California.md#an-invitation-to-the-state-of-california)
+
+[Author Bio](./Part05_an_Invitation_to_the_State_of_California.md#author-bio)
+
+[Bibliography](./Bibliography.md)
+
+[Part 1: Global Suggestions](./An_Aggregate_Theory_of_Concrete_Mathematics.md#tools-of-math-construction)
+
+[Part 2: Deconstructing Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md#deconstructing-bertrand-russell)
 
 [^proofsandrefutations_logic]: Ever notice the intuitionalistic logic joke on page 47 of "Proofs and Refutations", near where footnote 60 is cited in the section "proof analysis and global counterexample"?
 

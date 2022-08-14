@@ -1,3 +1,5 @@
+[Back to Part 3: an Aggregate Theory of Concrete Mathematics.](./Part03_Aggregate_Theory.md#navigation). Up next, Part 4:
+
 ## Physics and Metaphones
 
 [![A Brief History of Metaphysics](external-assets/static.existentialcomics.com/comics/historyOfMetaphysics.png)](https://existentialcomics.com/comic/250)
@@ -162,4 +164,18 @@ I believe that APRS should inspire a next-generation amateur radio protocol and 
 [![Dungeons & Dragons & Philosophers II: The Analytic Turn](external-assets/static.existentialcomics.com/comics/dndAnalytic2.jpg)](https://existentialcomics.com/comic/28)
 [![Dungeons & Dragons & Philosophers II: The Analytic Turn](external-assets/static.existentialcomics.com/comics/dndAnalytic3.jpg)](https://existentialcomics.com/comic/28)
 
-[Part 5: A Statement on the 92022 California Math Curriculum Reform](./Part05_California_Math_Curriculum_02022.md)
+# Navigation
+
+[Part 05: an Invitation to the State of California](./Part05_an_Invitation_to_the_State_of_California.md#an-invitation-to-the-state-of-california)
+
+[Author Bio](./Part05_an_Invitation_to_the_State_of_California.md#author-bio)
+
+[Bibliography](./Bibliography.md)
+
+[Part 1: Global Suggestions](./An_Aggregate_Theory_of_Concrete_Mathematics.md#tools-of-math-construction)
+
+[Part 2: Deconstructing Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md#deconstructing-bertrand-russell)
+
+[Part 3: an Aggregate Theory of Concrete Mathematics](./Part03_Aggregate_Theory.md#suggestions-for-further-study)
+
+[Part 4: Physics and Metaphones](./Part04_Physics_and_Metaphones.md#physics-and-metaphones)

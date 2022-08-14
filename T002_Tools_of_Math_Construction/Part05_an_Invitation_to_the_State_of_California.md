@@ -1,4 +1,6 @@
-## A statement on the 02022 California Math Curriculum reform controversy
+[Back to Part 4: Physics and Metaphones](./Part04_Physics_and_Metaphones.md#navigation). Up next, Part 5:
+
+# an Invitation to the State of California
 
 In celebration of Rational Approximation Day, 02022-07-22, I would like to offer "Tools of Math Construction: an Aggregate Theory of Concrete Mathematics" to the State of California as a means for building up the foundation of the elementary math curriculum.
 
@@ -148,7 +150,7 @@ The symmetric group of permutations of six elements, is a finite group with 6! =
 
 In any case, remember to share pie with a circle of friends, both new and old. May all y'all have a blessed Rational Approximation Week, and a wonderful Rational Approximation Day!
 
-## Author Bio
+# Author Bio
 
 [Philosophy Infomercial](https://existentialcomics.com/comic/196)
 
@@ -161,7 +163,7 @@ At Obsidian Systems, Leon lead a team that provided the Avalanche blockchain com
 
 He is also a graduate of the Indiana Academy for Science, Mathematics, and the Humanities at Ball State University. Later as a graduate student at Indiana University in Bloomington, Leon participated on a robotic golf cart team lead by professor Steven D. Johnson, where he developed a deep interest in industrial accidents and safety engineering. He aspires to become an epistemic frame engineer, and always a better philosopher of design.
 
-### Epilogue
+## Epilogue
 
 If you'd like to understand a bit more about me, here's a review of books that have had a particularly notable impact on me, or at least that I deeply appreciate:
 
@@ -358,14 +360,18 @@ Peace out.
 [![img](external-assets/static.existentialcomics.com/comics/TheUltimateSecretofPhilosophy.png)](https://existentialcomics.com/comic/437)
 
 
-[Part 01: Global Suggestions](./An_Aggregate_Theory_of_Concrete_Mathematics.md)
-
-[Part 02: Deconstructing Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md)
-
-[Part 03: an Aggregate Theory of Concrete Mathematics](./Part03_Aggregate_Theory.md)
-
-[Part 04: Physics and Metaphones](./Part04_Physics_and_Metaphones.md)
-
-Part 05: Invitation to the State of California 02022
+# Navigation
 
 [Bibliography](./Bibliography.md)
+
+[Part 1: Global Suggestions](./An_Aggregate_Theory_of_Concrete_Mathematics.md#tools-of-math-construction)
+
+[Part 2: Deconstructing Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md#deconstructing-bertrand-russell)
+
+[Part 3: an Aggregate Theory of Concrete Mathematics](./Part03_Aggregate_Theory.md#suggestions-for-further-study)
+
+[Part 4: Physics and Metaphones](./Part04_Physics_and_Metaphones.md#physics-and-metaphones)
+
+[Part 5: an Invitation to the State of California](./Part05_an_Invitation_to_the_State_of_California.md#an-invitation-to-the-state-of-california)
+
+[Author Bio](./Part05_an_Invitation_to_the_State_of_California.md#author-bio)
