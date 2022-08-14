@@ -7,7 +7,7 @@ In celebration of Rational Approximation Day 02022-07-22, and in the name of Rea
 [![Philosophy News Network: is Philosophy Useless?](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless1.png)](https://existentialcomics.com/comic/365)
 [![Philosophy News Network: is Philosophy Useless?](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless2.png)](https://existentialcomics.com/comic/365)
 
-If you only ever read a single suggestion, I would ask that you read "Weapons of Math Destruction" by Cathy O'Neil, as it is directly relevant to the state of the world today and the many contemporary challenges we face. I suspect a great many people should probably read "The Scout Mindset" by Julia Galef first, as preparation.
+If you only ever read a single suggestion from this study guide, I would ask that you read "Weapons of Math Destruction" by Cathy O'Neil, as it is directly relevant to the state of the world today and the many contemporary challenges we face. I suspect a great many people should probably read "The Scout Mindset" by Julia Galef first, as preparation.
 
 ## Analytical Contents
 

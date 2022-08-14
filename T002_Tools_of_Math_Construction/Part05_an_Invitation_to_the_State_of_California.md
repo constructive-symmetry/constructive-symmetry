@@ -2,7 +2,7 @@
 
 # an Invitation to the State of California
 
-In celebration of Rational Approximation Day, 02022-07-22, I would like to offer "Tools of Math Construction: an Aggregate Theory of Concrete Mathematics" to the State of California as a means for building up the foundation of the elementary math curriculum.
+In celebration of Rational Approximation Day, 02022-07-22, I would like to offer "[Tools of Math Construction: an Aggregate Theory of Concrete Mathematics](./An_Aggregate_Theory_of_Concrete_Mathematics.md)" to the State of California as a means for building up the foundation of the elementary math curriculum.
 
 It is an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity. It includes the script "Kevin Bacon and the Stern-Brocot Tree: a Sermon on Rational Approximation".
 
