@@ -162,3 +162,4 @@ I believe that APRS should inspire a next-generation amateur radio protocol and 
 [![Dungeons & Dragons & Philosophers II: The Analytic Turn](external-assets/static.existentialcomics.com/comics/dndAnalytic2.jpg)](https://existentialcomics.com/comic/28)
 [![Dungeons & Dragons & Philosophers II: The Analytic Turn](external-assets/static.existentialcomics.com/comics/dndAnalytic3.jpg)](https://existentialcomics.com/comic/28)
 
+[Part 5: A Statement on the 92022 California Math Curriculum Reform](./Part05_California_Math_Curriculum_02022.md)

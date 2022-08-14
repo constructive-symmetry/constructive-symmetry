@@ -357,4 +357,15 @@ Peace out.
 
 [![img](external-assets/static.existentialcomics.com/comics/TheUltimateSecretofPhilosophy.png)](https://existentialcomics.com/comic/437)
 
+
+[Part 01: Global Suggestions](./An_Aggregate_Theory_of_Concrete_Mathematics.md)
+
+[Part 02: Deconstructing Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md)
+
+[Part 03: an Aggregate Theory of Concrete Mathematics](./Part03_Aggregate_Theory.md)
+
+[Part 04: Physics and Metaphones](./Part04_Physics_and_Metaphones.md)
+
+Part 05: Invitation to the State of California 02022
+
 [Bibliography](./Bibliography.md)

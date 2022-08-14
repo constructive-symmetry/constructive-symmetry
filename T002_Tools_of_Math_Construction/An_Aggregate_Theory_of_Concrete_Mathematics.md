@@ -289,7 +289,7 @@ Imre Lakatos's philosophy of science and mathematics is a rich source of wisdom,
 
 [![Fireworks and a theory of language](external-assets/static.existentialcomics.com/comics/FireworksandaTheoryofLanguage.png)](https://existentialcomics.com/comic/381)
 
-[Part II: Deconstructing Bertrand Russell](./Part_02_Deconstructing_Bertrand_Rusell.md)
+[Part II: Deconstructing Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md)
 
 [^formalizinginformalmath]: Completing the analogy, can informal mathematics be formalized?  Despite being an apparent contradiction in terms, this idea certainly does not seem immediately implausible to me, though I don't know how this idea might be plausible either. I'm not even sure how one might try to proceed if one were to try to write the book on formal informal math. Perhaps it would help if we had more "Proofs and Refutations" style rational reconstructions of the historical development of important mathematical concepts?  That seems potentially quite useful it it's own right, at least. I'm under no illusion that formalizing informal mathematics would eliminate informality: to some degree or another informal mathmatics is unavoidable! Rather, perhaps such an effort would shift the informalities used in practice in useful ways into roles that are hopefully more satisfying and pleasing to the participants involved. Even if such an effort is unworkable, at the very least, informal mathematics and formal mathematics do need to remain well-informed of developments in the each other's fields.
 
