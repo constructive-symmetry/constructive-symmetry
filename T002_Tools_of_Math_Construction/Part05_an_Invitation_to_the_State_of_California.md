@@ -4,7 +4,7 @@
 
 In celebration of Rational Approximation Day, 02022-07-22, I would like to offer "[Tools of Math Construction: an Aggregate Theory of Concrete Mathematics](./An_Aggregate_Theory_of_Concrete_Mathematics.md)" to the State of California as a means for building up the foundation of the elementary math curriculum.
 
-It is an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity. It includes the script "Kevin Bacon and the Stern-Brocot Tree: a Sermon on Rational Approximation".
+It is an apology for the Indiana Pi Bill, and an Apology for Science, Faith, Reason, and Humanity. It includes the script "[Kevin Bacon and the Stern-Brocot Tree: a Sermon on Rational Approximation](../T001_Kevin_Bacon_and_the_Stern-Brocot_Tree/a_Sermon_on_Rational_Approximation.md)".
 
 It introduces a new game to play: the Six Degrees of the Tree, the Triangle, and the Square. The Stern-Brocot Tree is like a Museum of Fractions. Pascal's Triangle is like a Maze of Counting. The Symmetry Group of the Square is like an entire Book of Algebra!
 
@@ -36,7 +36,7 @@ If you look more closely, nothing relevant has been removed. I'm just clearing u
 
 Let's ensure that every child gets the best practical start in life that we can plausibly manage. We can do a lot better! I am personally inviting you to be better. I am inviting all of us to be better, together.
 
-The State of California really can have its cake and eat it too on the topic of the currently ongoing controversy. I endorse the Brown University Bootstrap Project, and I endorse ["Calculus isn’t the only option. Let’s broaden and update the current math curriculum" by Jesús A. De Loera and Francis Su](https://www.sacbee.com/opinion/op-ed/article260529232.html).
+The State of California really can have its cake and eat it too on the topic of the currently ongoing controversy. I endorse the [Brown University Bootstrap Project](https://www.facebook.com/BootstrapWorld/posts/pfbid0UsCSCGMt2gz9xPVnmvLr8rRUEGZnjYjNyPPdUMUHrRmF9Xtfd9WKNEoHjhygiAdDl), and I endorse ["Calculus isn’t the only option. Let’s broaden and update the current math curriculum" by Jesús A. De Loera and Francis Su](https://www.sacbee.com/opinion/op-ed/article260529232.html).
 
 This letter is also an acknowledgement of the social issues raised by the reform attempt, and also by Michael Render. Math tests and scores are frequently used to deny people education and jobs in ways that often are of no relevance.
 
@@ -159,9 +159,9 @@ In any case, remember to share pie with a circle of friends, both new and old. M
 
 Leon P Smith is a longtime enthusiast of computer science, programming languages and math education, especially concurrency, communication, semantics, queuing, Haskell, discrete mathematics, abstract algebra, and (semi-)formal methods. He is also an armchair cosmologist, a professional calendar nerd, and an aspiring time nut. As a software engineer, he is best known for postgresql-simple, which was part of a software system that assisted dispatchers in the process of answering and responding to emergency 911 calls in Parke County, Indiana. As a result of being a popular open source library, it is currently in use in countless publically unknown contexts all over the world.
 
-At Obsidian Systems, Leon lead a team that provided the Avalanche blockchain community with their first integration with Ledger hardware wallets. Leon has also been a campaign staffer for Joe Donnelly, a former Senator who is currently United States Ambassador to the Holy See. Leon is also an alumnus of Beta Nu of Theta Chi fraternity at Case Western Reserve University, and was sleeping less than ten meters from original composite photographs that included Donald Knuth when the towers fell.
+At Obsidian Systems, Leon lead a team that provided the Avalanche blockchain community with their first integration with Ledger hardware wallets. Leon is a former campaign staffer for Joe Donnelly, a former Senator from Indiana who is currently United States Ambassador to the Holy See. Leon is also an alumnus of Beta Nu of Theta Chi fraternity at Case Western Reserve University, and was sleeping less than ten meters from original composite photographs that included Donald Knuth when the towers fell.
 
-He is also a graduate of the Indiana Academy for Science, Mathematics, and the Humanities at Ball State University. Later as a graduate student at Indiana University in Bloomington, Leon participated on a robotic golf cart team lead by professor Steven D. Johnson, where he developed a deep interest in industrial accidents and safety engineering. He aspires to become an epistemic frame engineer, and always a better philosopher of design.
+He is a graduate of the Indiana Academy for Science, Mathematics, and the Humanities at Ball State University. Later as a graduate student at Indiana University in Bloomington, Leon participated on a robotic golf cart team lead by professor Steven D. Johnson, where he developed a deep interest in industrial accidents and safety engineering. He aspires to become an epistemic frame engineer, and always a better philosopher of design.
 
 ## Epilogue
 
