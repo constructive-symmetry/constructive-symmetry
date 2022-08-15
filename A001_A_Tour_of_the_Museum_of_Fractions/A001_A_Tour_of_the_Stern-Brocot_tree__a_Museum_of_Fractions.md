@@ -194,10 +194,10 @@ In my next video, I will show you how to efficiently find the room of any specif
 
     > Continued fractions appear in many different branches of mathematics: the theory of Diophantine approximation algebraic number theory, coding theory, toric geometry, dynamical systems, ergodic theory, etc.  One of the metamathematical explanations of this phenomenon is based on an interesting structure of the set of real numbers endowed with two operations: addition `a + b` and inversion `1 / b`. This structure appeared for the first time in the Euclidean algorithm, which was known several thousand years ago. Similarly to the structures of fields and rings (with operations of additions `a + b` and multiplication `a * b`), structures with addition and inversion can be found in many branches of mathematics.  That is the reason why continued fractions can be encountered far away from number theory. In particular, continued fractions have a geometric interpretation in terms of integer geometry, which we place as the cornerstone of this book.
     >
-    > * from the preface to "Geometry of Contined Fractions", by Oleg N Karpenkov
+    > * from the preface to "Geometry of Continued Fractions", by Oleg N Karpenkov
 
 [^credits]:
-    The primary influences on this video are:
+    **Primary influences:**
 
     Gibbons, Jeremy & Lester, David & Bird, Richard. (2006). [Functional Pearl: Enumerating the rationals.](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/rationals.pdf) J. Funct. Program.. 16. 281-291. 10.1017/S0956796806005880.
 
@@ -208,6 +208,7 @@ In my next video, I will show you how to efficiently find the room of any specif
     Project Euler https://projecteuler.net
 
 [^furtherreading]:
+    **Further Readings:**
 
     Herzinger, Kurt & Wisner, Robert [Connecting Greek Ladders and Continued Fractions](https://www.maa.org/press/periodicals/convergence/connecting-greek-ladders-and-continued-fractions-introduction) _Convergence_ (January 2014)
 
