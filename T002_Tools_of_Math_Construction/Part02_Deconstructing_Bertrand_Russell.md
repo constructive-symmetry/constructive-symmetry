@@ -204,6 +204,8 @@ Personally, I take great pride in arguing that there's another dimension to how 
 
 For the time being, I'm not aware of an obviously practical application of paraconsistent logic. If you can come up with high-quality examples for a paraconsistent logic, whether pedagogical and/or motivating in nature, it's very likely going to contain original creative thought! It might also be the best way to boost the field at this point. Could relevance logic be used to improve computer error messages? I don't know! How do any of the existing variants dubbed a "relevance logic" actually relate to informal notions of what is relevant and what is not? Good question!
 
+Causal inference raises largely similar philosophical objections to material implication.[^carnap_intro] Modern causal inference has explicated and formalized a notion of relevance.[^pearl_causality]  It seems like a fertile exercise to carefully compare and contrast these notions of relevance: the notions found in relevance logic, versus the notion found in causal inference.
+
 Does the semantic web and non-monotonic logic have a germ of an idea that might possibly help lead humanity out of our current epistemic crisis? Well, that's a very complicated question Guo-Qiang Zhang was interested in when I was an undergraduate; I guess I am still deeply skeptical, but I have come to keely appreciate the relevance of such a research program. We could all undoubtly benefit from some high quality design efforts put into practical epistemic engineering right about now.
 
 Paraconsistent logic can undoubtly be a difficult subject. Some years ago, I was at a conference chatting with Reid Barton over dinner, and the topic of relevance logic came up. Dr. Barton admitted he had looked at it, and couldn't make the slightest bit of sense out of it. I admitted I had looked at it more, and couldn't make much sense of it either, but I did at least very much understand (and am largely sympathetic with) some of the underlying motives and goals. And, I remember talking about a log anomaly I had recently investigated and documented, during which paraconsistent logic almost started making sense to me.
@@ -387,4 +389,8 @@ Mathematicians are a flock of odd birds. Does that make existential philosophers
 [^againstmethod_paraconsistent]: footnote 1, chapter 1, page 8, "Against Method"
 
 [^hamkins]:  see e.g. Chapter 1 p 18 in "Lectures on the Philosophy of Mathematics" by Joel David Hamkins
+
+[^carnap_intro]: See e.g. part 4 "Causality and Determinism" of "An Introduction to the Philosophy of Science" by Rudolph Carnap
+
+[^pearl_causality]: See e.g. "Causality: Models, Reasoning, and Inference" by Judea Pearl
 

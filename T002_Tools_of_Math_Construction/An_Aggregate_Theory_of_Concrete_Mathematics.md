@@ -128,7 +128,7 @@ This would be an example of a just act. See also ["What I Think About Atlas Shru
 [![Philosophy News Network: Strike](external-assets/static.existentialcomics.com/comics/PNNstrike1.png)](https://existentialcomics.com/comic/199)
 [![Philosophy News Network: Strike](external-assets/static.existentialcomics.com/comics/PNNstrike2.png)](https://existentialcomics.com/comic/199)
 
-John Rawls is known for "A Theory of Justice". Lawrence Krauss is known for "The Physics of Star Trek". Simone de Beauvoir is known for "All Men Are Mortal".  Hannah Arendt is known for "The Human Condition".
+John Rawls is known for "A Theory of Justice". Hannah Arendt is known for "The Human Condition". Lawrence Krauss is known for "The Physics of Star Trek". Simone de Beauvoir is known for "All Men Are Mortal".
 
 My second theme is ethics and moral philosophy, of the kinds most immediately relevant to the difficulties we currently face. Philosophy, science, and mathematics are tools of criticism and analysis. Although these tools are frequently capable of informing what we believe and how we behave in valuable ways, they are capable of compelling neither belief nor action. At the same time, what we believe impacts how we act, and how we act impacts the real world in tangible ways, thus creating _epistemic responsibility_: our moral responsibilities about the things we believe to be true.
 
@@ -212,7 +212,6 @@ Of course, I am not suggesting that every proof must be formal, let alone suffic
 However, the modern world has already provided alternative options for learning deductive reasoning outside of geometry. I believe those options will be preferred by many students. Computer programming, logic puzzles, discrete math, and model theory are just a few of the better established alternatives. I am confident many more alternatives can be found and developed, especially in terms of the auxiliary topics used to motivate and discuss deductive logic. Indeed, I hope people do put the effort into finding and developing these paths, so that they may help serve better the goal of getting everybody acquainted with the basics of logical deduction.
 
 [![Philosophy Network News: Derrida Arrested!](external-assets/static.existentialcomics.com/comics/PNNderrida1.png)](https://existentialcomics.com/comic/185)
-
 [![Philosophy Network News: Derrida Arrested!](external-assets/static.existentialcomics.com/comics/PNNderrida2.png)](https://existentialcomics.com/comic/185)
 
 "Language, Proof and Logic" is an introduction to formal deductive logic and model theory, and seems well suited for self study via computer-based exercises and online lectures. From the introduction, the sections "The special role of logic in rational inquiry", "Why learn an artificial language?", and "Consequence and proof" are particularly well worth reading sooner than later.
