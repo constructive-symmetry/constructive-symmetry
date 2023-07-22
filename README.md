@@ -20,7 +20,14 @@ The script feels workable and nearly complete. There are extensive footnotes.
 
 **C001** is an introduction to the concept of symmetry in a geometric context, focusing on the Euclidean isometries exhibited by the letters `H`, `O`, `M`, and `E`.
 
-**C002** is an introduction to the Symmetry Group of the Square.  _Kevin Bacon and the Stern-Brocot Tree_ happened to provide a very good start on a [script for this video](./C002_The_Square_Book_of_Algebra/C002_The_Symmetry_Group_of_the_Square__a_Book_of_Algebra.md).  I have a mechanical calculator and some worksheets ready to go, but unfortunately I've misplaced those files for the time being.  Those files will be located, or recreated.  In the meantime, if you want to get a taste for what the calculator for the symmetry group of the square looks like,  I've included a [pdf calculator for the symmetry group of the hexagon](./C002_The_Square_Book_of_Algebra/d6.pdf) instead.  Print it out front-to-back, and then cut out the two largest hexagons.
+**C002** is an introduction to the Symmetry Group of the Square.  _Kevin Bacon and the Stern-Brocot Tree_ happened to provide a very good start on a [script for this video](./C002_The_Square_Book_of_Algebra/C002_The_Symmetry_Group_of_the_Square__a_Book_of_Algebra.md). This project includes a [mechanical calculator](C002_The_Square_Book_of_Algebra/d4calculator.pdf) (also in [a4](C002_The_Square_Book_of_Algebra/d4calculator-a4.pdf)): print this PDF file front-to-back, and then cut out four identical calculators by cutting along the lightest lines.  It also includes some sample worksheets ([Commutativity #1](C002_The_Square_Book_of_Algebra/d4-commutative-fake.pdf),[Commutativity #2](C002_The_Square_Book_of_Algebra/d4-commutative-real.pdf),[Associativity](C002_The_Square_Book_of_Algebra/d4-assoc.pdf))
+
+**C003** is an introduction to 2x2 matrix multiplication via the symmetry group of the square
+
+**C004** is an introduction to a semidirect product via the symmetry group of the square
+
+**C005** is an introduction to permutations via the symmetry group
+of the square
 
 The **theory track** is more like a series of travel brochures: these projects are trying to convince you to go learn something for yourself.  In contrast to the praxis tracks, nobody is expected to really directly understand much of anything from watching or reading these projects for the first time. Instead they are intended to provide referential knowledge, suggestions, ideas, hints, and clues about what to study next.
 
@@ -34,12 +41,12 @@ The **theory track** attempts to explain why the aggregate theory is the way it 
 
 Rather, the theory track is intended to create referential knowledge in the minds of students who are so interested and motivated.  These references are intended to provide hints, clues, and suggestions about places to go next.  The theory track is also intended to help teachers navigate the larger aggregate theory.
 
-In preparation for the theory track,  I recommend being able to understand what a metaphor is, because I'm going to introduce a lot of metaphor that you won't be familiar with at first. 
+In preparation for the theory track,  I recommend being able to understand what a metaphor is, because I'm going to introduce a lot of metaphor that you won't be familiar with at first.
 
-The metaphor-heavy nature of these projects likely means that most young children are likely to have great difficulty understanding them. Rather, these projects are more directly intended for their parents, teachers, and caretakers.  
+The metaphor-heavy nature of these projects likely means that most young children are likely to have great difficulty understanding them. Rather, these projects are more directly intended for their parents, teachers, and caretakers.
 
-However, once a child starts to appreciate metaphor, I hope that they can derive direct benefit from the theory track.  Of course, the child may be likely to understand less than an adult, but an adult is also more likely to feeling like they don't understand, and and more likely to allow their discomfort from prevent them from trying.
+However, once a child starts to appreciate metaphor, I hope that they can derive direct benefit from the theory track.  Of course, the child may be likely to understand less than an adult, but an adult is also more likely to feel like they don't understand, and are more likely to allow their discomfort to prevent them from trying.
 
-It's okay to feel discouraged or intimidated when trying to learn something new, but it's important to try again anyway. This stuff is difficult to learn for the first time! Neither failure nor the fear of failure should prevent you from trying to learn.
+It's okay to feel discouraged or intimidated when trying to learn something new, but it's important to try and then try again anyway. This stuff is difficult to learn for the first time! Neither failure nor the fear of failure should prevent you from repeatedly trying to learn.
 
-Every mathematician struggled to understand things.  Many mathematicians develop a taste for the struggle, striving for the mental rush that comes from a new understanding, that understanding you suspect might just be a few more failed attempts away.
+Every mathematician struggled to understand things. Many mathematicians develop a taste for the struggle, striving for the mental rush that comes from coming to a new understanding, which you grow to suspect might just be a few more failed attempts away.
