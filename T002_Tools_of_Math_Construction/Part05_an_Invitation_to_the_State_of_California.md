@@ -212,6 +212,7 @@ Essentials of Programming Languages (2nd Ed.), by Daniel Friedman, Mitchell Wand
   * also spent a fair bit of time with this book as an undergraduate
   * inspired a toy stepping debugger for a toy FP language
   * later took classes from Daniel Friedman
+  * helped me invent self-documenting cryptography
 
 Limits of Software: People, Projects, and Perspectives, by Robert N. Britcher
   * Do you care deeply about design?  It's very challenging to do well.
