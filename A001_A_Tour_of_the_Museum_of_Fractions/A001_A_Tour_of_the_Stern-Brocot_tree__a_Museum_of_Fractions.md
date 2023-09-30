@@ -107,86 +107,171 @@ In my next video, I will show you how to efficiently find the room of any specif
     Topics that the Stern-Brocot tree relates to each other,  or are closely related to the Stern-Brocot tree, or the Stern-Brocot tree could at least serve as a useful MacGuffin for discussion,  include but are not limited to:
 
     1. Elementary Arithmetic
+
         * integer multiplication as repeated addition
+
         * integer division as repeated subtraction
+
         * units of measurement, unit fractions, like terms
+
         * unit conversions, expanding fractions, adding fractions
+
         * comparing fractions
+
         * rounding fractions
+
         * reducing fractions, least terms
+
         * the Euclidean algorithm
+
     2. Euclidean Geometry, Linear Algebra
+
         * the number line
+
         * the golden ratio
+
         * Cartesian coordinates
+
         * slope, rates of change
+
         * the parallelogram law of vector addition
+
         * 2x2 matrix multiplication
+
         * determinants of 2x2 matrices
+
+        * Ford Circles
+
+        * The sail of a real number (see Geometry of Continued Fractions by O. Karpenkov)
+
     3. Computer Science
+
         * binary numbers
+
         * binary trees
+
         * loop invariants
+
         * loop variants, halting
+
         * breadth-first search
+
         * first-in, first-out (FIFO) queues
+
         * depth-first search
+
         * last-in, first-out (LIFO) stacks
+
         * binary search
+
         * inorder traversals
+
         * backtracking
+
         * stack-based recursion
+
         * iterative deepening
+
         * run-length encoding
+
         * off-by-one errors
+
         * algorithmic complexity
+
         * worst-case analysis
+
         * asymptotic analysis
+
     4. Discrete Mathematics
+
         * Cantor's countably infinite versus uncountably infinite sets
+
         * Fibonacci numbers
+
         * relative primality
+
         * well-defined functions
+
         * well-defined relations
+
         * modular arithmetic
+
         * (co)recursion and (co)induction
+
     5. Calculus
+
         * limits, convergence of sequences
+
         * the (semi-)convergents of a real number X
+
     6. Numerical Analysis
+
         * continued fractions
+
         * dynamical systems
+
         * Diophantine approximation
+
         * best rational approximations
+
         * Euler-Lagrange theorem of periodic continued fractions
+
         * Liouville Numbers, Transcendality
+
         * Dirichlet Approximation Theorem
+
         * Hurwitz's Theorem (of Number Theory)
+
         * Thue-Siegel-Roth Theorem
+
         * exact real arithmetic
+
         * approximate rational arithmetic
+
     7. Number Theory, Cryptography
+
         * Farey sequences
+
         * the Stern-Brocot representation
+
         * linear Diophantine equations
+
         * Pell's Equation
+
         * Bezout's Identity
+
         * the extended Euclidean Algorithm
+
         * multiplicative modular inverses
+
         * the Calkin-Wilf tree
+
         * finite fields
+
         * elliptic curves
+
         * modular forms
+
     8. Non-Euclidean Geometry, Abstract Algebra, and Complex Analysis
+
         * Linear Fractional Transformations
+
         * The Stern-Brocot free monoid SL(2,N)
+
         * The modular group PSL(2,Z)
+
         * The special linear group SL(2,Z)
+
         * The general linear group GL(2,Z), the automorphisms of the additive group Z⨯Z
+
         * The projective general linear group PGL(2,Z)
+
         * The isometries of the hyperbolic plane, PGL(2,R)
+
         * The Möbius transformations PGL(2,C) = PSL(2,C)
+
         * Minkowski spacetime, Einstein's special relativity
+
         * Mathematical Physics
 
 [^why]:
@@ -213,4 +298,3 @@ In my next video, I will show you how to efficiently find the room of any specif
     Herzinger, Kurt & Wisner, Robert [Connecting Greek Ladders and Continued Fractions](https://www.maa.org/press/periodicals/convergence/connecting-greek-ladders-and-continued-fractions-introduction) _Convergence_ (January 2014)
 
     Barrow, John D. [Chaos in Numberland: the secret life of continued fractions](https://plus.maths.org/issue11/features/cfractions/2pdf/index.html/op.pdf) _Plus Magazine_ (June 2000)
-
