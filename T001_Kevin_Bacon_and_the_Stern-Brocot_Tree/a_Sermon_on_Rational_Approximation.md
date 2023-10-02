@@ -236,11 +236,11 @@ Tou might then appeal to your intution, or even to Euclid's intuition as memoria
 
 But it is a fact that the integers are exactly equal in number to rationals, despite the Bob and Alice subset argument we just gave!  To see why, we'll apply an algorithm known as breadth-first numbering.[^breadthfirstnumbering]
 
-Conduct a left-to-right, breadth-first traversal of the Stern-Brocot tree, marking every room with it's room number, starting at one and increasing sequentially by one for each room visited.  This provides us with an exact one-to-one correspondence between the positive integers and the positive rationals. 
+Conduct a left-to-right, breadth-first traversal of the Stern-Brocot tree, marking every room with it's room number, starting at one and increasing sequentially by one for each room visited.  This provides us with an exact one-to-one correspondence between the positive integers and the positive rationals.
 
 Circa 1874, Georg Cantor was the first to recognize that the integers are equinumerous to the rationals, despite the fact that that the integers are a proper subset of the rationals.  This is possible because both sets are infinite.  Infinity is weird.  It will get weirder.
 
-If you have any doubts about this reasoning, this 1-1 correspondence can be efficiently computed!  It's amazing that the Stern-Brocot Museum of Fraction so readily allows us to "contradict" Euclid, teaching us how to push beyond Euclid's mathematics.  It's poetic justice that Euclid himself unknowningly provided us with the guidebook to the Museum,  the Euclidean Algorithm.  
+If you have any doubts about this reasoning, this 1-1 correspondence can be efficiently computed!  It's amazing that the Stern-Brocot Museum of Fraction so readily allows us to "contradict" Euclid, teaching us how to push beyond Euclid's mathematics.  It's poetic justice that Euclid himself unknowningly provided us with the guidebook to the Museum,  the Euclidean Algorithm.
 
 The Euclidean Algorithm is what is what allows us to efficiently[^continuedfractions] compute this isomorphism of sets between the rationals and integers.  It takes any rational number as an input, and outputs a path to the unique room on the Stern-Brocot tree that contains that fraction in already least terms.
 
@@ -274,7 +274,7 @@ Not only did Euclid give us the guidebook to the museum, the Stern-Brocot tree c
 
 For most practical purposes, the geometry of the patch of universe we inhabit is Euclidean.  Structural engineering and mechanical engineering are domains of discourse in which all of Euclid's common notions and postulates have perfectly reasonable interpretations, and neither of our "counterexamples" make much sense, at least not directly.
 
-But once we fully own the fact that these apparent contradictions are _not counterexamples_,  but a change in assumptions with an attendant change in the domain of discourse, then we can start to appreciate that abstract geometry can be useful for artists and engineers.  
+But once we fully own the fact that these apparent contradictions are _not counterexamples_,  but a change in assumptions with an attendant change in the domain of discourse, then we can start to appreciate that abstract geometry can be useful for artists and engineers.
 
 One famous example is M.C. Escher's tilings of the hyperbolic plane.  For examples that specifically use the modular group, PSL(2,Z), I highly recommend "Indra's Pearls: The Vision of Felix Klein" by David Mumford, Caroline Series, and David Wright!  It's an exciting and relatively accessible introduction to a lot of advanced mathematics, via fractals and computer graphics.
 
@@ -433,7 +433,7 @@ Six answers to the question "What do you do with the result of an integer divisi
       * convergents
       * semi-convergents
       * Diophatine approximation
-  
+
    * Numerical Analysis
 
 4. Keep the quotient, treat the remainder like a numerator of a fraction
@@ -509,6 +509,8 @@ Six answers to the question "What do you do with the result of an integer divisi
       * The Calkin-Wilf tree
    * Gosper's algorithm for continued fraction arithmetic
       * Macsyma / Maxima Computer Algebra System
+
+Unfortunately, contemporary mainstream math education focuses nearly all of it's time on answers #2 and #4, and maybe a little time on answer #1, whereas it's really worth spending time on each topic.
 
 ## Symmetry Group of the Square
 
@@ -609,8 +611,6 @@ Six answers to the question "What do you do with the result of an integer divisi
    * The Möbius transformations PGL(2,C) = PSL(2,C)
 * Abstract Geometries
 
-Unfortunately, contemporary mainstream math education focuses nearly all of it's time on answers #2 and #4, and maybe a little time on answer #1, whereas it's really worth spending time on each topic.
-
 ## Pascal's Triangle
 
 * n choose k
@@ -642,7 +642,7 @@ Unfortunately, contemporary mainstream math education focuses nearly all of it's
 * Bayesian Data Analysis, the Philosophy of Science
 
 ## Units of Measurement
-   
+
 * Unit Fractions
 * Dimensional Analysis
 * Commesurate Units
@@ -650,7 +650,7 @@ Unfortunately, contemporary mainstream math education focuses nearly all of it's
 * The correct way to add fractions
 * Types
 
-| dimension | example units | 
+| dimension | example units |
 | --- | --- |
 | length | | centimeter, inch, foot, yard, meter, kilometer, mile
 | area   = length^2 | square centimeter, square foot, acre, hectare, square kilometer, square mile |
@@ -778,7 +778,7 @@ Mix it up:
 [^newyorkiloveyou]:
     Both Kevin Bacon and Robin Wright appeared in the film "[New York I Love You](https://en.wikipedia.org/wiki/New_York,_I_Love_You)", as it was screened at the 2008 Toronto Film Festival.  This film was an anthology of 14 short films, with Kevin Bacon and Robin Wright appearing in different shorts.  However, before it was released, several of the short films were cut, and the short that Kevin Bacon appeared in was among them.   The Oracle of Bacon does not recognize that Kevin Bacon is connected to "New York I Love You".  So, there is an argument that Kevin Bacon already has a Wright number of one, if we go by film festival screenings.
 
-    On the other hand, Kevin Bacon's scene in "[Starting Over](https://en.wikipedia.org/wiki/Starting_Over_(1979_film)", in which Wallace Shawn appeared, was also cut from the final release.  Kevin Bacon never actually appeared in the movie, although his name does appear in the credits, and this movie is the only movie that the Oracle of Bacon recognizes as a direct connection between Kevin Bacon and Wallace Shawn.  So there's an argument that this connection is kind of weak, and maybe Kevin Bacon shouldn't have a Shawn number of one.
+    On the other hand, Kevin Bacon's scene in "[Starting Over](https://en.wikipedia.org/wiki/Starting_Over_\(1979_film\))", in which Wallace Shawn appeared, was also cut from the final release.  Kevin Bacon never actually appeared in the movie, although his name does appear in the credits, and this movie is the only movie that the Oracle of Bacon recognizes as a direct connection between Kevin Bacon and Wallace Shawn.  So there's an argument that this connection is kind of weak, and maybe Kevin Bacon shouldn't have a Shawn number of one.
 
     However, both Robin Wright and Wallace Shawn's Bacon numbers are certainly 2 or less.  For example, Robin Wright and Wallace Shawn were in the "Princess Bride" with Christopher Guest, who was in "A Few Good Men" with Kevin Bacon.
 
@@ -824,7 +824,7 @@ Mix it up:
 
     Instead of postponing these ideas until later, I feel it's better to introduce at least one of matrix arithmetic and linear transformations, or exponentials and complex arithmetic, before trigonmetry,  and re-introduce rotation matrices and/or Euler's formula near the beginning of trigonometry, so that these ideas can be used when appropriate to simplify and accelerate the learning process.
 
-    Dr. Julian Gevirtz and Dr. David Doiron played significant roles in my thinking on this topic.  I believe several additional math teachers at the Indiana Academy shared similar views on trigonometry and Euler's formula.  Late in the process of writing this essay, Dr. Doron Zeilberger's writings pointed out to me that I'd been overlooking Linear Algebra yet again.
+    Dr. Julian Gevirtz and Dr. David Doiron played significant roles in my thinking on this topic.  I believe several additional math teachers at the Indiana Academy shared similar views on trigonometry and Euler's formula.  Late in the process of writing this essay, Dr. Doron Zeilberger's [Five More Proofs of the Cosine Addition Formula](https://sites.math.rutgers.edu/~zeilberg/mamarim/mamarimPDF/cos.pdf) pointed out to me that I'd been overlooking Linear Algebra yet again.
 
 [^counting]:
     The coverage of counting and combinatorics in my pre-calculus curriculum, on the other hand, left much to be desired.  Also, pretty much all of the history of combinatorics and counting is something I delved into myself, in the process of writing this video.  The standard curriculum often does a poor job regarding the history of mathematics in general, but the history of combinatorics is all but ignored.  But I was delighted when Emily Miller sent me a link to Victoria Hanna's song [Twenty two (22) letters](https://www.youtube.com/watch?v=gcnxRi0s_DM) about the [Sefer Yetzirah](https://en.wikipedia.org/wiki/Sefer_Yetzirah), which you might also enjoy.
@@ -841,19 +841,19 @@ Mix it up:
 
     But there is a very wise heuristic here:  you should not fully trust a concept or technique or model until you start to understand its limitations, until you start to understand the situations in which it doesn't apply.
 
-[^breadthfirstnumbering]: 
+[^breadthfirstnumbering]:
     See for example, "[Breadth-First Numbering: Lessons from a Small Exercise in Algorithm Design](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.30.342)" by Chris Okasaki. This was also a topic in my own paper "[Lloyd Allison's Corecursive Queue: Why Continuations Matter](https://hackage.haskell.org/package/control-monad-queue)", which used the renumbering problem on Stern-Brocot tree as a MacGuffin to explore the limits of Haskell's computational calculus.
 
-    While the content of the Stern-Brocot tree itself was extraneous to the paper, and I'm very unsure of the importance of the techniques explored in the paper,  I "superfluously" used the Stern-Brocot tree because it was an idea worth spreading, and because it was a gift to my future self for when I finally got around trying to explain my philosophy of math education.  
+    While the content of the Stern-Brocot tree itself was extraneous to the paper, and I'm very unsure of the importance of the techniques explored in the paper,  I "superfluously" used the Stern-Brocot tree because it was an idea worth spreading, and because it was a gift to my future self for when I finally got around trying to explain my philosophy of math education.
 
     Incidentally, in "Fun with the Lazy State Monad" I managed to repeat a trick in "Lloyd Allison's Corecursive Queue", and turned the "Breadth-First Numbering with Lazy Evaluation" appendix of the first paper into a reusable library.
 
     I was very interested in circular, corecursive programming for nearly 10 years. While it is a curious niche topic, it also feels like sporadic, and does not seem fertile: algorithms are hard to come by, and I only know of two interesting examples: queues and breadth-first relabelling.
-    
-    I'm not aware that either example is naturally motivated.  I don't know why these curiosities might be on interest to the working software engineer or the working mathematician.   
-    
-    By contrast, corecursion (minus the circular peculiarities I was fixated on) leads to far more fertile examples in mathematics, particularly the Stern-Brocot tree and generating functions.  
-    
+
+    I'm not aware that either example is naturally motivated.  I don't know why these curiosities might be on interest to the working software engineer or the working mathematician.
+
+    By contrast, corecursion (minus the circular peculiarities I was fixated on) leads to far more fertile examples in mathematics, particularly the Stern-Brocot tree and generating functions.
+
     An introduction generating functions can be made suprisingly accessible using combinatorics, formal power series, and lazy evaluation.  This approach is nicely covered in chapter 10 of "The Haskell Road to Logic, Maths and Programming" by Jan Eijck and Kees Doets, as well as the very remarkable paper "[The Music of Streams](https://www.cs.dartmouth.edu/~doug/music.ps.gz)" by Douglas McIlroy. Thanks to this work, in a post-reform curriculum an introduction to generating functions seem to be high school material.
 
 [^continuedfractions]:
