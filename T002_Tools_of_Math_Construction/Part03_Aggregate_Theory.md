@@ -4,6 +4,8 @@
 # an Aggregate Theory of Concrete Mathematics
 ## Suggestions for Further Study
 
+As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on Rational Approximation](../T001_Kevin_Bacon_and_the_Stern-Brocot_Tree/a_Sermon_on_Rational_Approximation.md), the Stern-Brocot Tree appears in each of these three books:
+
 * Indra's Pearls: The Vision of Felix Klein, by David Mumford, Caroline Series, and David Wright
   * A state-of-the-art introduction to computer graphics, fractals, mathematics, and much more.
   * reminds me a lot of examples from "Oh! Pascal!", but much more in-depth.
@@ -18,11 +20,12 @@
       * Visual Differential Geometry and Forms, by Tristan Needham
 
 * Introduction to Experimental Mathematics, by Søren Eilers and Rune Johansen
-  * A continuation of _the inductive attitude_ theme of this essay
+  * A continuation of _the inductive attitude_ theme of this study guide
       * The Scout Mindset, by Julia Galef
       * How to Solve It, by George Pólya
       * Mathematics and Plausible Reasoning, by George Pólya
       * Proofs and Refutations, by Imre Lakatos
+      * The Book of Why, by Judea Pearl and Dana Mackenzie
 
 * Concrete Mathematics (2nd Ed.), by Ronald L Graham, Donald E Knuth, and Oren Patashnik
   * Exercise 4.4: Depends on interpretation.
