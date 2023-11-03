@@ -1,7 +1,7 @@
 #   Kevin Bacon and the Stern-Brocot Tree
 ##  a Sermon on Rational Approximation
 
-Note that this is intended to be a script for a future video. For an overview of the larger project, see the top level [README](../README.md). For the companion study guide, see the [Tools of Math Construction](../T002_Tools_of_Math_Construction/An_Aggregate_Theory_of_Concrete_Mathematics.md)
+Note that this is intended to be a script for a future video. For an overview of the larger project, see the top level [README](../README.md). For the companion study guide, see the [Tools of Math Construction](../T002_Tools_of_Math_Construction/An_Aggregate_Theory_of_Concrete_Mathematics.md), which contains an [intellectual history of an Aggregate Theory of Concrete Mathematics](../T002_Tools_of_Math_Construction/Part03_Aggregate_Theory.md)
 
 ```
    The Stern-Brocot tree as a Rosetta Stone between computer science,
@@ -33,7 +33,7 @@ Note that this is intended to be a script for a future video. For an overview of
 * Memory Tripods, Mnemonics and Spaced Repetition: heuristics for improving memory and recall
 * Creative Writing and Rhetoric: there is no Case for the Humanities!
 
-# The Six Degrees of Kevin Bacon
+# The Oracle of Bacon, and the Six Degrees of the Stern-Brocot Tree
 
 You might be asking, why should we care about the Stern-Brocot tree?  Why should we care about this Museum of Fractions?
 
@@ -55,13 +55,13 @@ Of course, the selection of Kevin Bacon as the "root" of the Six Degrees is arbi
 
 Part of the appeal of this game is that each link naturally combines three things together into a little story, which are built up into larger stories, which enhances memory and recall of a corpus of knowledge.  I call this a "Memory Tripod", but this is nothing new.  Greek and Roman philosophies have long recognized the value of various mnemonics and heuristics to enhance the art of memory.  In the study of Rhetoric, there is the Method of Loci, to enhance memory by a physical location, real or imagined. Today, sometimes this is called a memory palace.  These are examples of elaborative encoding.  Variations on elaborative encoding have long been widely appreciated, both in classical scholarship of Grammar and Rhetoric, two legs of the Trivium, and also in the modern departments of English and Creative Writing.
 
-In the context of the Six Degrees, Kevin Bacon is a MacGuffin, a plot device to motivate the game.  At it's best, the game highlights just how connected we are to each other.  The Oracle of Bacon demonstrates that the overwhelming majority of cataloged performers, no matter how obscure, have a Bacon number of six or less.  When you extend the notion of what counts as a "connection" to social situations, you get a social game that, when at its best, should help us understand and appreciate how we are connected to each other.[^cradleofhumankind]
+In the context of the Six Degrees, Kevin Bacon is a MacGuffin, a plot device to motivate the game. At its best, the game highlights just how connected we are to each other. The Oracle of Bacon demonstrates that the overwhelming majority of cataloged performers, no matter how obscure, have a Bacon number of six or less. When you extend the notion of what counts as a "connection" to social situations, you get a social game that when played well should help us understand and appreciate how we are connected to each other.[^cradleofhumankind]
 
 When it comes to choosing a MacGuffin for a Six Degrees game, not all choices are the same.  Not all choices are similar, either, but it wouldn't make much a difference to play the Six Degrees of Kevin Bacon or the Six Degrees of Robin Wright, or Wallace Shawn or Tom Hanks or Meg Ryan.  These are all high-profile, well-known performers.
 
 Let's introduce a somewhat arbitrary statistic into our domain of discourse:  let's take each individual performer cataloged in the database, compute the Robin Wright number for each performer, and then average the Wright number among all those hundreds of thousands of performers.  Thus, in the Six Degrees of Robin Wright, the average Wright number is just over 3.  The other performers I've mentioned have a very similar statistic.  The actor with the smallest such statistic is Christopher Lee.  In the Six Degrees of Christopher Lee, the average Lee number is just under 3.  It's quite difficult to simply guess an actor with a high statistic:  even in the Six Degrees of Tommy Wiseau, the average performer has a Wiseau number just under 4.
 
-But we should recognize that both this statistic and the Oracle of Bacon fail to provide any kind of definitive truth.  Rather, they provide a point of discovery.  The discovery is a starting point for lateral cross-checking and internal consistency-checking.   The discovery is a starting point for accounting honestly for the different types of uncertainty and doubt that we should or should not have regarding any conclusions we may wish to draw from the Oracle of Bacon.
+But we should recognize that neither this statistic nor the Oracle of Bacon provide any kind of definitive truth. Rather, they provide a point of discovery. The discovery is a starting point for lateral cross-checking and internal consistency-checking. The discovery is a starting point for accounting honestly for the different types of uncertainty and doubt that we should or should not have regarding any conclusions we may wish to draw from the Oracle of Bacon.
 
 These processes of discovery, investigation, lateral cross-checking, internal consistency-checking, and review are necessary for developing meaningful understandings of your domains of study.  And then, as I imagine the philosoper and mathematician William Kingdon Clifford might say, taking our epistemic responsibilities seriously require the wise application of logic, uncertainty, and doubt.  But of course, all the best tools that analytical philosophy and statistics have to offer are useless without starting with a commitment to honesty, and some understanding of all that entails.
 
@@ -92,6 +92,8 @@ Choosing a metaphor is hard work.  Choose poorly, and the metaphor falls apart q
 | Cartesian Coordinates |
 | Adding and subtracting integers |
 | Using Pascal's Triangle to count paths, generate paths, and take random walks |
+| Boolean Logic |
+| Computer Programming |
 
 # An Aggregate Theory of Concrete Mathematics, and learning via a human-computer feedback loop
 
@@ -246,11 +248,11 @@ The Euclidean Algorithm is what is what allows us to efficiently[^continuedfract
 
 This path is known as the Stern-Brocot representation. We can think of it like a string in computer programming, a finite string consisting of solely of 'L's and 'R's.  We can use the Stern-Brocot representation of a fraction to efficiently compute the room number of that fraction, and vice-versa: just change the 'L's to 0 and the 'R's to 1,  and put another '1' in front, and interpret the result as a binary number.  This process is reversible.
 
-Every room in the Stern-Brocot tree has a boundary matrix.  The boundary fractions of a room on the Stern-Brocot tree exactly correspond to a 2x2 matrix with nonnegative integer entries, and with determinant equal to one.  The converse is also true, a result in linear Diophantine equations.
+Every room in the Stern-Brocot tree has a boundary matrix. The boundary fractions of a room on the Stern-Brocot tree exactly correspond to a 2⨯2 matrix with nonnegative integer entries, and with determinant equal to one. The converse is also true, a result in linear Diophantine equations.
 
 Moving left on the Stern-Brocot tree corresponds to multiplying by the boundary matrix of one half's room.  Moving right on the Stern-Brocot tree corresponds to multiplying by the boundary matrix of two's room.  The monoid generated by these left and right matrices corresponds exactly to the Stern-Brocot tree.
 
-This monoid is free, because in this garden of forking paths, the paths deeper into the museum never ever come back together.  I call this "the Stern-Brocot free monoid SL(2,N)", a subset of the 2x2 matrices with nonnegative integer entries.
+This monoid is free, because in this garden of forking paths, the paths deeper into the museum never ever come back together. I call this "the Stern-Brocot free monoid SL(2,N)", a subset of the 2⨯2 matrices with nonnegative integer entries.
 
 Not only is this correspondence an isomorphism of sets, it's also an isomorphism of monoids, which means this symmetry preserves something beyond numerousity.
 
@@ -260,13 +262,11 @@ Because our "isomorphism of sets" to illustrate Cantor's equivalence is also an 
 
 Given a boundary matrix in Stern-Brocot free monoid SL(2,N), multiplying by the column vector (1 1) on the right gets you a label on the Stern-Brocot tree, and multiplying by the row vector (1 1) on the left gets you a label on the Calkin-Wilf tree. You can move between these two trees by taking the anti-diagonal transpose of a matrix in SL(2,N).
 
-If you consider the group of 2⨯2 matrices generated by the union of SL(2,N) and the Symmetry Group of the Square D_4, you get the general linear group GL(2,Z),  which is all the 2x2 matrices with integer elements and determinant ±1.[^automorphisms]
+If you consider the group of 2⨯2 matrices generated by the union of SL(2,N) and the Symmetry Group of the Square D_4, you get the general linear group GL(2,Z),  which is all the 2⨯2 matrices with integer elements and determinant ±1.[^automorphisms]
 
 In fact, every 2⨯2 matrix in GL(2,Z) can be written in exactly four different ways as the product of an element in D4, then an element in SL(2,N), and finally D4 again, with the exception that elements of D4 can themselves be written in eight different ways.  In a sense, GL(2,Z) is sixteen copies of SL(2,N) interacting in complicated ways, much like the signed integers Z are are two copies of the natural numbers N interacting in much a simpler way.
 
 We can zoom in on the most interesting complication in this interaction by taking a look at the modular group PSL(2,Z), which is an example of a Fuchsian group because it can be interpreted as a discrete subgroup of the isometries of the hyperbolic plane.[^modularforms]  Hyperbolic geometry was the first example of a non-Euclidean geometry recognized as such by Gauss, Lobachevsky, and Bolyai.
-
-For a look at the modular group PSL(2,Z), I highly recommend "Indra's Perals: T
 
 # Judging the applicability of assumptions to differing domains of discourse.
 
@@ -812,7 +812,7 @@ Mix it up:
     See for example [Mister Rogers Had A Simple Set of Rules for Talking to Children](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/), or [Mr Rogers Nine Rules for Speaking to Children](https://www.openculture.com/2019/05/mr-rogers-nine-rules-for-speaking-to-children-1977.html), or "The Good Neighbor: The Life and Work of Fred Rogers" by Maxwell King
 
 [^exponential]:
-    Many people have advocated for the "concrete examples before abstract principles" heuristic to teaching mathematics.  Doron Zeilberger's Opinion 65 regarding Gelfand's principle has played a particularly strong role in my thinking about math pedagogy.  Daniel Friedman and Kent Dybvig have both themselves contributed strongly to my thinking.
+    Many people have advocated for the "concrete examples before abstract principles" heuristic to teaching mathematics.  [Doron Zeilberger's Opinion 65](https://sites.math.rutgers.edu/~zeilberg/Opinion65.html) regarding Gelfand's principle directly inspired my interest in teaching D_4 and helped inspire my interest in teaching SL(2,N).  Daniel Friedman and Kent Dybvig have both themselves contributed strongly to my thinking on math pedagogy.
 
     One likely exception to this rule of thumb is teaching exponentials and logarithms, for example see [Timothy Gowers's take on the subject](https://gowers.wordpress.com/2007/09/13/how-should-logarithms-be-taught/).  Young children certainly can get started with exponents and logarithms in terms of the integer powers of ten and the integer powers of two.  These are sufficient to introduce the terminology and give concrete examples of the basic algebraic properties these functions exhibit.
 
@@ -842,15 +842,19 @@ Mix it up:
     But there is a very wise heuristic here:  you should not fully trust a concept or technique or model until you start to understand its limitations, until you start to understand the situations in which it doesn't apply.
 
 [^breadthfirstnumbering]:
-    See for example, "[Breadth-First Numbering: Lessons from a Small Exercise in Algorithm Design](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.30.342)" by Chris Okasaki. This was also a topic in my own paper "[Lloyd Allison's Corecursive Queue: Why Continuations Matter](https://hackage.haskell.org/package/control-monad-queue)", which used the renumbering problem on Stern-Brocot tree as a MacGuffin to explore the limits of Haskell's computational calculus.
+    See for example, "[Breadth-First Numbering: Lessons from a Small Exercise in Algorithm Design](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.30.342)" by Chris Okasaki. This was also a topic in my own paper "[Lloyd Allison's Corecursive Queue: Why Continuations Matter](https://hackage.haskell.org/package/control-monad-queue)", which used breadth-first search and the renumbering problem on the Stern-Brocot tree as a MacGuffin to explore the outer limits of Haskell's computational calculus. Incidentally, the idea of using Allison's queue as a naturally motivated example of a monadic abstraction, which led to my initial discovery, was directly inspired by Dr. Z's Opinion #65 and a [discussion it spawned](http://lambda-the-ultimate.org/node/924).
 
-    While the content of the Stern-Brocot tree itself was extraneous to the paper, and I'm very unsure of the importance of the techniques explored in the paper,  I "superfluously" used the Stern-Brocot tree because it was an idea worth spreading, and because it was a gift to my future self for when I finally got around trying to explain my philosophy of math education.
+    While the content of the Stern-Brocot tree itself was extraneous to the paper, and I'm very unsure of the deeper importance of the techniques explored in the paper,  I "superfluously" used the Stern-Brocot tree because it was an idea worth spreading, and because it was a gift to my future self for when I finally got around trying to explain my philosophy of math education.
 
-    Incidentally, in "Fun with the Lazy State Monad" I managed to repeat a trick in "Lloyd Allison's Corecursive Queue", and turned the "Breadth-First Numbering with Lazy Evaluation" appendix of the first paper into a reusable library.
+    However, I didn't realize at the time that my opening lesson would literally be a breadth-first search of the Stern-Brocot tree. I certainly didn't intend my forward pass to my future self to be that on the nose.
 
-    I was very interested in circular, corecursive programming for nearly 10 years. While it is a curious niche topic, it also feels like sporadic, and does not seem fertile: algorithms are hard to come by, and I only know of two interesting examples: queues and breadth-first relabelling.
+    Incidentally, in "Fun with the Lazy State Monad" I managed to repeat a trick, and turned the the appendix of "Breadth-First Numbering with Lazy Evaluation into a reusable library.
 
-    I'm not aware that either example is naturally motivated.  I don't know why these curiosities might be on interest to the working software engineer or the working mathematician.
+    I was very interested in circular, corecursive programming for nearly 10 years. While it is a curious niche topic, it also feels sporadic, and does not seem fertile: algorithms are hard to come by, and I only know of two particularly interesting examples: queues and breadth-first relabelling.
+
+    While each example is naturally motivated in a very limited context, I'm not sure that they are deeply naturally motivated . I don't know why these curiosities might be on interest to the working software engineer or the working mathematician.
+
+    On the other hand, the time spent thinking carefully about the nature of streaming computations was indispensible when I was thinking about PBKDF2 in the process of developing [self-documenting cryptography](https://github.com/auth-global/self-documenting-cryptography).
 
     By contrast, corecursion (minus the circular peculiarities I was fixated on) leads to far more fertile examples in mathematics, particularly the Stern-Brocot tree and generating functions.
 

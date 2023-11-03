@@ -1,6 +1,5 @@
 [Back to Part 2: Deconstructing Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md#navigation). Up next, Part 3:
 
-
 # an Aggregate Theory of Concrete Mathematics
 ## Suggestions for Further Study
 
@@ -22,25 +21,28 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 * Introduction to Experimental Mathematics, by Søren Eilers and Rune Johansen
   * A continuation of _the inductive attitude_ theme of this study guide
       * The Scout Mindset, by Julia Galef
+      * The Knowledge Illusion, by Steven Sloman and Philip Fernbach
       * How to Solve It, by George Pólya
       * Mathematics and Plausible Reasoning, by George Pólya
       * Proofs and Refutations, by Imre Lakatos
       * The Book of Why, by Judea Pearl and Dana Mackenzie
+      * An Introduction to Probability and Inductive Logic, by Ian Hacking
+      * Statistical Rethinking, by Richard McElreath
 
 * Concrete Mathematics (2nd Ed.), by Ronald L Graham, Donald E Knuth, and Oren Patashnik
   * Exercise 4.4: Depends on interpretation.
-     * if interpreted as pair, then (1,1) /= (-1,-1), and
-          * then it's four of the eight lobes of the group SL(2,Z)
+     * if interpreted as pair, then (1,1) /= (-1,-1), then
+          * it's four of the eight lobes of the group SL(2,Z), and
           * SL(2,Z) is the transitive closure of these lobes under group multiplication.
-     * if interpreted as ratio, then 1/1 == (-1)/(-1), and
-          * it's two of the four lobes of the modular group PSL(2,Z), each duplicated twice
+     * if interpreted as ratio, then 1/1 == (-1)/(-1), then
+          * it's two of the four lobes of the modular group PSL(2,Z), each duplicated twice, and
           * PSL(2,Z) is the transitive closure of these lobes under group multiplication.
      * the function \x -> x * ((0 1)(-1 0)) is a bijection between the provided lobes and the missing lobes
-  * see scanned notes
+  * see [scanned notes](notes-on-modular-group.pdf)
   * should rewrite essay in TeX to expand on this answer.
-     * a free presentation of the modular group based on pointwise product of D_4 * SL(2,N) * D_4
+     * a free presentation of GL(2,Z), SL(2,Z), and PSL(2,Z) based on pointwise product of D_4 * SL(2,N) * D_4
      * syntactic correspondence (computable by a small and simple Mealy-type finite-state machine) of the _coproduct_ (also known as the _free product_) of Z_3 and Z_2
-     * include a more careful writeup of the results in my notes, alluded to in KB&SBT and the tribute that follows
+  * the term "lobe" borrowed from "Streaming Down the Stern-Brocot Tree: Finding and Expressing Solutions to Pell's Equation in SL(2,Z)" by Marcus Shell
   * Synthesizing this answer with "Algebra: Chapter 0" by Paolo Aluffi should be a very fertile exercise.
 
 # An intellectual history of an Aggregate Theory
@@ -94,7 +96,7 @@ Life happened, and these ideas got shuffled to the backburner. In the intervenin
 
 Now, Edward Kmett may well be the the most conventionally intelligent man I've ever met. He is a force of nature, with an astonishing breadth and depth of knowledge in mathematics and computer science, and with a level of energy and stamina that I often simply cannot keep up with. So naturally I was extremely interested in what he was saying. As I was listening to Ed talk about the way he accomplished some truly astonishing feats of personal learning, I realized Ed was, like Doron Zeilberger, touching many ideas that were in already in my own head. However, Ed was explicating instincts that were buried even more deeply in my subconcious, and also pointing out a large number of things I had never considered, even instinctively. As I listened, I knew the thoughts that he was creating in my head was a seed for an answer to the question "How to teach math?" that I had long been seeking.
 
-I knew that if I dropped that seed into the supersaturated solution of unorganized partial answers to "how to teach mathematics" in my mind, a much better answer would start crystallizing. Finally, this pandemic, the coup, the prodding of a dear friend, and meeting the young son of a personal friend, inspired me to bring these ideas back to the forefront of my mind. As expected, the theory started getting organized. Then the theory started growing rather more vigorously than expected.
+I knew that if I dropped that seed into the supersaturated solution of unorganized partial answers to "how to teach mathematics" in my mind, a much better answer would start crystallizing. Finally, this pandemic, the coup, the instigation of my friend Yuri Goldfeld, and meeting the young son of a dear personal friend, inspired me to bring these ideas back to the forefront of my mind. As expected, the theory started getting organized. Then the theory started growing rather more vigorously than expected.
 
 It had long been obvious that the Stern-Brocot tree would be the frontispiece of my theory. As I started planning my first videos on rebuilding fractions and the Stern-Brocot tree, I realized I couldn't quite adequately explain the connection between the Stern-Brocot tree and the Euclidean algorithm. I could explain how the connection worked, but realized I couldn't quite answer why. This was creating doubts that I would be able to give a really suggestive answer "how". So I reviewed "Enumerating the Rationals", discovered that it never actually explained the "why" of the connection, and followed the reference back to "Concrete Mathematics". In retrospect, I had been personally experiencing the knowledge illusion regarding the nature of this connection.
 
@@ -165,7 +167,7 @@ Apply iterative deepening depth first searches to the following starting points:
 
 As soon as practical, mix in practices that exercise the inductive attitude, computer programming, problem solving, heuristics, self-awareness, self-control, and social skills.
 
-Teachers need to keep in mind major milestones that should be achieved, including computer programming,, Boolean logic, binary numbers, types, Cartesian coordinates, geometric modelling, dimensional analysis, the arithmetic of fractions, binary search, depth-first search, breadth-first search, iterative deepening, radix-point arithmetic, limits of Stern-Brocot sequences, divergent sequences, counting combinatorially, matrix arithmetic, probability, statistics, inductive reasoning, deductive reasoning, recursion, syntax and parsing, and proof by induction. Teachers need to assist reaching simple milestones in these topics as early as is reasonable.
+Teachers need to keep in mind major milestones that should be achieved, including computer programming, Boolean logic, binary numbers, types, Cartesian coordinates, geometric modelling, dimensional analysis, the arithmetic of fractions, binary search, depth-first search, breadth-first search, iterative deepening, radix-point arithmetic, limits of Stern-Brocot sequences, divergent sequences, counting combinatorially, matrix arithmetic, probability, statistics, inductive reasoning, deductive reasoning, recursion, syntax and parsing, and proof by induction. Teachers need to assist reaching simple milestones in these topics as early as is reasonable.
 
 A first exposure to an idea or concept need not be a deep exposure: it only needs to be deep enough to establish a sturdy memory tripod or two, ideally by relating the concept to one or two other ideas in the curriculum. A secondary goal for an ideal lesson should be to drop some breadcrumbs and suggested readings that will hopefully create a mental reference in many students, and that hopefully a few students will someday follow up on.
 
@@ -203,7 +205,7 @@ I mean, one of my goals for the design was to be able to trace out plausible pat
 
 It's ok if the approach to the Fourier transform is primarily intuitive, informal, and applied; in fact that's all I personally have. I don't (yet?) have a deep theoretical understanding of the Fourier Transform.  Of course, I would very much like to see many hints towards this latter understanding worked into the informal, more applied introduction.  But that's definitely outside my wheelhouse, at least for the time being.
 
-I am, however, supremely confident that such a plan can be created. As an obvious starting place, discussions of the Fourier transform can be naturally motivated by studies into music, sound, and amateur radio. In fact, I have rough ideas of how the aggregate theory connects to almost all of the mathematics that I have a minimal referential understanding of, i.e. anything more than just a name.  And of course, the much smaller subset of mathematics I am truly competent in, is nicely covered by the aggregate theory..
+I am, however, supremely confident that such a plan can be created. As an obvious starting place, discussions of the Fourier transform can be naturally motivated by studies into music, sound, and amateur radio. In fact, I have rough ideas of how the aggregate theory connects to almost all of the mathematics that I have a minimal referential understanding of, i.e. anything more than just a name.  And of course, the much smaller subset of mathematics I am truly competent in, is nicely covered by the aggregate theory.
 
 This larger category covers pretty much the entire core of a mainstream undergraduate mathematics curriculum, as well as some advanced undergraduate and early graduate-level topics that have been demonstrated to have great strategic value. But what if you don't even have a vague idea of how to incorporate an idea into your theory of mathematics?
 
@@ -228,7 +230,7 @@ The Haskell Road to Logic, Maths, and Programming, by Kees Doets and Jan van Eij
       * an induction schema: induction over IVPs
       * IVPs are well connected to combinatorics and linear algebra, with hints towards functional analysis
       * IVPs are an object specifically of interest in algebraic topology (But I don't understand why, yet.)
-  * The binomal theorem used in the book precedes Sir Issac Newton.  Calling it "Newton's Binomial Theorem" without generalizing the binomial coefficients to the real numbers is definitely weird; I decidely do not like that linguistic precedent.  On the other hand, my rewrite would most definitely include at least a blurb about Newton's Binomal Theorem, and a mention of hypergeometric summation.
+  * The integer-only binomial theorem used in the book precedes Sir Issac Newton.  Calling this "Newton's Binomial Theorem" without generalizing to the real numbers is definitely weird; I decidely do not like that linguistic precedent.  On the other hand, my rewrite would most definitely include at least a blurb about Newton's Binomal Theorem, and a mention of hypergeometric summation.
   * Chapter 10 is absolutely brilliant, and I'm sure my understanding of it could be deeper.
   * Chapter 10, Douglas McIlroy's "Music of Streams", and Project Euler demonstrates that a simplified, applied introduction to generating functions via combinatorics, formal power series, and lazy evaluation can be very approachable.
   * Personally, I would love to see an introduction to generating functions in high school. This book hints at an approach that seems promising.

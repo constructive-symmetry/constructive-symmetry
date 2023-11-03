@@ -7,7 +7,7 @@ In celebration of Rational Approximation Day 02022-07-22, and in the name of Rea
 [![Philosophy News Network: is Philosophy Useless?](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless1.png)](https://existentialcomics.com/comic/365)
 [![Philosophy News Network: is Philosophy Useless?](external-assets/static.existentialcomics.com/comics/PhilosophyNewsNetworkisPhilosophyUseless2.png)](https://existentialcomics.com/comic/365)
 
-If you only ever read a single suggestion from this study guide, I would ask that you read "Weapons of Math Destruction" by Cathy O'Neil, as it is directly relevant to the state of the world today and the many contemporary challenges we face. I suspect a great many people should probably read "The Scout Mindset" by Julia Galef first, as preparation.
+If you only ever read a single suggestion from this study guide, I would ask that you read "Weapons of Math Destruction" by Cathy O'Neil, as it is directly relevant to the state of the world today and the many contemporary challenges we face. The same can be said for Zoe Bee's videos [In Defense of Inefficiency](https://www.youtube.com/watch?v=7-_rK0KkB6k), and [Grading is a Scam (and Motivation is a Myth) | A Professor Explains](https://www.youtube.com/watch?v=fe-SZ_FPZew). I suspect a great many people should probably read "The Scout Mindset" by Julia Galef first, as preparation.
 
 ## Analytical Contents
 
@@ -37,21 +37,33 @@ To celebrate, I suggest [cutting a pie into sevenths, and sharing it with a circ
 [**Self-aware, Inductive Reasoning:**](#self-aware-inductive-reasoning)
 
 1. The Scout Mindset: Why Some People See Things Clearly and Others Don't, by Julia Galef
+
 2. Benjamin Franklin: A Film by Ken Burns
-3. The Knowledge Illusion: Why We Never Think Alone, by Steven Sloman and Philip Fernbach
+
+3. The Knowledge Illusion: Why We Never Think Alone, by Steven Sloman and Phi
+lip Fernbach
+
 4. The Book of Why: The New Science of Cause and Effect, by Judea Pearl and Dana Mackenzie
 
 [**Ethics and Moral Philosophy:**](#ethics-and-moral-philosophy)
 
 5. The Ethics of Belief, by William Kingdon Clifford
+
 6. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, by Cathy O'Neil
-7. When Time Is Short: Finding Our Way in the Anthropocene, by Timothy Beal
+
+7. In Defense of Inefficency, by Zoe Bee
+
+8. When Time Is Short: Finding Our Way in the Anthropocene, by Timothy Beal
 
 [**Philosophy of Math (and Science):**](#the-philosophy-of-math-and-science)
 
-8. Proofs and Refutations: The Logic of Mathematical Discovery, by Imre Lakatos
-9. Language, Proof and Logic (2nd Ed.), by Dave Barker-Plummer, Jon Barwise, and John Etchemendy
-10. Statistical Rethinking: A Bayesian Course with Examples in R and Stan (2nd Ed.), by Richard McElreath
+9. Proofs and Refutations: The Logic of Mathematical Discovery, by Imre Lakatos
+
+10. Language, Proof and Logic (2nd Ed.), by Dave Barker-Plummer, Jon Barwise, and John Etchemendy
+
+11. An Introduction to Probability and Inductive Logic, by Ian Hacking
+
+12. Statistical Rethinking: A Bayesian Course with Examples in R and Stan (2nd Ed.), by Richard McElreath
 
 Our contemporary culture likes to talk about, use, misuse and abuse math and science a lot, but what are these things, really?  Where does science come from?  What makes science "true"? Does mathematics provide "absolute" truth? What is "truth", anyway?  What are the differences between math and science, and how are they related? What are the material conditions in which math and science are conducted? What responsibilities do we have regarding what we believe to be true?
 
@@ -139,6 +151,8 @@ In terms of our moral, ethical, and epistemic responsibilities, the information 
 This phenomenon of highly problematic, suspect uses of "math", "science" and "reason" is not new:  see "The Mismeasure of Man" by Stephen Jay Gould for examples that predate modern information technology, such as phrenology. In fact, much of the earliest work on inductive logic, correlation, and statistics by Charles Sanders Peirce, Francis Galton, Karl Pearson, Ronald A Fisher and others was in fact motivated at least in part by trying to provide a justification for slavery, social Darwinism, class inequality, eugenics, and/or scientific racism.
 
 While these motivations should rightly be recognized as moral refutations produced by our very human history, these delusions also produced geniune insight as a byproduct.  It would also be a mistake to dismiss that insight. However, please recognize that this is not a "Get Out of Jail free" card. Even today, issues that rhyme with these moral refutations continue to echo and to be recreated afresh under different guises. We very much still do need to address issues of how to use statistical ovens appropriately and how to interpret their estimates wisely.
+
+On this count, I highly recommend several of Zoe Bee's videos, especially [In Defense of Inefficiency](https://www.youtube.com/watch?v=7-_rK0KkB6k), and [Grading is a Scam (and Motivation is a Myth) | A Professor Explains](https://www.youtube.com/watch?v=fe-SZ_FPZew).  I also recommend "Mathematics for Human Flourishing" by Francis Su.
 
 Rounding out a crash-course in the moral dimensions of our current situation, I highly recommend Vaclav Smil's book "How the World Really Works", as well as Tom Murphy's blog "Do The Math" and his textbook "Energy and Human Ambitions on a Finite Planet: Assessing and Adapting to Planetary Limits". An evaluation of the thermodynamic bases of the economies of ancient cultures can be found in a number of Jared Diamond's books, including "Guns, Germs and Steel" and "Collapse". I admire the IPCC and the Long Now Foundation, and the work of Stewart Brand, James Hansen, and Michael Mann among many others.
 

@@ -327,6 +327,8 @@ I hope that you will grow to appreciate some of the many contradictions that can
 
 19. How to Have an Enemy: Righteous Anger and the Work of Peace, by Melissa Florer-Bixler
 
+[![The Emperor's New Clothes](external-assets/static.existentialcomics.com/comics//TheEmperorsNewClothes.png)](https://static.existentialcomics.com/comics/TheEmperorsNewClothes.png)
+
 20. Confronting Christofascism, by Carolyn Baker
 
 21. Jesus and John Wayne, by Kristen Kobes Du Mez

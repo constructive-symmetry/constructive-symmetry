@@ -25,101 +25,201 @@ Arithmetic on this representation computes the combined effect of two of these i
 
 The second implementation of D4 is based on matrix multiplication.  I cannot imagine a simpler or more ideal setting for gently introducing and motivating matrices and quickly tying their arithmetic to a memory tripod than the symmetry group of the square!   The first step is understanding D4's action on the cartesian coordinate grid Z⨯Z.   The second step is learning to implement D4's action on Z^2 by multiplying a 2⨯2 matrix with a 2⨯1 vector.   Finally, the third step is learning implement arithmetic on D4 as a full 2⨯2 matrix multiplication.  The determinant of these matrices is ±1, which corresponds to the orientation.  Linear algebra and geometric interpretations thereof certainly are topics that are easy to underappreciate, and this pedagogical route emphasizes this connection from the very start.
 
+# Expecting the unexpected surprise
+
+When I first started drawing the D_4 calculator on paper for the first time, something about the principles I couldn't quite articulate but was committing to in order to develop the visual pun, gave me a strong sense that I would find an unexpected reward for my expense.  I was expecting the unexpected, and then I found it: after I finished, it didn't take me long to observe that by mentally moving the "window" on this book of algebra from the 12 o'clock position to the 3 o'clock position, the calculator works flawlessly, even though different physical glyphs are involved on the obverse side!  Try it!
+
 
 # Symmetry Group of the Square
-   Basic Algebra
-      * D4 is not commutative, commutativity is not trivial or tautological
-      * D4 is associative, associativity is not the same thing as commutativity
-      * D4 among the simplest concrete examples of a non-abelian group
-      * Rotating a rectangle conserves area, commutativity of multiplication
-      * Rotating a brick conserves volume, associativity of multiplication
-      * implement D4 as a car on a circular track with four stops
-         * our first concrete examples of a:     
-            * semidirect product, Z_4 ⋊ {+,-}
-            * modular arithmetic (mod 4)
-         * generalizing to D_n, and Dih(Z)
-         * dihedral operator adds a hysteresis of orientation
-   Geometry, Linear Algebra
-      * cartesian coordinates, x-axis, y-axis
-      * linear transformations, rotations, trigonometric addition formulas
-      * D4 ≅ ({+,-} ⨯ {+,-}) ⋊ S_2
-      * group action of D4 on Z⨯Z
-      * implement D4's action as multiplication of 2⨯2 matrix with 2⨯1 vector 
-      * implement addition on D4 as 2⨯2 matrix multiplication
-      * determinants and orientation
-      * general linear transformations of the plane  GL(2,R)
-      * euclidean isometries of the grid,  Z^2 ⋊ D4
-      * affine transformations of the plane,  R^2 ⋊ GL(2,R)
-      * homogeneous coordinates, augmented matrices
-      * 3x3 matrix multiplication
-      * General Linear Groups
-      * Projective Geometry
-   Trigonometry
-      * cartesian coordinates, real-axis, imaginary-axis
-      * matrix arithmetic
-      * rotations
-      * complex arithmetic
-      * unit circle
-      * euler's identity, trigonometric addition formulas
-      * exponentials and logarithms
-   Euclidean Isometries
-      * Symmetries of Regular Polygons
-         * generalized dihedral operator, Dih(Z) = Z ⋊ {+,-}
-         * Dihedral Groups D_n ≅ Dih(Z_n)
-         * Modular Arithmetics Z_n = Z / nZ
-         * Quotient Algebras
-         * Dih(G) is not associative for non-abelian G
-      * Symmetries of the Line ≅ Dih(R)
-      * Symmetries of the Circle ≅ O(2) ≅ Dih(R / 2𝜋Z)
-         * Chaotic Dynamical Systems
-      * Symmetries of the Plane ≅ R^2 ⋊ O(2)
-      * Symmetries of the Cube, m3m
-         * octahedral group, O_h ≅ {+,-}^3 ⋊ S_3
-         * chirality, determinants
-         * wreath product  O_h ≅ {+,-} ≀ S_3
+
+* Basic Algebra
+
+    * D4 is not commutative, commutativity is not trivial or tautological
+
+    * D4 is associative, associativity is not the same thing as commutativity
+
+    * D4 among the simplest concrete examples of a non-abelian group
+
+    * Rotating a rectangle conserves area, commutativity of multiplication
+
+    * Rotating a brick conserves volume, associativity of multiplication
+
+    * implement D4 as a car on a circular track with four stops
+
+    * our first concrete examples of a:
+
+        * semidirect product, Z_4 ⋊ {+,-}
+
+        * modular arithmetic (mod 4)
+
+    * generalizing to D_n, and Dih(Z)
+
+    * dihedral operator adds a hysteresis of orientation
+
+* Geometry, Linear Algebra
+
+    * cartesian coordinates, x-axis, y-axis
+
+    * linear transformations, rotations, trigonometric addition formulas
+
+    * D4 ≅ ({+,-} ⨯ {+,-}) ⋊ S_2
+
+    * group action of D4 on Z⨯Z
+
+    * implement D4's action as multiplication of 2⨯2 matrix with 2⨯1 vector
+
+    * implement addition on D4 as 2⨯2 matrix multiplication
+
+    * determinants and orientation
+
+    * general linear transformations of the plane  GL(2,R)
+
+    * euclidean isometries of the grid,  Z^2 ⋊ D4
+
+    * affine transformations of the plane,  R^2 ⋊ GL(2,R)
+
+    * homogeneous coordinates, augmented matrices
+
+    * 3x3 matrix multiplication
+
+    * General Linear Groups
+
+    * Projective Geometry
+
+* Trigonometry
+
+    * cartesian coordinates, real-axis, imaginary-axis
+
+    * matrix arithmetic
+
+    * rotations
+
+    * complex arithmetic
+
+    * unit circle
+
+    * euler's identity, trigonometric addition formulas
+
+    * exponentials and logarithms
+
+* Euclidean Isometries
+
+    * Symmetries of Regular Polygons
+
+        * generalized dihedral operator, Dih(Z) = Z ⋊ {+,-}
+
+        * Dihedral Groups D_n ≅ Dih(Z_n)
+
+        * Modular Arithmetics Z_n = Z / nZ
+
+        * Quotient Algebras
+
+        * Dih(G) is not associative for non-abelian G
+
+    * Symmetries of the Line ≅ Dih(R)
+
+    * Symmetries of the Circle ≅ O(2) ≅ Dih(R / 2𝜋Z)
+
+        * Chaotic Dynamical Systems
+
+    * Symmetries of the Plane ≅ R^2 ⋊ O(2)
+
+    * Symmetries of the Cube, m3m
+
+        * octahedral group, O_h ≅ {+,-}^3 ⋊ S_3
+
+        * chirality, determinants
+
+        * wreath product  O_h ≅ {+,-} ≀ S_3
+
             * D4 ≅ {+,-}^2 ⋊ S_2 = {+,-} ≀ S_2
+
             * Lamplighter Group {+,-} ≀ Z
-      * Symmetries of 3D Euclidean Space ≅ R^3 ⋊ SO(3)
-   Abstract Symmetries
-      * Algebraic properties, e.g. 
-         * commutative
-         * associative
-         * distributive
-         * morphisms
-      * Permutations as Symmetries as Isomorphisms of Sets
-         * bijections, 1-1 correspondence, 1-1 and onto functions
-         * symmetric group S_n,  permutation group
-         * permutations, factorial
-         * combinations, binominal coefficients, Pascal's Triangle
-         * quotient algebras
-         * Cayley's Theorem, Yoneda's Lemma
-         * Cantor Equivalence, isomorphisms of infinite sets
-      * Symmetries of the Stern-Brocot tree
-         * loop invariants, coinduction over a coalgebra
-         * breadth-first search
-             * isomorphism of sets between Q and Z
-             * Stern-Brocot representations, SL(2,N) 
-         * left-right-reciprocal is an outer automorphism
-         * anti-diagonal transpose switches to Calkin-Wilf tree
-      * Symmetries of Pascal's Triangle
-         * swap left to right:  different room, same number
-         * binomial theorem, binomial series
-         * generating functions
-         * integer valued polynomials
-         * hypergeometric summation
-      * Automorphisms of D_4
-         * D_4 is isomorphic to it's own automorphism group
-         * This property isn't unusual
-         * D_4 and Dih(Z) are unusual examples of this property
-      * General Automorphisms
-         * Generalized Semidirect Products
-         * Outer vs Inner Automorphisms
-         * Complete Groups 
-         * D_4, Dih(Z), and S_6
-   Non-Euclidean Geometries
-      * The Stern-Brocot free monoid SL(2,N)
-      * The general linear group GL(2,Z)
-      * The modular group PSL(2,Z)
-      * The isometries of the hyperbolic plane PGL(2,R) 
-      * The Möbius transformations PGL(2,C) = PSL(2,C)
-   Abstract Geometries
+
+    * Symmetries of 3D Euclidean Space ≅ R^3 ⋊ SO(3)
+
+* Abstract Symmetries
+
+    * Algebraic properties, e.g.
+
+        * commutative
+
+        * associative
+
+        * distributive
+
+        * morphisms
+
+    * Permutations as Symmetries as Isomorphisms of Sets
+
+        * bijections, 1-1 correspondence, 1-1 and onto functions
+
+        * symmetric group S_n,  permutation group
+
+        * permutations, factorial
+
+        * combinations, binominal coefficients, Pascal's Triangle
+
+        * quotient algebras
+
+        * Cayley's Theorem, Yoneda's Lemma
+
+        * Cantor Equivalence, isomorphisms of infinite sets
+
+    * Symmetries of the Stern-Brocot tree
+
+        * loop invariants, coinduction over a coalgebra
+
+        * breadth-first search
+
+            * isomorphism of sets between Q and Z
+
+            * Stern-Brocot representations, SL(2,N)
+
+        * left-right-reciprocal is an outer automorphism
+
+        * anti-diagonal transpose switches to Calkin-Wilf tree
+
+    * Symmetries of Pascal's Triangle
+
+        * swap left to right:  different room, same number
+
+        * binomial theorem, binomial series
+
+        * generating functions
+
+        * integer valued polynomials
+
+        * hypergeometric summation
+
+    * Automorphisms of D_4
+
+        * D_4 is isomorphic to it's own automorphism group
+
+        * This property isn't unusual
+
+        * D_4 and Dih(Z) are unusual examples of this property
+
+    * General Automorphisms
+
+        * Generalized Semidirect Products
+
+        * Outer vs Inner Automorphisms
+
+        * Complete Groups
+
+        * D_4, Dih(Z), and S_6
+
+* Non-Euclidean Geometries
+
+    * The Stern-Brocot free monoid SL(2,N)
+
+    * The general linear group GL(2,Z)
+
+    * The modular group PSL(2,Z)
+
+    * The isometries of the hyperbolic plane PGL(2,R)
+
+    * The Möbius transformations PGL(2,C) = PSL(2,C)
+
+* Abstract Geometries
