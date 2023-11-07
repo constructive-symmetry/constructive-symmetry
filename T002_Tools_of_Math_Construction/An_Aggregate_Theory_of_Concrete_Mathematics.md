@@ -11,7 +11,7 @@ If you only ever read a single suggestion from this study guide, I would ask tha
 
 ## Analytical Contents
 
-My [global suggestions](./An_Aggregate_Theory_of_Concrete_Mathematics.md#global-suggestions) consist of ten primary recommendations loosely divided into three major themes: [inductive reasoning and self-awareness](#self-aware-inductive-reasoning), [ethics and morality](#ethics-and-moral-philosophy), and the [philosophy of math (and science)](#the-philosophy-of-math-and-science). These suggestions are "global" in the sense that I would recommend them to most people, with relatively few conditions or qualifications.
+My [global suggestions](./An_Aggregate_Theory_of_Concrete_Mathematics.md#global-suggestions) consist of twelve primary recommendations loosely divided into three major themes: [inductive reasoning and self-awareness](#self-aware-inductive-reasoning), [ethics and morality](#ethics-and-moral-philosophy), and the [philosophy of math (and science)](#the-philosophy-of-math-and-science). These suggestions are "global" in the sense that I would recommend them to most people, with relatively few conditions or qualifications.
 
 In Part 2, I [deconstruct Bertrand Russell](./Part02_Deconstructing_Bertrand_Russell.md) and endorse the Weak Paraconsistent Conjecture in memory of Jon Michael Dunn.
 
@@ -40,8 +40,7 @@ To celebrate, I suggest [cutting a pie into sevenths, and sharing it with a circ
 
 2. Benjamin Franklin: A Film by Ken Burns
 
-3. The Knowledge Illusion: Why We Never Think Alone, by Steven Sloman and Phi
-lip Fernbach
+3. The Knowledge Illusion: Why We Never Think Alone, by Steven Sloman and Philip Fernbach
 
 4. The Book of Why: The New Science of Cause and Effect, by Judea Pearl and Dana Mackenzie
 
@@ -51,7 +50,7 @@ lip Fernbach
 
 6. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, by Cathy O'Neil
 
-7. In Defense of Inefficency, by Zoe Bee
+7. In Defense of Inefficiency, by Zoe Bee
 
 8. When Time Is Short: Finding Our Way in the Anthropocene, by Timothy Beal
 
