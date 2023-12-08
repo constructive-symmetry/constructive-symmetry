@@ -3,7 +3,7 @@
 # an Aggregate Theory of Concrete Mathematics
 ## Suggestions for Further Study
 
-As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on Rational Approximation](../T001_Kevin_Bacon_and_the_Stern-Brocot_Tree/a_Sermon_on_Rational_Approximation.md), the Stern-Brocot Tree appears in each of these three books:
+As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on Rational Approximation](../T001_Kevin_Bacon_and_the_Stern-Brocot_Tree/a_Sermon_on_Rational_Approximation.md), the Stern-Brocot Tree appears in each of these top-level resources:
 
 * Indra's Pearls: The Vision of Felix Klein, by David Mumford, Caroline Series, and David Wright
   * A state-of-the-art introduction to computer graphics, fractals, mathematics, and much more.
@@ -17,6 +17,10 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
       * Visual Group Theory, by Nathan Carter
       * Visual Complex Analysis, by Tristan Needham
       * Visual Differential Geometry and Forms, by Tristan Needham
+
+* [Funny Fractions and Ford Circles - Numberphile](https://www.youtube.com/watch?v=0hlvhQZIOQw) by [Francis Bonahon](https://dornsife.usc.edu/francis-bonahon/)
+
+* [Rethinking the real line #SoME3](https://www.youtube.com/watch?v=uFWJuZQLKJs) by [Katherine Stange](https://math.katestange.net/)
 
 * Introduction to Experimental Mathematics, by Søren Eilers and Rune Johansen
   * A continuation of _the inductive attitude_ theme of this study guide
@@ -43,7 +47,22 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
      * a free presentation of GL(2,Z), SL(2,Z), and PSL(2,Z) based on pointwise product of D_4 * SL(2,N) * D_4
      * syntactic correspondence (computable by a small and simple Mealy-type finite-state machine) of the _coproduct_ (also known as the _free product_) of Z_3 and Z_2
   * the term "lobe" borrowed from "Streaming Down the Stern-Brocot Tree: Finding and Expressing Solutions to Pell's Equation in SL(2,Z)" by Marcus Shell
-  * Synthesizing this answer with "Algebra: Chapter 0" by Paolo Aluffi should be a very fertile exercise.
+
+* Algebra: Chapter 0, by Paolo Aluffi
+  * Often discusses SL(2,Z)
+  * Synthesizing this answer with this book should be a very fertile exercise.
+
+* [Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf), by [Allen Hatcher](https://pi.math.cornell.edu/~hatcher/)
+   * [page 87](https://pi.math.cornell.edu/%7Ehatcher/AT/AT.pdf#page=87) illustrates Z_3 * Z_2, as shared by [etherteeth on reddit](https://www.reddit.com/r/math/comments/17xt26a/what_are_some_visually_appealling_graphics_youve/k9qda37/)
+
+* The Geometry of Continued Fractions, by Oleg Karpenkov
+   * Discusses the sail of a real number, which Dr. Stange's video alludes to
+   * This book is amazing!
+
+* [Seminar on _This Week's Finds in Mathematical Physics_](https://math.ucr.edu/home/baez/twf/) by John Baez
+   * [The 3-strand braid group](https://www.youtube.com/watch?v=MnS4hduP5xg) appears to take these answers to a _much_ higher level.
+   * The remaining lectures appear to contain more than a few of the missing pieces needed to complete the sequel to KB&SBT.
+   * Should also be very useful for building out the combinatorial and stochastic components of the overarching project, possibly with an eye towards building gentle introductions towards [star semirings](https://r6.ca/blog/20110808T035622Z.html) and the tropical semiring.
 
 # An intellectual history of an Aggregate Theory
 ## A tribute to linear algebra and Dr. Elizabeth Meckes
@@ -76,11 +95,11 @@ I first developed an appreciation for the Euclidean Algorithm in Grade 7, by rea
 
 Around this time I recall seeing continued fractions once in a great while, never with much explanation, in what seemed to be weird disjointed contexts. Continued fractions seemed strange and incomprehensible. Little did I know that they are just the other side of the Euclidean coin, intimately connected to one of my favorite algorithms!
 
-My first real "aha!" moment with continued fractions came from reading articles on cut-the-knot while solving Project Euler problems. I immediately realized that continued fractions are a deeply satisfying answer to the question Dan Friedman inspired. I also knew that my junior high self would have likely appreciated that explanation, and so I immediately knew I had another partial answer to the question "How to teach math?" that I had to keep track of.
+My first real "aha!" moment with continued fractions came from reading articles on [cut-the-knot](https://www.cut-the-knot.org/) while solving [Project Euler](https://projecteuler.net/) problems. I immediately realized that continued fractions are a deeply satisfying answer to the question Dan Friedman inspired. I also knew that my junior high self would have likely appreciated that explanation, and so I immediately knew I had another partial answer to the question "How to teach math?" that I had to keep track of.
 
-Days after that, I was reading the then-recent paper "Functional Pearl: Enumerating the Rationals" by Jeremy Gibbons, Richard Bird, and David Lester. This was my first introduction to the Stern-Brocot tree and it's connection to the Euclidean algorithm and the Calkin-Wilf trees. Soon after reading that paper, I knew that the Stern-Brocot tree was one of the most important partial answers I had ever stumbled upon to "How to teach math?".
+Days after that, I was reading the then-recent paper "[Functional Pearl: Enumerating the Rationals](https://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/rationals.pdf) by Jeremy Gibbons, David Lester, and Richard Bird. This was my first introduction to the Stern-Brocot tree and it's connection to the Euclidean algorithm and the Calkin-Wilf trees. Soon after reading that paper, I knew that the Stern-Brocot tree was one of the most important partial answers I had ever stumbled upon to "How to teach math?".
 
-I was struck with this force of revelation for four reasons: first of all, The Stern-Brocot tree provides a very appealing mental model for thinking about continued fractions. Now I believed I could successfully introduce these ideas to my five-year old self. Being able to increase my bid from "my Junior High self" to "my 5-year old self" was _extremely_ interesting.
+I was struck with this force of revelation for at least four reasons: first of all, The Stern-Brocot tree provides a very appealing mental model for thinking about continued fractions. Now I believed I could successfully introduce these ideas to my five-year old self. Being able to increase my bid from "my Junior High self" to "my 5-year old self" was _extremely_ interesting.
 
 Second, the Stern-Brocot tree is a naturally motivated demonstration that the "wrong way to add fractions" is useful. The mediant very nicely illustrates and motivates the property of being well-defined, because it is not a well-defined "function", and this demonstrates that these "functions", while not functions in the strictest sense of the word, can still in fact be very useful, which is a wonderful thing to learn early.
 
@@ -134,13 +153,13 @@ I went back to `/r/math` and quipped "the modular group is the Stern-Brocot tree
 
 As I started work in earnest, firstly, I chose the term SL(2,N) to refer to the matrices of determinant one that have natural (i.e. nonnegative integer) entries.  Then I found that every element of SL(2,Z) can be written in exactly two ways as a product of an element of Z_4, then an element of SL(2,N), then an element of Z_4 again, sort of a _vulgar conjugation_ of SL(2,N) by Z_4. Secondly, I found that every element of PSL(2,Z) can be uniquely written as a vulgar conjugation of SL(2,N) by Z_2. Thirdly, I found that every element of GL(2,Z) an be written in exactly four different ways as a vulgar conjugation of SL(2,N) and D_4.
 
-Coming back around to the symmetry group of the square was weird, because I had not expected that, at all. Nor was I expecting to find something so poetically pleasing as the discovery that the treasure that I was seeking but not wholly expecting was so simply entwined with what I already had. I thought I had my "aha!" moment a week ago, and here I discover my sparring partner quite accidentally handed me the missing piece I didn't even know I needed to complete the then partially assembled jigsaw puzzle that was "Kevin Bacon and the Stern-Brocot Tree"!
+Coming back around to the symmetry group of the square was weird, because I had not expected that, at all. Nor was I expecting to find something so poetically pleasing as the discovery that the treasure that I was seeking but not wholly expecting was so simply entwined with what I already had. I thought I had my "aha!" moment weeks ago, and here I discover my sparring partner quite accidentally handed me the missing piece I didn't even know I needed to complete the then partially assembled jigsaw puzzle that was "Kevin Bacon and the Stern-Brocot Tree"!
 
-A day or two later, I realized that I could have expected D_4 in the solution I was seeking:  after all, D_4 is precisely those 2x2 matrices with entries in {-1, 0, 1},  and determinant in {1, -1}.  Although linear algebra had long been firmly in my hotlist of mental associations with D_4, coming back from the other direction... not so much. Here finally was the "aha!" moment looking back inwards, reminding me that a heuristic blunder that I'm prone to making is underinvesting in efforts to make links in my memory palaces more bidirectional, and reminding me yet again that my appreciation of linear algebra can always be better.
+A day or two later, I realized that I could have expected D_4 in the solution I was seeking:  after all, the canonical representation of D_4 is precisely those 2x2 matrices with each column and row containing 0 and ±1, and a determinant in {1, -1}. Although linear algebra had long been firmly in my hotlist of mental associations with D_4, coming back from the other direction... not so much. Here finally was the "aha!" moment looking back inwards, reminding me that a heuristic blunder that I'm prone to making is underinvesting in efforts to make links in my memory palaces more bidirectional, and reminding me yet again that my appreciation of linear algebra can always be better.
 
-This lead me to think back to my demonstration of D_4's action to Larry Moss, when as an aside I explained the weird thing I found with my D_4 calculator. It was actually meta-weird: when I first started drawing the D_4 calculator on paper for the first time, something about the principles I couldn't quite articulate but was committing to in order to develop the visual pun, gave me a strong sense that I would find an unexpected reward for my expense.  I was expecting the unexpected, and then I found it: after I finished, it didn't take me long to observe that by mentally moving the "window" on this book of algebra from the 12 o'clock position to the 3 o'clock position, the calculator works flawlessly, even though different physical glyphs are involved on the obverse side!  Try it!x
-x
-I always love to see a couple of "weird", unexpected things come out of an idea, this was in fact part of the original connation of the word "collorary" in ancient Greek mathematics. In my mind, it's a good clue that you might be onto something important. These recurrent insights into linear algebra, and the surprise reappearance of an aggregate, was deeply pleasing. This time, understanding the modular group was far more than my meta-weird collorary, it felt like a total firestorm of unexpected insight, far grander than when I had first understood the Stern-Brocot tree.
+This lead me to think back to my demonstration of D_4's action to Larry Moss, when as an aside I explained the weird thing I found with my D_4 calculator. It was actually meta-weird: when I first started drawing the D_4 calculator on paper for the first time, something about the principles I couldn't quite articulate but was committing to in order to develop the visual pun, gave me a strong sense that I would find an unexpected reward for my expense.  I was expecting the unexpected, and then I found it: after I finished, it didn't take me long to observe that by mentally moving the "window" on this book of algebra from the 12 o'clock position to the 3 o'clock position, the calculator works flawlessly, even though different physical glyphs are involved on the obverse side!  Try it!
+
+I always love to see a couple of "weird", unexpected things come out of an idea, this was in fact part of the original connotation of the word "collorary" in ancient Greek mathematics. In my mind, it's a good clue that you might be onto something important. These recurrent insights into linear algebra, and the surprise reappearance of an aggregate, was deeply pleasing. This time, understanding the modular group was far more than my meta-weird collorary, it felt like a total firestorm of unexpected insight, far grander than when I had first understood the Stern-Brocot tree.
 
 Not long after this greater firestorm, I was going back through other mathematical memories, reviewing them in light of fresh insight. My thoughts returned to Elizabeth and Mark and other people at Case for the first time in many years. Because of this, late in the evening on December 15th, 2021, after it became clear that we would be saying goodbye to one of our much loved, elderly cat Lucy the next day, I learned Elizabeth had passed away on December 16th, 2020 after a short and unexpected illness. And I learned that Elizabeth and Mark had recently published "Linear Algebra", which motivated me to expand the scope of my literature review, which turned into this study guide.
 
@@ -153,6 +172,8 @@ Perhaps this is part of the reason I have been slow to properly appreciate linea
 > The more ambitious plan may have a better chance of success.
 >
 > - George Pólya on the _Inventor's Paradox_, in "How to Solve It"
+>
+> (See also Alexander Bogomolny's [discussion of the Inventor's Paradox](https://www.cut-the-knot.org/Generalization/epairs.shtml))
 
 ### The initial core of the program
 
@@ -197,7 +218,7 @@ There's far more that can be done along these lines, from amateur radio, 3D prin
 
 What milestones should a college-prep K-12 curriculum starting from this point try to include?  This level of curriculum reorganization allows for surprising new pedagogical avenues, so deep re-examinations are very much warranted.  It's well worth looking at advanced books like Tristan Needham's Visual Differential Geometry and Forms in order to find clues about which ideas might be worth incorporating into the K-12 curriculum in order to prepare students to later study these books as effectively as possible.
 
-For example, I'd love to hear more about Tristan Needham's use of ultimate equality in a first year calculus course.  Ultimate equality is the propositional statement that the limit of the ratio of two sequences is equal to one.  I would love for somebody to engineer a way to introduce and motivate ultimate equality, or at least introduce hints towards ultimate equality, in the K-12 curriculum. Automatic Differentiation is another strong candidate for this sort of treatment, which is an underappreciated, relatively recent technique detailed in "Software Design for Flexibility" by Chris Hanson and Gerald Jay Sussman.
+For example, I'd love to hear more about Tristan Needham's use of ultimate equality in a first year calculus course. Ultimate equality is the propositional statement that the limit of the ratio of two sequences is equal to one.  I would love for somebody to engineer a way to introduce and motivate ultimate equality, or at least introduce hints towards ultimate equality, in the K-12 curriculum. Automatic Differentiation is another strong candidate for this sort of treatment, which is an underappreciated, relatively recent technique detailed in "Software Design for Flexibility" by Chris Hanson and Gerald Jay Sussman.
 
 Understanding the design philosophy of the Aggregate Theory is really appreciating the non-linear design gestalt behind the wisdom that is learning how to play the Six Degrees of the Square, Triangle, and Tree very well indeed.  This is a shockingly effective heuristic for discovering how to connect any particular idea to this new curriculum.
 
@@ -222,7 +243,8 @@ For example, Markovian processes can be modelled and simulated using matrix arit
 The Haskell Road to Logic, Maths, and Programming, by Kees Doets and Jan van Eijck
   * This book is the closest approximation that I know of, to what I believe a discrete math class should aspire to be.
   * Many opinions on chapters 8 and 9, though my rewrite of those chapters would likely come out a bit longer
-  * For example, I would probably discuss the Integer-Valued Polynomials
+  * Would discuss Stern-Brocot Tree and Symmetry Group of the Square
+  * I would probably discuss the Integer-Valued Polynomials
       * more abstract and more general than Pascal's Triangle.
       * more concrete and more specific than hypergeometric summations
       * practical pencil-and-paper method for finding closed-form solutions for discrete polynomial summations
@@ -340,11 +362,13 @@ Game Theory
 
     It's really satisfying when ideas come back around full circle.  When I was struggling to get started with "Kevin Bacon and the Stern-Brocot tree", it wasn't until I really started thinking about George Lakoff's concepts of framing that I could find my voice.  I'm only referentially familiar with Lakoff's work on this matter, perhaps someday I'll get around to actually reading "Don't Think of an Elephant!"
 
+    I adore "[The Unreasonable Effectiveness of Metaphor](https://argumatronic.com/posts/2018-09-02-effective-metaphor.html)" by Julie Moronuki, which in several respects appears to be convergent evolution coming from a very different direction, and with a slightly different set of results.
+
 [^deductive-logic-and-the-aggregate-theory]:
     From a certain very strict notion of relevance that I have often worked from while writing this essay but can't quite explain, the six degrees of the primary aggregates (i.e. the tree, the triangle, and the square) doesn't seem to connect to formal logic until you get to graduate-level model theory and algebraic semantics.
 
     Even then, the connections still seem secondary and indirect, using the aggregates as pedagogical devices to introduce algebra, partial orders, and topology. I'm still not aware that the aggregates are directly relevant to a goal of learning graduate-level model theory, though I am certainly interested in having my mind changed on this topic.
 
-    But from the point of view of motivating deductive logic in a K-12 curriculum redesign, this observation seems to be of no immediate interest. I certainly believe the primary aggregates help set an engaging stage for learning about deductive logic.  In the larger theory, the secondary aggregates are heuristics, computer programming, and problem solving. The Six Degrees of these Secondary Aggregates provides plenty of natural motivation to study deductive logic, at varying points along the formal/informal spectrum.
+    But from the point of view of motivating deductive logic in a K-12 curriculum redesign, this observation seems to be of no immediate interest. I certainly believe the primary aggregates help set an engaging stage for learning about deductive logic. In the larger theory, the secondary aggregates are heuristics, computer programming, and problem solving. The Six Degrees of these Secondary Aggregates provides plenty of natural motivation to study deductive logic, at varying points along the formal/informal spectrum.
 
-    I do sincerely hope that in a hundred years time, algebra, partial orders, and topology will be somewhat common and not considered nearly so highminded. These conditions should help make model theory far more approachable, if one is so inclined to study it. However, it seems highly implausible to me that an approach through graduate-level model theory will someday directly compete with the Six Degrees of the Secondary Aggregates. Computer programming, problem solving, and heuristics seem to provide far more natural and elementary routes into deductive logic.
+    I do sincerely hope that in a hundred years time, algebra, partial orders, and topology will be somewhat common and not considered nearly so highminded. These conditions should help make model theory far more approachable, if one is so inclined to study it. However, it seems highly implausible to me that an approach through graduate-level model theory will someday directly compete with the Six Degrees of Computer Programming, Heuristics, and Problem Solving seem to provide far more natural and elementary routes into deductive logic.

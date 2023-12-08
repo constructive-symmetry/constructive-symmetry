@@ -216,12 +216,14 @@ I myself certainly do not understand paraconsistent logic in any formal sense. P
 
 > The conclusion of "There Is No Case for the Humanities", by Justin Stover
 
-In any case, I do highly recommend reading the entirety of Justin Stover's excellent essay!  Thank you, Erin Clair, for recommending it!
+Justin Stover's essay inspired this defense of Purdue's Department of English.  It also helped inspire the defense of the Humanities as an explicit goal for Kevin Bacon and the Stern-Brocot Tree. Thank you, Erin Clair, for recommending it!
 
 [![Wittgenstein's Monster](external-assets/static.existentialcomics.com/comics/wittgensteinsMonster1.png)](https://existentialcomics.com/comic/117)
 [![Wittgenstein's Monster](external-assets/static.existentialcomics.com/comics/wittgensteinsMonster2.png)](https://existentialcomics.com/comic/117)
 
-Of course, the classic novel "Frankenstein" was written by Mary Shelley, who was Mary Wollstonecraft's daughter. Ludwig Wittgenstein is famous for writing the "Tractatus Logico-Philosophicus". In his later lectures, Wittgenstein came to disagree with his past work. His rebuttal can be found in "Philosophical Investigations", which was translated to English by G.E.M. Anscombe and first published after Wittgenstein's death.
+Of course, the classic novel "Frankenstein" was written by Mary Shelley, who was Mary Wollstonecraft's daughter. Frankenstein's monster is also reminiscent of the parable of the Golem of Prague as used by "Statistcal Rethinking", one of the global recommendations of this study guide.
+
+Ludwig Wittgenstein is famous for writing the "Tractatus Logico-Philosophicus". In his later lectures, Wittgenstein came to disagree with his past work. His rebuttal can be found in "Philosophical Investigations", which was translated to English by G.E.M. Anscombe and first published after Wittgenstein's death.
 
 [![Bertrand Russell on the Job Market](external-assets/static.existentialcomics.com/comics/unemployedRussell1.png)](https://existentialcomics.com/comic/149)
 [![Bertrand Russell on the Job Market](external-assets/static.existentialcomics.com/comics/unemployedRussell2.png)](https://existentialcomics.com/comic/149)
@@ -284,7 +286,7 @@ I hope that you will grow to appreciate some of the many contradictions that can
 [![The Bar Fight](external-assets/static.existentialcomics.com/comics/barFight1.png)](https://existentialcomics.com/comic/146)
 [![The Bar Fight](external-assets/static.existentialcomics.com/comics/barFight2.png)](https://existentialcomics.com/comic/146)
 
-3. [Tolerance is Not a Moral Precept, by Yonatan Zunger](https://extranewsfeed.com/tolerance-is-not-a-moral-precept-1af7007d6376)
+3. [Tolerance is Not a Moral Precept, by Yonatan Zunger](https://medium.com/extra-extra/tolerance-is-not-a-moral-precept-1af7007d6376)
 
    Best counterpoint I know of to "The Kingdom of God is Within You", I like to re-read this short, thoughtful and informative essay every few years.
 
@@ -299,6 +301,7 @@ I hope that you will grow to appreciate some of the many contradictions that can
 8. Martin Luther King, Jr. on Leadership, by Donald T. Phillips
 
 9. A Sin By Any Other Name, by Robert W. Lee
+
    Bernice King calls this book a love letter to the church and to the South. I am honored to make Robert W. Lee's important testimony part of this study guide, which I intend as a pandemic love letter to Science, Faith, Reason, and Humanity.
 
 10. The Third Reconstruction, by The Reverend Dr. William J Barber II
