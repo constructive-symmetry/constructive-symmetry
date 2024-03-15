@@ -41,7 +41,9 @@ You need a computer that you can regularly use to practice these skills;  one in
 
     Euclid's Elements, Chapter 7 (written circa 300 BC) contains a description of the Euclidean Algorithm, one that uses repeated subtraction. Both place-value arithmetic and efficient division eluded the Greeks.
 
-    The Aryabhatiya (written circa 499 CE) contains a description of place-value arithmetic, and contains something that resembles continued fractions.  Efficient division algorithms would have to wait until description of a method to solve linear diophantine equations.  While the description of the method is itself a bit unclear, the methodology is clearly related to continued fractions.
+    The Aryabhatiya (written circa 499 CE) contains a description of place-value arithmetic, and contains something that resembles continued fractions.
+
+    I should look into the history of division algorithms. Wikipedia mentions Al-Samawal al-Maghribi (1125–1174) used the long division algorithm in his work but never formalized it. I'd also like to determine who was the first to realize that the Euclidean algorithm was so connected to simple continued fractions.
 
 [^calculator]:
     I recommend using a calculator, because there's a lot of arithmetic involved, and any mistake will usually result in an incorrect answer.   Also, I believe this exercise is valuable even for persons who have a concept of adding, subtracting, and comparing multi-digit whole numbers, but don't yet know all the details to perform one or more of these steps.
