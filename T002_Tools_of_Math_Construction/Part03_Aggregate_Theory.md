@@ -5,34 +5,6 @@
 
 As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on Rational Approximation](../T001_Kevin_Bacon_and_the_Stern-Brocot_Tree/a_Sermon_on_Rational_Approximation.md), the Stern-Brocot Tree appears in each of these top-level resources:
 
-* Indra's Pearls: The Vision of Felix Klein, by David Mumford, Caroline Series, and David Wright
-  * A state-of-the-art introduction to computer graphics, fractals, mathematics, and much more.
-  * reminds me a lot of examples from "Oh! Pascal!", but much more in-depth.
-  * Like "Proofs and Refutations", this book has a similarly high potential for improving my math education, had I been able to read it in high school.
-  * Chapter 7 covers modular group
-  * Potentially pairs well with:
-      * Chaos, by James Gleick
-      * Euler's Gem, by David S Richeson
-      * The Knot Book, by Colin C Adams
-      * Visual Group Theory, by Nathan Carter
-      * Visual Complex Analysis, by Tristan Needham
-      * Visual Differential Geometry and Forms, by Tristan Needham
-
-* [Funny Fractions and Ford Circles - Numberphile](https://www.youtube.com/watch?v=0hlvhQZIOQw) by [Francis Bonahon](https://dornsife.usc.edu/francis-bonahon/)
-
-* [Rethinking the real line #SoME3](https://www.youtube.com/watch?v=uFWJuZQLKJs) by [Katherine Stange](https://math.katestange.net/)
-
-* Introduction to Experimental Mathematics, by Søren Eilers and Rune Johansen
-  * A continuation of _the inductive attitude_ theme of this study guide
-      * The Scout Mindset, by Julia Galef
-      * The Knowledge Illusion, by Steven Sloman and Philip Fernbach
-      * How to Solve It, by George Pólya
-      * Mathematics and Plausible Reasoning, by George Pólya
-      * Proofs and Refutations, by Imre Lakatos
-      * The Book of Why, by Judea Pearl and Dana Mackenzie
-      * An Introduction to Probability and Inductive Logic, by Ian Hacking
-      * Statistical Rethinking, by Richard McElreath
-
 * Concrete Mathematics (2nd Ed.), by Ronald L Graham, Donald E Knuth, and Oren Patashnik
   * Exercise 4.4: Depends on interpretation.
      * if interpreted as pair, then (1,1) /= (-1,-1), then
@@ -44,9 +16,44 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
      * the function \x -> x * ((0 1)(-1 0)) is a bijection between the provided lobes and the missing lobes
   * see [scanned notes](notes-on-modular-group.pdf)
   * should rewrite essay in TeX to expand on this answer.
-     * a free presentation of GL(2,Z), SL(2,Z), and PSL(2,Z) based on pointwise product of D_4 * SL(2,N) * D_4
-     * syntactic correspondence (computable by a small and simple Mealy-type finite-state machine) of the _coproduct_ (also known as the _free product_) of Z_3 and Z_2
+     * free presentations of GL(2,Z), SL(2,Z), and PSL(2,Z) based on the [Minkowski product](https://en.wikipedia.org/wiki/Minkowski_addition) D_4 * SL(2,N) * D_4
+     * PSL(2,Z)'s flavor of this presentation has a syntactic correspondence, computable by a small and simple Mealy-type finite-state machine, to the _coproduct_ (also known as the _free product_) of [Z_3 and Z_2](https://doi.org/10.2307%2F2324963)
   * the term "lobe" borrowed from "Streaming Down the Stern-Brocot Tree: Finding and Expressing Solutions to Pell's Equation in SL(2,Z)" by Marcus Shell
+
+* [Funny Fractions and Ford Circles - Numberphile](https://www.youtube.com/watch?v=0hlvhQZIOQw) by [Francis Bonahon](https://dornsife.usc.edu/francis-bonahon/)
+
+* [Rethinking the real line #SoME3](https://www.youtube.com/watch?v=uFWJuZQLKJs) by [Katherine Stange](https://math.katestange.net/)
+
+* Indra's Pearls: The Vision of Felix Klein, by David Mumford, Caroline Series, and David Wright
+  * A state-of-the-art introduction to computer graphics, fractals, mathematics, and much more.
+  * reminds me a lot of examples from "Oh! Pascal!", but much more in-depth.
+  * Like "Proofs and Refutations", this book has a similarly high potential for improving my math education, had I been able to read it in high school.
+  * Chapter 7 covers modular group
+  * Potentially pairs well with:
+      * Chaos, by James Gleick
+      * The Knot Book, by Colin C Adams
+      * Euler's Gem, by David S Richeson
+      * Visual Group Theory, by Nathan Carter
+      * Visual Complex Analysis, by Tristan Needham
+      * Visual Differential Geometry and Forms, by Tristan Needham
+
+* The Knot Book, by Colin C Adams
+   * SL(2,N) is closely related to rational tangles and the 3-strand braid group
+   * Rational tangles [can be demoed](http://www.geometer.org/mathcircles/tangle.pdf) to [younger children](https://www.youtube.com/watch?v=vFjAMPfKI6c).
+   * Rational tangles and continued fractions are a tool that have been
+     used by scientists to better understand how [topoisomerase untangles
+     DNA](https://www.youtube.com/watch?v=JXGyXtNsu14) so that it can be read by RNA.
+
+* Introduction to Experimental Mathematics, by Søren Eilers and Rune Johansen
+  * A continuation of _the inductive attitude_ theme of this study guide
+      * The Scout Mindset, by Julia Galef
+      * The Knowledge Illusion, by Steven Sloman and Philip Fernbach
+      * How to Solve It, by George Pólya
+      * Mathematics and Plausible Reasoning, by George Pólya
+      * Proofs and Refutations, by Imre Lakatos
+      * The Book of Why, by Judea Pearl and Dana Mackenzie
+      * An Introduction to Probability and Inductive Logic, by Ian Hacking
+      * Statistical Rethinking, by Richard McElreath
 
 * Algebra: Chapter 0, by Paolo Aluffi
   * Often discusses SL(2,Z)
@@ -60,9 +67,10 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
    * This book is amazing!
 
 * [Seminar on _This Week's Finds in Mathematical Physics_](https://math.ucr.edu/home/baez/twf/) by John Baez
-   * [The 3-strand braid group](https://www.youtube.com/watch?v=MnS4hduP5xg) appears to take these answers to a _much_ higher level.
+   * [The 3-strand braid group](https://www.youtube.com/watch?v=MnS4hduP5xg) [(and blog post)](https://math.ucr.edu/home/baez/week233.html) appears to take these answers to a _much_ higher level.
    * The remaining lectures appear to contain more than a few of the missing pieces needed to complete the sequel to KB&SBT.
    * Should also be very useful for building out the combinatorial and stochastic components of the overarching project, possibly with an eye towards building gentle introductions towards [star semirings](https://r6.ca/blog/20110808T035622Z.html) and the tropical semiring.
+   * Moduli spaces and modular forms do seem to be unifying theme to this aggregate theory that I have yet to understand much of. This is a decidely nonelementary topic, yet might be made far more accessible than commonly believed. [The Moduli Space of Acute Triangles](https://arxiv.org/abs/2407.06201) seems like a start on a relatively accessible introduction.
 
 # An intellectual history of an Aggregate Theory
 ## A tribute to linear algebra and Dr. Elizabeth Meckes
@@ -184,7 +192,9 @@ Apply iterative deepening depth first searches to the following starting points:
 3. Addition of small numbers (say, total not more than 5 or so)
 4. The Stern-Brocot Tree (and the Euclidean Algorithm)
 5. Pascal's Triangle
-6. Symmetry Group of the Square
+6. Symmetry Group of the Square (and Cartesian Coordinates)
+7. Boolean Logic
+8. Computer Programming
 
 As soon as practical, mix in practices that exercise the inductive attitude, computer programming, problem solving, heuristics, self-awareness, self-control, and social skills.
 
@@ -236,7 +246,7 @@ It's well worth the effort to aggressively combine, simplify, split, prune and c
 
 This is part of the reason why formal deductive logic is an explicit global recommendation of this study guide; I just couldn't quite find a connection I was satisfied with from the primary aggregates to deductive logic.[^deductive-logic-and-the-aggregate-theory] Another reason is that deductive logic (both formal and informal) is just too important to not explicitly recommend somewhere.
 
-Pascal's Triangle leads quickly to the binomial coefficients, and these are directly relevant to first introductions to probability, statistics, and formal inductive logic. Although the Stern-Brocot tree and the symmetry group of the square are less directly relevant to a first introduction to probability and statistics, they are indisputably a very useful pedagogical device to introduce a little bit of linear algebra, which naturally feeds back into relatively accessible examples earlier in probability and statistics.
+Pascal's Triangle leads quickly to the binomial coefficients, and these are directly relevant to first introductions to probability, statistics, and formal inductive logic. Although the Stern-Brocot tree and the symmetry group of the square seem less directly relevant, they are indisputably a very useful pedagogical device to introduce a little bit of linear algebra, which naturally feeds back into relatively accessible examples earlier in probability and statistics.
 
 For example, Markovian processes can be modelled and simulated using matrix arithmetic. See Project Euler Problem #84,  which asks participants to write a program to calculate the most frequently visited squares in the board game of Monopoly.  This problem statement omits irrelevant rules, and simplifies the modelling of Chance, Community Chest, and Jail in ways unlikely to matter to the question being asked, in order to keep the resulting model small and simple.
 
@@ -326,6 +336,11 @@ Game Theory
    * "Theory of Games and Economic Behavior", by John von Neumann and Oskar Morgenstern
    * "Winning Ways for Your Mathematical Plays", by Elwyn R. Berlekamp, John H. Conway, and Richard K. Guy
    * "Chance, Strategy, and Choice", by Samuel Bruce Smith
+
+[The Unreasonable Effectiveness of Metaphor](https://argumatronic.com/posts/2018-09-02-effective-metaphor.html) (by Julie Moronuki)
+   * [Logic and Calculus for Kids](https://argumatronic.com/posts/2016-08-21-kids-logic-class.html)
+   * [Teaching Resources](https://argumatronic.com/posts/2018-01-17-teaching-resources.html)
+   * [Wannabe Math Girl](https://argumatronic.com/posts/2017-07-28-the-math-curse.html)
 
 # Navigation
 

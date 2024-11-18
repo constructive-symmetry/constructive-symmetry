@@ -29,6 +29,30 @@ The second implementation of D4 is based on matrix multiplication.  I cannot ima
 
 When I first started drawing the D_4 calculator on paper for the first time, something about the principles I couldn't quite articulate but was committing to in order to develop the visual pun, gave me a strong sense that I would find an unexpected reward for my expense.  I was expecting the unexpected, and then I found it: after I finished, it didn't take me long to observe that by mentally moving the "window" on this book of algebra from the 12 o'clock position to the 3 o'clock position, the calculator works flawlessly, even though different physical glyphs are involved on the obverse side!  Try it!
 
+##  Basic examples of mathematical operators of two parameters
+
+|                 | Commutative             | Not Commutative                           |
+| --------------- | ----------------------- | ----------------------------------------- |
+| Associative     | addition                | Q8, the quaternion group                  |
+|                 | multiplication          | D4, the symmetry group of the square      |
+|                 | vector addition         | matrix multiplication                     |
+|                 | boolean and gate        | string concatination, free monoids        |
+|                 | boolean or gate         | the Stern-Brocot representation, SL(2,N)  |
+|                 | boolean xor gate        | the general modular group,  GL(2,Z)       |
+|                 | boolean xnor gate       | S_n, the permutation group of n elements  |
+|                 | Z_n, modular arithmetic | S_6, the permutation group of 6 elements  |
+|                 | abelian groups          | non-abelian groups                        |
+| Not Associative | boolean nand gate       | subtraction                               |
+|                 | boolean nor gate        | division                                  |
+|                 | absolute difference     | exponentiation                            |
+|                 | average of 2 numbers    | boolean if-then implication               |
+|                 | rock-paper-scissors     | boolean and-not counterexample            |
+|                 | tetheral quasigroup     | function types                            |
+|                 |                         | abstract syntax trees                     |
+|                 |                         | Dih(G) for non-abelian group G            |
+|                 |                         | octonions                                 |
+
+addition, multiplication, subtraction, division, exponentiation on Z, Q, R, C (and quotient algebras thereof)
 
 # Symmetry Group of the Square
 
