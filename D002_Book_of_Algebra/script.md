@@ -10,7 +10,6 @@ Repeat this process for the other three flips:  starting in home position, open 
 
 Our paper square, a Book of Algebra, is now a mechanical calculator for the symmetry group of the square.  It remembers all of its positions, and you can read its memory by looking at the window over the 12 o'clock position.  We can add two symmetries together by starting at home position, then performing each action on the paper square.  The paper then tells us what the net effect of those two actions put together is, by reading the memory in window.  At this point, if a student can figure out the visual pun behind each glyph and perform that action on the calculator as a whole, then the student can compute the arithmetic of the symmetry group of the square, with the help of this mechanical number line.
 
-
 # Using symmetry to teach elementary mathematics
 
 In order to appreciate a symmetry, sometimes it really helps to break it.  Consider the commutativity laws for integers, fractions, and decimal numbers.   Many students struggle to understand why commutativity is not self-evident,  and D4 is a simple example that helps break through that mental block.  In the arithmetic of D4, x + y is not always equal to y + x,  and thus addition on D4 is not commutative.  Thus commutativity is not a mere tautology.
@@ -42,11 +41,11 @@ When I first started drawing the D_4 calculator on paper for the first time, som
 |                 | boolean xnor gate       | S_n, the permutation group of n elements  |
 |                 | Z_n, modular arithmetic | S_6, the permutation group of 6 elements  |
 |                 | abelian groups          | non-abelian groups                        |
-| Not Associative | boolean nand gate       | subtraction                               |
-|                 | boolean nor gate        | division                                  |
-|                 | absolute difference     | exponentiation                            |
-|                 | average of 2 numbers    | boolean if-then implication               |
-|                 | rock-paper-scissors     | boolean and-not counterexample            |
+| Not Associative | absolute difference     | subtraction                               |
+|                 | average of 2 numbers    | division                                  |
+|                 | boolean nand gate       | boolean and-not counterexample            |
+|                 | boolean nor gate        | boolean if-then implication               |
+|                 | rock-paper-scissors     | exponentiation                            |
 |                 | tetheral quasigroup     | function types                            |
 |                 |                         | abstract syntax trees                     |
 |                 |                         | Dih(G) for non-abelian group G            |

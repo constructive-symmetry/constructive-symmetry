@@ -180,11 +180,11 @@ In order to appreciate a symmetry, sometimes it really helps to break it.  Consi
 |                 | boolean xnor gate       | S_n, the permutation group of n elements  |
 |                 | Z_n, modular arithmetic | S_6, the permutation group of 6 elements  |
 |                 | abelian groups          | non-abelian groups                        |
-| Not Associative | boolean nand gate       | subtraction                               |
-|                 | boolean nor gate        | division                                  |
-|                 | absolute difference     | exponentiation                            |
-|                 | average of 2 numbers    | boolean if-then implication               |
-|                 | rock-paper-scissors     | boolean and-not counterexample            |
+| Not Associative | absolute difference     | subtraction                               |
+|                 | average of 2 numbers    | division                                  |
+|                 | boolean nand gate       | boolean and-not counterexample            |
+|                 | boolean nor gate        | boolean if-then implication               |
+|                 | rock-paper-scissors     | exponentiation                            |
 |                 | tetheral quasigroup     | function types                            |
 |                 |                         | abstract syntax trees                     |
 |                 |                         | Dih(G) for non-abelian group G            |
