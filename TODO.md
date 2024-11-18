@@ -25,3 +25,17 @@ She wants to get WORSE.
 * Modify the parable above to more fully incorporate [ShadSterling's addendum](https://mastodon.social/@ShadSterling/111369620558805047)
 
 eventually they’ll figure out that Computer Science has a split personality, one side almost the same as Pure Math, the other side they’ll say is like Applied Math but very disorganized because they won’t admit how much that side is like Economics but focused on building Rube Goldberg machines
+
+* Mention Geometric Algebra as a longer-term goal that this curriculum is explicitly interested in supporting and encouraging.
+
+* More discussion of Quaternions, Spinors, etc.
+
+* "Quantum in Pictures", Learn Physics with Functional Programming
+
+* String Diagrams
+
+* Write an essay about the relevance of relevance logic
+
+* Write an mini-essay about quasigroups, and the tetheral quasigroup.
+
+* Are the two essays mentioned immediately above actually two sides of one essay?
