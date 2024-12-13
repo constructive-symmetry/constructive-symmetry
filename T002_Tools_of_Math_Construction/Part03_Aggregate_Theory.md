@@ -23,13 +23,21 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 
     * the function \x -> x * ((0 1)(-1 0)) is a bijection between the provided lobes and the missing lobes
 
-    * see [scanned notes](notes-on-modular-group.pdf)
-
     * should rewrite essay in TeX to expand on this answer.
 
-        * free presentations of GL(2,Z), SL(2,Z), and PSL(2,Z) based on the [Minkowski product](https://en.wikipedia.org/wiki/Minkowski_addition) D_4 * SL(2,N) * D_4
+        * The Stern-Brocot Tree SL(2,N) is an example of a [module over a monoid](https://ncatlab.org/nlab/show/module+over+a+monoid).  From SL(2,N), it is relatively easy to construct more classical modules such as PSL(2,Z) as it consists of four copies of SL(2,N), or "lobes", in much the same way that Z consists of two copies of N.
+
+        * SL(2,N) is the 2⨯2 matrices of determinant 1 with nonnegative integer entries.  SL(2,N), binary strings, and Stern-Brocot tree are all isomorphic to each other.
+
+        * The symmetry group of the square D_4 has a canonical representation of those 2⨯2 matrices with a 0 and a ±1 in each row and column.  The determinant of these matrices is ±1.
+
+        * The general modular group GL(2,Z) is the 2⨯2 matrices of determinant ±1 with integer entries.  It turns out every element of GL(2,Z) can be written in exactly four ways as a matrix in D_4 times a matrix in SL(2,N) times a matrix in D_4, with the exception of those matrices that are also in D_4 which can be written in eight different ways. Thus GL(2,Z) can be constructed from sixteen copies of SL(2,N) as "lobes".
+
+        * free presentations of GL(2,Z), SL(2,Z), and PSL(2,Z) based on this [Minkowski product](https://en.wikipedia.org/wiki/Minkowski_addition) D_4 * SL(2,N) * D_4
 
         * PSL(2,Z)'s flavor of this presentation has a syntactic correspondence, computable by a small and simple Mealy-type finite-state machine, to the _coproduct_ (also known as the _free product_) of [Z_3 and Z_2](https://doi.org/10.2307%2F2324963)
+
+        * see [scanned notes](notes-on-modular-group.pdf)
 
     * the term "lobe" borrowed from "Streaming Down the Stern-Brocot Tree: Finding and Expressing Solutions to Pell's Equation in SL(2,Z)" by Marcus Shell
 
@@ -97,9 +105,12 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
       DNA](https://www.youtube.com/watch?v=JXGyXtNsu14) so that it can be read
       by RNA.
 
-* [The Sensual (quadratic) Form](https://www.maths.ed.ac.uk/~v1ranick/papers/conwaysens.pdf), by John Conway
 
 * [Ropes, Fractions, and Moduli Spaces](https://nsalter.science.nd.edu/expository-notes/tangles.pdf) by Nick Salter
+
+
+* [The Sensual (quadratic) Form](https://www.maths.ed.ac.uk/~v1ranick/papers/conwaysens.pdf), by John Conway
+
 
 * From Christoffel Words to Markoff Numbers, by Christophe Reutenauer
 
@@ -124,11 +135,11 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 
 * An Introduction to the Theory of Numbers (6th Ed.) by Hardy and Wright
 
-    * I should prioritize this book in particular for deeper review
-
     * KB&SBT mentions that the converse of theorem 28 is also true, which isn't clearly mentioned in the book
 
     * theorem 29 is more general that what I had known to be true after writing KB&SBT
+
+    * I should prioritize this book in particular for deeper review
 
 
 * Algebra: Chapter 0, by Paolo Aluffi
@@ -155,6 +166,8 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 * The Geometry of Continued Fractions, by Oleg Karpenkov
 
     * Discusses the sail of a real number, which Dr. Stange's video alludes to
+
+    * Chapter 2 uses GL(2,Z) to prove [Pick's theorem](https://en.wikipedia.org/wiki/Pick%27s_theorem)
 
     * This book is amazing!
 
@@ -400,7 +413,7 @@ Visual Group Theory by Nathan Carter
   * Alternatively, quaternions are probably better covered in geometric algebra:  especially consider "Visualizing Quaternions" and "Visualizing More Quaternions" by Andrew Hanson.
 
 Quantum in Pictures by Bob Coecke and Stefano Gogioso
-    * Note that both Linas Vepstas pedagogical resources and John Carlos Baez's lectures discuss the quantum harmonic oscillator. 
+    * Note that both Linas Vepstas pedagogical resources and John Carlos Baez's lectures discuss the quantum harmonic oscillator.
 
 Introducing String Diagrams: The Art of Category Theory by Ralf Hinze and Dan Marsden
 
