@@ -1,5 +1,4 @@
-In the context of an undergraduate math curriculum, the Stern-Brocot tree is an
-example that is highly relevant to Discrete Math, Abstract Algebra, and Number Theory. It also seems well worth mentioning in Linear Algebra, Real Analysis, Complex Analysis, and Numerical Analysis.  It may well be worth more than a mention in those classes, but I don't feel like I'm nearly as well qualified to weigh in on those classes as I am the first three.
+In the context of an undergraduate math curriculum, the Stern-Brocot tree is an example that is highly relevant to Discrete Math, Abstract Algebra, and Number Theory. It also seems well worth mentioning in Linear Algebra, Real Analysis, Complex Analysis, and Numerical Analysis.  It may well be worth more than a mention in those classes, but I don't feel like I'm nearly as well qualified to weigh in on those classes as I am the first three.
 
 In any case, I started writing down my thoughts on how I'd approach elementary number theory if I were teaching the class as a response to somebody who felt totally lost in an intro to elementary number theory type of class.  I eventually plan on expanding on and editing this note:
 

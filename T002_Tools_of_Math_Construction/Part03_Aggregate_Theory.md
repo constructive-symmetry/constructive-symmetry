@@ -6,71 +6,159 @@
 As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on Rational Approximation](../T001_Kevin_Bacon_and_the_Stern-Brocot_Tree/a_Sermon_on_Rational_Approximation.md), the Stern-Brocot Tree appears in each of these top-level resources:
 
 * Concrete Mathematics (2nd Ed.), by Ronald L Graham, Donald E Knuth, and Oren Patashnik
-  * Exercise 4.4: Depends on interpretation.
-     * if interpreted as pair, then (1,1) /= (-1,-1), then
-          * it's four of the eight lobes of the group SL(2,Z), and
-          * SL(2,Z) is the transitive closure of these lobes under group multiplication.
-     * if interpreted as ratio, then 1/1 == (-1)/(-1), then
-          * it's two of the four lobes of the modular group PSL(2,Z), each duplicated twice, and
-          * PSL(2,Z) is the transitive closure of these lobes under group multiplication.
-     * the function \x -> x * ((0 1)(-1 0)) is a bijection between the provided lobes and the missing lobes
-  * see [scanned notes](notes-on-modular-group.pdf)
-  * should rewrite essay in TeX to expand on this answer.
-     * free presentations of GL(2,Z), SL(2,Z), and PSL(2,Z) based on the [Minkowski product](https://en.wikipedia.org/wiki/Minkowski_addition) D_4 * SL(2,N) * D_4
-     * PSL(2,Z)'s flavor of this presentation has a syntactic correspondence, computable by a small and simple Mealy-type finite-state machine, to the _coproduct_ (also known as the _free product_) of [Z_3 and Z_2](https://doi.org/10.2307%2F2324963)
-  * the term "lobe" borrowed from "Streaming Down the Stern-Brocot Tree: Finding and Expressing Solutions to Pell's Equation in SL(2,Z)" by Marcus Shell
+
+    * Exercise 4.4: Depends on interpretation.
+
+        * if interpreted as pair, then (1,1) /= (-1,-1), then
+
+        * it's four of the eight lobes of the group SL(2,Z), and
+
+        * SL(2,Z) is the transitive closure of these lobes under group multiplication.
+
+    * if interpreted as ratio, then 1/1 == (-1)/(-1), then
+
+        * it's two of the four lobes of the modular group PSL(2,Z), each duplicated twice, and
+
+        * PSL(2,Z) is the transitive closure of these lobes under group multiplication.
+
+    * the function \x -> x * ((0 1)(-1 0)) is a bijection between the provided lobes and the missing lobes
+
+    * see [scanned notes](notes-on-modular-group.pdf)
+
+    * should rewrite essay in TeX to expand on this answer.
+
+        * free presentations of GL(2,Z), SL(2,Z), and PSL(2,Z) based on the [Minkowski product](https://en.wikipedia.org/wiki/Minkowski_addition) D_4 * SL(2,N) * D_4
+
+        * PSL(2,Z)'s flavor of this presentation has a syntactic correspondence, computable by a small and simple Mealy-type finite-state machine, to the _coproduct_ (also known as the _free product_) of [Z_3 and Z_2](https://doi.org/10.2307%2F2324963)
+
+    * the term "lobe" borrowed from "Streaming Down the Stern-Brocot Tree: Finding and Expressing Solutions to Pell's Equation in SL(2,Z)" by Marcus Shell
+
+
+* Introduction to Experimental Mathematics, by Søren Eilers and Rune Johansen
+
+    * A continuation of _the inductive attitude_ theme of this study guide
+
+        * The Scout Mindset, by Julia Galef
+
+        * The Knowledge Illusion, by Steven Sloman and Philip Fernbach
+
+        * How to Solve It, by George Pólya
+
+        * Mathematics and Plausible Reasoning, by George Pólya
+
+        * Proofs and Refutations, by Imre Lakatos
+
+        * The Book of Why, by Judea Pearl and Dana Mackenzie
+
+        * An Introduction to Probability and Inductive Logic, by Ian Hacking
+
+        * Statistical Rethinking, by Richard McElreath
+
 
 * [Funny Fractions and Ford Circles - Numberphile](https://www.youtube.com/watch?v=0hlvhQZIOQw) by [Francis Bonahon](https://dornsife.usc.edu/francis-bonahon/)
 
+
 * [Rethinking the real line #SoME3](https://www.youtube.com/watch?v=uFWJuZQLKJs) by [Katherine Stange](https://math.katestange.net/)
 
+
 * Indra's Pearls: The Vision of Felix Klein, by David Mumford, Caroline Series, and David Wright
+
   * A state-of-the-art introduction to computer graphics, fractals, mathematics, and much more.
+
   * reminds me a lot of examples from "Oh! Pascal!", but much more in-depth.
+
   * Like "Proofs and Refutations", this book has a similarly high potential for improving my math education, had I been able to read it in high school.
+
   * Chapter 7 covers modular group
+
   * Potentially pairs well with:
+
       * Chaos, by James Gleick
+
       * The Knot Book, by Colin C Adams
+
       * Euler's Gem, by David S Richeson
+
       * Visual Group Theory, by Nathan Carter
+
       * Visual Complex Analysis, by Tristan Needham
+
       * Visual Differential Geometry and Forms, by Tristan Needham
 
-* The Knot Book, by Colin C Adams
-   * SL(2,N) is closely related to rational tangles and the 3-strand braid group
-   * Rational tangles [can be demoed](http://www.geometer.org/mathcircles/tangle.pdf) to [younger children](https://www.youtube.com/watch?v=vFjAMPfKI6c).
-   * Rational tangles and continued fractions are a tool that have been
-     used by scientists to better understand how [topoisomerase untangles
-     DNA](https://www.youtube.com/watch?v=JXGyXtNsu14) so that it can be read by RNA.
 
-* Introduction to Experimental Mathematics, by Søren Eilers and Rune Johansen
-  * A continuation of _the inductive attitude_ theme of this study guide
-      * The Scout Mindset, by Julia Galef
-      * The Knowledge Illusion, by Steven Sloman and Philip Fernbach
-      * How to Solve It, by George Pólya
-      * Mathematics and Plausible Reasoning, by George Pólya
-      * Proofs and Refutations, by Imre Lakatos
-      * The Book of Why, by Judea Pearl and Dana Mackenzie
-      * An Introduction to Probability and Inductive Logic, by Ian Hacking
-      * Statistical Rethinking, by Richard McElreath
+* The Knot Book, by Colin C Adams
+
+    * SL(2,N) is closely related to rational tangles and the 3-strand braid group
+
+    * Rational tangles [can be demoed](http://www.geometer.org/mathcircles/tangle.pdf) to [younger children](https://www.youtube.com/watch?v=vFjAMPfKI6c).
+
+    * Rational tangles and continued fractions are a tool that have been
+      used by scientists to better understand how [topoisomerase untangles
+      DNA](https://www.youtube.com/watch?v=JXGyXtNsu14) so that it can be read
+      by RNA.
+
+
+* From Christoffel Words to Markoff Numbers, by Christophe Reutenauer
+
+    * This book uses identifies the term "SL(2,N)" with the Stern-Brocot Tree,
+      and did so several years before I did the same.
+
+    * See also [Combinatorics on Words: Christoffel Words and Repetitions in Words](https://www-igm.univ-mlv.fr/~berstel/Articles/2008wordsbookMtlUltimate.pdf) by Jean Berstel, Aaron Lauve, Christophe Reutenauer, and Franco Saliola
+
+
+* Neverending Fractions, An Introduction to Continued Fractions, by Jonathan Borwein, Alf van der Poorten, Jeffrey Shallit, and Wadim Zudilin.
+
+   * Standard introduction to continued fractions, alongside an eclectic mix of less common applications.
+
+   * I remember playing with Somos sequences via OEIS, but I never did anything very interesting with them.
+
+   * See also Linas Vepstas's fascinating expository efforts to discuss this material in relatively accessible ways, often with an eye towards analysis and measure theory
+
+
+* An Introduction to the Theory of Numbers (6th Ed.) by
+
+    * should do deeper review of this book
+
+    * KB&SBT mentions that the converse of theorem 28 is also true, which isn't clearly mentioned in the book
+
+    * theorem 29 is more general that what I had known to be true after writing KB&SBT
+
 
 * Algebra: Chapter 0, by Paolo Aluffi
+
   * Often discusses SL(2,Z)
+
   * Synthesizing this answer with this book should be a very fertile exercise.
+
 
 * [Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf), by [Allen Hatcher](https://pi.math.cornell.edu/~hatcher/)
    * [page 87](https://pi.math.cornell.edu/%7Ehatcher/AT/AT.pdf#page=87) illustrates Z_3 * Z_2, as shared by [etherteeth on reddit](https://www.reddit.com/r/math/comments/17xt26a/what_are_some_visually_appealling_graphics_youve/k9qda37/)
 
+
+* Integral Matrices, by Morris Newman
+
+
+* Topics in Geometric Group Theory, by Pierre de la Harpe
+
+
+* Automorphic Forms and Even Unimodular Lattices, by Chenevier and Lannes
+
+
 * The Geometry of Continued Fractions, by Oleg Karpenkov
-   * Discusses the sail of a real number, which Dr. Stange's video alludes to
-   * This book is amazing!
+
+    * Discusses the sail of a real number, which Dr. Stange's video alludes to
+
+    * This book is amazing!
 
 * [Seminar on _This Week's Finds in Mathematical Physics_](https://math.ucr.edu/home/baez/twf/) by John Baez
-   * [The 3-strand braid group](https://www.youtube.com/watch?v=MnS4hduP5xg) [(and blog post)](https://math.ucr.edu/home/baez/week233.html) appears to take these answers to a _much_ higher level.
-   * The remaining lectures appear to contain more than a few of the missing pieces needed to complete the sequel to KB&SBT.
-   * Should also be very useful for building out the combinatorial and stochastic components of the overarching project, possibly with an eye towards building gentle introductions towards [star semirings](https://r6.ca/blog/20110808T035622Z.html) and the tropical semiring.
-   * Moduli spaces and modular forms do seem to be unifying theme to this aggregate theory that I have yet to understand much of. This is a decidely nonelementary topic, yet might be made far more accessible than commonly believed. [The Moduli Space of Acute Triangles](https://arxiv.org/abs/2407.06201) seems like a start on a relatively accessible introduction.
+
+    * [The 3-strand braid group](https://www.youtube.com/watch?v=MnS4hduP5xg) [(and blog post)](https://math.ucr.edu/home/baez/week233.html) appears to take these answers to a _much_ higher level.
+
+    * The remaining lectures appear to contain more than a few of the missing pieces needed to complete the sequel to KB&SBT.
+
+    * Should also be very useful for building out the combinatorial and stochastic components of the overarching project, possibly with an eye towards building gentle introductions towards [star semirings](https://r6.ca/blog/20110808T035622Z.html) and the tropical semiring.
+
+    * Moduli spaces and modular forms do seem to be unifying theme to this aggregate theory that I have yet to understand much of. This is a decidely nonelementary topic, yet might be made far more accessible than commonly believed. [The Moduli Space of Acute Triangles](https://arxiv.org/abs/2407.06201) seems like a start on a relatively accessible introduction.
 
 # An intellectual history of an Aggregate Theory
 ## A tribute to linear algebra and Dr. Elizabeth Meckes
@@ -300,24 +388,6 @@ Visual Group Theory by Nathan Carter
   * If VGT is a introduction/adjunct to Fraleigh and Hungerford, I think the Aggregate Theory of Concrete Mathematics can readily produce an introduction/adjunct to Visual Group Theory.
   * Paolo Aluffi's "Algebra: Notes from the Underground" seems like a potentially interesting followup.
   * For a deeper look at quaternions, see "Geometry: Plane and Fancy", "Introduction to the Theory of Numbers", and some abstract algebra books.  Most introductory abstract algebra books only cover the finite quaterion group, though.
-
-Neverending Fractions, An Introduction to Continued Fractions, by Jonathan Borwein, Alf van der Poorten, Jeffrey Shallit, and Wadim Zudilin.
-   * Standard introduction to continued fractions, alongside an eclectic mix of less common applications.
-   * I remember playing with Somos sequences via OEIS, but I never did anything very interesting with them.
-   * See also Linas Vepstas's fascinating expository efforts to discuss this material in relatively accessible ways, often with an eye towards analysis and measure theory
-
-An Introduction to the Theory of Numbers (6th Ed.) by
-   * should do deeper review of this book
-   * KB&SBT mentions that the converse of theorem 28 is also true, which isn't clearly mentioned in the book
-   * theorem 29 is more general that what I had known to be true after writing KB&SBT
-
-Geometry of Continued Fractions, by Oleg Karpenkov
-   * This is quite an advanced look at topics closely related to the Stern-Brocot tree
-   * Further suggestions in this vein include:
-   * Algebra: Chapter 0, by Paolo Aluffi
-   * Integral Matrices, by Morris Newman
-   * Topics in Geometric Group Theory, by Pierre de la Harpe
-   * Automorphic Forms and Even Unimodular Lattices, by Chenevier and Lannes
 
 Proofs from THE BOOK
 
