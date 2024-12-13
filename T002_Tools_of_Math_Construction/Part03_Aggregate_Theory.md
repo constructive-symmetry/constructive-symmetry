@@ -97,27 +97,34 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
       DNA](https://www.youtube.com/watch?v=JXGyXtNsu14) so that it can be read
       by RNA.
 
+* [The Sensual (quadratic) Form](https://www.maths.ed.ac.uk/~v1ranick/papers/conwaysens.pdf), by John Conway
+
+* [Ropes, Fractions, and Moduli Spaces](https://nsalter.science.nd.edu/expository-notes/tangles.pdf) by Nick Salter
 
 * From Christoffel Words to Markoff Numbers, by Christophe Reutenauer
 
-    * This book uses identifies the term "SL(2,N)" with the Stern-Brocot Tree,
+    * This book identifies the term "SL(2,N)" with the Stern-Brocot Tree,
       and did so several years before I did the same.
 
     * See also [Combinatorics on Words: Christoffel Words and Repetitions in Words](https://www-igm.univ-mlv.fr/~berstel/Articles/2008wordsbookMtlUltimate.pdf) by Jean Berstel, Aaron Lauve, Christophe Reutenauer, and Franco Saliola
 
+* [Linas' Art Gallery](https://linas.org/art-gallery/index.html) and [his explanations thereof](https://linas.org/math/sl2z.html)
+
+    * fascinating expository efforts to discuss this material in relatively accessible ways, often with an eye towards analysis and measure theory
+
+    * There are a several additional pedagogical resources not linked to above available on [Linas Vepstas Homepage](https://linas.org/)
+
 
 * Neverending Fractions, An Introduction to Continued Fractions, by Jonathan Borwein, Alf van der Poorten, Jeffrey Shallit, and Wadim Zudilin.
 
-   * Standard introduction to continued fractions, alongside an eclectic mix of less common applications.
+    * Standard introduction to continued fractions, alongside an eclectic mix of less common applications.
 
-   * I remember playing with Somos sequences via OEIS, but I never did anything very interesting with them.
-
-   * See also Linas Vepstas's fascinating expository efforts to discuss this material in relatively accessible ways, often with an eye towards analysis and measure theory
+    * I remember playing with Somos sequences via OEIS, but I never did anything very interesting with them.
 
 
-* An Introduction to the Theory of Numbers (6th Ed.) by
+* An Introduction to the Theory of Numbers (6th Ed.) by Hardy and Wright
 
-    * should do deeper review of this book
+    * I should prioritize this book in particular for deeper review
 
     * KB&SBT mentions that the converse of theorem 28 is also true, which isn't clearly mentioned in the book
 
@@ -128,7 +135,7 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 
     * Often discusses SL(2,Z)
 
-    * Synthesizing this answer with this book should be a very fertile exercise.
+    * Synthesizing GL(2,Z) = D_4 * SL(2,N) * D_4 and related presentations with this book should be a very fertile exercise.
 
 
 * [Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf), by [Allen Hatcher](https://pi.math.cornell.edu/~hatcher/)
@@ -142,7 +149,7 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 * Topics in Geometric Group Theory, by Pierre de la Harpe
 
 
-* Automorphic Forms and Even Unimodular Lattices, by Chenevier and Lannes
+* Automorphic Forms and Even Unimodular Lattices, by Gaëtan Chenevier and Jean Lannes
 
 
 * The Geometry of Continued Fractions, by Oleg Karpenkov
@@ -150,6 +157,7 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
     * Discusses the sail of a real number, which Dr. Stange's video alludes to
 
     * This book is amazing!
+
 
 * [Seminar on _This Week's Finds in Mathematical Physics_](https://math.ucr.edu/home/baez/twf/) by John Baez
 
@@ -287,7 +295,7 @@ Apply iterative deepening depth first searches to the following starting points:
 
 As soon as practical, mix in practices that exercise the inductive attitude, computer programming, problem solving, heuristics, self-awareness, self-control, and social skills.
 
-Teachers need to keep in mind major milestones that should be achieved, including computer programming, Boolean logic, binary numbers, types, Cartesian coordinates, geometric modelling, dimensional analysis, the arithmetic of fractions, binary search, depth-first search, breadth-first search, iterative deepening, radix-point arithmetic, limits of Stern-Brocot sequences, divergent sequences, counting combinatorially, matrix arithmetic, probability, statistics, inductive reasoning, deductive reasoning, recursion, syntax and parsing, and proof by induction. Teachers need to assist reaching simple milestones in these topics as early as is reasonable.
+Teachers need to keep in mind major milestones that should be achieved, including binary numbers, types, Cartesian coordinates, geometric modelling, dimensional analysis, the arithmetic of fractions, binary search, depth-first search, breadth-first search, iterative deepening, radix-point arithmetic, limits of Stern-Brocot sequences, divergent sequences, counting combinatorially, matrix arithmetic, probability, statistics, inductive reasoning, deductive reasoning, recursion, syntax and parsing, and proof by induction. Teachers need to assist reaching simple milestones in these topics as early as is reasonable.
 
 A first exposure to an idea or concept need not be a deep exposure: it only needs to be deep enough to establish a sturdy memory tripod or two, ideally by relating the concept to one or two other ideas in the curriculum. A secondary goal for an ideal lesson should be to drop some breadcrumbs and suggested readings that will hopefully create a mental reference in many students, and that hopefully a few students will someday follow up on.
 
@@ -389,9 +397,18 @@ Visual Group Theory by Nathan Carter
   * If VGT is a introduction/adjunct to Fraleigh and Hungerford, I think the Aggregate Theory of Concrete Mathematics can readily produce an introduction/adjunct to Visual Group Theory.
   * Paolo Aluffi's "Algebra: Notes from the Underground" seems like a potentially interesting followup.
   * For a deeper look at quaternions, see "Geometry: Plane and Fancy", "Introduction to the Theory of Numbers", and some abstract algebra books.  Most introductory abstract algebra books only cover the finite quaterion group, though.
-  * Alternatively, quaternions are probably better covered in geometric algebra:  especially consider "Visualizing Quaternions" by Andrew Hanson.
+  * Alternatively, quaternions are probably better covered in geometric algebra:  especially consider "Visualizing Quaternions" and "Visualizing More Quaternions" by Andrew Hanson.
 
-Proofs from THE BOOK
+Quantum in Pictures by Bob Coecke and Stefano Gogioso
+    * Note that both Linas Vepstas pedagogical resources and John Carlos Baez's lectures discuss the quantum harmonic oscillator. 
+
+Introducing String Diagrams: The Art of Category Theory by Ralf Hinze and Dan Marsden
+
+[Graphical Linear Algebra](https://graphicallinearalgebra.net/)
+
+The Joy of Abstraction by Eugenia Cheng
+
+Proofs from THE BOOK by Martin Aigner and Günter M. Ziegler
 
 Game Theory
    * We need an excuse to play games in the math classroom
