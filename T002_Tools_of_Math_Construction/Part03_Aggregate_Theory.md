@@ -63,27 +63,27 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 
 * Indra's Pearls: The Vision of Felix Klein, by David Mumford, Caroline Series, and David Wright
 
-  * A state-of-the-art introduction to computer graphics, fractals, mathematics, and much more.
+    * A state-of-the-art introduction to computer graphics, fractals, mathematics, and much more.
 
-  * reminds me a lot of examples from "Oh! Pascal!", but much more in-depth.
+    * reminds me a lot of examples from "Oh! Pascal!", but much more in-depth.
 
-  * Like "Proofs and Refutations", this book has a similarly high potential for improving my math education, had I been able to read it in high school.
+    * Like "Proofs and Refutations", this book has a similarly high potential for improving my math education, had I been able to read it in high school.
 
-  * Chapter 7 covers modular group
+    * Chapter 7 covers modular group
 
-  * Potentially pairs well with:
+    * Potentially pairs well with:
 
-      * Chaos, by James Gleick
+        * Chaos, by James Gleick
 
-      * The Knot Book, by Colin C Adams
+        * The Knot Book, by Colin C Adams
 
-      * Euler's Gem, by David S Richeson
+        * Euler's Gem, by David S Richeson
 
-      * Visual Group Theory, by Nathan Carter
+        * Visual Group Theory, by Nathan Carter
 
-      * Visual Complex Analysis, by Tristan Needham
+        * Visual Complex Analysis, by Tristan Needham
 
-      * Visual Differential Geometry and Forms, by Tristan Needham
+        * Visual Differential Geometry and Forms, by Tristan Needham
 
 
 * The Knot Book, by Colin C Adams
@@ -126,13 +126,14 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 
 * Algebra: Chapter 0, by Paolo Aluffi
 
-  * Often discusses SL(2,Z)
+    * Often discusses SL(2,Z)
 
-  * Synthesizing this answer with this book should be a very fertile exercise.
+    * Synthesizing this answer with this book should be a very fertile exercise.
 
 
 * [Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf), by [Allen Hatcher](https://pi.math.cornell.edu/~hatcher/)
-   * [page 87](https://pi.math.cornell.edu/%7Ehatcher/AT/AT.pdf#page=87) illustrates Z_3 * Z_2, as shared by [etherteeth on reddit](https://www.reddit.com/r/math/comments/17xt26a/what_are_some_visually_appealling_graphics_youve/k9qda37/)
+
+    * [page 87](https://pi.math.cornell.edu/%7Ehatcher/AT/AT.pdf#page=87) illustrates Z_3 * Z_2, as shared by [etherteeth on reddit](https://www.reddit.com/r/math/comments/17xt26a/what_are_some_visually_appealling_graphics_youve/k9qda37/)
 
 
 * Integral Matrices, by Morris Newman
@@ -195,7 +196,7 @@ My first real "aha!" moment with continued fractions came from reading articles 
 
 Days after that, I was reading the then-recent paper "[Functional Pearl: Enumerating the Rationals](https://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/rationals.pdf) by Jeremy Gibbons, David Lester, and Richard Bird. This was my first introduction to the Stern-Brocot tree and it's connection to the Euclidean algorithm and the Calkin-Wilf trees. Soon after reading that paper, I knew that the Stern-Brocot tree was one of the most important partial answers I had ever stumbled upon to "How to teach math?".
 
-I was struck with this force of revelation for at least four reasons: first of all, The Stern-Brocot tree provides a very appealing mental model for thinking about continued fractions. Now I believed I could successfully introduce these ideas to my five-year old self. Being able to increase my bid from "my Junior High self" to "my 5-year old self" was _extremely_ interesting.
+I was struck with this force of revelation for at least four reasons: first of all, The Stern-Brocot tree is a binary search tree that provides a very appealing mental model for thinking about continued fractions. Now I believed I could successfully introduce these ideas to my five-year old self. Being able to increase my bid from "my Junior High self" to "my 5-year old self" was _extremely_ interesting.
 
 Second, the Stern-Brocot tree is a naturally motivated demonstration that the "wrong way to add fractions" is useful. The mediant very nicely illustrates and motivates the property of being well-defined, because it is not a well-defined "function", and this demonstrates that these "functions", while not functions in the strictest sense of the word, can still in fact be very useful, which is a wonderful thing to learn early.
 
@@ -388,6 +389,7 @@ Visual Group Theory by Nathan Carter
   * If VGT is a introduction/adjunct to Fraleigh and Hungerford, I think the Aggregate Theory of Concrete Mathematics can readily produce an introduction/adjunct to Visual Group Theory.
   * Paolo Aluffi's "Algebra: Notes from the Underground" seems like a potentially interesting followup.
   * For a deeper look at quaternions, see "Geometry: Plane and Fancy", "Introduction to the Theory of Numbers", and some abstract algebra books.  Most introductory abstract algebra books only cover the finite quaterion group, though.
+  * Alternatively, quaternions are probably better covered in geometric algebra:  especially consider "Visualizing Quaternions" by Andrew Hanson.
 
 Proofs from THE BOOK
 
