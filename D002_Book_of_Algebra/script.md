@@ -221,7 +221,7 @@ addition, multiplication, subtraction, division, exponentiation on Z, Q, R, C (a
 
         * This property isn't unusual
 
-        * D_4 and Dih(Z) are unusual examples of this property
+        * D_4 is an unusual example of this property
 
     * General Automorphisms
 

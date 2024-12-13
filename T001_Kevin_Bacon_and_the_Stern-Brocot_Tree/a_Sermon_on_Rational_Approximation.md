@@ -597,7 +597,7 @@ Unfortunately, contemporary mainstream math education focuses nearly all of it's
    * Automorphisms of D_4
       * D_4 is isomorphic to it's own automorphism group
       * This property isn't unusual
-      * D_4 and Dih(Z) are unusual examples of this property
+      * D_4 is an unusual example of this property
    * General Automorphisms
       * Generalized Semidirect Products
       * Outer vs Inner Automorphisms
