@@ -142,6 +142,9 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
     * I should prioritize this book in particular for deeper review
 
 
+* [Expository papers](https://kconrad.math.uconn.edu/blurbs/) on [SL(2,Z)](https://kconrad.math.uconn.edu/blurbs/grouptheory/SL\(2,Z\).pdf) by Keith Conrad
+
+
 * Algebra: Chapter 0, by Paolo Aluffi
 
     * Often discusses SL(2,Z)
@@ -411,6 +414,8 @@ Visual Group Theory by Nathan Carter
   * Paolo Aluffi's "Algebra: Notes from the Underground" seems like a potentially interesting followup.
   * For a deeper look at quaternions, see "Geometry: Plane and Fancy", "Introduction to the Theory of Numbers", and some abstract algebra books.  Most introductory abstract algebra books only cover the finite quaterion group, though.
   * Alternatively, quaternions are probably better covered in geometric algebra:  especially consider "Visualizing Quaternions" and "Visualizing More Quaternions" by Andrew Hanson.
+
+Learn Physics with Functional Programming, by Scott N Walck
 
 Quantum in Pictures by Bob Coecke and Stefano Gogioso
     * Note that both Linas Vepstas pedagogical resources and John Carlos Baez's lectures discuss the quantum harmonic oscillator.
