@@ -119,6 +119,10 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 
     * See also [Combinatorics on Words: Christoffel Words and Repetitions in Words](https://www-igm.univ-mlv.fr/~berstel/Articles/2008wordsbookMtlUltimate.pdf) by Jean Berstel, Aaron Lauve, Christophe Reutenauer, and Franco Saliola
 
+
+* Squigonometry: The Study of Imperfect Circles by Robert D. Poodiack and William E. Wood
+
+
 * [Linas' Art Gallery](https://linas.org/art-gallery/index.html) and [his explanations thereof](https://linas.org/math/sl2z.html)
 
     * fascinating expository efforts to discuss this material in relatively accessible ways, often with an eye towards analysis and measure theory
