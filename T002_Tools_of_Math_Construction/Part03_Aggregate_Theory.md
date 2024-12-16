@@ -430,6 +430,8 @@ Introducing String Diagrams: The Art of Category Theory by Ralf Hinze and Dan Ma
 
 The Joy of Abstraction by Eugenia Cheng
 
+The Symmetries of Things, by John H. Conway, Heidi Burgiel, and Chaim Goodman-Strauss
+
 Proofs from THE BOOK by Martin Aigner and Günter M. Ziegler
 
 Game Theory
