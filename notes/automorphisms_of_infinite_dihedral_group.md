@@ -37,6 +37,19 @@ dihedral groups of even degree. (or whose order is a multiple of four)
 
 Is Dih(Z_6) actually isomorphic to Aut(Dih(Z_6))?
 
+   Yes.
+
 Can I demonstrate
 
     Inn(Dih(Z)) ≅ Inn(Dih(Z)) ⋊ Z_2
+
+I still don't understand this isomorphism as well as I want, but it turned out
+to be fairly straightforward for me to start from a presentation of Dih(Z) and
+prove that it is isomorphic to Aut(Dih(Z)). I still want to delve deeper into
+the isomorphism above at some point, though.
+
+So it turns out that the Dih(Z) is a _slightly_ more unusual example of a
+group that is isomorphic to its own automorphism group than I first realized.
+
+I'm pretty sure the proof I ended up with more-or-less matches my initial
+intuition regarding the problem.

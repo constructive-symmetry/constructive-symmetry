@@ -219,9 +219,10 @@ addition, multiplication, subtraction, division, exponentiation on Z, Q, R, C (a
 
         * D_4 is isomorphic to it's own automorphism group
 
-        * This property isn't unusual
+        * This property isn't unusual, as exhibited by all complete groups
 
-        * D_4 is an unusual example of this property
+        * D_4, D_6, and Dih(Z) are unusual examples of this property, as they
+	  are not complete.
 
     * General Automorphisms
 
