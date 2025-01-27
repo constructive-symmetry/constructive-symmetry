@@ -25,13 +25,11 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 
     * should rewrite essay in TeX to expand on this answer.
 
-        * The Stern-Brocot Tree SL(2,N) is an example of a [module over a monoid](https://ncatlab.org/nlab/show/module+over+a+monoid).  From SL(2,N), it is relatively easy to construct more classical modules such as PSL(2,Z) as it consists of four copies of SL(2,N), or "lobes", in much the same way that Z consists of two copies of N.
-
-        * SL(2,N) is the 2⨯2 matrices of determinant 1 with nonnegative integer entries.  SL(2,N), binary strings, and Stern-Brocot tree are all isomorphic to each other.
+        * SL(2,N) is the 2⨯2 matrices of determinant 1 with nonnegative integer entries. SL(2,N), binary strings, and Stern-Brocot tree are all isomorphic to each other. The Stern-Brocot Tree SL(2,N) is an example of a [module over a monoid](https://ncatlab.org/nlab/show/module+over+a+monoid).
 
         * The symmetry group of the square D_4 has a canonical representation of those 2⨯2 matrices with a 0 and a ±1 in each row and column.  The determinant of these matrices is ±1.
 
-        * The general modular group GL(2,Z) is the 2⨯2 matrices of determinant ±1 with integer entries.  It turns out every element of GL(2,Z) can be written in exactly four ways as a matrix in D_4 times a matrix in SL(2,N) times a matrix in D_4, with the exception of those matrices that are also in D_4 which can be written in eight different ways. Thus GL(2,Z) can be constructed from sixteen copies of SL(2,N) as "lobes".
+        * The general modular group GL(2,Z) is the 2⨯2 matrices of determinant ±1 with integer entries.  It turns out every element of GL(2,Z) can be written in exactly four ways as a matrix in D_4 times a matrix in SL(2,N) times a matrix in D_4, with the exception of those matrices that are also in D_4 which can be written in eight different ways. Thus GL(2,Z) can be constructed from sixteen copies of SL(2,N) as "lobes" in much the same way that Z can be constructed from two copies of N.
 
         * free presentations of GL(2,Z), SL(2,Z), and PSL(2,Z) based on this [Minkowski product](https://en.wikipedia.org/wiki/Minkowski_addition) D_4 * SL(2,N) * D_4
 
