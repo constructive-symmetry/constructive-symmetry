@@ -707,8 +707,8 @@ Mix it up:
 2. When you get a match on a BOLO,  investigate:
       * what is the domain of discourse?
       * what assumptions to they make?
-      * what priorities do they value?
-      * what do they ignore?
+      * what values do they prioritize?
+      * what things do they ignore?
       * what are the larger contexts?
 
 3. Try to hold your assumptions loosely. Take being wrong as an opportunity to revise your map.
@@ -755,6 +755,7 @@ Mix it up:
 | Statistical Mechanics    |  |
 | Heterodox Economics      | William Stanley Jevons, Frederick Soddy, Kenneth Arrow, Amarya Sen, Elinor Ostrom |
 | Information Theory       | Claude Shannon, John von Neumann |
+| Communications Theory    | Oliver Heaviside |
 | Dynamical Systems, Chaos | Edward Lorenz |
 | Language and Automata    | Stephen Kleene, Noam Chomsky, John Hopcroft, Jeffery Ullman, Janusz Brzozowski |
 | Stochastic Processes   | Andrey Markov, John von Neumann, Stanislaw Ulam, Nicholas Metropolis, W.K. Hastings |

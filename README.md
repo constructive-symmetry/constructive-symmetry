@@ -8,21 +8,23 @@ The **praxis tracks** are intended to be a part of an actual course of study.  I
 
 Every folder is is intended to become a video, and to be accessible to as broad an audience as possible, especially young children.  None of these projects are quite ready to go, at the moment.  They are still under construction.
 
-**A001** is [_A tour of the Stern-Brocot tree, a Museum of Fractions_](./A001_A_Tour_of_the_Museum_of_Fractions/A001_A_Tour_of_the_Stern-Brocot_tree__a_Museum_of_Fractions.md). This is an introduction to the Stern-Brocot tree. Currently, I have a script with detailed historical notes, a recording of my voice as an [audio track](A001_A_Tour_of_the_Museum_of_Fractions/A001_A_Tour_of_the_Stern-Brocot_tree__a_Museum_of_Fractions.flac), some [closed captions](A001_A_Tour_of_the_Museum_of_Fractions/A001_A_Tour_of_the_Stern-Brocot_tree__a_Museum_of_Fractions__CloseCaptions.txt), and an attempt at an [opening SVG graphic](./A001_A_Tour_of_the_Museum_of_Fractions/Museum_of_Fractions.svg).
+**A001** is [_A tour of the Stern-Brocot tree, a Museum of Fractions_](./A001_A_Tour_of_the_Museum_of_Fractions/script.md). This is an introduction to the Stern-Brocot tree. Currently, I have a script with detailed historical notes, a recording of my voice as an [audio track](A001_A_Tour_of_the_Museum_of_Fractions/audio.flac), some [closed captions](A001_A_Tour_of_the_Museum_of_Fractions/CloseCaptions.txt), and an attempt at an [opening SVG graphic](./A001_A_Tour_of_the_Museum_of_Fractions/Museum_of_Fractions.svg).
 
 I don't have video available yet to go along with the audio, and the historical notes should include more references to follow up on specific claims.
 
-**A002** is [_The Euclidean Algorithm as a guidebook to the Museum: rebuilding fractions using the Stern-Brocot Tree_](./A002_The_Guidebook_to_the_Museum_of_Fractions/A002_The_Euclidean_Algorithm_as_the_Guidebook.md). This introduces the connection between the Euclidean Algorithm and the Stern-Brocot tree.  We start with the Pi Day approximation 3.14.  Then we use the Euclidean Algorithm to first round 3.14 ≈ 22/7, and then to finish reducing to least terms, 3.14 = 157/50. This Pi Day approximation happens to be a shadowed semi-convergent of 𝜋.  It is overshadowed by the previous convergent, 22/7, which is closer to 𝜋 despite the fact that the denominator 7 is much smaller than the denominator 50. However, as a semi-convergent, 3.14 is never overshadowed by any rational approximation of 𝜋 other than the previous convergent of 𝜋.
+**A002** is [_The Euclidean Algorithm as a guidebook to the Museum: rebuilding fractions using the Stern-Brocot Tree_](./A002_The_Guidebook_to_the_Museum_of_Fractions/script.md). This introduces the connection between the Euclidean Algorithm and the Stern-Brocot tree.  We start with the Pi Day approximation 3.14.  Then we use the Euclidean Algorithm to first round 3.14 ≈ 22/7, and then to finish reducing to least terms, 3.14 = 157/50. This Pi Day approximation happens to be a shadowed semi-convergent of 𝜋.  It is overshadowed by the previous convergent, 22/7, which is closer to 𝜋 despite the fact that the denominator 7 is much smaller than the denominator 50. However, as a semi-convergent, 3.14 is never overshadowed by any rational approximation of 𝜋 other than the previous convergent of 𝜋.
 
 The script feels workable and nearly complete. There are extensive footnotes.
 
 **A???** is an introduction to rational arithmetic, rational approximation, continued fractions, the Stern-Brocot tree as 2⨯2 matrices, deeper looks into convergents and semi-convergents, [Ford Circles](https://www.youtube.com/watch?v=0hlvhQZIOQw), [an intuitive and informal Dirichlet's Approximation Theorem](https://www.youtube.com/watch?v=uFWJuZQLKJs), [the Sail of a real number m](https://link.springer.com/book/10.1007/978-3-662-65277-0), and more.
 
-**B???** an introduction to boolean logic, recursion, computer programming, deductive reasoning, and naive set theory. Longer term goals include backtracking, proof by induction, transitive closures, depth-first searches, binary search, preorder, inorder, and postorder traversals, breadth-first searches, and iterative deepening.
+**B???** an introduction to boolean logic, recursion, computer programming, deductive reasoning, and naive set theory. Longer term goals include proof by induction, transitive closures, backtracking, binary search, preorder, inorder, and postorder traversals, depth-first searches, breadth-first searches, and iterative deepening.
 
-**C001** is an introduction to Pascal's Triangle. This project is the least developed of the scripts that have been started. There's a very incomplete script in there.
+**C001** is an introduction to Pascal's Triangle. This project is the least developed of the scripts that have been started. There's a [very incomplete script](C001_Maze_of_Counting) in there. I'm particularly interested in studying
+[John Carlos Baez's Seminar on _This Week's Finds_](https://math.ucr.edu/home/baez/twf/), especially on combinatorics and categorification and the quantum
+harmonic oscillator, to get a better idea about how to proceed.
 
-**C???** an introduction to counting, chance, and inductive reasoning, starting with Pascal's Triangle, path generation, the binomial coefficients, and moving towards probability and statistics, generating functions, the Integer-Valued Polynomials, and hypergeometric summation.
+**C???** an introduction to counting, chance, and inductive reasoning, starting with Pascal's Triangle, path generation, and the binomial coefficients. Longer-term goals include probability and statistics, causal reasoning, generating functions, the Integer-Valued Polynomials, and hypergeometric summation.
 
 **D001** is an introduction to the concept of symmetry in a geometric context, focusing on the Euclidean isometries exhibited by the letters `H`, `O`, `M`, and `E`.
 
@@ -36,9 +38,9 @@ The script feels workable and nearly complete. There are extensive footnotes.
 
 **D006** introduces permutations via the symmetry group of the square
 
-**D007** Discuss commutativity in more detail. The Stern-Brocot free monoid SL(2,N) never commutes, resulting in a tree structure isomorphic to binary strings.  The paths downward into Pascal's Triangle always commutes, resulting in a chessboard lattice pattern covering the first quadrant, isomorphic to the monoid N⨯N. The Symmetry Group of the Square is sometimes commutative, and can be laid out as two interconnected rings, each running counter to the other's direction.  This dihedral construction is an example of a semidirect product.  Try to work in hints of commutators, commutator subgroup, and topology.
+**D007** Discuss commutativity in more detail. The Stern-Brocot free monoid SL(2,N) never commutes, resulting in a tree structure isomorphic to binary strings.  The paths downward into Pascal's Triangle always commutes, resulting in a chessboard lattice pattern covering the first quadrant, isomorphic to the monoid N⨯N. The Symmetry Group of the Square is sometimes commutative, and can be laid out as two interconnected rings, each running counter to the other's direction. This dihedral construction is an example of a semidirect product. Try to work in hints of commutators, commutator subgroup, and topology.
 
-**D???** Deeper investigations into dihedral groups, algebra and geometry.
+**D???** Deeper investigations into dihedral groups, algebra, geometry, linear algebra, and geometric algebra.
 
 One issue I see here already is that I really need to move this to a wiki structure, because these lessons should really be thought of as a graph, not as four lines of thought.  This ordering is both overly restrictive in this ordering already suggests false dependencies, and worse it's also insufficient because it doesn't emphasize the deeply interconnected nature of this web of ideas.
 
@@ -54,6 +56,8 @@ This project is intended to become a video. I feel like the script is more-or-le
 
 **T002** is [_Tools of Math Construction: an Aggregate Theory of Concrete Mathematics_](./T002_Tools_of_Math_Construction/An_Aggregate_Theory_of_Concrete_Mathematics.md) is study guide associated with Kevin Bacon and the Stern-Brocot Tree. It is quite long, it is semi-autobiographical, it is occasionally unpolished, and is far from complete, but I hope it will be interesting and useful in its present form. A big thank you to [Existential Comics](http://existentialcomics.com) and [XKCD](https://xkcd.com/) for the comics liberally infused into the study guide.
 
+**T003** is [Elementary Number Theory](T003_Elementary_Number_Theory/notes.md) is some very incomplete notes that discusses the relevance of the Stern-Brocot tree to the undergraduate mathematical curriculum, especially in relation to number theory.
+
 The **theory track** attempts to explain why the aggregate theory is the way it is. It attempts to provide a preface and 10,000 foot overview of the larger theory. It is aimed at a "prosumer" mathematical audience. I try to keep things as simple and accessible as possible, but it's also moves quickly. You aren't expected to immediately understand very much of what I mention.
 
 Rather, the theory track is intended to create referential knowledge in the minds of students who are so interested and motivated.  These references are intended to provide hints, clues, and suggestions about places to go next.  The theory track is also intended to help teachers navigate the larger aggregate theory.
@@ -66,4 +70,4 @@ However, once a child starts to appreciate metaphor, I hope that they can derive
 
 It's okay to feel discouraged or intimidated when trying to learn something new, but it's important to try and then try again anyway. This stuff is difficult to learn for the first time! Neither failure nor the fear of failure should prevent you from repeatedly trying to learn.
 
-Every mathematician struggled to understand things. Many mathematicians develop a taste for the struggle, striving for the mental rush that comes from coming to a new understanding, which you grow to suspect might just be a few more failed attempts away.
+Every mathematician struggled to understand things. Many mathematicians develop a taste for the struggle, striving for the mental rush that results from coming to a new understanding, which you grow to suspect might just be a few more failed attempts away.

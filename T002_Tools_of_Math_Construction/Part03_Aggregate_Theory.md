@@ -9,17 +9,23 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 
     * Exercise 4.4: Depends on interpretation.
 
+        * if interpreted as ratio, then 1/1 == (-1)/(-1), then
+
+             * it's two of the four lobes of the modular group PSL(2,Z), each duplicated twice, and
+
+             * PSL(2,Z) is the transitive closure of these lobes under group multiplication.
+
         * if interpreted as pair, then (1,1) /= (-1,-1), then
 
-        * it's four of the eight lobes of the group SL(2,Z), and
+             * it's four of the eight lobes of the group SL(2,Z), and
 
-        * SL(2,Z) is the transitive closure of these lobes under group multiplication.
+             * SL(2,Z) is the transitive closure of these lobes under group multiplication.
 
-    * if interpreted as ratio, then 1/1 == (-1)/(-1), then
+        * if interpreted as ratio that allows the starting fractions to be exchanged left-to-right
+             * it's four of the eight lobes of PGL(2,Z), which is also the transitive closure of these lobes under group multiplication.
 
-        * it's two of the four lobes of the modular group PSL(2,Z), each duplicated twice, and
-
-        * PSL(2,Z) is the transitive closure of these lobes under group multiplication.
+        * if interpreted as ratio that allows the starting fractions to be exchanged left-to-right
+             * it's eight of the sixteen lobes of GL(2,Z), which is also the transitive closure of these lobes under group multiplication.
 
     * the function \x -> x * ((0 1)(-1 0)) is a bijection between the provided lobes and the missing lobes
 
@@ -31,9 +37,11 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 
         * The general modular group GL(2,Z) is the 2⨯2 matrices of determinant ±1 with integer entries.  It turns out every element of GL(2,Z) can be written in exactly four ways as a matrix in D_4 times a matrix in SL(2,N) times a matrix in D_4, with the exception of those matrices that are also in D_4 which can be written in eight different ways. Thus GL(2,Z) can be constructed from sixteen copies of SL(2,N) as "lobes" in much the same way that Z can be constructed from two copies of N.
 
-        * free presentations of GL(2,Z), SL(2,Z), and PSL(2,Z) based on this [Minkowski product](https://en.wikipedia.org/wiki/Minkowski_addition) D_4 * SL(2,N) * D_4
+        * A given lobe is a submonoid of GL(2,Z) if and only if it is is within the orbit of the conjugation map applied to D_4 and SL(2,N). That is, for each `x` in D_4, `x SL(2,N) x⁻¹` is a submonoid of GL(2,Z),  and for every `x` and `y` such that `y ≠ x⁻¹`, then `x SL(2,N) y` is not closed under matrix multiplication. This reveals that exactly 4 of the 16 lobes are submonoids. Generalizing the orbit from D_4 to GL(2,Z) reveals further submonoids that are isomorphic to SL(2,N).
 
-        * PSL(2,Z)'s flavor of this presentation has a syntactic correspondence, computable by a small and simple Mealy-type finite-state machine, to the _coproduct_ (also known as the _free product_) of [Z_3 and Z_2](https://doi.org/10.2307%2F2324963)
+        * overconstrained presentations of GL(2,Z), SL(2,Z), PGL(2,Z), and PSL(2,Z) based on this [Minkowski product](https://en.wikipedia.org/wiki/Minkowski_addition) D_4 SL(2,N) D_4, from which free presentations can be readily derived.
+
+        * PSL(2,Z)'s flavor of this overconstrained presentation has a syntactic correspondence, computable by a small and simple Mealy-type finite-state machine, to the _coproduct_ (also known as the _free product_) of [Z_3 and Z_2](https://doi.org/10.2307%2F2324963)
 
         * see [scanned notes](notes-on-modular-group.pdf)
 
@@ -112,10 +120,12 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 
 * From Christoffel Words to Markoff Numbers, by Christophe Reutenauer
 
-    * This book identifies the term "SL(2,N)" with the Stern-Brocot Tree,
-      and did so several years before I did the same.
+    * This book uses the term "SL(2,N)" in close association with the Stern-Brocot Tree,
+      and did so several years before I identified the terms.
 
     * See also [Combinatorics on Words: Christoffel Words and Repetitions in Words](https://www-igm.univ-mlv.fr/~berstel/Articles/2008wordsbookMtlUltimate.pdf) by Jean Berstel, Aaron Lauve, Christophe Reutenauer, and Franco Saliola
+
+    * Markoff numbers are a classic example of the use of Vieta jumping.
 
 
 * Squigonometry: The Study of Imperfect Circles by Robert D. Poodiack and William E. Wood
@@ -137,14 +147,42 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 
 * An Introduction to the Theory of Numbers (6th Ed.) by Hardy and Wright
 
-    * KB&SBT mentions that the converse of theorem 28 is also true, which isn't clearly mentioned in the book
+    * KB&SBT mentions that the converse of theorem 28 is also true, which isn't
+      clearly mentioned in the book
+
+         * Theorem 28 is phrased in terms of Farey sequences. Translating
+	   between the Stern-Brocot Tree and Farey sequences isn't entirely
+	   trivial, but there is a mental model that makes it straightforward.
+
+         * The Stern-Brocot version of Theorem 28 and it's converse is
+	   equivalent to the claim that SL(2,N) and the Stern-Brocot tree are
+	   isomorphic.
 
     * theorem 29 is more general that what I had known to be true after writing KB&SBT
+         * Theorem 29 can be generalized a bit: if a/b < c/d are boundary
+	   fractions of x/y with Stern-Brocot representation C, the mediant of
+	   a/b and CRL^i is always the (i+2)-th multiple of x/y for all
+	   nonnegative integers i, provable by elementary algebra and
+	   induction. Similarly, the mediant of CLR^i and c/d is always a
+	   multiple of x/y, as is the mediant of CLR^i and CRL^j.
+
+         * In terms of Ford Circles, the mediant of any two circles that touch
+	   opposite sides of a third circle is a multiple of that circle.
+
+         * Clearly these statements cover some cases not covered by the
+	   statement of Theorem 29. Conversely, I am reasonably confident these
+	   statements cover all cases covered by Theorem 29, which would imply
+	   that this statement is strictly a generalization.
+
+    * Sections 3.5 and 3.6 are readily rephrased in terms of 2⨯2 matrices and GL(2,Z)
 
     * I should prioritize this book in particular for deeper review
 
 
 * [Expository papers](https://kconrad.math.uconn.edu/blurbs/) on [SL(2,Z)](https://kconrad.math.uconn.edu/blurbs/grouptheory/SL\(2,Z\).pdf) by Keith Conrad
+
+
+* SL(2,R) by Serge Lang
 
 
 * Algebra: Chapter 0, by Paolo Aluffi
@@ -167,6 +205,8 @@ As adjuncts and followups to [Kevin Bacon and the Stern-Brocot Tree, a Sermon on
 
 * Automorphic Forms and Even Unimodular Lattices, by Gaëtan Chenevier and Jean Lannes
 
+
+* A Course in Arithmetic, by Jean-Pierre Serre
 
 * The Geometry of Continued Fractions, by Oleg Karpenkov
 
@@ -266,7 +306,7 @@ I sparred with my opponent for a while. It quickly turned much nastier than I pr
 
 So I posted, and I was soon treated to a response in which I was a attacked for referring to "the modular group Z_256", via a wikipedia link to "the modular group, PSL(2,Z)", arguing that this minor difference in language meant I should go back to the basics and relearn arithmetic. Well I mean, he isn't wrong. I have a copy of "Winning Ways for Your Mathematical Plays", and I would probably greatly enjoy spending time relearning arithmetic from that book.
 
-The thing is, I don't specifically recall hearing about "the modular group, PSL(2,Z)" before this event. Reading the wikipedia article he sent me, I was immediately struck with the force of revelation, but this time looking outward from the shoulders of linear algebra. I immediately understood that the Stern-Brocot tree was somehow embedded within the modular group, because both things corresponded to 2x2 matrices of determinant one. And there was a connection to complex analysis!
+The thing is, I don't specifically recall hearing about "the modular group, PSL(2,Z)" before this event. Reading the wikipedia article he sent me, I was immediately struck with the force of revelation, but this time looking outward from the shoulders of linear algebra. I immediately understood that the Stern-Brocot tree was somehow embedded within the modular group, because both things corresponded to 2⨯2 matrices of determinant one. And there was a connection to complex analysis!
 
 I was completely lost in complex analysis, but I did take away three things, first a real admiration for Tristan Needham's "Visual Complex Analysis", secondly the beginnings of my awareness of the weaknesses and limitations of formalist mathematics,  and thirdly, having enthusiastically taken up what Sir Michael Atiyah deems the Faustian bargain that algebra offers, I realized I should have invested more into the study of geometry. In my research program for math education, finding pathways into classes where I previously had trouble, is always very interesting.
 
@@ -278,7 +318,7 @@ As I started work in earnest, firstly, I chose the term SL(2,N) to refer to the 
 
 Coming back around to the symmetry group of the square was weird, because I had not expected that, at all. Nor was I expecting to find something so poetically pleasing as the discovery that the treasure that I was seeking but not wholly expecting was so simply entwined with what I already had. I thought I had my "aha!" moment weeks ago, and here I discover my sparring partner quite accidentally handed me the missing piece I didn't even know I needed to complete the then partially assembled jigsaw puzzle that was "Kevin Bacon and the Stern-Brocot Tree"!
 
-A day or two later, I realized that I could have expected D_4 in the solution I was seeking:  after all, the canonical representation of D_4 is precisely those 2x2 matrices with each column and row containing 0 and ±1, and a determinant in {1, -1}. Although linear algebra had long been firmly in my hotlist of mental associations with D_4, coming back from the other direction... not so much. Here finally was the "aha!" moment looking back inwards, reminding me that a heuristic blunder that I'm prone to making is underinvesting in efforts to make links in my memory palaces more bidirectional, and reminding me yet again that my appreciation of linear algebra can always be better.
+A day or two later, I realized that I could have expected D_4 in the solution I was seeking:  after all, the canonical representation of D_4 is precisely those 2⨯2 matrices with each column and row containing 0 and ±1, and a determinant in {1, -1}. Although linear algebra had long been firmly in my hotlist of mental associations with D_4, coming back from the other direction... not so much. Here finally was the "aha!" moment looking back inwards, reminding me that a heuristic blunder that I'm prone to making is underinvesting in efforts to make links in my memory palaces more bidirectional, and reminding me yet again that my appreciation of linear algebra can always be better.
 
 This lead me to think back to my demonstration of D_4's action to Larry Moss, when as an aside I explained the weird thing I found with my D_4 calculator. It was actually meta-weird: when I first started drawing the D_4 calculator on paper for the first time, something about the principles I couldn't quite articulate but was committing to in order to develop the visual pun, gave me a strong sense that I would find an unexpected reward for my expense.  I was expecting the unexpected, and then I found it: after I finished, it didn't take me long to observe that by mentally moving the "window" on this book of algebra from the 12 o'clock position to the 3 o'clock position, the calculator works flawlessly, even though different physical glyphs are involved on the obverse side!  Try it!
 

@@ -53,7 +53,7 @@ In my next video, I will show you how to efficiently find the room of any specif
 
     I am quite certain that the Stern-Brocot tree is as fundamental to early childhood math education as the number line of John Wallis, who also coined the term "continued fraction". My guess is that the Stern-Brocot tree should be introduced shortly after the number line, another fundamental mental model in arithmetic and geometry.
 
-    I believe this because the Stern-Brocot tree is a useful, concrete example and teaching device across a surprisingly wide swath of mathematics from elementary school all the way through postgraduate studies and beyond.  It has a uncanny knack for tying together fundamental and widely useful concepts in seemingly disparate areas of computer science and mathematics, and an uncanny knack for appearing to the solutions of problems in the most suprising ways.
+    I believe this because the Stern-Brocot tree is a useful, concrete example and teaching device across a surprisingly wide swath of mathematics from elementary school all the way through postgraduate studies and beyond. It has a uncanny knack for tying together fundamental and widely useful concepts in seemingly disparate areas of computer science and mathematics, and an uncanny knack for appearing in the solutions of problems in the most suprising ways.
 
     On the other hand, I am probably not the first person to ever hold this eccentric belief, judging from Neil Calkin and Herbert Wilf's classic paper, Recounting the Rationals.  See historical notes[^history], a note on gear ratios[^mechanical], related concepts[^related], an attempt at answering "Why is the Stern-Brocot tree found in so many unexpected places?"[^why], credits[^credits], and further reading[^furtherreading] below.
 
@@ -282,17 +282,23 @@ In my next video, I will show you how to efficiently find the room of any specif
 [^credits]:
     **Primary influences:**
 
-    Gibbons, Jeremy & Lester, David & Bird, Richard. (2006). [Functional Pearl: Enumerating the rationals.](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/rationals.pdf) J. Funct. Program.. 16. 281-291. 10.1017/S0956796806005880.
+    Gibbons, Jeremy et al. (2006). [Functional Pearl: Enumerating the rationals.](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/rationals.pdf) J. Funct. Program.. 16. 281-291. 10.1017/S0956796806005880.
 
-    Calkin, Neil & Wilf, Herbert. (2000). [Recounting the Rationals.](https://www2.math.upenn.edu/~wilf/website/recounting.pdf) American Mathematical Monthly. 107. 10.2307/2589182.
+    Calkin, Neil and Herbert Wilf. (2000). [Recounting the Rationals.](https://www2.math.upenn.edu/~wilf/website/recounting.pdf) American Mathematical Monthly. 107. 10.2307/2589182.
 
-    Graham, Ronald & Knuth, Donald & Patashnik, Oren. (1994). Concrete Mathematics: A Foundation for Computer Science (2nd. ed.). Addison-Wesley Longman Publishing Co., Inc., USA.
+    Graham, Ronald et al. (1994). Concrete Mathematics: A Foundation for Computer Science (2nd. ed.). Addison-Wesley Longman Publishing Co., Inc., USA.
 
     Project Euler https://projecteuler.net
 
 [^furtherreading]:
-    **Further Readings:**
+    **Further Material:**
 
-    Herzinger, Kurt & Wisner, Robert [Connecting Greek Ladders and Continued Fractions](https://www.maa.org/press/periodicals/convergence/connecting-greek-ladders-and-continued-fractions-introduction) _Convergence_ (January 2014)
+    Herzinger, Kurt and Robert Wisner [Connecting Greek Ladders and Continued Fractions](https://www.maa.org/press/periodicals/convergence/connecting-greek-ladders-and-continued-fractions-introduction) _Convergence_ (January 2014)
 
     Barrow, John D. [Chaos in Numberland: the secret life of continued fractions](https://plus.maths.org/issue11/features/cfractions/2pdf/index.html/op.pdf) _Plus Magazine_ (June 2000)
+
+    Wood, Japheth et al. [Touching Infinity: Hyperbinary Numbers and Fraction Trees](https://mathcircles.org/activity/touching-infinity/)
+
+    Davis, Tom. [Conway's Rational Tangles](http://www.geometer.org/mathcircles/tangle.pdf)
+
+    Serenevy, Amanda. [Rational Tangles: A Mathematical Dance](https://www.youtube.com/watch?v=vFjAMPfKI6c)
