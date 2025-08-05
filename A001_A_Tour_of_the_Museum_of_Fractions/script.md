@@ -72,7 +72,7 @@ In my next video, I will show you how to efficiently find the room of any specif
     Introducing the mediant also sets up a later lesson about well-definedness, as the mediant is a useful example of something that is not a well-defined function of fractions.  This contrasts nicely with addition, which is a well-defined function of fractions.  Learning modular arithmetic well, largely comes down to fully owning and utilizing the concept of well-definedness.
 
 [^history]:
-    The Āryabhaṭīya is a Indian text on astronomy and mathematics written in Sanskrit circa 499 CE.  It attempted to find solutions of the linear diophantine equation Ax = By + C,  for positive A, B, C, using a solution that, although the method itself seems unclear to scholars who have worked on or from English translations, seems clearly related to continued fractions. Linear diophantine equations can indeed be solved using continued fractions! The Stern-Brocot tree is essentially equivalent to the modern notion of "simple continued fractions".
+    The [Āryabhaṭīya](https://www.youtube.com/watch?v=VCVEAHy3hsQ) is a Indian text on astronomy and mathematics written in Sanskrit circa 499 CE.  It attempted to find solutions of the linear diophantine equation Ax = By + C,  for positive A, B, C, using a solution that, although the method itself seems unclear to scholars who have worked on or from English translations, seems clearly related to continued fractions. Linear diophantine equations can indeed be solved using continued fractions! The Stern-Brocot tree is essentially equivalent to the modern notion of "simple continued fractions".
 
     However the Stern-Brocot tree is conceptually easier to grasp for the first time, and can be used to motivate learning about integer multiplication and division, which in turn leads to simple continued fractions.  Moreover, the Stern-Brocot tree continues to be a useful mental model for simple continued fractions even after a student of mathematics starts to understand continued fractions.  The Indian mathematician Srinivasa Ramanujan (1887-1920) is particularly famous for his understanding of continued fractions, and various generalizations thereof.
 
@@ -84,7 +84,7 @@ In my next video, I will show you how to efficiently find the room of any specif
 
     Farey Sequences were published by John Farey Sr (1816) and Augustin-Louis Cauchy (1828), and indepedently published by Charles Haros (1802) who credited Nicolas Chuquet (circa 1480) for the mediant-based algorithm.  The Farey sequences are an inorder traversal of a finite subgraph of the Stern-Brocot tree.  Farey sequences of increasing order would be an example of iterative deeping.  Iterative deepening is an important heuristic in machine learning and human learning, and should often be preferred to breadth-first search.  Jérôme Franel and Edmund Landau proved that certain statements about the asymptotic behaviors of Farey sequences of increasing order are equivalent to the Riemann Hypothesis.  Solving the Riemann Hypothesis is one of the million-dollar Millenium Prize Problems of the Clay Mathematics Institute.
 
-    Continued fractions (or various generalizations thereof) appear in the writings of Rafael Bombelli (1572), Pietro Cataldi (1613), John Wallis (1695), Leonhard Euler (1737, 1748), Johann Lambert (1761), Joseph-Louis Lagrange (1768,1770),  Carl Friedrich Gauss (1813), Henri Padé (1892), Srinivasa Ramanujan (1920), and Bill Gosper (1972) among many, many more modern authors.  Generalizing continued fractions to complex arithmetic is a useful tool in Complex Analysis.
+    Continued fractions (or various generalizations thereof) appear in the writings of Rafael Bombelli (1572), Pietro Cataldi (1613), William Brouncker (c 1650), John Wallis (1656,1695), Roger Cotes (1714), Leonhard Euler (1737, 1748), Johann Lambert (1761), Joseph-Louis Lagrange (1768,1770),  Carl Friedrich Gauss (1813), Henri Padé (1892), Srinivasa Ramanujan (1920), and Bill Gosper (1972) among many, many more modern authors.  Generalizing continued fractions to complex arithmetic is a useful tool in Complex Analysis.
 
     "Concrete Mathematics" credits Moritz Stern (1858) and Achille Brocot (1861) for the discovery of the Stern-Brocot tree, and mentions that Hermann Minkowski presented a lecture on the Stern-Brocot representation to the International Congress of Mathematicans in Heidelberg in 1904.  Hermann Minkowski is better known for his 1907 publication of the first mathematical models that conformed to Albert Einstein's Theory of Special Relativity, now termed Minkowski spaces in his honor.
 
@@ -130,7 +130,11 @@ In my next video, I will show you how to efficiently find the room of any specif
 
         * Cartesian coordinates
 
+        * Euclid's orchard
+
         * slope, rates of change
+
+        * projections of points onto lines
 
         * the parallelogram law of vector addition
 

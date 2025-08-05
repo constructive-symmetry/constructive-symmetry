@@ -16,7 +16,7 @@ I don't have video available yet to go along with the audio, and the historical 
 
 The script feels workable and nearly complete. There are extensive footnotes.
 
-**A???** is an introduction to rational arithmetic, rational approximation, continued fractions, the Stern-Brocot tree as 2⨯2 matrices, deeper looks into convergents and semi-convergents, [Ford Circles](https://www.youtube.com/watch?v=0hlvhQZIOQw), [an intuitive and informal Dirichlet's Approximation Theorem](https://www.youtube.com/watch?v=uFWJuZQLKJs), [the Sail of a real number m](https://link.springer.com/book/10.1007/978-3-662-65277-0), and more.
+**A???** is an introduction to rational arithmetic, rational approximation, continued fractions, the Stern-Brocot tree as 2⨯2 matrices, deeper looks into convergents and semi-convergents, [Euclid's Orchard](https://www.youtube.com/watch?v=p-xa-3V5KO8), [Ford Circles](https://www.youtube.com/watch?v=0hlvhQZIOQw), [an intuitive and informal Dirichlet's Approximation Theorem](https://www.youtube.com/watch?v=uFWJuZQLKJs), [the Sail of a real number m](https://link.springer.com/book/10.1007/978-3-662-65277-0), and more.
 
 **B???** an introduction to boolean logic, recursion, computer programming, deductive reasoning, and naive set theory. Longer term goals include proof by induction, transitive closures, backtracking, binary search, preorder, inorder, and postorder traversals, depth-first searches, breadth-first searches, and iterative deepening.
 
